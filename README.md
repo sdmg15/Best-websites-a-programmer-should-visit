@@ -104,3 +104,26 @@ When learning CS there are some useful sites you must know to get always informe
   * Determining the big-O runtimes of these different loops? (http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) - really good stackoverflow question that covers basics of calculating runtime complexity.
   * ChiperSoft/InterviewThis (https://github.com/ChiperSoft/InterviewThis) - questions to ask during on a interview to know more about the company.
 
+# For improving your English 
+  * Quia - English (https://www.quia.com/shared/english/)
+  * Punctuation and Capitalization Rules (http://www.grammarbook.com/english_rules.asp)
+  * Guide to Grammar and Writing (http://grammar.ccc.commnet.edu/grammar/)
+  * Purdue University Online Writing Lab (OWL) (https://owl.english.purdue.edu/)
+  * Englishclub.com/learn-english (https://www.englishclub.com/learn-english.htm)
+
+# When you get bored from CS related stuff 
+  * r/ProgrammerHumor (https://www.reddit.com/r/ProgrammerHumor/)
+  * Guide to Grammar and Writing (http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
+  * Vsauce (https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+  * TED (https://www.youtube.com/user/TEDtalksDirector/videos)
+  * CrashCourse (https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
+  * National Geographic (https://www.youtube.com/user/NationalGeographic/videos)
+  * Barcroft TV (https://www.youtube.com/channel/UCfwx98Wty7LhdlkxL5PZyLA)
+  * ColdFusion (https://www.youtube.com/user/coldfustion/videos)
+  * SmarterEveryDay (https://www.youtube.com/user/destinws2/videos)
+  * SciShow (https://www.youtube.com/user/scishow/videos)
+  * Big Think (https://www.youtube.com/user/bigthink/videos)
+  * Every Frame a Painting (https://www.youtube.com/user/everyframeapainting/videos)
+  * TestTube News (https://www.youtube.com/user/TestTubeNetwork/videos)
+  * Reddit the front page of the internet (http://reddit.com/)
+
