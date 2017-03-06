@@ -132,6 +132,26 @@ When learning CS there are some useful sites you must know to get always informe
   * how-to-break-into-tech-job-hunting-and-interviews/ (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * 40 Key Computer Science Concepts Explained In Layman’s Terms (http://carlcheo.com/compsci)
   * What every programmer should know about memory, Part (https://lwn.net/Articles/250967/)
+  
+# Watch others code
+  * LiveCoding.tv  (https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
+
+# What should a programmer know 
+  * Programmer Competency Matrix  (http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
+
+# Open source coding 
+  * GitHub.com Build software better, together  (http://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
+
+# Competitive programming
+  * HackerRank (http://hackerrank.com/)
+  * Codeforces (http://codeforces.com/)
+  * topcoder (http://topcoder.com/)
+  * HackerEarth - Programming challenges and Developer jobs (http://hackerearth.com/)
+  * CodeChef (http://codechef.com/)
+  * PKU ACM ICPC Practive problems (http://poj.org/problemlist)
+  * Archived Problems - Project Euler (https://projecteuler.net/archives)
+  * Google Code Jam Practice and Learn (https://code.google.com/codejam/contests.html) : past contest problems for practice
+  * Sphere Online Judge (SPOJ) (http://www.spoj.com/)
 
 # Blogs of Developers
   * Coding Horror (http://blog.codinghorror.com/) : one the best coding blog
