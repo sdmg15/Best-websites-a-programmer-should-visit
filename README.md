@@ -110,6 +110,22 @@ When learning CS there are some useful sites you must know to get always informe
   * Determining the big-O runtimes of these different loops? (http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) - really good stackoverflow question that covers basics of calculating runtime complexity.
   * ChiperSoft/InterviewThis (https://github.com/ChiperSoft/InterviewThis) - questions to ask during on a interview to know more about the company.
 
+# Documentaries
+  * Machine that Changed the World - a very good documentary about history of computers
+  * Part 1: Giant Brains (http://www.youtube.com/watch?v=rcR74y61xZk)
+  * Part 2: Inventing the Future (http://www.youtube.com/watch?v=1APZ5-cjWfw)
+  * Part 3: The Paperback Computer (http://www.youtube.com/watch?v=zwC3gOudlAc)
+  * Part 4: The Thinking Machine (http://www.youtube.com/watch?v=4gzpd0irP58)
+  * Part 5: The World at Your Fingertips (http://www.youtube.com/watch?v=J_3A2jSnvHE)
+  * Triumph of the Nerds (https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) Playlist
+  * Project Code Rush - The Beginnings of Netscape / Mozilla Documentary (https://www.youtube.com/watch?v=a-49a_CjH0M)
+  * The Code: Story of Linux documentary (https://www.youtube.com/watch?v=XMm0HsmOTFI)
+  * Revolution OS Linux Documentary (https://www.youtube.com/watch?v=fxjElWL8igo)
+  * Breaking the Code: Biography of Alan Turing (https://www.youtube.com/watch?v=S23yie-779k)
+  * Mechanical Computer (All Parts) (https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
+  * Download: The True Story of the Internet  (https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ)Playlist of discovery channel documentary on browser wars , dot com bubble and more.
+
+
 # For improving your English 
   * Quia - English (https://www.quia.com/shared/english/)
   * Punctuation and Capitalization Rules (http://www.grammarbook.com/english_rules.asp)
