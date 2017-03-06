@@ -125,6 +125,45 @@ When learning CS there are some useful sites you must know to get always informe
   * Mechanical Computer (All Parts) (https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * Download: The True Story of the Internet  (https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ)Playlist of discovery channel documentary on browser wars , dot com bubble and more.
 
+# Good Articles
+  * Expectations of a Junior Developer (http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
+  * The Key To Accelerating Your Coding Skills (http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+  * A Software Developer’s Reading List (https://stevewedig.com/2014/02/03/software-developers-reading-list/) Some good books and links in there.
+  * how-to-break-into-tech-job-hunting-and-interviews/ (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+  * 40 Key Computer Science Concepts Explained In Layman’s Terms (http://carlcheo.com/compsci)
+  * What every programmer should know about memory, Part (https://lwn.net/Articles/250967/)
+
+# Blogs of Developers
+  * Coding Horror (http://blog.codinghorror.com/) : one the best coding blog
+  * Joel on Software (http://joelonsoftware.com/)
+  * Stephen Haunts { Coding in the Trenches } (https://stephenhaunts.com/)
+  * Programming in the 21st Century (http://prog21.dadgum.com/)
+  * Clean Coder Blog  (http://blog.cleancoder.com/): blog of auther of book "Clean Code"
+  * Programming Blog : (http://www.yegor256.com/) programming blog of Yegor Bugayenko
+  * 10K-LOC (https://10kloc.wordpress.com/)
+  * http://stevehanov.ca/blog/ (http://stevehanov.ca/blog/)
+  * Geek Land (https://avidullu.wordpress.com/)
+  * Late Developer (https://latedev.wordpress.com/)
+  * IT Enthusiast (http://rodiongork.tumblr.com/)
+  * blog.might.net (http://matt.might.net/articles/)
+  * CSE Blog - quant, math, computer science puzzles (http://www.cseblog.com/)
+  * My Tech Interviews (http://www.mytechinterviews.com/)
+  * HackerEarth Blog (http://blog.hackerearth.com/)
+  * Algo-Geeks (http://algo-geeks.blogspot.in/)
+  * CoderGears Blog Insights from (http://www.codergears.com/Blog/) the CoderGears Team
+  * blog.might.net (http://matt.might.net/articles/)
+  * Runhe Tian Coding Practice (https://tianrunhe.wordpress.com/)
+  * Paul Graham Essays (http://www.paulgraham.com/articles.html)
+  * Dan Dreams of Coding (http://dandreamsofcoding.com/)
+  * Antonio081014's Algorithms Codes (http://code.antonio081014.com/)
+  * Math ∩ Programming (http://jeremykun.com/)
+  * Takipi Blog (http://blog.takipi.com/) : mainly focuses on Java and JVM languages
+  * Coding Geek - A blog about IT, programming and Java (http://coding-geek.com/)
+  * Daedtech.com (http://www.daedtech.com/) - Strories about software
+  * Archives — Ask a Manager (http://www.askamanager.org/archives) - HR related stuff
+
+  
+
 
 # For improving your English 
   * Quia - English (https://www.quia.com/shared/english/)
