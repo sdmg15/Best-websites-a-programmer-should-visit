@@ -153,6 +153,39 @@ When learning CS there are some useful sites you must know to get always informe
   * 40 Key Computer Science Concepts Explained In Layman’s Terms (http://carlcheo.com/compsci)
   * What every programmer should know about memory, Part (https://lwn.net/Articles/250967/)
 
+# Tutorials
+  * Tutorialspoint (http://www.tutorialspoint.com/)
+  * W3Schools Online Web Tutorials (http://www.w3schools.com/)
+  * Open Data Structures (http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , java , pseudocode
+  * Data Structures and Algorithms by John Morris (http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
+  * CMSI 281: Data Structures (http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
+  * How to Program in C++  (http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html): Good resource for revising C++ topics and STL
+  * TopCoder Tutorials (https://www.topcoder.com/community/data-science/data-science-tutorials/)
+  * A Hacker's Guide to Git  (http://wildlyinaccurate.com/a-hackers-guide-to-git/): for those wanting to learn git with a solid foundation
+  * Git from the inside out (http://maryrosecook.com/blog/post/git-from-the-inside-out)
+  * Learn UNIX in 10 minutes (http://freeengineer.org/learnUNIXin10minutes.html)
+  * The Bash Guide  (http://guide.bash.academy/): very good guide for learning the Bash Shell
+  * Linux Tutorial (http://ryanstutorials.net/linuxtutorial/) - good resource for learning linux
+  * UNIX Tutorial - Introduction (http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
+  * Linux Tutorial for Beginners (http://www.ee.surrey.ac.uk/Teaching/Unix/)
+  * Learning the shell. (http://linuxcommand.org/learning_the_shell.php)
+  * Dynamic programming - PrismoSkills  (http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)- very good resource if want to learn how to solve DP problems.
+  * Deep C  (http://www.slideshare.net/olvemaudal/deep-c): very good presenation on C language
+  * C programming language Frequently Asked Questions (http://c-faq.com/index.html)
+  * OS Course Notes (https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
+  * SQL (Structured Query Language) in one page : SQL.SU (http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
+  * Introduction to C Programming (http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+  * MySQL Essentials (http://www.techotopia.com/index.php/MySQL_Essentials)
+  * http://www.mysqltutorial.org/ (http://www.mysqltutorial.org/)
+  * Best Of - Gustavo Duarte  (http://duartes.org/gustavo/blog/best-of/): contains articles on various topics
+  * Collecting all the cheat sheets (http://overapi.com/) cheat sheets for lots of programming languages
+  * The Descent to C  (http://www.chiark.greenend.org.uk/~sgtatham/cdescent/)for those moving to C from some higher programming language like java or python.
+  * VimTutor+ (https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
+  * HackerEarth Tutorials (https://learn.hackerearth.com/tutorials/) : Good resource for DS and Algos tutorial
+  * Linux Journey (https://linuxjourney.com/) - good site for learning linux
+  * C Programminng (http://www.cs.cf.ac.uk/Dave/C/CE.html)
+  * CS 2112/ENGRD 2112 Fall 2015 (http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
+
 # Watch others code
   * LiveCoding.tv  (https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
 
@@ -202,9 +235,6 @@ When learning CS there are some useful sites you must know to get always informe
   * Coding Geek - A blog about IT, programming and Java (http://coding-geek.com/)
   * Daedtech.com (http://www.daedtech.com/) - Strories about software
   * Archives — Ask a Manager (http://www.askamanager.org/archives) - HR related stuff
-
-
-
 
 # For improving your English
   * Quia - English (https://www.quia.com/shared/english/)
