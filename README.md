@@ -20,19 +20,19 @@ When learning CS there are some useful sites you must know to get always informe
    * TechCrunch (http://techcrunch.com/) : another good website for tech news
    * GSMArena.com (http://gsmarena.com/) : news related to latest mobile phones and android.
 
-# Coding practice for beginners 
+# Coding practice for beginners
    * Reddit.com/r/dailyprogrammer (http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
    * Programming by Doing  (http://programmingbydoing.com/): very good site for those who want to start with absolute basics
    * CodeAbbey - a place where everyone can master programming  (http://codeabbey.com/): Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
    * Programming Tasks (http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * karan/Projects-Solutions (https://github.com/karan/Projects-Solutions) Sollutions to most of the problems in the link above
    * Small Programming Challenges (https://www.nayuki.io/category/programming)
-   
-# For those who want to start a small project but cant find the ideas 
+
+# For those who want to start a small project but cant find the ideas
    * martyr2s-mega-project-ideas-list/ (http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * karan/Projects (https://github.com/karan/Projects) : a large colection of small projects for beginners with
    * Wrong "big projects" for beginners  (http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners)How to choose where to start
-   
+
 # General Coding advice
    * Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp (https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
    * Lessons From A Lifetime Of Being A Programmer (http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
@@ -43,7 +43,7 @@ When learning CS there are some useful sites you must know to get always informe
    * Dieter Rams : 10 Principles of Good Product Design (https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
    * 10-ways-to-be-a-better-developer (https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
    * Working as a Software Developer (https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
-   
+
 # Coding Style
    * CS 106B Coding Style Guide  (http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml): must see for those who create spaghetti
    * Google C++ Style Guide (https://google.github.io/styleguide/cppguide.html)
@@ -125,6 +125,26 @@ When learning CS there are some useful sites you must know to get always informe
   * Mechanical Computer (All Parts) (https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * Download: The True Story of the Internet  (https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ)Playlist of discovery channel documentary on browser wars , dot com bubble and more.
 
+# YouTube Channels
+  * Computerphile (https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
+  * ComputerHistory (https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
+  * GoogleTechTalks (https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
+  * Placement Grid (https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
+  * Google Developers (https://www.youtube.com/user/GoogleDevelopers/videos) :
+  * Facebook Developers (https://www.youtube.com/user/FacebookDevelopers/videos)
+  * O'Reilly (https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of world's best technical writers.
+  * Java (https://www.youtube.com/user/java/videos) : talks related to java
+  * JavaOne (https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Confrence
+  * CppCon (https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Confrence
+  * Meeting C++ YT Kanalseite (https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
+  * ThinMatrix (https://www.youtube.com/user/ThinMatrix/videos) : blogs and turorials developer making a 3d game in java using opengl
+  * yegor256 (https://www.youtube.com/user/technoparkcorp/videos)
+  * Scott Meyers: Past Talks (http://www.aristeia.com/presentations.html)
+  * thoughtbot  (https://www.youtube.com/user/ThoughtbotVideo/videos): talks on various topics
+  * NOKIA Wroclaw Technology Center (https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive confrence
+  * HowToBecomeTV (https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
+  * ITCuties (https://www.youtube.com/user/itcuties/videos) , CodeBabes (https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamour :P
+
 # Good Articles
   * Expectations of a Junior Developer (http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
   * The Key To Accelerating Your Coding Skills (http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
@@ -132,15 +152,16 @@ When learning CS there are some useful sites you must know to get always informe
   * how-to-break-into-tech-job-hunting-and-interviews/ (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * 40 Key Computer Science Concepts Explained In Layman’s Terms (http://carlcheo.com/compsci)
   * What every programmer should know about memory, Part (https://lwn.net/Articles/250967/)
-  
+
 # Watch others code
   * LiveCoding.tv  (https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
 
-# What should a programmer know 
+# What should a programmer know
   * Programmer Competency Matrix  (http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
 
-# Open source coding 
+# Open source coding
   * GitHub.com Build software better, together  (http://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
+  * Gitlab.com offers free unlimited (private) repositories and unlimited collaborators.
 
 # Competitive programming
   * HackerRank (http://hackerrank.com/)
@@ -182,17 +203,17 @@ When learning CS there are some useful sites you must know to get always informe
   * Daedtech.com (http://www.daedtech.com/) - Strories about software
   * Archives — Ask a Manager (http://www.askamanager.org/archives) - HR related stuff
 
-  
 
 
-# For improving your English 
+
+# For improving your English
   * Quia - English (https://www.quia.com/shared/english/)
   * Punctuation and Capitalization Rules (http://www.grammarbook.com/english_rules.asp)
   * Guide to Grammar and Writing (http://grammar.ccc.commnet.edu/grammar/)
   * Purdue University Online Writing Lab (OWL) (https://owl.english.purdue.edu/)
   * Englishclub.com/learn-english (https://www.englishclub.com/learn-english.htm)
 
-# When you get bored from CS related stuff 
+# When you get bored from CS related stuff
   * r/ProgrammerHumor (https://www.reddit.com/r/ProgrammerHumor/)
   * Guide to Grammar and Writing (http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
   * Vsauce (https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
@@ -207,4 +228,3 @@ When learning CS there are some useful sites you must know to get always informe
   * Every Frame a Painting (https://www.youtube.com/user/everyframeapainting/videos)
   * TestTube News (https://www.youtube.com/user/TestTubeNetwork/videos)
   * Reddit the front page of the internet (http://reddit.com/)
-
