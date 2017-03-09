@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
 </h1>
 
@@ -206,6 +206,32 @@ When learning CS there are some useful sites you must know to get always informe
   * Archived Problems - Project Euler (https://projecteuler.net/archives)
   * Google Code Jam Practice and Learn (https://code.google.com/codejam/contests.html) : past contest problems for practice
   * Sphere Online Judge (SPOJ) (http://www.spoj.com/)
+
+# Computer Books
+  * IT eBooks - Free Download - Big Library  (http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
+  * github.com/vhf/free-programming-books (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
+  * Computer Science Books Online (http://www.sciencebooksonline.info/computer-science.html) - about 150 computer free ebooks
+  * Best books for GATE CSE (http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
+    
+# Video Tutorials
+  * Tushar Roy (https://www.youtube.com/user/tusharroy2525/videos) Algorithm and Data structure tutorial by a Indian Youtuber.
+  * Derek Banas (https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
+  * thenewboston (https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
+  * mycodeschool (https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tuorials
+  * CodeGeek (https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA/videos)
+  * CodingMadeEasy  (https://www.youtube.com/user/CodingMadeEasy/videos): C++ tutorials
+  * XDA-University - Helping You Learn Android Development (http://xda-university.com/)
+  * DevTips (https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+  * Javascript Planet (https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : java script and web development tutorials
+  * codedamn  (https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos): front end web dev tutorials
+  * Design and Analysis of Algorithms (http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+  * Vim Tutorial Videos - Flarfnoogins (http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
+  * CS1: Higher Computing - Richard Buckland UNSW (https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) a very good introductory CS course
+  * Kathryn Hodge (https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) Has good videos for beginners
+
+# Online Compiler and Sharing Code snippets 
+  * Ideone.com (https://ideone.com/)
+  * Pastebin.com (http://pastebin.com/)
 
 # Blogs of Developers
   * Coding Horror (http://blog.codinghorror.com/) : one the best coding blog
