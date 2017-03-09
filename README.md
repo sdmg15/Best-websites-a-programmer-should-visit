@@ -125,6 +125,44 @@ When learning CS there are some useful sites you must know to get always informe
   * Mechanical Computer (All Parts) (https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * Download: The True Story of the Internet  (https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ)Playlist of discovery channel documentary on browser wars , dot com bubble and more.
 
+# MOOCs for learning something new
+  * NPTEL Vidoes COMP_SCI_ENGG (https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
+  * Coursera.org (http://coursera.org/)
+  * edX (http://edx.org/)
+  * Udacity (http://udacity.com/)
+  * UCBerkeley (https://www.youtube.com/user/UCBerkeley/videos)
+  * MIT OCW Electrical Engineering and Computer Science (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+  * CS50 (https://www.youtube.com/user/cs50tv/videos)
+  * prakhar1989/awesome-CS-courses (https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List containing large amount of CS courses
+  * Computer Science Resources (https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) - list of MOOCs for autodidacts
+  * https://github.com/prakhar1989/awesome-courses/blob/master/README.md (https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - collection of CS courses on internet
+    
+# Sites related to your preffered programming language ( For me Java )
+  * Java Revisited (http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
+  * The Java™ Tutorials  (https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
+  * Java Corner at Artima.com (http://www.artima.com/java/index.html)
+  * Java Visualizer (http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
+  * Java Lecture Notes (http://www.cafeaulait.org/course/)
+  * Learning Java (http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning java
+  * Free Online Chapters of Inside the Java Virtual Machine by Bill Venners (http://www.artima.com/insidejvm/ed2/index.html)
+  * Understanding JVM Internals (http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
+  * How Garbage Collection Works (http://www.dynatrace.com/en/javabook/how-garbage-collection-works.html)
+  * Welcome to JavaWorld.com (http://www.javaworld.com/)
+  * The Java Memory Model (http://www.cs.umd.edu/~pugh/java/memoryModel/)
+  * Netbeans Keyboard Shortcuts (https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) Keyboard shortcuts to enhance your productivity when working in Netbeans.
+  * XyzWs Java FAQs (http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
+  * Search Open Source Java API (http://www.docjar.com/) - view source of java library and learn how things are implemented.
+
+# Seminar , research writing , talks ect
+  * Advice on Research and Writing (http://www.cs.cmu.edu/~mleone/how-to.html)
+  * Seminar and reports (https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
+  * PHD MS Articles (http://www.cse.iitd.ac.in/~srsarangi/articles.html)
+  * Practical Tips for Talking at Usergroups and Conferences (https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
+  * Giving presentation on software project to non-programmers (https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
+
+# Everything in one place 
+  * reddit.com/me/m/cs_student_subs (http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
+    
 # YouTube Channels
   * Computerphile (https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
   * ComputerHistory (https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
