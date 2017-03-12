@@ -314,7 +314,7 @@ When learning CS there are some useful sites you must know to get always informe
   * TED (https://www.youtube.com/user/TEDtalksDirector/videos)
   * CrashCourse (https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * National Geographic (https://www.youtube.com/user/NationalGeographic/videos)
-  * Barcroft TV (https://www.youtube.com/channel/UCfwx98Wty7LhdlkxL5PZyLA)
+  * Barcroft TV (https://www.youtube.com/channel/UCfwx98Wty7LhdlkL5PZyLA)
   * ColdFusion (https://www.youtube.com/user/coldfustion/videos)
   * SmarterEveryDay (https://www.youtube.com/user/destinws2/videos)
   * SciShow (https://www.youtube.com/user/scishow/videos)
