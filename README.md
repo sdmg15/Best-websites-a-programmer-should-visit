@@ -190,6 +190,7 @@ When learning CS there are some useful sites you must know to get always informe
   * how-to-break-into-tech-job-hunting-and-interviews/ (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * 40 Key Computer Science Concepts Explained In Layman’s Terms (http://carlcheo.com/compsci)
   * What every programmer should know about memory, Part (https://lwn.net/Articles/250967/)
+  * We are reinventing the retail industry through innovative technology (http://multithreaded.stitchfix.com/).
 
 # Tutorials
   * Tutorialspoint (http://www.tutorialspoint.com/)
