@@ -227,100 +227,100 @@ When learning CS there are some useful sites you must know to get always informe
   * CS 2112/ENGRD 2112 Fall 2015 (http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
 
 # Watch others code
-  * LiveCoding.tv  (https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
+  * [LiveCoding.tv  ](https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
 
 # What should a programmer know
-  * Programmer Competency Matrix  (http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
+  * {Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
 
 # Open source coding
-  * GitHub.com Build software better, together  (http://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
-  * Gitlab.com offers free unlimited (private) repositories and unlimited collaborators.
+  * [GitHub.com Build software better, together  ](https://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
+  * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
 # Competitive programming
-  * HackerRank (http://hackerrank.com/)
-  * Codeforces (http://codeforces.com/)
-  * topcoder (http://topcoder.com/)
-  * HackerEarth - Programming challenges and Developer jobs (http://hackerearth.com/)
-  * CodeChef (http://codechef.com/)
-  * PKU ACM ICPC Practive problems (http://poj.org/problemlist)
-  * Archived Problems - Project Euler (https://projecteuler.net/archives)
-  * Google Code Jam Practice and Learn (https://code.google.com/codejam/contests.html) : past contest problems for practice
-  * Sphere Online Judge (SPOJ) (http://www.spoj.com/)
+  * [HackerRank ](http://hackerrank.com/)
+  * [Codeforces ](http://codeforces.com/)
+  * [topcoder ](http://topcoder.com/)
+  * [HackerEarth - Programming challenges and Developer jobs ](http://hackerearth.com/)
+  * [CodeChef ](http://codechef.com/)
+  * [PKU ACM ICPC Practive problems ](http://poj.org/problemlist)
+  * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
+  * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
+  * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
 
 # Computer Books
-  * IT eBooks - Free Download - Big Library  (http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
-  * github.com/vhf/free-programming-books (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-  * Computer Science Books Online (http://www.sciencebooksonline.info/computer-science.html) - about 150 computer free ebooks
-  * Best books for GATE CSE (http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
+  * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
+  * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
+  * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) - about 150 computer free ebooks
+  * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
     
 # Video Tutorials
-  * Tushar Roy (https://www.youtube.com/user/tusharroy2525/videos) Algorithm and Data structure tutorial by a Indian Youtuber.
-  * Derek Banas (https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
-  * thenewboston (https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
-  * mycodeschool (https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tuorials
-  * CodeGeek (https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA/videos)
-  * CodingMadeEasy  (https://www.youtube.com/user/CodingMadeEasy/videos): C++ tutorials
-  * XDA-University - Helping You Learn Android Development (http://xda-university.com/)
-  * DevTips (https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
-  * Javascript Planet (https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : java script and web development tutorials
-  * codedamn  (https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos): front end web dev tutorials
-  * Design and Analysis of Algorithms (http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-  * Vim Tutorial Videos - Flarfnoogins (http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
-  * CS1: Higher Computing - Richard Buckland UNSW (https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) a very good introductory CS course
-  * Kathryn Hodge (https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) Has good videos for beginners
+  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) Algorithm and Data structure tutorial by a Indian Youtuber.
+  * [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
+  * [thenewboston ](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
+  * [mycodeschool ](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tuorials
+  * [CodeGeek ](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA/videos)
+  * [CodingMadeEasy  ](https://www.youtube.com/user/CodingMadeEasy/videos): C++ tutorials
+  * [XDA-University - Helping You Learn Android Development ](http://xda-university.com/)
+  * [DevTips ](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : java script and web development tutorials
+  * [codedamn  ](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos): front end web dev tutorials
+  * [Design and Analysis of Algorithms ](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+  * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
+  * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) a very good introductory CS course
+  * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) Has good videos for beginners
 
 # Online Compiler and Sharing Code snippets 
-  * Ideone.com (https://ideone.com/)
-  * Pastebin.com (http://pastebin.com/)
+  * [Ideone.com ](https://ideone.com/)
+  * [Pastebin.com ](http://pastebin.com/)
 
 # Blogs of Developers
-  * Coding Horror (http://blog.codinghorror.com/) : one the best coding blog
-  * Joel on Software (http://joelonsoftware.com/)
-  * Stephen Haunts { Coding in the Trenches } (https://stephenhaunts.com/)
-  * Programming in the 21st Century (http://prog21.dadgum.com/)
-  * Clean Coder Blog  (http://blog.cleancoder.com/): blog of auther of book "Clean Code"
-  * Programming Blog : (http://www.yegor256.com/) programming blog of Yegor Bugayenko
-  * 10K-LOC (https://10kloc.wordpress.com/)
-  * http://stevehanov.ca/blog/ (http://stevehanov.ca/blog/)
-  * Geek Land (https://avidullu.wordpress.com/)
-  * Late Developer (https://latedev.wordpress.com/)
-  * IT Enthusiast (http://rodiongork.tumblr.com/)
-  * blog.might.net (http://matt.might.net/articles/)
-  * CSE Blog - quant, math, computer science puzzles (http://www.cseblog.com/)
-  * My Tech Interviews (http://www.mytechinterviews.com/)
-  * HackerEarth Blog (http://blog.hackerearth.com/)
-  * Algo-Geeks (http://algo-geeks.blogspot.in/)
-  * CoderGears Blog Insights from (http://www.codergears.com/Blog/) the CoderGears Team
-  * blog.might.net (http://matt.might.net/articles/)
-  * Runhe Tian Coding Practice (https://tianrunhe.wordpress.com/)
-  * Paul Graham Essays (http://www.paulgraham.com/articles.html)
-  * Dan Dreams of Coding (http://dandreamsofcoding.com/)
-  * Antonio081014's Algorithms Codes (http://code.antonio081014.com/)
-  * Math ∩ Programming (http://jeremykun.com/)
-  * Takipi Blog (http://blog.takipi.com/) : mainly focuses on Java and JVM languages
-  * Coding Geek - A blog about IT, programming and Java (http://coding-geek.com/)
-  * Daedtech.com (http://www.daedtech.com/) - Strories about software
-  * Archives — Ask a Manager (http://www.askamanager.org/archives) - HR related stuff
+  * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
+  * [Joel on Software](http://joelonsoftware.com/)
+  * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
+  * [Programming in the 21st Century](http://prog21.dadgum.com/)
+  * [Clean Coder Blog  ](http://blog.cleancoder.com/): blog of auther of book "Clean Code"
+  * [Programming Blog : ](http://www.yegor256.com/) programming blog of Yegor Bugayenko
+  * [10K-LOC ](https://10kloc.wordpress.com/)
+  * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
+  * [Geek Land ](https://avidullu.wordpress.com/)
+  * [Late Developer ](https://latedev.wordpress.com/)
+  * [IT Enthusiast ](http://rodiongork.tumblr.com/)
+  * [blog.might.net ](http://matt.might.net/articles/)
+  * [CSE Blog - quant, math, computer science puzzles ](http://www.cseblog.com/)
+  * [My Tech Interviews ](http://www.mytechinterviews.com/)
+  * [HackerEarth Blog ](http://blog.hackerearth.com/)
+  * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
+  * [CoderGears Blog Insights from ](http://www.codergears.com/Blog/) the CoderGears Team
+  * [blog.might.net ](http://matt.might.net/articles/)
+  * [Runhe Tian Coding Practice ](https://tianrunhe.wordpress.com/)
+  * [Paul Graham Essays ](http://www.paulgraham.com/articles.html)
+  * [Dan Dreams of Coding ](http://dandreamsofcoding.com/)
+  * [Antonio081014's Algorithms Codes ](http://code.antonio081014.com/)
+  * [Math ∩ Programming](http://jeremykun.com/)
+  * [Takipi Blog ](http://blog.takipi.com/) : mainly focuses on Java and JVM languages
+  * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
+  * [Daedtech.com ](http://www.daedtech.com/) - Strories about software
+  * [Archives — Ask a Manager ](http://www.askamanager.org/archives) - HR related stuff
 
 # For improving your English
-  * Quia - English (https://www.quia.com/shared/english/)
-  * Punctuation and Capitalization Rules (http://www.grammarbook.com/english_rules.asp)
-  * Guide to Grammar and Writing (http://grammar.ccc.commnet.edu/grammar/)
-  * Purdue University Online Writing Lab (OWL) (https://owl.english.purdue.edu/)
-  * Englishclub.com/learn-english (https://www.englishclub.com/learn-english.htm)
+  * [Quia - English ](https://www.quia.com/shared/english/)
+  * [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/)
+  * [Purdue University Online Writing Lab (OWL) ](https://owl.english.purdue.edu/)
+  * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
 # When you get bored from CS related stuff
-  * r/ProgrammerHumor (https://www.reddit.com/r/ProgrammerHumor/)
-  * Guide to Grammar and Writing (http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
-  * Vsauce (https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
-  * TED (https://www.youtube.com/user/TEDtalksDirector/videos)
-  * CrashCourse (https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
-  * National Geographic (https://www.youtube.com/user/NationalGeographic/videos)
-  * Barcroft TV (https://www.youtube.com/channel/UCfwx98Wty7LhdlkL5PZyLA)
-  * ColdFusion (https://www.youtube.com/user/coldfustion/videos)
-  * SmarterEveryDay (https://www.youtube.com/user/destinws2/videos)
-  * SciShow (https://www.youtube.com/user/scishow/videos)
-  * Big Think (https://www.youtube.com/user/bigthink/videos)
-  * Every Frame a Painting (https://www.youtube.com/user/everyframeapainting/videos)
-  * TestTube News (https://www.youtube.com/user/TestTubeNetwork/videos)
-  * Reddit the front page of the internet (http://reddit.com/)
+  * [r/ProgrammerHumor] (https://www.reddit.com/r/ProgrammerHumor/)
+  * [Guide to Grammar and Writing ](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
+  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+  * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
+  * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
+  * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
+  * [Barcroft TV](https://www.youtube.com/channel/UCfwx98Wty7LhdlkL5PZyLA)
+  * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos)
+  * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos)
+  * [SciShow ](https://www.youtube.com/user/scishow/videos)
+  * [Big Think](https://www.youtube.com/user/bigthink/videos)
+  * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
+  * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
+  * [Reddit the front page of the internet](http://reddit.com/)
