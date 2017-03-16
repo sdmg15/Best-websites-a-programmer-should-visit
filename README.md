@@ -77,25 +77,25 @@ When learning CS there are some useful sites you must know to get always informe
   * [Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
   * [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
   * [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
-  * The 25 most difficult HR questions (http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
-  * Job interviews News, Videos, Reviews and Gossip - Lifehacker (http://lifehacker.com/tag/job-interviews)
-  * How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal (http://www.icsjobportal.com/blog/job-interview-questions/)
-  * Job Interview Questions and Best Answers (http://jobsearch.about.com/od/interviewquestionsanswers/a/interviewquest.htm)
-  * How to Answer "Tell Me a Little About Yourself" | The Art of Manliness (http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
-  * Job Interview: How to Ace a Job Interview | The Art of Manliness (http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
-  * Give your résumé a face lift (http://www.lifeclever.com/give-your-resume-a-face-lift/)
-  * BIG O Misconceptions (http://ssp.impulsetrain.com/big-o.html)
-  * Bitwise tricks (https://gist.github.com/dideler/2365607)
-  * Core Java Interview questions - Interview question on each topic (http://javahonk.com/core-java-interview-questions/)
-  * Java Interview Questions and Answers (http://adnjavainterview.blogspot.in)
-  * Big collection of interview preparation links • /r/cscareerquestions (https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
-  * Unsolicited_advice_for_job_seekers_and_employers (https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
-  * five-essential-phone-screen-questions - steveyegge2 (https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-  * CS9: Problem-Solving for the CS Technical Interview (http://web.stanford.edu/class/cs9/)
-  * Mission-peace/interview problems (https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
-  * SQL Joins explained using venn diagram (http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
-  * 10 Frequently asked SQL Query Interview Questions (http://java67.blogspot.in/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
-  * Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL (http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+  * [The 25 most difficult HR questions ](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
+  * [Job interviews News, Videos, Reviews and Gossip - Lifehacker ](http://lifehacker.com/tag/job-interviews)
+  * [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal ](http://www.icsjobportal.com/blog/job-interview-questions/)
+  * [Job Interview Questions and Best Answers ](http://jobsearch.about.com/od/interviewquestionsanswers/a/interviewquest.htm)
+  * [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness ](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
+  * [Job Interview: How to Ace a Job Interview | The Art of Manliness ](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
+  * [Give your résumé a face lift ](http://www.lifeclever.com/give-your-resume-a-face-lift/)
+  * [BIG O Misconceptions ](http://ssp.impulsetrain.com/big-o.html)
+  * [Bitwise tricks ](https://gist.github.com/dideler/2365607)
+  * [Core Java Interview questions - Interview question on each topic ](http://javahonk.com/core-java-interview-questions/)
+  * [Java Interview Questions and Answers ](http://adnjavainterview.blogspot.in)
+  * [Big collection of interview preparation links • /r/cscareerquestions ](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
+  * [Unsolicited_advice_for_job_seekers_and_employers ](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
+  * [five-essential-phone-screen-questions - steveyegge2 ](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+  * [CS9: Problem-Solving for the CS Technical Interview ](http://web.stanford.edu/class/cs9/)
+  * [Mission-peace/interview problems ](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
+  * [SQL Joins explained using venn diagram ](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
+  * [10 Frequently asked SQL Query Interview Questions ](http://java67.blogspot.in/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+  * [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL ](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
   * [Programming Language Concepts: Lecture Notes ](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) OPPs concepts and programming language concepts.
   * [We Help Coders Get Hired](http://www.hiredintech.com/app) - website offering courses on system design, interview strategies, soft skills ect
   * [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
@@ -162,7 +162,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ Giving presentation on software project to non-programmers ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
 
 # Everything in one place 
-  * reddit.com/me/m/cs_student_subs (http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
+  * [reddit.com/me/m/cs_student_subs ](http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
     
 # YouTube Channels
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
