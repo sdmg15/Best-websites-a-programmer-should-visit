@@ -139,59 +139,59 @@ When learning CS there are some useful sites you must know to get always informe
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - collection of CS courses on internet
     
 # Sites related to your preffered programming language ( For me Java )
-  * Java Revisited (http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
-  * The Java™ Tutorials  (https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
-  * Java Corner at Artima.com (http://www.artima.com/java/index.html)
-  * Java Visualizer (http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
-  * Java Lecture Notes (http://www.cafeaulait.org/course/)
-  * Learning Java (http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning java
-  * Free Online Chapters of Inside the Java Virtual Machine by Bill Venners (http://www.artima.com/insidejvm/ed2/index.html)
-  * Understanding JVM Internals (http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
-  * How Garbage Collection Works (http://www.dynatrace.com/en/javabook/how-garbage-collection-works.html)
-  * Welcome to JavaWorld.com (http://www.javaworld.com/)
-  * The Java Memory Model (http://www.cs.umd.edu/~pugh/java/memoryModel/)
-  * Netbeans Keyboard Shortcuts (https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) Keyboard shortcuts to enhance your productivity when working in Netbeans.
-  * XyzWs Java FAQs (http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
-  * Search Open Source Java API (http://www.docjar.com/) - view source of java library and learn how things are implemented.
+  * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
+  * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
+  * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
+  * [Java Visualizer ](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
+  * [Java Lecture Notes ](http://www.cafeaulait.org/course/)
+  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning java
+  * [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners ](http://www.artima.com/insidejvm/ed2/index.html)
+  * [Understanding JVM Internals ](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
+  * [How Garbage Collection Works ](http://www.dynatrace.com/en/javabook/how-garbage-collection-works.html)
+  * [Welcome to JavaWorld.com ](http://www.javaworld.com/)
+  * [The Java Memory Model ](http://www.cs.umd.edu/~pugh/java/memoryModel/)
+  * [Netbeans Keyboard Shortcuts ](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) Keyboard shortcuts to enhance your productivity when working in Netbeans.
+  * [XyzWs Java FAQs ](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
+  * [Search Open Source Java API ](http://www.docjar.com/) - view source of java library and learn how things are implemented.
 
 # Seminar , research writing , talks ect
-  * Advice on Research and Writing (http://www.cs.cmu.edu/~mleone/how-to.html)
-  * Seminar and reports (https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
-  * PHD MS Articles (http://www.cse.iitd.ac.in/~srsarangi/articles.html)
-  * Practical Tips for Talking at Usergroups and Conferences (https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
-  * Giving presentation on software project to non-programmers (https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
+  * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
+  * [Seminar and reports ](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
+  * [PHD MS Articles ](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
+  * [Practical Tips for Talking at Usergroups and Conferences ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
+  * [ Giving presentation on software project to non-programmers ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
 
 # Everything in one place 
   * reddit.com/me/m/cs_student_subs (http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
     
 # YouTube Channels
-  * Computerphile (https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
-  * ComputerHistory (https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
-  * GoogleTechTalks (https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
-  * Placement Grid (https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
-  * Google Developers (https://www.youtube.com/user/GoogleDevelopers/videos) :
-  * Facebook Developers (https://www.youtube.com/user/FacebookDevelopers/videos)
-  * O'Reilly (https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of world's best technical writers.
-  * Java (https://www.youtube.com/user/java/videos) : talks related to java
-  * JavaOne (https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Confrence
-  * CppCon (https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Confrence
-  * Meeting C++ YT Kanalseite (https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
-  * ThinMatrix (https://www.youtube.com/user/ThinMatrix/videos) : blogs and turorials developer making a 3d game in java using opengl
-  * yegor256 (https://www.youtube.com/user/technoparkcorp/videos)
-  * Scott Meyers: Past Talks (http://www.aristeia.com/presentations.html)
-  * thoughtbot  (https://www.youtube.com/user/ThoughtbotVideo/videos): talks on various topics
-  * NOKIA Wroclaw Technology Center (https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive confrence
-  * HowToBecomeTV (https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
-  * ITCuties (https://www.youtube.com/user/itcuties/videos) , CodeBabes (https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamour :P
+  * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
+  * [ComputerHistory ](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
+  * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
+  * [Placement Grid ](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
+  * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos) :
+  * [Facebook Developers ](https://www.youtube.com/user/FacebookDevelopers/videos)
+  * [O'Reilly ](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of world's best technical writers.
+  * [Java ](https://www.youtube.com/user/java/videos) : talks related to java
+  * [JavaOne ](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Confrence
+  * [CppCon ](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Confrence
+  * [Meeting C++ YT Kanalseite ](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
+  * [ThinMatrix ](https://www.youtube.com/user/ThinMatrix/videos) : blogs and turorials developer making a 3d game in java using opengl
+  * [yegor256 ](https://www.youtube.com/user/technoparkcorp/videos)
+  * [Scott Meyers: Past Talks ](http://www.aristeia.com/presentations.html)
+  * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos): talks on various topics
+  * [NOKIA Wroclaw Technology Center ](https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive confrence
+  * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
+  * [ITCuties ](https://www.youtube.com/user/itcuties/videos) , CodeBabes (https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamour :P
 
 # Good Articles
-  * Expectations of a Junior Developer (http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
-  * The Key To Accelerating Your Coding Skills (http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
-  * A Software Developer’s Reading List (https://stevewedig.com/2014/02/03/software-developers-reading-list/) Some good books and links in there.
-  * how-to-break-into-tech-job-hunting-and-interviews/ (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-  * 40 Key Computer Science Concepts Explained In Layman’s Terms (http://carlcheo.com/compsci)
-  * What every programmer should know about memory, Part (https://lwn.net/Articles/250967/)
-  * We are reinventing the retail industry through innovative technology (http://multithreaded.stitchfix.com/).
+  * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
+  * [The Key To Accelerating Your Coding Skills ](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+  * [A Software Developer’s Reading List ](https://stevewedig.com/2014/02/03/software-developers-reading-list/) Some good books and links in there.
+  * [how-to-break-into-tech-job-hunting-and-interviews/ ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+  * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
+  * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
+  * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/).
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
@@ -230,7 +230,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [LiveCoding.tv  ](https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
 
 # What should a programmer know
-  * {Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
+  * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
 
 # Open source coding
   * [GitHub.com Build software better, together  ](https://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
