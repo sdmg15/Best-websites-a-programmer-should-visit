@@ -153,7 +153,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [Netbeans Keyboard Shortcuts ](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) Keyboard shortcuts to enhance your productivity when working in Netbeans.
   * [XyzWs Java FAQs ](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
   * [Search Open Source Java API ](http://www.docjar.com/) - view source of java library and learn how things are implemented.
-
+  * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
+  
 # Seminar , research writing , talks ect
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
   * [Seminar and reports ](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
