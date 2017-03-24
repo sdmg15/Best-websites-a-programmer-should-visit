@@ -28,6 +28,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Sollutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
+   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today 
 
 # For those who want to start a small project but cant find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
