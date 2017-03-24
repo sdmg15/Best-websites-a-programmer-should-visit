@@ -56,7 +56,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
-  * [A site for technical interview questions, brain teasers, puzzles, quizzles](whatever the heck those are) and other things that make you think! (http://www.techinterview.org/)
+  * [A site for technical interview questions, brain teasers, puzzles, quizzles]((http://www.techinterview.org/) whatever the heck those are) and other things that make you think! 
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
   * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com/)
   * [Reddit.com/me/m/puzzles](https://www.reddit.com/me/m/puzzles) : Logic Puzzles
@@ -312,7 +312,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
 # When you get bored from CS related stuff
-  * [r/ProgrammerHumor] (https://www.reddit.com/r/ProgrammerHumor/)
+  * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
   * [Guide to Grammar and Writing ](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
   * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
