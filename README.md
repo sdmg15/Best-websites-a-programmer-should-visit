@@ -159,6 +159,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Search Open Source Java API ](http://www.docjar.com/) - view source of java library and learn how things are implemented.
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
+  * https://plumbr.eu/handbook/what-is-garbage-collection
   
 # Seminar , research writing , talks ect
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
