@@ -31,6 +31,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
    * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today 
    * [http://lod-cloud.net/]
+   * [https://caveofprogramming.com/] : 
 
 # For those who want to start a small project but cant find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -159,7 +160,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [Search Open Source Java API ](http://www.docjar.com/) - view source of java library and learn how things are implemented.
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
-  * https://plumbr.eu/handbook/what-is-garbage-collection
+  * [https://plumbr.eu/handbook/what-is-garbage-collection]
+  * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html] 
   
 # Seminar , research writing , talks ect
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
