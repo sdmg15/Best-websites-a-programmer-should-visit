@@ -30,8 +30,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Sollutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
    * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today 
-   * [http://lod-cloud.net/]
-   * [https://caveofprogramming.com/] : 
+   * [Lod - Cloud](http://lod-cloud.net/): The Linking Open Data cloud diagram
+   * [Cave of programming](https://caveofprogramming.com/): Learn to program, Upgrade your skills.  
 
 # For those who want to start a small project but cant find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -191,7 +191,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos): talks on various topics
   * [NOKIA Wroclaw Technology Center ](https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive confrence
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
-  * [ITCuties ](https://www.youtube.com/user/itcuties/videos) , CodeBabes (https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamour :P
+  * [ITCuties ](https://www.youtube.com/user/itcuties/videos). 
+  * CodeBabes (https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamour :P
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -212,13 +213,13 @@ When learning CS there are some useful sites you must know to get always informe
   * [TopCoder Tutorials ](https://www.topcoder.com/community/data-science/data-science-tutorials/)
   * [A Hacker's Guide to Git ](http://wildlyinaccurate.com/a-hackers-guide-to-git/): for those wanting to learn git with a solid foundation
   * [Git from the inside out ](http://maryrosecook.com/blog/post/git-from-the-inside-out)
-  * [Learn UNIX in 10 minutes (http://freeengineer.org/learnUNIXin10minutes.html)
-  * [The Bash Guide  ](http://guide.bash.academy/): very good guide for learning the Bash Shell
+  * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
+  * [The Bash Guide](http://guide.bash.academy/): very good guide for learning the Bash Shell
   * [Linux Tutorial ](http://ryanstutorials.net/linuxtutorial/) - good resource for learning linux
   * [UNIX Tutorial - Introduction ](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
   * [Linux Tutorial for Beginners ](http://www.ee.surrey.ac.uk/Teaching/Unix/)
   * [Learning the shell. ](http://linuxcommand.org/learning_the_shell.php)
-  * [Dynamic programming - PrismoSkills  ](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)- very good resource if want to learn how to solve DP problems.
+  * [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)- very good resource if want to learn how to solve DP problems.
   * [Deep C  ](http://www.slideshare.net/olvemaudal/deep-c): very good presenation on C language
   * [C programming language Frequently Asked Questions ](http://c-faq.com/index.html)
   * [OS Course Notes ](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
