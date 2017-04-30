@@ -321,7 +321,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # When you get bored from CS related stuff
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing ](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
   * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
@@ -334,3 +334,5 @@ When learning CS there are some useful sites you must know to get always informe
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
   * [Reddit the front page of the internet](http://reddit.com/)
+  
+  ___Maintenained with :heart: by sdmg15___
