@@ -57,6 +57,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
+	 * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+	 * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
@@ -101,8 +103,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [SQL Joins explained using venn diagram ](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
   * [10 Frequently asked SQL Query Interview Questions ](http://java67.blogspot.in/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
   * [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL ](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
-  * [Programming Language Concepts: Lecture Notes ](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) OPPs concepts and programming language concepts.
-  * [We Help Coders Get Hired](http://www.hiredintech.com/app) - website offering courses on system design, interview strategies, soft skills ect
+  * [Programming Language Concepts: Lecture Notes ](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) OOPs concepts and programming language concepts.
+  * [We Help Coders Get Hired](http://www.hiredintech.com/app) - website offering courses on system design, interview strategies, soft skills etc
   * [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
   * [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * [Freshers Interviews](http://placementsindia.blogspot.in/)
@@ -133,7 +135,7 @@ When learning CS there are some useful sites you must know to get always informe
 	* [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
 	* [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 	* [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-	
+
 
 # MOOCs for learning something new
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
@@ -147,7 +149,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) - list of MOOCs for autodidacts
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - collection of CS courses on Internet
 
-# Sites related to your preffered programming language ( For me Java )
+# Sites related to your preferred programming language ( For me Java )
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
   * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
   * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
@@ -164,8 +166,12 @@ When learning CS there are some useful sites you must know to get always informe
   * [Search Open Source Java API ](http://www.docjar.com/) - view source of java library and learn how things are implemented.
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
-  * [https://plumbr.eu/handbook/what-is-garbage-collection]
+  * [https://plumbr.eu/handbook/what-is-garbage-collection]()
   * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]
+	* [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
+	* [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
+	* [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+
 
 # Seminar , research writing , talks ect
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
@@ -205,7 +211,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [how-to-break-into-tech-job-hunting-and-interviews/ ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
   * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
-  * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/).
+  * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
+	* [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+	* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
