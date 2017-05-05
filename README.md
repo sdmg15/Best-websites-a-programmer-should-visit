@@ -173,7 +173,7 @@ When learning CS there are some useful sites you must know to get always informe
 	* [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
 
 
-# Seminar , research writing , talks ect
+# Seminar , research writing , talks etc
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
   * [Seminar and reports ](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
   * [PHD MS Articles ](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
@@ -270,7 +270,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
   * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
-
+	* [Art of Problem Solving](https://artofproblemsolving.com/)
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
