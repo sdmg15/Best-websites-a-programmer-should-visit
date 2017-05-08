@@ -70,6 +70,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Aptitude Questions and Answers](http://www.indiabix.com/) : Quant and aptitude preparation
   * [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
   * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+	* [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
   * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
   * [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [How to interview](http://kelukelu.me/interview/index.html)
@@ -81,8 +82,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
   * [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.in/)
   * [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
-  * [Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
-  * [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+  * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/): Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! •
+
+	* [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
   * [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
   * [The 25 most difficult HR questions ](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
   * [Job interviews News, Videos, Reviews and Gossip - Lifehacker ](http://lifehacker.com/tag/job-interviews)
@@ -135,6 +137,9 @@ When learning CS there are some useful sites you must know to get always informe
 	* [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
 	* [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 	* [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+	* [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
+	* [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
+	* [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
 
 
 # MOOCs for learning something new
@@ -202,7 +207,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [NOKIA Wroclaw Technology Center ](https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive conference
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos).
-  * CodeBabes (https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamor :P
+  * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamor :P
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -248,6 +253,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
 	* [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+
 
 
 # Watch others code
