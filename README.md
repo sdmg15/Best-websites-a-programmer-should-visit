@@ -173,9 +173,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
   * [https://plumbr.eu/handbook/what-is-garbage-collection]()
   * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]
-	* [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
-	* [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
-	* [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+  * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
+  * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
+  * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
 
 
 # Seminar , research writing , talks etc
@@ -217,8 +217,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
   * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
   * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
-	* [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-	* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
+  * [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+   * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
@@ -252,17 +252,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [Linux Journey ](https://linuxjourney.com/) - good site for learning linux
   * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
-	* [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
-	* [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-	* [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
-	* a modern option
-	* [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-	* [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
-	*   a gentle introduction to design patterns
-	* [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-	    * aka the "Gang Of Four" book, or GOF
-	    * the canonical design patterns book
-	* [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+  * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+  * [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+  * [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
+  * a modern option
+  * [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+  * [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+  *   a gentle introduction to design patterns
+  * [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+  * [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 
 # Watch others code
