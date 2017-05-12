@@ -57,8 +57,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
-	 * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-	 * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
@@ -84,7 +84,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
   * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/): Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! •
 
-	* [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+  * [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
   * [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
   * [The 25 most difficult HR questions ](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
   * [Job interviews News, Videos, Reviews and Gossip - Lifehacker ](http://lifehacker.com/tag/job-interviews)
@@ -134,12 +134,12 @@ When learning CS there are some useful sites you must know to get always informe
   * [Mechanical Computer (All Parts) ](https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * [Download: The True Story of the Internet ](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) Play-list of discovery channel documentary on browser wars , dot com bubble and more.
   * [Teach Yourself Computer Science ](https://teachyourselfcs.com/)
-	* [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-	* [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
-	* [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-	* [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-	* [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
-	* [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
+  * [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+  * [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+  * [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+  * [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
+  * [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
+  * [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
 
 
 # MOOCs for learning something new
@@ -283,7 +283,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
   * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
-	* [Art of Problem Solving](https://artofproblemsolving.com/)
+  * [Art of Problem Solving](https://artofproblemsolving.com/)
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
