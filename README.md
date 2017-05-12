@@ -70,7 +70,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Aptitude Questions and Answers](http://www.indiabix.com/) : Quant and aptitude preparation
   * [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
   * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-	* [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
+  * [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
   * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
   * [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [How to interview](http://kelukelu.me/interview/index.html)
@@ -253,14 +253,14 @@ When learning CS there are some useful sites you must know to get always informe
   * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
   * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
-  * [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-  * [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
+  * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+  * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
   * a modern option
-  * [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-  * [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+  *  [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+  *  [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
   *   a gentle introduction to design patterns
-  * [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-  * [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+  *  [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+  *  [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 
 # Watch others code
@@ -284,6 +284,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
+  
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
