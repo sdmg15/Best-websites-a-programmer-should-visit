@@ -309,9 +309,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) Has good videos for beginners
 
 # Learn how to use REGEX (Regular Expresssion) 
- * [https://swtch.com/%7Ersc/regexp/regexp4.html](Regular Expression Matching with a Trigram Index or How Google Code Search Worked)
- * [http://www.rexegg.com/](Rex Eats Regular Expressions for Breakfast) 
- * [http://regexlib.com/(X(1)A(2CWF2KXUX7c9221yJq7Bv0iaffj5UBl227yDw6UG255ueG8Lup6BWQSn7TxJtU0w2Gj2tFhxuYS_OMmTxjw9lHGh78-5T94_oHYMy-XKbR3CwS2l_p5v-i6-6np-vdcK4AxqP-DAxQXWViuZZs2Pn-RyxOMx3wpNIegAnYJO8b0GBv_JmVn5fIFfRvwPMt7L0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1](Regular Expressions Cheat Sheet) 
+ * [Regular Expression Matching with a Trigram Index or How Google Code Search Worked](https://swtch.com/%7Ersc/regexp/regexp4.html )
+ * [Rex Eats Regular Expressions for Breakfast](http://www.rexegg.com/) 
+ * [Regular Expressions Cheat Sheet](http://regexlib.com/(X(1)A(2CWF2KXUX7c9221yJq7Bv0iaffj5UBl227yDw6UG255ueG8Lup6BWQSn7TxJtU0w2Gj2tFhxuYS_OMmTxjw9lHGh78-5T94_oHYMy-XKbR3CwS2l_p5v-i6-6np-vdcK4AxqP-DAxQXWViuZZs2Pn-RyxOMx3wpNIegAnYJO8b0GBv_JmVn5fIFfRvwPMt7L0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1) 
  
 
 # Online Compiler and Sharing Code snippets
