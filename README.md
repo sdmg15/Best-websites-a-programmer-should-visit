@@ -307,6 +307,13 @@ When learning CS there are some useful sites you must know to get always informe
   * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
   * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) a very good introductory CS course
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) Has good videos for beginners
+  * [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) 
+  * [Engineering Truth’s How to teach yourself to code](https://youtu.be/qZKvZzRynLE)
+  * [Coding Tutorials 360°’s Build a personal portfolio — Part 1](https://youtu.be/2klCZXwfvLs)
+  * [/Reg(exp){2}lained/: Demystifying Regular Expressions](https://youtu.be/EkluES9Rvak)
+  
+  * [Semicolons cannot save you!](https://youtu.be/Qlr-FGbhKaI)
+  * [Derek Banas’s JavaScript tutorial](https://youtu.be/fju9ii8YsGs) 
 
 # Learn how to use REGEX (Regular Expresssion) 
  * [Regular Expression Matching with a Trigram Index or How Google Code Search Worked](https://swtch.com/%7Ersc/regexp/regexp4.html )
