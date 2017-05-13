@@ -62,7 +62,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
-  * [A site for technical interview questions, brain teasers, puzzles, quizzles]((http://www.techinterview.org/) whatever the heck those are) and other things that make you think!
+  * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
   * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com/)
   * [Reddit.com/me/m/puzzles](https://www.reddit.com/me/m/puzzles) : Logic Puzzles
@@ -301,7 +301,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [CodingMadeEasy  ](https://www.youtube.com/user/CodingMadeEasy/videos): C++ tutorials
   * [XDA-University - Helping You Learn Android Development ](http://xda-university.com/)
   * [DevTips ](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
-  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : Java script and web development tutorials
+  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : JavaScript and web development tutorials
   * [codedamn  ](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos): front end web dev tutorials
   * [Design and Analysis of Algorithms ](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
   * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
