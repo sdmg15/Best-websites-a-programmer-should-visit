@@ -261,6 +261,7 @@ When learning CS there are some useful sites you must know to get always informe
   *   a gentle introduction to design patterns
   *  [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
   *  [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+  * [A didactic, animated, exposition of algorithms.](www.algomation.com/)
 
 
 # Watch others code
