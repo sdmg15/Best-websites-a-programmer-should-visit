@@ -219,6 +219,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
 	* [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 	* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
+	* [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
+	* [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
