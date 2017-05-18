@@ -225,14 +225,13 @@ When learning CS there are some useful sites you must know to get always informe
   * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 	* [Data Structure Map](https://fkcd.ca/b7d.svg)
 	* [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
-	
+
 # Building a Simple Compiler/interpreter  
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
  * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
- * [Structure and Interpretation
-of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
-* []
+ * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
+*  [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
