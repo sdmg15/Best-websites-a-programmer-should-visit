@@ -57,12 +57,12 @@ When learning CS there are some useful sites you must know to get always informe
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
-   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+	 * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+	 * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
-  * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) whatever the heck those are) and other things that make you think!
+  * [A site for technical interview questions, brain teasers, puzzles, quizzles]((http://www.techinterview.org/) whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
   * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com/)
   * [Reddit.com/me/m/puzzles](https://www.reddit.com/me/m/puzzles) : Logic Puzzles
@@ -70,7 +70,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Aptitude Questions and Answers](http://www.indiabix.com/) : Quant and aptitude preparation
   * [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
   * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-  * [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
+	* [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
   * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
   * [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [How to interview](http://kelukelu.me/interview/index.html)
@@ -84,7 +84,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
   * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/): Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! •
 
-  * [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+	* [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
   * [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
   * [The 25 most difficult HR questions ](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
   * [Job interviews News, Videos, Reviews and Gossip - Lifehacker ](http://lifehacker.com/tag/job-interviews)
@@ -134,12 +134,12 @@ When learning CS there are some useful sites you must know to get always informe
   * [Mechanical Computer (All Parts) ](https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * [Download: The True Story of the Internet ](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) Play-list of discovery channel documentary on browser wars , dot com bubble and more.
   * [Teach Yourself Computer Science ](https://teachyourselfcs.com/)
-  * [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-  * [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
-  * [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-  * [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-  * [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
-  * [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
+	* [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+	* [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+	* [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+	* [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
+	* [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
+	* [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
 
 
 # MOOCs for learning something new
@@ -173,9 +173,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
   * [https://plumbr.eu/handbook/what-is-garbage-collection]()
   * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]
-  * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
-  * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
-  * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+	* [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
+	* [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
+	* [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
 
 
 # Seminar , research writing , talks etc
@@ -217,15 +217,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
   * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
   * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
-<<<<<<< HEAD
 	* [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 	* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 	* [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 	* [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
-=======
-  * [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-   * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
->>>>>>> 2cd2ad916f9f13fe5dd359574f35dd28074f5978
+
+# Building a Simple Compiler/interpreter  
+ * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
+ * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
+ * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
@@ -259,16 +259,17 @@ When learning CS there are some useful sites you must know to get always informe
   * [Linux Journey ](https://linuxjourney.com/) - good site for learning linux
   * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
-  * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
-  * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-  * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
-  * a modern option
-  *  [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-  *  [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
-  *   a gentle introduction to design patterns
-  *  [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-  *  [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
-  * [A didactic, animated, exposition of algorithms.](www.algomation.com/)
+	* [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+	* [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+	* [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
+	* a modern option
+	* [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+	* [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+	*   a gentle introduction to design patterns
+	* [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+	    * aka the "Gang Of Four" book, or GOF
+	    * the canonical design patterns book
+	* [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 
 # Watch others code
@@ -291,8 +292,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
   * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
-  * [Art of Problem Solving](https://artofproblemsolving.com/)
-  
+	* [Art of Problem Solving](https://artofproblemsolving.com/)
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
@@ -309,25 +309,12 @@ When learning CS there are some useful sites you must know to get always informe
   * [CodingMadeEasy  ](https://www.youtube.com/user/CodingMadeEasy/videos): C++ tutorials
   * [XDA-University - Helping You Learn Android Development ](http://xda-university.com/)
   * [DevTips ](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
-  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : JavaScript and web development tutorials
+  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : Java script and web development tutorials
   * [codedamn  ](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos): front end web dev tutorials
   * [Design and Analysis of Algorithms ](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
   * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
   * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) a very good introductory CS course
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) Has good videos for beginners
-  * [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) 
-  * [Engineering Truth’s How to teach yourself to code](https://youtu.be/qZKvZzRynLE)
-  * [Coding Tutorials 360°’s Build a personal portfolio — Part 1](https://youtu.be/2klCZXwfvLs)
-  * [/Reg(exp){2}lained/: Demystifying Regular Expressions](https://youtu.be/EkluES9Rvak)
-  
-  * [Semicolons cannot save you!](https://youtu.be/Qlr-FGbhKaI)
-  * [Derek Banas’s JavaScript tutorial](https://youtu.be/fju9ii8YsGs) 
-
-# Learn how to use REGEX (Regular Expresssion) 
- * [Regular Expression Matching with a Trigram Index or How Google Code Search Worked](https://swtch.com/%7Ersc/regexp/regexp4.html )
- * [Rex Eats Regular Expressions for Breakfast](http://www.rexegg.com/) 
- * [Regular Expressions Cheat Sheet](http://regexlib.com/(X(1)A(2CWF2KXUX7c9221yJq7Bv0iaffj5UBl227yDw6UG255ueG8Lup6BWQSn7TxJtU0w2Gj2tFhxuYS_OMmTxjw9lHGh78-5T94_oHYMy-XKbR3CwS2l_p5v-i6-6np-vdcK4AxqP-DAxQXWViuZZs2Pn-RyxOMx3wpNIegAnYJO8b0GBv_JmVn5fIFfRvwPMt7L0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1) 
- 
 
 # Online Compiler and Sharing Code snippets
   * [Ideone.com ](https://ideone.com/)
