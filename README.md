@@ -221,11 +221,18 @@ When learning CS there are some useful sites you must know to get always informe
 	* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 	* [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 	* [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
-
+	* [What every computer science major should know ](http://matt.might.net/articles/what-cs-majors-should-know/)
+  * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+	* [Data Structure Map](https://fkcd.ca/b7d.svg)
+	* [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
+	
 # Building a Simple Compiler/interpreter  
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
  * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
+ * [Structure and Interpretation
+of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
+* []
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
