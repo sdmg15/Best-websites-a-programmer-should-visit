@@ -283,8 +283,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
-
-# Open source coding
+  
   * [GitHub.com Build software better, together  ](https://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
