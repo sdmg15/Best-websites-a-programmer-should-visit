@@ -70,7 +70,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Aptitude Questions and Answers](http://www.indiabix.com/) : Quant and aptitude preparation
   * [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
   * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-	* [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
+  * [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
   * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
   * [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [How to interview](http://kelukelu.me/interview/index.html)
@@ -84,7 +84,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
   * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/): Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! •
 
-	* [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+  * [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
   * [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
   * [The 25 most difficult HR questions ](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
   * [Job interviews News, Videos, Reviews and Gossip - Lifehacker ](http://lifehacker.com/tag/job-interviews)
@@ -134,12 +134,12 @@ When learning CS there are some useful sites you must know to get always informe
   * [Mechanical Computer (All Parts) ](https://www.youtube.com/watch?v=s1i-dnAH9Y4) a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * [Download: The True Story of the Internet ](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) Play-list of discovery channel documentary on browser wars , dot com bubble and more.
   * [Teach Yourself Computer Science ](https://teachyourselfcs.com/)
-	* [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-	* [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
-	* [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-	* [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-	* [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
-	* [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
+  * [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+  * [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+  * [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+  * [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
+  * [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
+  * [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
 
 
 # MOOCs for learning something new
