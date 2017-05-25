@@ -57,8 +57,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
-	 * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-	 * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
@@ -173,9 +173,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
   * [https://plumbr.eu/handbook/what-is-garbage-collection]()
   * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]
-	* [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
-	* [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
-	* [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+  * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
+  * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
+  * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
 
 
 # Seminar , research writing , talks etc
@@ -217,14 +217,14 @@ When learning CS there are some useful sites you must know to get always informe
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
   * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
   * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
-	* [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-	* [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
-	* [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
-	* [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
-	* [What every computer science major should know ](http://matt.might.net/articles/what-cs-majors-should-know/)
+  * [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+  * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
+  * [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
+  * [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
+  * [What every computer science major should know ](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-	* [Data Structure Map](https://fkcd.ca/b7d.svg)
-	* [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
+  * [Data Structure Map](https://fkcd.ca/b7d.svg)
+  * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 
 # Building a Simple Compiler/interpreter  
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
@@ -297,7 +297,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
   * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
-	* [Art of Problem Solving](https://artofproblemsolving.com/)
+  * [Art of Problem Solving](https://artofproblemsolving.com/)
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
