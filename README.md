@@ -265,17 +265,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [Linux Journey ](https://linuxjourney.com/) - good site for learning linux
   * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) Good notes on data structures and algorithms.
-	* [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
-	* [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-	* [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
-	* a modern option
-	* [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-	* [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
-	*   a gentle introduction to design patterns
-	* [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-	    * aka the "Gang Of Four" book, or GOF
-	    * the canonical design patterns book
-	* [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+  * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+  * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+   * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
+
+   * [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+   *  [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+   *   a gentle introduction to design patterns
+   * [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612* aka the "Gang Of Four" book, or GOF
+   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 
 # Watch others code
