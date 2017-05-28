@@ -154,7 +154,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) - list of MOOCs for autodidacts
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - collection of CS courses on Internet
 
-# Sites related to your preferred programming language ( For me Java )
+# Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
   * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
   * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
@@ -228,6 +228,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
   * [Data Structure Map](https://fkcd.ca/b7d.svg)
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
+  * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 
 # Building a Simple Compiler/interpreter  
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
