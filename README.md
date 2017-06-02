@@ -179,6 +179,7 @@ When learning CS there are some useful sites you must know to get always informe
 # Learn AI 
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
  * [Robots that learn](https://blog.openai.com/robots-that-learn/)
+ * [https://grakn.ai/]
  
 # Seminar , research writing , talks etc
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
@@ -296,7 +297,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [CodeChef ](http://codechef.com/)
   * [PKU ACM ICPC Practive problems ](http://poj.org/problemlist)
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
-  * [Google Code Jam Practice and Learn](https://code.google.com/codejam/contests.html) : past contest problems for practice
+  * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
 # Computer Books
