@@ -59,6 +59,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Stuff you need to Code Better!](http://codebetter.com/)
    * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+  
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
@@ -275,9 +276,10 @@ When learning CS there are some useful sites you must know to get always informe
   * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
   * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
   * [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-  *  [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
-  * [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612* aka the "Gang Of Four" book, or GOF
-   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+  * [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+  * [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612 aka the "Gang Of Four" book, or GOF
+  * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+  * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
 
 # Watch others code
