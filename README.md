@@ -63,7 +63,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
-  * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) whatever the heck those are) and other things that make you think!
+  * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) : whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
   * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com/)
   * [Reddit.com/me/m/puzzles](https://www.reddit.com/me/m/puzzles) : Logic Puzzles
