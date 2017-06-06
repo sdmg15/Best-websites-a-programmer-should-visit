@@ -331,6 +331,7 @@ When learning CS there are some useful sites you must know to get always informe
 # Online Compiler and Sharing Code snippets
   * [Ideone.com ](https://ideone.com/)
   * [Pastebin.com ](http://pastebin.com/)
+  * [Godbolt.org ](https://godbolt.org/): Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
 # Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
