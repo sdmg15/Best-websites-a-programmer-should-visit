@@ -215,7 +215,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos).
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamor :P
-
+  * [Funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos) Mattias Petter Johansson, MPJ for short is a JavaScript developer for Spotify and in his Youtube channel he share his knowledge about programming in a fun and unique way.
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
   * [The Key To Accelerating Your Coding Skills ](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
