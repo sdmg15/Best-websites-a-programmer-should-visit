@@ -381,5 +381,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
   * [Reddit the front page of the internet](http://reddit.com/)
+  * [FindLectures.com](https://www.findlectures.com) - lots of educational lectures / conference talks
 
   ___Maintained with :heart: by sdmg15___
