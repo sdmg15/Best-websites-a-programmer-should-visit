@@ -191,6 +191,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Everything in one place
   * [reddit.com/me/m/cs_student_subs ](http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
+  * [Portland Pattern Repository](http://wiki.c2.com/?WelcomeVisitors) : the original wiki and treasure trove of wisdom
 
 # YouTube Channels
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
