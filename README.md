@@ -77,6 +77,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
   * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
   * [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+  * [Regular expressions Cheat Sheet ](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
   * [How to interview](http://kelukelu.me/interview/index.html)
   * [How to Ace an Algorithms Interview](http://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview/)
   * [Delightful Puzzles ](http://gurmeet.net/puzzles/)
