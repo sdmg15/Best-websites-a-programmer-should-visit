@@ -216,7 +216,7 @@ When learning CS there are some useful sites you must know to get always informe
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
   * [The Key To Accelerating Your Coding Skills ](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
-  * [A Software Developer’s Reading List ](https://stevewedig.com/2014/02/03/software-developers-reading-list/) Some good books and links in there.
+  * [A Software Developer’s Reading List ](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
   * [how-to-break-into-tech-job-hunting-and-interviews/ ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
   * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
@@ -246,17 +246,17 @@ When learning CS there are some useful sites you must know to get always informe
   * [Open Data Structures ](http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
   * [Data Structures and Algorithms by John Morris ](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
   * [CMSI 281: Data Structures ](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
-  * [How to Program in C++  ](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html): Good resource for revising C++ topics and STL
+  * [How to Program in C++  ](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
   * [TopCoder Tutorials ](https://www.topcoder.com/community/data-science/data-science-tutorials/)
   * [A Hacker's Guide to Git ](http://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
   * [Git from the inside out ](http://maryrosecook.com/blog/post/git-from-the-inside-out)
   * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
-  * [The Bash Guide](http://guide.bash.academy/): very good guide for learning the Bash Shell
-  * [Linux Tutorial ](http://ryanstutorials.net/linuxtutorial/) - good resource for learning Linux
+  * [The Bash Guide](http://guide.bash.academy/) : very good guide for learning the Bash Shell
+  * [Linux Tutorial ](http://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
   * [UNIX Tutorial - Introduction ](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
   * [Linux Tutorial for Beginners ](http://www.ee.surrey.ac.uk/Teaching/Unix/)
   * [Learning the shell. ](http://linuxcommand.org/learning_the_shell.php)
-  * [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)- very good resource if want to learn how to solve DP problems.
+  * [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
   * [Deep C  ](http://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
   * [C programming language Frequently Asked Questions ](http://c-faq.com/index.html)
   * [OS Course Notes ](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
@@ -277,7 +277,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
   * [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
   * [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
-  * [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612 aka the "Gang Of Four" book, or GOF
+  * [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
@@ -335,7 +335,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
   * [Programming in the 21st Century](http://prog21.dadgum.com/)
   * [Clean Coder Blog  ](http://blog.cleancoder.com/) : blog of author of book "Clean Code"
-  * [Programming Blog : ](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
+  * [Programming Blog  ](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
   * [10K-LOC ](https://10kloc.wordpress.com/)
   * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
   * [Geek Land ](https://avidullu.wordpress.com/)
