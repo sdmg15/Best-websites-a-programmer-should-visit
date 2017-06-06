@@ -63,7 +63,6 @@ When learning CS there are some useful sites you must know to get always informe
    * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
-
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
   * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) whatever the heck those are) and other things that make you think!
@@ -143,7 +142,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
   * [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
   * [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-
 
 # MOOCs for learning something new
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
@@ -284,7 +282,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
-
 # Watch others code
   * [LiveCoding.tv  ](https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
 
@@ -305,6 +302,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
+
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/): website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
@@ -350,7 +348,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [HackerEarth Blog ](http://blog.hackerearth.com/)
   * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
   * [CoderGears Blog Insights from ](http://www.codergears.com/Blog/) the CoderGears Team
-  * [blog.might.net ](http://matt.might.net/articles/)
   * [Runhe Tian Coding Practice ](https://tianrunhe.wordpress.com/)
   * [Paul Graham Essays ](http://www.paulgraham.com/articles.html)
   * [Dan Dreams of Coding ](http://dandreamsofcoding.com/)
