@@ -121,11 +121,11 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
-  * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
-  * [Part 2: Inventing the Future](http://www.youtube.com/watch?v=1APZ5-cjWfw)
-  * [Part 3: The Paperback Computer](http://www.youtube.com/watch?v=zwC3gOudlAc)
-  * [Part 4: The Thinking Machine](http://www.youtube.com/watch?v=4gzpd0irP58)
-  * [Part 5: The World at Your Fingertips](http://www.youtube.com/watch?v=J_3A2jSnvHE)
+      * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
+      * [Part 2: Inventing the Future](http://www.youtube.com/watch?v=1APZ5-cjWfw)
+      * [Part 3: The Paperback Computer](http://www.youtube.com/watch?v=zwC3gOudlAc)
+      * [Part 4: The Thinking Machine](http://www.youtube.com/watch?v=4gzpd0irP58)
+      * [Part 5: The World at Your Fingertips](http://www.youtube.com/watch?v=J_3A2jSnvHE)
   * [Triumph of the Nerds ](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) Play-list
   * [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary ](https://www.youtube.com/watch?v=a-49a_CjH0M)
   * [The Code: Story of Linux documentary ](https://www.youtube.com/watch?v=XMm0HsmOTFI)
@@ -172,7 +172,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
   * [https://plumbr.eu/handbook/what-is-garbage-collection]()
-  * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]
+  * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]()
   * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
@@ -197,7 +197,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ComputerHistory ](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
   * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
   * [Placement Grid ](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
-  * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos) :
+  * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos)
   * [Facebook Developers ](https://www.youtube.com/user/FacebookDevelopers/videos)
   * [O'Reilly ](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of world's best technical writers.
   * [Java ](https://www.youtube.com/user/java/videos) : talks related to java
