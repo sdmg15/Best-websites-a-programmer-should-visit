@@ -14,7 +14,9 @@ When learning CS there are some useful sites you must know to get always informe
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
 
 # News
-   * [Hacker News](https://news.ycombinator.com/) : subscribe to their mailing list and get the top news directly to your inbox.
+   * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -31,7 +33,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
    * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
-   * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.  
+   * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
 
 # For those who want to start a small project but cant find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -48,6 +50,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
    * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
    * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
+   * [Software design patterns and best practices](http://wiki.c2.com/)
 
 # Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
@@ -59,14 +62,14 @@ When learning CS there are some useful sites you must know to get always informe
    * [Stuff you need to Code Better!](http://codebetter.com/)
    * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-  
+
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
   * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) : whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
   * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com/)
-  * [Reddit.com/me/m/puzzles](https://www.reddit.com/me/m/puzzles) : Logic Puzzles
+  * [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles) : Logic Puzzles
   * [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk/)
   * [Aptitude Questions and Answers](http://www.indiabix.com/) : Quant and aptitude preparation
   * [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
@@ -177,11 +180,11 @@ When learning CS there are some useful sites you must know to get always informe
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
 
-# Learn AI 
+# Learn AI
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
  * [Robots that learn](https://blog.openai.com/robots-that-learn/)
  * [grakn.ai](https://grakn.ai/)
- 
+
 # Seminar , research writing , talks etc
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
   * [Seminar and reports ](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
@@ -190,7 +193,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ Giving presentation on software project to non-programmers ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
 
 # Everything in one place
-  * [reddit.com/me/m/cs_student_subs ](http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
+  * [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
 
 # YouTube Channels
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
@@ -232,7 +235,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
 
-# Building a Simple Compiler/interpreter  
+# Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
  * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
@@ -287,7 +290,6 @@ When learning CS there are some useful sites you must know to get always informe
 
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
-  
   * [GitHub.com Build software better, together  ](https://github.com/) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
