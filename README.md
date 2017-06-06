@@ -14,7 +14,9 @@ When learning CS there are some useful sites you must know to get always informe
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
 
 # News
-   * [Hacker News](https://news.ycombinator.com/) : subscribe to their mailing list and get the top news directly to your inbox.
+   * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly. 
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want.	
    * [Ars Technica](http://arstechnica.com/): posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
