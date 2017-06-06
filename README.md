@@ -212,6 +212,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos).
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) For those who think CS lacks glamor :P
+  * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos  
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
