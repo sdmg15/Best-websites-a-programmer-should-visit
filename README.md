@@ -172,7 +172,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
   * [https://plumbr.eu/handbook/what-is-garbage-collection]()
-  * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]
+  * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]()
   * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
