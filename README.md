@@ -384,4 +384,4 @@ When learning CS there are some useful sites you must know to get always informe
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
   * [Reddit the front page of the internet](http://reddit.com/)
 
-  ___Maintained with :heart: by sdmg15 & al ___
+  ___Maintained with :heart: by sdmg15 & al___
