@@ -121,6 +121,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
   * [Determining the big-O runtimes of these different loops?](http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
   * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
+  * [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
 
 # Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
