@@ -313,7 +313,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [https://cses.fi/book.html](https://cses.fi/book.html)
 
 # Video Tutorials
-  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by a Indian Youtuber.
+  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
   * [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
   * [thenewboston ](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
   * [mycodeschool ](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
@@ -370,8 +370,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # When you get bored from CS related stuff
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills.
-  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills.
+  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best Youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
