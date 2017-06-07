@@ -213,7 +213,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
   * [NOKIA Wroclaw Technology Center ](https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive conference
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
-  * [ITCuties ](https://www.youtube.com/user/itcuties/videos).
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
 
 # Good Articles
@@ -358,7 +357,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Math ∩ Programming](http://jeremykun.com/)
   * [Takipi Blog ](http://blog.takipi.com/) : mainly focuses on Java and JVM languages
   * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
-  * [Daedtech.com ](http://www.daedtech.com/) : Strories about software
+  * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
   * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
 
 # For improving your English
@@ -367,11 +366,10 @@ When learning CS there are some useful sites you must know to get always informe
   * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/)
   * [Purdue University Online Writing Lab (OWL) ](https://owl.english.purdue.edu/)
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
-
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills.
+  
 # When you get bored from CS related stuff
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills.
-  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
@@ -382,6 +380,5 @@ When learning CS there are some useful sites you must know to get always informe
   * [Big Think](https://www.youtube.com/user/bigthink/videos)
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
-  * [Reddit the front page of the internet](http://reddit.com/)
 
   ___Maintained with :heart: by sdmg15 & al___
