@@ -12,4 +12,5 @@ before_script:
   - gem install awesome_bot
   - npm install --global awesome-lint
 script:
+  - awesome-lint
   - awesome_bot README.md
