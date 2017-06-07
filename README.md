@@ -12,6 +12,7 @@ When learning CS there are some useful sites you must know to get always informe
 # When you get stuck
    * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
+   * [Regular Expressions 101](https://regex101.com/): A website to test and build regex strings interactively
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
