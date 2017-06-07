@@ -15,8 +15,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -31,7 +31,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
-   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for non-profits. Build your full stack web development portfolio today
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
 
@@ -56,7 +56,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
    * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
    * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
-   * [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
+   * [Good C programming habits. • /r/Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
@@ -146,7 +146,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 # MOOCs for learning something new
-  * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
+  * [NPTEL Videos COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
   * [Udacity](http://udacity.com/)
@@ -184,6 +184,9 @@ When learning CS there are some useful sites you must know to get always informe
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
  * [Robots that learn](https://blog.openai.com/robots-that-learn/)
  * [grakn.ai](https://grakn.ai/)
+
+# Learn Data Science
+* [Learn Data Science with Python and/or R](https://www.datacamp.com/)
 
 # Seminar , research writing , talks etc
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
@@ -241,7 +244,7 @@ When learning CS there are some useful sites you must know to get always informe
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
  * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
  *  [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
- *  [Growing a compliter](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
+ *  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
@@ -273,7 +276,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [VimTutor+ ](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
   * [HackerEarth Tutorials ](https://learn.hackerearth.com/tutorials/) : Good resource for DS and Algos tutorial
   * [Linux Journey ](https://linuxjourney.com/) : good site for learning linux
-  * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
+  * [C Programming ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
   * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
   * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
@@ -284,9 +287,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
-
 # Watch others code
-  * [LiveCoding.tv  ](https://www.livecoding.tv/) : screencast of people building application , websites , games ect.
+  * [LiveCoding.tv  ](https://www.livecoding.tv/) : screencast of people building application , websites , games etc.
 
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
@@ -304,7 +306,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
-  
+
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
