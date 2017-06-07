@@ -244,6 +244,7 @@ When learning CS there are some useful sites you must know to get always informe
  *  [Growing a compliter](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
+  * [Subtle - Poor Man's CI](https://www.subtle.press/course/poor-mans-ci/)
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
   * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
   * [Open Data Structures ](http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
