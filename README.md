@@ -149,6 +149,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
+  * [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
   * [Udacity](http://udacity.com/)
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
