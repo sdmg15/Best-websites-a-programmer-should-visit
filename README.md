@@ -339,7 +339,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Programming in the 21st Century](http://prog21.dadgum.com/)
   * [Clean Coder Blog  ](http://blog.cleancoder.com/): blog of author of book "Clean Code"
   * [Programming Blog : ](http://www.yegor256.com/) programming blog of Yegor Bugayenko
-  * [10K-LOC ](https://10kloc.wordpress.com/)
+  * [Umer Mansoor](https://codeahoy.com)
   * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
   * [Geek Land ](https://avidullu.wordpress.com/)
   * [Late Developer ](https://latedev.wordpress.com/)
