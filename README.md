@@ -17,7 +17,8 @@ When learning CS there are some useful sites you must know to get always informe
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
       * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
+   * [High Scalability](http://highscalability.com/) : Building Bigger, faster, more reliable websites articles and such
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
