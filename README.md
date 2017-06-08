@@ -30,6 +30,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
    * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
    * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
+   * [Exercism.io](http://exercism.io/) : download and solve practice problems in over 30 different languages, and share your solution with others.
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
