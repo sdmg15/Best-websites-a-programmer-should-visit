@@ -147,7 +147,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
   * [Udacity](http://udacity.com/)
-  * [Kadenze | Programming courses focused on art and creativity](https://www.kadenze.com/courses?subjects%5B%5D=7)
+  * [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7): Programming courses focused on art and creativity
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   * [CS50](https://www.youtube.com/user/cs50tv/videos)
