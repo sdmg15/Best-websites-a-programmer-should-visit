@@ -118,13 +118,13 @@ When learning CS there are some useful sites you must know to get always informe
   * [Freshers Interviews](http://placementsindia.blogspot.in/)
   * [C PUZZLES, Some interesting C problems ](http://www.gowrikumar.com/c/index.php)
   * [A site for technical interview questions, brain teasers, puzzles, quizzles (whatever the heck those are) and other things that make you think! ](http://www.techinterview.org/)
-  * [ wu :: riddles(hard) ](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) - logic puzzles and riddles
-  * [https://github.com/odino/interviews](https://github.com/odino/interviews) - list of important questions for interview
-  * [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) - Java interview questions
-  * [kimberli/interviews](https://github.com/kimberli/interviews) - study sheet for Interview
-  * [Determining the big-O runtimes of these different loops?](http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) - really good stackoverflow question that covers basics of calculating runtime complexity.
-  * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) - questions to ask during on a interview to know more about the company.
-  * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - questions to help prepare for front-end developer interviews.
+  * [ wu :: riddles(hard) ](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
+  * [https://github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
+  * [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
+  * [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
+  * [Determining the big-O runtimes of these different loops?](http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
+  * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
+  * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) : questions to help prepare for front-end developer interviews.
 
 # Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
