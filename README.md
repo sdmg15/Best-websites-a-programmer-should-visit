@@ -65,6 +65,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Stuff you need to Code Better!](http://codebetter.com/)
    * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+   * [PEP8 | Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 
 # Interview Preparation
