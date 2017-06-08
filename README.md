@@ -16,8 +16,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -308,7 +308,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
-  
+
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
@@ -382,6 +382,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
   * [Barcroft TV](https://www.youtube.com/channel/UCfwx98Wty7LhdlkL5PZyLA)
   * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos)
+  * [Recode ](https://goo.gl/JeqE6e) : Code Conference interviews
   * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos)
   * [SciShow ](https://www.youtube.com/user/scishow/videos)
   * [Big Think](https://www.youtube.com/user/bigthink/videos)
