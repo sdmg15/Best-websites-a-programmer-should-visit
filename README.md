@@ -355,7 +355,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [HackerEarth Blog ](http://blog.hackerearth.com/)
   * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
   * [CoderGears Blog Insights from ](http://www.codergears.com/Blog/) : the CoderGears Team
-  * [blog.might.net ](http://matt.might.net/articles/)
   * [Runhe Tian Coding Practice ](https://tianrunhe.wordpress.com/)
   * [Paul Graham Essays ](http://www.paulgraham.com/articles.html)
   * [Dan Dreams of Coding ](http://dandreamsofcoding.com/)
