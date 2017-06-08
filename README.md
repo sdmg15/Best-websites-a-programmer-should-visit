@@ -304,7 +304,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
-  * [Riddles.io AI Games](https://www.riddles.io)
+  * [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
+
   
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
