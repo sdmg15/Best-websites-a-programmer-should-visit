@@ -217,8 +217,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
   * [NOKIA Wroclaw Technology Center ](https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive conference
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
-  * [ITCuties ](https://www.youtube.com/user/itcuties/videos).
-  * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -237,15 +235,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [Data Structure Map](https://fkcd.ca/b7d.svg)
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
-  * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
+  * [A programmer friendly language that compiles to Lua](http://moonscript.org/)
 
 # Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
  * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
  * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
- *  [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
- *  [Growing a compliter](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
+ * [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
+ * [Growing a Compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
@@ -349,7 +347,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Geek Land ](https://avidullu.wordpress.com/)
   * [Late Developer ](https://latedev.wordpress.com/)
   * [IT Enthusiast ](http://rodiongork.tumblr.com/)
-  * [blog.might.net ](http://matt.might.net/articles/)
   * [CSE Blog - quant, math, computer science puzzles ](http://www.cseblog.com/)
   * [My Tech Interviews ](http://www.mytechinterviews.com/)
   * [HackerEarth Blog ](http://blog.hackerearth.com/)
@@ -363,7 +360,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Math ∩ Programming](http://jeremykun.com/)
   * [Takipi Blog ](http://blog.takipi.com/) : mainly focuses on Java and JVM languages
   * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
-  * [Daedtech.com ](http://www.daedtech.com/) : Strories about software
+  * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
   * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
 
 # For improving your English
@@ -372,11 +369,10 @@ When learning CS there are some useful sites you must know to get always informe
   * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/)
   * [Purdue University Online Writing Lab (OWL) ](https://owl.english.purdue.edu/)
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
-
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills.
+  
 # When you get bored from CS related stuff
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills.
-  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best Youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
@@ -387,6 +383,5 @@ When learning CS there are some useful sites you must know to get always informe
   * [Big Think](https://www.youtube.com/user/bigthink/videos)
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
-  * [Reddit the front page of the internet](http://reddit.com/)
 
   ___Maintained with :heart: by sdmg15 & al___
