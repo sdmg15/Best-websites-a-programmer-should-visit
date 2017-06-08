@@ -210,6 +210,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Java ](https://www.youtube.com/user/java/videos) : talks related to java
   * [JavaOne ](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
   * [CppCon ](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+  * [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
   * [Meeting C++ YT Kanalseite ](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
   * [ThinMatrix ](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using opengl
   * [yegor256 ](https://www.youtube.com/user/technoparkcorp/videos)
