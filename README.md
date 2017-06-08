@@ -327,9 +327,9 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Online Compiler and Sharing Code snippets
   * [Ideone.com ](https://ideone.com/)
-  * [Cloud 9 ](https://c9.io/)
+  * [Cloud 9 ](https://c9.io/) : A full development environment, in the cloud, with full Ubuntu access
   * [Pastebin.com ](http://pastebin.com/)
-  * [GitHub Gist ](https://gist.github.com/)
+  * [GitHub Gist ](https://gist.github.com/) : Store snippets of code and other text, linked to your github account
 
 # Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
