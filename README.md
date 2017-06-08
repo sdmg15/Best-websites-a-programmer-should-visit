@@ -156,7 +156,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
-
+ * [Class Central](https://www.class-central.com/) : #1 Search Engine For Free Online Courses & MOOCs
 # Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
   * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
