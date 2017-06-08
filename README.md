@@ -287,7 +287,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
-
+ *  [Open Source Projects](https://www.ctolib.com/)
 
 # Watch others code
   * [LiveCoding.tv  ](https://www.livecoding.tv/) : screencast of people building application , websites , games ect.
