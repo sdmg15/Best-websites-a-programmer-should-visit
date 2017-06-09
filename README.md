@@ -124,11 +124,11 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
-  * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
-  * [Part 2: Inventing the Future](http://www.youtube.com/watch?v=1APZ5-cjWfw)
-  * [Part 3: The Paperback Computer](http://www.youtube.com/watch?v=zwC3gOudlAc)
-  * [Part 4: The Thinking Machine](http://www.youtube.com/watch?v=4gzpd0irP58)
-  * [Part 5: The World at Your Fingertips](http://www.youtube.com/watch?v=J_3A2jSnvHE)
+      * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
+      * [Part 2: Inventing the Future](http://www.youtube.com/watch?v=1APZ5-cjWfw)
+      * [Part 3: The Paperback Computer](http://www.youtube.com/watch?v=zwC3gOudlAc)
+      * [Part 4: The Thinking Machine](http://www.youtube.com/watch?v=4gzpd0irP58)
+      * [Part 5: The World at Your Fingertips](http://www.youtube.com/watch?v=J_3A2jSnvHE)
   * [Triumph of the Nerds ](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
   * [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary ](https://www.youtube.com/watch?v=a-49a_CjH0M)
   * [The Code: Story of Linux documentary ](https://www.youtube.com/watch?v=XMm0HsmOTFI)
