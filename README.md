@@ -231,6 +231,7 @@ When learning CS there are some useful sites you must know to get always informe
 # YouTube Channels
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
   * [ComputerHistory ](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
+  * [Funfunfunction ] (https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos) : topics on JavaScript and some general CS talks.
   * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
   * [Placement Grid ](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
   * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos)
