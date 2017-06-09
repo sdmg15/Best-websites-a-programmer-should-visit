@@ -12,6 +12,7 @@ When learning CS there are some useful sites you must know to get always informe
 # When you get stuck
    * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
+   * [Learn Anything](https://learn-anything.xyz/) : Community curated knowledge graph of best paths for learning anything
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
@@ -23,11 +24,13 @@ When learning CS there are some useful sites you must know to get always informe
    * [TechCrunch](http://techcrunch.com/) : another good website for tech news
    * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
    * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
+   * [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 
 # Coding practice for beginners
    * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
    * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
    * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
+   * [Exercism.io](http://exercism.io/) : download and solve practice problems in over 30 different languages, and share your solution with others.
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
@@ -35,7 +38,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
 
-# For those who want to start a small project but cant find the ideas
+# For those who want to start a small project but can't find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -150,6 +153,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
   * [Udacity](http://udacity.com/)
+  * [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7): Programming courses focused on art and creativity
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   * [CS50](https://www.youtube.com/user/cs50tv/videos)
@@ -174,8 +178,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [Search Open Source Java API ](http://www.docjar.com/) : view source of java library and learn how things are implemented.
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
-  * [https://plumbr.eu/handbook/what-is-garbage-collection]()
-  * [https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html]()
+  * [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
+  * [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html): Get basics of Java
   * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
@@ -304,6 +308,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
+  
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
@@ -312,7 +317,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [https://cses.fi/book.html](https://cses.fi/book.html)
 
 # Video Tutorials
-  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by a Indian Youtuber.
+  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
   * [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
   * [thenewboston ](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
   * [mycodeschool ](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
@@ -330,6 +335,7 @@ When learning CS there are some useful sites you must know to get always informe
 # Online Compiler and Sharing Code snippets
   * [Ideone.com ](https://ideone.com/)
   * [Pastebin.com ](http://pastebin.com/)
+  * [Godbolt.org ](https://godbolt.org/): Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
 # Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
@@ -369,8 +375,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # When you get bored from CS related stuff
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills.
-  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills.
+  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best Youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
@@ -383,4 +389,4 @@ When learning CS there are some useful sites you must know to get always informe
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
   * [Reddit the front page of the internet](http://reddit.com/)
 
-  ___Maintained with :heart: by sdmg15___
+  ___Maintained with :heart: by sdmg15 & al___
