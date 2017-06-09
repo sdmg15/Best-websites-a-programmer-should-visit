@@ -63,7 +63,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Exercism.io](http://exercism.io/) : download and solve practice problems in over 30 different languages, and share your solution with others.
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Solutions to most of the problems in the link above
-   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+   * [freeCodeCamp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
 
