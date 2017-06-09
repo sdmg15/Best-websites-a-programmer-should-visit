@@ -16,8 +16,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+   * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
+   * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -33,8 +33,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
    * [Exercism.io](http://exercism.io/) : download and solve practice problems in over 30 different languages, and share your solution with others.
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-   * [Small Programming Challenges](https://www.nayuki.io/category/programming)
+   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Solutions to most of the problems in the link above
    * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
@@ -316,6 +315,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
+  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals. 
 
 # Video Tutorials
   * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
@@ -352,6 +352,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [IT Enthusiast ](http://rodiongork.tumblr.com/)
   * [blog.might.net ](http://matt.might.net/articles/)
   * [CSE Blog - quant, math, computer science puzzles ](http://www.cseblog.com/)
+  * [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
   * [My Tech Interviews ](http://www.mytechinterviews.com/)
   * [HackerEarth Blog ](http://blog.hackerearth.com/)
   * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
@@ -375,19 +376,20 @@ When learning CS there are some useful sites you must know to get always informe
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
 # When you get bored from CS related stuff
-  * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills.
-  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best Youtube channel
-  * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
+
+  * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
+  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills
+  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+  * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
-  * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
-  * [Barcroft TV](https://www.youtube.com/channel/UCfwx98Wty7LhdlkL5PZyLA)
-  * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos)
-  * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos)
-  * [SciShow ](https://www.youtube.com/user/scishow/videos)
-  * [Big Think](https://www.youtube.com/user/bigthink/videos)
-  * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
-  * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
-  * [Reddit the front page of the internet](http://reddit.com/)
+  * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high quality content from all over the world
+  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world 
+  * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
+  * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
+  * [SciShow ](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
+  * [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
+  * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
+  * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
+  * [Reddit the front page of the internet](http://reddit.com/) : Where free time goes to die
 
   ___Maintained with :heart: by sdmg15 & al___
