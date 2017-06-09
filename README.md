@@ -24,7 +24,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [TechCrunch](http://techcrunch.com/) : another good website for tech news
    * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
    * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
-   * [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendation
+   * [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
    * [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 
 # Coding practice for beginners
