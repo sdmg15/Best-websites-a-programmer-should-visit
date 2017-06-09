@@ -267,6 +267,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
+  * [dev.to](https://dev.to/)
 
 # Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
