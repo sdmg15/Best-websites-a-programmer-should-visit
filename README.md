@@ -142,7 +142,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [SQL Joins explained using venn diagram ](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
   * [10 Frequently asked SQL Query Interview Questions ](http://java67.blogspot.in/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
   * [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL ](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
-  * [Programming Language Concepts: Lecture Notes ](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) OOPs concepts and programming language concepts.
+  * [Programming Language Concepts: Lecture Notes ](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) : OOPs concepts and programming language concepts.
   * [We Help Coders Get Hired](http://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
   * [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
   * [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
@@ -163,7 +163,7 @@ When learning CS there are some useful sites you must know to get always informe
       * [Part 3: The Paperback Computer](http://www.youtube.com/watch?v=zwC3gOudlAc)
       * [Part 4: The Thinking Machine](http://www.youtube.com/watch?v=4gzpd0irP58)
       * [Part 5: The World at Your Fingertips](http://www.youtube.com/watch?v=J_3A2jSnvHE)
-  * [Triumph of the Nerds ](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) Play-list
+  * [Triumph of the Nerds ](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
   * [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary ](https://www.youtube.com/watch?v=a-49a_CjH0M)
   * [The Code: Story of Linux documentary ](https://www.youtube.com/watch?v=XMm0HsmOTFI)
   * [Revolution OS Linux Documentary ](https://www.youtube.com/watch?v=fxjElWL8igo)
@@ -210,7 +210,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
   * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
   * [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
-  * [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html): Get basics of Java
+  * [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
   * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
@@ -248,7 +248,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
   * [NOKIA Wroclaw Technology Center ](https://www.youtube.com/channel/UC_l25lelCgcHtn3TeSyAQQA/videos): Nokia code dive conference
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
-  * [ITCuties ](https://www.youtube.com/user/itcuties/videos).
+  * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
 
 # Good Articles
@@ -315,7 +315,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
   * [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
   * [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
-  * [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
+  * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
@@ -399,7 +399,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Math ∩ Programming](http://jeremykun.com/)
   * [Takipi Blog ](http://blog.takipi.com/) : mainly focuses on Java and JVM languages
   * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
-  * [Daedtech.com ](http://www.daedtech.com/) : Strories about software
+  * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
   * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
 
 # For improving your English
