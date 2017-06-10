@@ -263,7 +263,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Software Developer’s Reading List ](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
   * [how-to-break-into-tech-job-hunting-and-interviews/ ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
-  * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
+  * [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
   * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
   * [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
   * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
