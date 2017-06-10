@@ -407,6 +407,8 @@ When learning CS there are some useful sites you must know to get always informe
 # Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
   * [WildMl](http://http://www.wildml.com/) : A blog for machine learning.
+  * [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : blog on Python and open source
+  * [Eli Bendersky](http://eli.thegreenplace.net/) : everything from Python to LLVM
   * [Joel on Software](http://joelonsoftware.com/)
   * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
   * [Programming in the 21st Century](http://prog21.dadgum.com/)
