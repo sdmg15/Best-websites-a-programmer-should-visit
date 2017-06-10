@@ -82,7 +82,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
    * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
    * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
-   * [Software design patterns and best practices](http://wiki.c2.com/)
+   * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
+   * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detial with examples.
 
 # Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
@@ -212,6 +213,13 @@ When learning CS there are some useful sites you must know to get always informe
   * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+  * [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
+  * [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
+  * [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
+  * [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
+
+
+
 
 # Learn AI
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
