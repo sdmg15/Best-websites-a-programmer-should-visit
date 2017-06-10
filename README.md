@@ -183,6 +183,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
+  * [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
   * [Udacity](http://udacity.com/)
   * [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7): Programming courses focused on art and creativity
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
