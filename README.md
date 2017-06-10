@@ -251,6 +251,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
+  * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -270,6 +271,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
+
+# Podcasts
+ * [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net/)
+ * [MS Dev Show](http://msdevshow.com/)
+ * [The Cynical Developer](http://cynicaldeveloper.com/)
+ * [Herding Code](http://herdingcode.com/)
+ * [Code Newbie](http://www.codenewbie.org/)
+ * [Software Engineering Radio](http://www.se-radio.net/)
+ * [JavaScript Jabber](https://devchat.tv/js-jabber)
 
 # Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
