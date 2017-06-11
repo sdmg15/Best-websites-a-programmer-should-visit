@@ -66,9 +66,6 @@ When learning CS there are some useful sites you must know to get always informe
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
    * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for non-profits. Build your full stack web development portfolio today
-   * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
-   * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
-   * [Codeacademy](https://www.codecademy.com/) : Learn to code interactively, for free.
 
 # For those who want to start a small project but can't find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -367,6 +364,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
+  * [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
+  * [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
 
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
