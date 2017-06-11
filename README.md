@@ -356,6 +356,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [HackerRank ](http://hackerrank.com/)
   * [Codeforces ](http://codeforces.com/)
   * [topcoder ](http://topcoder.com/)
+  * [UVa Online Judge ](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
   * [HackerEarth - Programming challenges and Developer jobs ](http://hackerearth.com/)
   * [CodeChef ](http://codechef.com/)
   * [PKU ACM ICPC Practice problems ](http://poj.org/problemlist)
