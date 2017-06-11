@@ -291,7 +291,7 @@ When learning CS there are some useful sites you must know to get always informe
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
  * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
  *  [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
- *  [Growing a compliter](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
+ *  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
@@ -323,7 +323,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [VimTutor+ ](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
   * [HackerEarth Tutorials ](https://learn.hackerearth.com/tutorials/) : Good resource for DS and Algos tutorial
   * [Linux Journey ](https://linuxjourney.com/) : good site for learning linux
-  * [C Programminng ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
+  * [C Programming ](http://www.cs.cf.ac.uk/Dave/C/CE.html)
   * [CS 2112/ENGRD 2112 Fall 2015 ](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
   * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
   * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
@@ -340,7 +340,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
-  * [GitHub.com Build software better, together  ](https://github.com/) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
+  * [GitHub.com Build software better, together  ](https://github.com/) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively)
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
 # Competitive programming
@@ -349,7 +349,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [topcoder ](http://topcoder.com/)
   * [HackerEarth - Programming challenges and Developer jobs ](http://hackerearth.com/)
   * [CodeChef ](http://codechef.com/)
-  * [PKU ACM ICPC Practive problems ](http://poj.org/problemlist)
+  * [PKU ACM ICPC Practice problems ](http://poj.org/problemlist)
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
