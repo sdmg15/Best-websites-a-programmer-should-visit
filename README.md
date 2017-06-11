@@ -336,7 +336,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 # Watch others code
-  * [LiveCoding.tv  ](https://www.livecoding.tv/) : screencast of people building application , websites , games ect.
+  * [LiveEdu.tv](https://www.liveedu.tv/) : screencast of people building application, websites, games, ect.
 
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
