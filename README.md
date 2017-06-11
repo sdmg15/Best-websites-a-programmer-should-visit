@@ -357,6 +357,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [topcoder ](http://topcoder.com/)
   * [HackerEarth - Programming challenges and Developer jobs ](http://hackerearth.com/)
   * [CodeChef ](http://codechef.com/)
+  * [CodeWars ](https://www.codewars.com/)
   * [PKU ACM ICPC Practive problems ](http://poj.org/problemlist)
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
   * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
@@ -388,8 +389,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 
 # Online Compiler and Sharing Code snippets
-  * [CodePad](https://codepad.remoteinterview.io/) : Code editor to try, test and run 25+ languages
-  * [JSFiddle](https://jsfiddle.net/) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
   * [Ideone.com ](https://ideone.com/)
   * [Pastebin.com ](http://pastebin.com/)
   * [Godbolt.org ](https://godbolt.org/): Excellent tool for exploring the assembly output of different compilers with and without optimization.
