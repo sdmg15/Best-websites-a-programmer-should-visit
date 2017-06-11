@@ -86,7 +86,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
    * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
    * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
-   * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detial with examples.
+   * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 
 # Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
