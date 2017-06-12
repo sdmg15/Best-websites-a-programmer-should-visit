@@ -393,8 +393,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
   * [Programming in the 21st Century](http://prog21.dadgum.com/)
   * [Clean Coder Blog  ](http://blog.cleancoder.com/) : blog of author of book "Clean Code"
-  * [Programming Blog : ](http://www.yegor256.com/) programming blog of Yegor Bugayenko
-  * [Umer Mansoor](https://codeahoy.com)
+  * [Programming Blog](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
+  * [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
   * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
   * [Geek Land ](https://avidullu.wordpress.com/)
   * [Late Developer ](https://latedev.wordpress.com/)
