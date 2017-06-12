@@ -46,8 +46,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-   * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-   * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -63,17 +63,15 @@ When learning CS there are some useful sites you must know to get always informe
    * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
    * [Exercism.io](http://exercism.io/) : download and solve practice problems in over 30 different languages, and share your solution with others.
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Solutions to most of the problems in the link above
-   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-   * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
-   * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
-   * [Codeacademy](https://www.codecademy.com/) : Learn to code interactively, for free.
+   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
+   * [Small Programming Challenges](https://www.nayuki.io/category/programming)
+   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for non-profits. Build your full stack web development portfolio today
 
 # For those who want to start a small project but can't find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-   * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language! 
+   * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
 # General Coding advice
    * [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
@@ -186,7 +184,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 # MOOCs for learning something new
-  * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
+  * [NPTEL Videos COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
   * [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
@@ -233,6 +231,9 @@ When learning CS there are some useful sites you must know to get always informe
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
  * [Robots that learn](https://blog.openai.com/robots-that-learn/)
  * [grakn.ai](https://grakn.ai/)
+
+# Learn Data Science
+* [Learn Data Science with Python and/or R](https://www.datacamp.com/)
 
 # Seminar , research writing , talks etc
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
@@ -344,9 +345,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
-
 # Watch others code
-  * [LiveEdu.tv](https://www.liveedu.tv/) : screencast of people building application, websites, games, ect.
+  * [LiveCoding.tv  ](https://www.livecoding.tv/) : screencast of people building application , websites , games etc.
 
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
@@ -375,7 +375,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
-  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals. 
+  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
 # Video Tutorials
   * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
@@ -445,7 +445,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high quality content from all over the world
-  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world 
+  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
   * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
   * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
   * [SciShow ](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
