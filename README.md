@@ -266,6 +266,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
+  * [Codely tv](https://www.youtube.com/UC9IKtxn9AIGelnYmwYr0Lxw) : Interviews, tips and tricks
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
