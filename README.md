@@ -97,8 +97,6 @@ When learning CS there are some useful sites you must know to get always informe
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
-   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 # General Tools
 
@@ -195,9 +193,11 @@ When learning CS there are some useful sites you must know to get always informe
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   * [CS50](https://www.youtube.com/user/cs50tv/videos)
-  * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
-  * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+  * [Awesome-Courses ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+  * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+
+
 
 # Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
