@@ -186,7 +186,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 # MOOCs for learning something new
-  * [Class Central](https://www.class-central.com)
+  * [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
   * [Coursera.org](http://coursera.org/)
   * [edX](http://edx.org/)
