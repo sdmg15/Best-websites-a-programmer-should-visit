@@ -297,6 +297,7 @@ When learning CS there are some useful sites you must know to get always informe
  * [Software Engineering Radio](http://www.se-radio.net/)
  * [JavaScript Jabber](https://devchat.tv/js-jabber)
  * [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
+ * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
 # Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
