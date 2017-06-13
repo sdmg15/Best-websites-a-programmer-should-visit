@@ -87,6 +87,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
    * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
    * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detial with examples.
+   * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
 
 # Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
@@ -97,8 +98,6 @@ When learning CS there are some useful sites you must know to get always informe
    * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
    * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
    * [Stuff you need to Code Better!](http://codebetter.com/)
-   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 # General Tools
 
@@ -196,9 +195,11 @@ When learning CS there are some useful sites you must know to get always informe
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   * [CS50](https://www.youtube.com/user/cs50tv/videos)
-  * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
-  * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+  * [Awesome-Courses ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+  * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+
+
 
 # Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
@@ -376,10 +377,10 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
-  * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
+  * [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
-  * [https://cses.fi/book.html](https://cses.fi/book.html)
+  * [Competitive Programmer's Handbook](https://cses.fi/book.html)
   * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals. 
 
 # Video Tutorials
