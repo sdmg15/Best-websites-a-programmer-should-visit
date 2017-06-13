@@ -99,7 +99,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Stuff you need to Code Better!](http://codebetter.com/)
    * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-   * [Angular 1 Style Guide (John Papa)](https://github.com/johnpapa/angular-styleguide/tree/master/a1)
+   * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
    
 # General Tools
 
