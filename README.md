@@ -370,7 +370,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
   * [Codewars](https://www.codewars.com/) : Rank up by completing code kata
   
-# Programming challengers
+# Programming challenges
 * [Project Euler ](https://projecteuler.net) : challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
 # Computer Books
