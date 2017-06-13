@@ -266,6 +266,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
+  * [codeshare](https://www.youtube.com/pcHelpFromPaul) : Web devlepment tips and tutorials focusing on .NET, MVC and Umbraco
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -285,6 +286,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
+  * [10 golden rules for becoming a better programmer.](http://www.codeshare.co.uk/blog/10-golden-rules-for-becoming-a-better-programmer/)
 
 # Podcasts
  * [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net/)
@@ -392,6 +394,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
   * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
+  * [How to build a site with Umbraco ](https://www.youtube.com/playlist?list=PL90L_HquhD--OWQNLyO1-KRxVDd0NPBfZ) : A course aimed at beginners, showing them how to build a site with Umbraco CMS.
 
 # Online Compiler and Sharing Code snippets
   * [CodePad](https://codepad.remoteinterview.io/) : Code editor to try, test and run 25+ languages
@@ -430,6 +433,8 @@ When learning CS there are some useful sites you must know to get always informe
   * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
   * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
   * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
+  * [codeshare.co.uk](http://www.codeshare.co.uk/) : Web developer blog mainly focussing on .NET, MVC and Umbraco, but with some front end and node.js
+  
 
 # For improving your English
   * [Quia - English ](https://www.quia.com/shared/english/)
