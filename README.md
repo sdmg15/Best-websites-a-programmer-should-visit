@@ -306,6 +306,7 @@ When learning CS there are some useful sites you must know to get always informe
  *  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
+  * [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci/) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
   * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
   * [Open Data Structures ](http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
