@@ -369,6 +369,9 @@ When learning CS there are some useful sites you must know to get always informe
   * [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
   * [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
   * [Codewars](https://www.codewars.com/) : Rank up by completing code kata
+  
+# Programming challengers
+* [Project Euler ](https://projecteuler.net) : challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
@@ -454,5 +457,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
   * [Reddit the front page of the internet](http://reddit.com/) : Where free time goes to die
+  * [The coding love](http://thecodinglove.com/) : Epic gifs for developers
 
   ___Maintained with :heart: by sdmg15 & al___
