@@ -68,6 +68,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
    * [Codeacademy](https://www.codecademy.com/) : Learn to code interactively, for free.
+   * [Exercism](http://exercism.io/): Download and solve practice programming
+     problems.
 
 # For those who want to start a small project but can't find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
