@@ -113,7 +113,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Aptitude Questions and Answers](http://www.indiabix.com/) : Quant and aptitude preparation
   * [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
   * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-  * [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/))
+  * [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/)
   * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
   * [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [How to interview](http://kelukelu.me/interview/index.html)
