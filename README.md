@@ -103,6 +103,9 @@ When learning CS there are some useful sites you must know to get always informe
    
 # General Tools
 * [Top 10 Text Editors](https://siftery.com/categories/software-development/ides-and-text-editors)
+* [Top 10 Release Management Software](https://siftery.com/categories/software-development/release-management)
+* [Top 10 Cloud IDE Platforms](https://siftery.com/categories/software-development/cloud-ide)
+* [Top 10 Version Control Products](https://siftery.com/categories/software-development/version-control)
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
