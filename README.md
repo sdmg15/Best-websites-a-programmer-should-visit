@@ -102,6 +102,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
    
 # General Tools
+* [Top 10 Text Editors](https://siftery.com/categories/software-development/ides-and-text-editors)
 
 # Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
