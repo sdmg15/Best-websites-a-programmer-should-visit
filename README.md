@@ -269,6 +269,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
   * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
+  * [Codely tv](https://www.youtube.com/UC9IKtxn9AIGelnYmwYr0Lxw) : Interviews, tips and tricks
   * [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
 
 # Good Articles
