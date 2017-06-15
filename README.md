@@ -68,6 +68,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
    * [Codeacademy](https://www.codecademy.com/) : Learn to code interactively, for free.
+  
 
 # For those who want to start a small project but can't find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -186,19 +187,20 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 # MOOCs for learning something new
-  * [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
-  * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
-  * [Coursera.org](http://coursera.org/)
-  * [edX](http://edx.org/)
-  * [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
-  * [Udacity](http://udacity.com/)
-  * [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7): Programming courses focused on art and creativity
-  * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
-  * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-  * [CS50](https://www.youtube.com/user/cs50tv/videos)
-  * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
-  * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
-  * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+ * [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
+ * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
+ * [Coursera.org](http://coursera.org/)
+ * [edX](http://edx.org/)
+ * [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
+ * [Udacity](http://udacity.com/)
+ * [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7): Programming courses focused on art and creativity
+ * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
+ * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+ * [CS50](https://www.youtube.com/user/cs50tv/videos)
+ * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+ * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
+ * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+ *   [DataCamp](https://www.datacamp.com/%20DataCamp): Learn Data Science using R and Python.
 
 # Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
@@ -288,6 +290,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
+  * [ Graph Algorithm](http://codeforces.com/blog/entry/16221%20Graph%20Algorithm): All graph algortihms at one place.
 
 # Podcasts
  * [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net/)
@@ -406,36 +409,38 @@ When learning CS there are some useful sites you must know to get always informe
   * [Godbolt.org ](https://godbolt.org/): Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
 # Blogs of Developers
-  * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
-  * [WildMl](http://http://www.wildml.com/) : A blog for machine learning.
-  * [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : blog on Python and open source
-  * [Eli Bendersky](http://eli.thegreenplace.net/) : everything from Python to LLVM
-  * [Joel on Software](http://joelonsoftware.com/)
-  * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
-  * [Programming in the 21st Century](http://prog21.dadgum.com/)
-  * [Clean Coder Blog  ](http://blog.cleancoder.com/) : blog of author of book "Clean Code"
-  * [Programming Blog](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
-  * [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
-  * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
-  * [Geek Land ](https://avidullu.wordpress.com/)
-  * [Late Developer ](https://latedev.wordpress.com/)
-  * [IT Enthusiast ](http://rodiongork.tumblr.com/)
-  * [blog.might.net ](http://matt.might.net/articles/)
-  * [CSE Blog - quant, math, computer science puzzles ](http://www.cseblog.com/)
-  * [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
-  * [My Tech Interviews ](http://www.mytechinterviews.com/)
-  * [HackerEarth Blog ](http://blog.hackerearth.com/)
-  * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
-  * [CoderGears Blog Insights from ](http://www.codergears.com/Blog/) : the CoderGears Team
-  * [Runhe Tian Coding Practice ](https://tianrunhe.wordpress.com/)
-  * [Paul Graham Essays ](http://www.paulgraham.com/articles.html)
-  * [Dan Dreams of Coding ](http://dandreamsofcoding.com/)
-  * [Antonio081014's Algorithms Codes ](http://code.antonio081014.com/)
-  * [Math ∩ Programming](http://jeremykun.com/)
-  * [Takipi Blog ](http://blog.takipi.com/) : mainly focuses on Java and JVM languages
-  * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
-  * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
-  * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
+ * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
+ * [WildMl](http://http://www.wildml.com/) : A blog for machine learning.
+ * [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : blog on Python and open source
+ * [Eli Bendersky](http://eli.thegreenplace.net/) : everything from Python to LLVM
+ * [Joel on Software](http://joelonsoftware.com/)
+ * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
+ * [Programming in the 21st Century](http://prog21.dadgum.com/)
+ * [Clean Coder Blog  ](http://blog.cleancoder.com/) : blog of author of book "Clean Code"
+ * [Programming Blog](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
+ * [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
+ * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
+ * [Geek Land ](https://avidullu.wordpress.com/)
+ * [Late Developer ](https://latedev.wordpress.com/)
+ * [IT Enthusiast ](http://rodiongork.tumblr.com/)
+ * [blog.might.net ](http://matt.might.net/articles/)
+ * [CSE Blog - quant, math, computer science puzzles ](http://www.cseblog.com/)
+ * [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
+ * [My Tech Interviews ](http://www.mytechinterviews.com/)
+ * [HackerEarth Blog ](http://blog.hackerearth.com/)
+ * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
+ * [CoderGears Blog Insights from ](http://www.codergears.com/Blog/) : the CoderGears Team
+ * [Runhe Tian Coding Practice ](https://tianrunhe.wordpress.com/)
+ * [Paul Graham Essays ](http://www.paulgraham.com/articles.html)
+ * [Dan Dreams of Coding ](http://dandreamsofcoding.com/)
+ * [Antonio081014's Algorithms Codes ](http://code.antonio081014.com/)
+ * [Math ∩ Programming](http://jeremykun.com/)
+ * [Takipi Blog ](http://blog.takipi.com/) : mainly focuses on Java and JVM languages
+ * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
+ * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
+ * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
+ * [Petr Mitrichev Blog](http://petr-mitrichev.blogspot.com%20Petr%20Mitrichev%20Blog): Programming contest related stuff
+  
 
 # For improving your English
   * [Quia - English ](https://www.quia.com/shared/english/)
