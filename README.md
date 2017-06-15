@@ -52,7 +52,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-   * [TechCrunch](http://techcrunch.com/) : another good website for tech news
+   * [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.
    * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
    * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
    * [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
@@ -466,5 +466,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
   * [Reddit the front page of the internet](http://reddit.com/) : Where free time goes to die
+  * [The coding love](http://thecodinglove.com) : Epic gifs for developers
 
   ___Maintained with :heart: by sdmg15 & al___
