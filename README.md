@@ -27,6 +27,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
+<li><a href="#podcasts">Podcasts</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
@@ -46,8 +47,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-   * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-   * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+   * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly
+   * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -73,7 +74,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-   * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language! 
+   * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
 # General Coding advice
    * [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
@@ -264,8 +265,10 @@ When learning CS there are some useful sites you must know to get always informe
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
   * [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
+  * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
   * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
+  * [Codely tv](https://www.youtube.com/UC9IKtxn9AIGelnYmwYr0Lxw) : Interviews, tips and tricks
   * [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
 
 # Good Articles
@@ -296,6 +299,7 @@ When learning CS there are some useful sites you must know to get always informe
  * [Software Engineering Radio](http://www.se-radio.net/)
  * [JavaScript Jabber](https://devchat.tv/js-jabber)
  * [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
+ * [Full Stack Radio](http://www.fullstackradio.com/) : Everything from product design and user experience to unit testing and system administration. 
  * [Software Engineering Daily](https://softwareengineeringdaily.com/) : A daily technical interview about software topics
 
 # Building a Simple Compiler/interpreter
@@ -358,6 +362,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
 # Competitive programming
+  * [WakaTime](https://wakatime.com/) : leaderboards of coding metrics collected via editor plugins
   * [HackerRank ](http://hackerrank.com/)
   * [Codeforces ](http://codeforces.com/)
   * [topcoder ](http://topcoder.com/)
@@ -372,6 +377,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
   * [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
   * [Codewars](https://www.codewars.com/) : Rank up by completing code kata
+  * [Codefights](https://codefights.com/) : Test your coding skills
 
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
@@ -379,7 +385,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
-  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals. 
+  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
 # Video Tutorials
   * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
@@ -405,7 +411,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
-  * [WildMl](http://http://www.wildml.com/) : A blog for machine learning.
+  * [WildMl](http://www.wildml.com/) : A blog for machine learning.
   * [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : blog on Python and open source
   * [Eli Bendersky](http://eli.thegreenplace.net/) : everything from Python to LLVM
   * [Joel on Software](http://joelonsoftware.com/)
@@ -450,7 +456,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high quality content from all over the world
-  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world 
+  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
   * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
   * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
   * [SciShow ](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
