@@ -7,7 +7,11 @@
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
-When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit, this list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+Learning Computer Science (CS) can be difficult. This repo aims to help you learn CS by providing links to sites that are related to various computer science topics.  
+
+This list will be constantly updated. Please contribute by adding more links that you think are useful.
+
+See the Contribution.md file for how to add an item to this list. :wink:
 
 <h3>Index</h3>
 <ul>
