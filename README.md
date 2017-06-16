@@ -40,12 +40,12 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
 </ul>
 
-# When you get stuck
+## When you get stuck
    * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
    * [Learn Anything](https://learn-anything.xyz/) : Community curated knowledge graph of best paths for learning anything
 
-# News
+## News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
    * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly
    * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
@@ -58,7 +58,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
    * [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 
-# Coding practice for beginners
+## Coding practice for beginners
    * [freeCodeCamp](https://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
    * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
    * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
@@ -70,13 +70,13 @@ When learning CS there are some useful sites you must know to get always informe
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
    * [Codeacademy](https://www.codecademy.com/) : Learn to code interactively, for free.
 
-# For those who want to start a small project but can't find the ideas
+## For those who want to start a small project but can't find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
    * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
-# General Coding advice
+## General Coding advice
    * [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
    * [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
    * [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531)
@@ -89,7 +89,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
    * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 
-# Coding Style
+## Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
    * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
    * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
@@ -102,9 +102,9 @@ When learning CS there are some useful sites you must know to get always informe
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
    * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
    
-# General Tools
+## General Tools
 
-# Interview Preparation
+### Interview Preparation
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
   * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) : whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
@@ -164,7 +164,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
   * [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
 
-# Documentaries
+## Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
       * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
       * [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
@@ -186,7 +186,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
 
 
-# MOOCs for learning something new
+## MOOCs for learning something new
   * [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
   * [Coursera.org](http://coursera.org/)
@@ -201,7 +201,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
 
-# Sites related to your preferred programming language (For me Java)
+## Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
   * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
   * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
@@ -231,22 +231,22 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 
-# Learn AI
+## Learn AI
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
  * [Robots that learn](https://blog.openai.com/robots-that-learn/)
  * [grakn.ai](https://grakn.ai/)
 
-# Seminar , research writing , talks etc
+## Seminar , research writing , talks etc
   * [Advice on Research and Writing ](http://www.cs.cmu.edu/~mleone/how-to.html)
   * [Seminar and reports ](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
   * [PHD MS Articles ](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
   * [Practical Tips for Talking at Usergroups and Conferences ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
   * [ Giving presentation on software project to non-programmers ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
 
-# Everything in one place
+## Everything in one place
   * [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
 
-# YouTube Channels
+## YouTube Channels
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
   * [ComputerHistory ](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
   * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
@@ -271,7 +271,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Codely tv](https://www.youtube.com/UC9IKtxn9AIGelnYmwYr0Lxw) : Interviews, tips and tricks
   * [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
 
-# Good Articles
+## Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
   * [The Key To Accelerating Your Coding Skills ](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
   * [A Software Developer’s Reading List ](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
@@ -290,7 +290,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
 
-# Podcasts
+## Podcasts
  * [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net/)
  * [MS Dev Show](http://msdevshow.com/)
  * [The Cynical Developer](http://cynicaldeveloper.com/)
@@ -302,7 +302,7 @@ When learning CS there are some useful sites you must know to get always informe
  * [Full Stack Radio](http://www.fullstackradio.com/) : Everything from product design and user experience to unit testing and system administration. 
  * [Software Engineering Daily](https://softwareengineeringdaily.com/) : A daily technical interview about software topics
 
-# Building a Simple Compiler/interpreter
+## Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
  * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
@@ -310,7 +310,7 @@ When learning CS there are some useful sites you must know to get always informe
  *  [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
  *  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
-# Tutorials
+## Tutorials
   * [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci/) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
   * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
@@ -353,15 +353,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
 
-# Watch others code
+## Watch others code
   * [LiveEdu.tv](https://www.liveedu.tv/) : screencast of people building application, websites, games, ect.
 
-# What should a programmer know
+## What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
   * [GitHub.com Build software better, together  ](https://github.com/) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively)
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
-# Competitive programming
+## Competitive programming
   * [WakaTime](https://wakatime.com/) : leaderboards of coding metrics collected via editor plugins
   * [HackerRank ](http://hackerrank.com/)
   * [Codeforces ](http://codeforces.com/)
@@ -379,7 +379,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Codewars](https://www.codewars.com/) : Rank up by completing code kata
   * [Codefights](https://codefights.com/) : Test your coding skills
 
-# Computer Books
+## Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
@@ -387,7 +387,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [https://cses.fi/book.html](https://cses.fi/book.html)
   * [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
-# Video Tutorials
+## Video Tutorials
   * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
   * [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
   * [thenewboston ](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
@@ -402,14 +402,14 @@ When learning CS there are some useful sites you must know to get always informe
   * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
   * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 
-# Online Compiler and Sharing Code snippets
+## Online Compiler and Sharing Code snippets
   * [CodePad](https://codepad.remoteinterview.io/) : Code editor to try, test and run 25+ languages
   * [JSFiddle](https://jsfiddle.net/) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
   * [Ideone.com ](https://ideone.com/)
   * [Pastebin.com ](http://pastebin.com/)
   * [Godbolt.org ](https://godbolt.org/): Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
-# Blogs of Developers
+## Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
   * [WildMl](http://www.wildml.com/) : A blog for machine learning.
   * [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : blog on Python and open source
@@ -441,14 +441,14 @@ When learning CS there are some useful sites you must know to get always informe
   * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
   * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
 
-# For improving your English
+## For improving your English
   * [Quia - English ](https://www.quia.com/shared/english/)
   * [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
   * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/)
   * [Purdue University Online Writing Lab (OWL) ](https://owl.english.purdue.edu/)
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
-# When you get bored from CS related stuff
+## When you get bored from CS related stuff
 
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
   * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills
