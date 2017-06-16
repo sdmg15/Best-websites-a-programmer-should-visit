@@ -157,7 +157,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [A site for technical interview questions, brain teasers, puzzles, quizzles (whatever the heck those are) and other things that make you think!](http://www.techinterview.org)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
-- [https://github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
+- [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
@@ -199,7 +199,9 @@ When learning CS there are some useful sites you must know to get always informe
 - [CS50](https://www.youtube.com/user/cs50tv/videos)
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
-- [https://github.com/prakhar1989/awesome-courses/blob/master/README.md](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+
+<!--duplicate-->
+<!--- [https://github.com/prakhar1989/awesome-courses/blob/master/README.md](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet-->
 
 ## Sites related to your preferred programming language (For me Java)
 - [Java Revisited](http://javarevisited.blogspot.in) : good for learning about Java Language and interview preparation.
@@ -240,8 +242,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
-- [Practical Tips for Talking at Usergroups and Conferences](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1)
-- [Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1)
+- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1)
 
 ## Everything in one place
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
@@ -276,7 +277,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer)
 - [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant)
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list) : Some good books and links in there.
-- [how-to-break-into-tech-job-hunting-and-interviews/](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
@@ -284,12 +284,17 @@ When learning CS there are some useful sites you must know to get always informe
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding)
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
-- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - [Data Structure Map](https://fkcd.ca/b7d.svg)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
+
+<!--duplicate on Interview Documentaries-->
+<!--- [Teach Yourself Computer Science](https://teachyourselfcs.com)-->
+<!--duplicate on general coding advice-->
+<!--- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know)-->
+<!--duplicate on Interview Preparation-->
+<!--- [how-to-break-into-tech-job-hunting-and-interviews/](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)-->
 
 ## Podcasts
 - [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net)
@@ -385,7 +390,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [Computer Science Books Online](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
 - [Best books for GATE CSE](http://www.gatecse.in/best-books-for-gate)
-- [https://cses.fi/book.html](https://cses.fi/book.html)
+- [cses.fi/book.html](https://cses.fi/book.html)
 - [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
 ## Video Tutorials
@@ -445,14 +450,13 @@ When learning CS there are some useful sites you must know to get always informe
 ## For improving your English
 - [Quia - English](https://www.quia.com/shared/english)
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
-- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar)
+- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar) : for those who want to improve their english language skills
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
 ## When you get bored from CS related stuff
 
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) : Subreddit dedicated to exactly what it sounds like
-- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar) for those who want to improve their english language skills
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
 - [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
@@ -465,5 +469,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
+
+<!--duplicte for improving your english-->
+<!--- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar) for those who want to improve their english language skills-->
 
   **Maintained with :heart: by sdmg15 & al**
