@@ -464,5 +464,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
   * [Reddit the front page of the internet](http://reddit.com/) : Where free time goes to die
+  * [the_coding_love()](http://thecodinglove.com/) : Animated GIFs on software development situations 
 
   ___Maintained with :heart: by sdmg15 & al___
