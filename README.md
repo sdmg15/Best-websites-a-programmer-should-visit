@@ -14,7 +14,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but cant find the ideas</a></li>
+<li><a href="#for-those-who-want-to-start-a-small-project-but-can't-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
 <li><a href="#general-tools">General Tools</a></li>
@@ -44,6 +44,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
    * [Learn Anything](https://learn-anything.xyz/) : Community curated knowledge graph of best paths for learning anything
+   * [Stack Exchange](https://stackexchange.com/) : Stack Exchange is a network of question-and-answer websites on topics in varied    fields
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
@@ -177,7 +178,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Breaking the Code: Biography of Alan Turing ](https://www.youtube.com/watch?v=S23yie-779k)
   * [Mechanical Computer (All Parts) ](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * [Download: The True Story of the Internet ](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars , dot com bubble and more.
-  * [Teach Yourself Computer Science ](https://teachyourselfcs.com/)
   * [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
   * [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
   * [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
@@ -200,6 +200,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
+  * [Udemy Online Courses](https://www.udemy.com/) : Udemy.com is an online learning platform. It is aimed at professional adults who want to add new skills to their resumes, or explore their passions.
 
 # Sites related to your preferred programming language (For me Java)
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
