@@ -385,7 +385,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
-  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
+  * [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
 # Video Tutorials
   * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
