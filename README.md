@@ -177,7 +177,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [Breaking the Code: Biography of Alan Turing ](https://www.youtube.com/watch?v=S23yie-779k)
   * [Mechanical Computer (All Parts) ](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * [Download: The True Story of the Internet ](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars , dot com bubble and more.
-  * [Teach Yourself Computer Science ](https://teachyourselfcs.com/)
   * [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
   * [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
   * [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
