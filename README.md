@@ -30,6 +30,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#podcasts">Podcasts</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
+<li><a href="#tutorials">Tutorials</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
 <li><a href="#competitive-programming">Competitive programming</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
