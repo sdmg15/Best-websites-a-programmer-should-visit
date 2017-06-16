@@ -307,8 +307,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler)
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
--  [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1)
--  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
+- [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1)
+- [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 ## Tutorials
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
