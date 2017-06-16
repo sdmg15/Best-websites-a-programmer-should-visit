@@ -200,8 +200,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
 
-<!--duplicate-->
-<!--- [https://github.com/prakhar1989/awesome-courses/blob/master/README.md](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet-->
 
 ## Sites related to your preferred programming language (For me Java)
 - [Java Revisited](http://javarevisited.blogspot.in) : good for learning about Java Language and interview preparation.
@@ -470,7 +468,5 @@ When learning CS there are some useful sites you must know to get always informe
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 
-<!--duplicte for improving your english-->
-<!--- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar) for those who want to improve their english language skills-->
 
   **Maintained with :heart: by sdmg15 & al**
