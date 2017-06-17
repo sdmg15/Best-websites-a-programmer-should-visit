@@ -455,6 +455,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
+  * [Find Lectures](https://www.findlectures.com) : curated search engine for conference talks.
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high quality content from all over the world
   * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
   * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
