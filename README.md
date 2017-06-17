@@ -448,6 +448,15 @@ When learning CS there are some useful sites you must know to get always informe
   * [Purdue University Online Writing Lab (OWL) ](https://owl.english.purdue.edu/)
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
+# Non-profit / Social Good Open Source Resources, Orgs, and Hackathons to get involved with
+  * [48in48](https://48in48.org/)
+  * [ScriptEd](https://scripted.org/)
+  * [HackNY](http://hackny.org/)
+  * [DevPost](https://devpost.com/hackathons)
+  * [Open Hatch](https://openhatch.org/)
+  * [Code for America](https://www.codeforamerica.org/)
+  * [iMentor](https://imentor.org/)
+  
 # When you get bored from CS related stuff
 
   * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
