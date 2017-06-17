@@ -441,6 +441,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Coding Geek - A blog about IT, programming and Java ](http://coding-geek.com/)
   * [Daedtech.com ](http://www.daedtech.com/) : Stories about software
   * [Archives — Ask a Manager ](http://www.askamanager.org/archives) : HR related stuff
+  * [Peter Norvig](http://norvig.com/)
 
 # For improving your English
   * [Quia - English ](https://www.quia.com/shared/english/)
