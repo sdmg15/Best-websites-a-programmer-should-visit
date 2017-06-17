@@ -77,10 +77,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
 ## General Coding advice
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=463de842ab80)
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
 - [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531)
-- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know)
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 - [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
@@ -122,7 +122,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [visualising data structures and algorithms through animation](https://visualgo.net/en)
 - [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
-- [Guide to Tech Interviews](https://www.kchodorow.com/blog/2013/02/28/guide-to-tech-interviews)
+- [Guide to Tech Interviews](https://www.kchodorow.com/blog/2013/02/28/guide-to-tech-interviews/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.in)
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
@@ -148,7 +148,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
 - [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
-- [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english)
+- [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 - [Programming Language Concepts: Lecture Notes](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) : OOPs concepts and programming language concepts.
 - [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
@@ -188,7 +188,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## MOOCs for learning something new
 - [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
 - [NPTEL Vidoes COMP_SCI_ENGG](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
-- [Coursera.org](https://coursera.org/)
+- [Coursera.org](https://www.coursera.org)
 - [edX](https://www.edx.org)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [Udacity](https://www.udacity.com)
@@ -313,27 +313,27 @@ When learning CS there are some useful sites you must know to get always informe
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-- [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git) : for those wanting to learn git with a solid foundation
+- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git) : for those wanting to learn git with a solid foundation
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [The Bash Guide](http://guide.bash.academy) : very good guide for learning the Bash Shell
 - [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [UNIX Tutorial - Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
-- [Linux Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)
+- [Linux Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [Learning the shell.](http://linuxcommand.org/learning_the_shell.php)
 - [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [C programming language Frequently Asked Questions](http://c-faq.com/index.html)
-- [OS Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems) : Chapter wise course notes according to Galvin's book
-- [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su) : a very good SQL cheat sheet
+- [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
+- [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
-- [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of) : contains articles on various topics
+- [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
-- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent) : for those moving to C from some higher programming language like java or python.
+- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
-- [HackerEarth Tutorials](https://learn.hackerearth.com/tutorials) : Good resource for DS and Algos tutorial
+- [HackerEarth Tutorials](https://learn.hackerearth.com/tutorials/) : Good resource for DS and Algos tutorial
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CS 2112/ENGRD 2112 Fall 2015](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
@@ -351,7 +351,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, ect.
 
 ## What should a programmer know
-- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix) : article for knowing what our level as a programmer is.
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively)
 - [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com).
 
@@ -359,10 +359,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [HackerRank](https://www.hackerrank.com)
 - [Codeforces](http://codeforces.com)
-- [topcoder](http://www.topcoder.com/)
+- [topcoder](https://www.topcoder.com)
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
-- [CodeChef](http://www.codechef.com/)
+- [CodeChef](https://www.codechef.com)
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist)
 - [Archived Problems - Project Euler](https://projecteuler.net/archives)
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
@@ -377,7 +377,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [IT eBooks - Free Download - Big Library](http://it-ebooks.info) : website for downloading ebooks without any advertisement and instant downloads.
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [Computer Science Books Online](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
-- [Best books for GATE CSE](http://www.gatecse.in/best-books-for-gate/)
+- [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
@@ -408,7 +408,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
-- [Joel on Software](http://www.joelonsoftware.com/)
+- [Joel on Software](https://www.joelonsoftware.com)
 - [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com)
 - [Programming in the 21st Century](http://prog21.dadgum.com)
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
@@ -418,7 +418,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Geek Land](https://avidullu.wordpress.com)
 - [Late Developer](https://latedev.wordpress.com)
 - [IT Enthusiast](http://rodiongork.tumblr.com)
-- [blog.might.net](http://matt.might.net/articles)
+- [blog.might.net](http://matt.might.net/articles/)
 - [CSE Blog - quant, math, computer science puzzles](http://www.cseblog.com)
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
 - [My Tech Interviews](http://www.mytechinterviews.com)
