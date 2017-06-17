@@ -155,7 +155,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 - [Freshers Interviews](http://placementsindia.blogspot.in)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
-- [A site for technical interview questions, brain teasers, puzzles, quizzles (whatever the heck those are) and other things that make you think!](https://www.techinterview.org)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
@@ -284,13 +283,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
-
-<!--duplicate on Interview Documentaries-->
-<!--- [Teach Yourself Computer Science](https://teachyourselfcs.com)-->
-<!--duplicate on general coding advice-->
-<!--- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know)-->
-<!--duplicate on Interview Preparation-->
-<!--- [how-to-break-into-tech-job-hunting-and-interviews/](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)-->
 
 ## Podcasts
 - [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net)
@@ -422,7 +414,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
-- [http://stevehanov.ca/blog/](http://stevehanov.ca/blog/)
+- [stevehanov.ca](http://stevehanov.ca/blog/)
 - [Geek Land](https://avidullu.wordpress.com)
 - [Late Developer](https://latedev.wordpress.com)
 - [IT Enthusiast](http://rodiongork.tumblr.com)
