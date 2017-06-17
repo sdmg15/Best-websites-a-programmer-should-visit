@@ -289,6 +289,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Gentle Introduction To Graph Theory ](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
+  * [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
 # Podcasts
  * [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net/)
