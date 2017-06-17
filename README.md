@@ -47,6 +47,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world:
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
+- [devRant](https://www.devrant.io/) : Community where you can rant and release your stress
 
 ## News
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
