@@ -305,7 +305,7 @@ When learning CS there are some useful sites you must know to get always informe
  *  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
-  * [Tutorialspoint ](http://www.tutorialspoint.com/)
+  * [Tutorialspoint ](http://www.tutorialspoint.com/) : Best website for tutorials for most of the programming languages and tutorials can also easily be downloded in pdf 
   * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
   * [Open Data Structures ](http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
   * [Data Structures and Algorithms by John Morris ](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
