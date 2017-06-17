@@ -27,6 +27,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
+<li><a href="#podcasts">Podcasts</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
@@ -46,8 +47,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 # News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-   * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-   * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+   * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly
+   * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want
    * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -73,7 +74,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-   * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language! 
+   * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
 # General Coding advice
    * [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
@@ -86,7 +87,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
    * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
    * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
-   * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detial with examples.
+   * [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 
 # Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
@@ -99,7 +100,8 @@ When learning CS there are some useful sites you must know to get always informe
    * [Stuff you need to Code Better!](http://codebetter.com/)
    * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-
+   * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
+   
 # General Tools
 
 # Interview Preparation
@@ -165,14 +167,13 @@ When learning CS there are some useful sites you must know to get always informe
 # Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
       * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
-      * [Part 2: Inventing the Future](http://www.youtube.com/watch?v=1APZ5-cjWfw)
-      * [Part 3: The Paperback Computer](http://www.youtube.com/watch?v=zwC3gOudlAc)
-      * [Part 4: The Thinking Machine](http://www.youtube.com/watch?v=4gzpd0irP58)
-      * [Part 5: The World at Your Fingertips](http://www.youtube.com/watch?v=J_3A2jSnvHE)
+      * [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
+      * [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
+      * [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
+      * [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
   * [Triumph of the Nerds ](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
   * [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary ](https://www.youtube.com/watch?v=a-49a_CjH0M)
   * [The Code: Story of Linux documentary ](https://www.youtube.com/watch?v=XMm0HsmOTFI)
-  * [Revolution OS Linux Documentary ](https://www.youtube.com/watch?v=fxjElWL8igo)
   * [Breaking the Code: Biography of Alan Turing ](https://www.youtube.com/watch?v=S23yie-779k)
   * [Mechanical Computer (All Parts) ](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
   * [Download: The True Story of the Internet ](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars , dot com bubble and more.
@@ -256,6 +257,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Java ](https://www.youtube.com/user/java/videos) : talks related to java
   * [JavaOne ](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
   * [CppCon ](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+  * [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
   * [Meeting C++ YT Kanalseite ](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
   * [ThinMatrix ](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using opengl
   * [yegor256 ](https://www.youtube.com/user/technoparkcorp/videos)
@@ -263,9 +265,11 @@ When learning CS there are some useful sites you must know to get always informe
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
   * [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
-  * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
-  * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : For those who think CS lacks glamor :P
+  * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
+  * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : Tutorials, how to's, tips and tricks
+  * [Codely tv](https://www.youtube.com/UC9IKtxn9AIGelnYmwYr0Lxw) : Interviews, tips and tricks
+  * [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
 
 # Good Articles
   * [Expectations of a Junior Developer ](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -273,7 +277,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A Software Developer’s Reading List ](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
   * [how-to-break-into-tech-job-hunting-and-interviews/ ](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * [40 Keys Computer Science Concepts Explained In Layman’s Terms ](http://carlcheo.com/compsci)
-  * [What every programmer should know about memory, Part ](https://lwn.net/Articles/250967/)
+  * [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
   * [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com/)
   * [Unicode ](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
   * [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
@@ -295,6 +299,8 @@ When learning CS there are some useful sites you must know to get always informe
  * [Software Engineering Radio](http://www.se-radio.net/)
  * [JavaScript Jabber](https://devchat.tv/js-jabber)
  * [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
+ * [Full Stack Radio](http://www.fullstackradio.com/) : Everything from product design and user experience to unit testing and system administration. 
+ * [Software Engineering Daily](https://softwareengineeringdaily.com/) : A daily technical interview about software topics
 
 # Building a Simple Compiler/interpreter
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
@@ -305,7 +311,9 @@ When learning CS there are some useful sites you must know to get always informe
  *  [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
 # Tutorials
-  * [Tutorialspoint ](http://www.tutorialspoint.com/) : Best website for tutorials for most of the programming languages and tutorials can also easily be downloded in pdf 
+  * [Tutorialspoint ](http://www.tutorialspoint.com/) : Best website for tutorials for most of the programming languages and tutorials can also easily be downloded in pdf.
+  * [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci/) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
+  * [Tutorialspoint ](http://www.tutorialspoint.com/)
   * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
   * [Open Data Structures ](http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
   * [Data Structures and Algorithms by John Morris ](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
@@ -355,6 +363,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
 # Competitive programming
+  * [WakaTime](https://wakatime.com/) : leaderboards of coding metrics collected via editor plugins
   * [HackerRank ](http://hackerrank.com/)
   * [Codeforces ](http://codeforces.com/)
   * [topcoder ](http://topcoder.com/)
@@ -369,6 +378,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
   * [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
   * [Codewars](https://www.codewars.com/) : Rank up by completing code kata
+  * [Codefights](https://codefights.com/) : Test your coding skills
 
 # Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
@@ -376,7 +386,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
-  * [Library Genesis](gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals. 
+  * [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
 
 # Video Tutorials
   * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
@@ -402,13 +412,15 @@ When learning CS there are some useful sites you must know to get always informe
 
 # Blogs of Developers
   * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
-  * [WildMl](http://http://www.wildml.com/) : A blog for machine learning.
+  * [WildMl](http://www.wildml.com/) : A blog for machine learning.
+  * [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : blog on Python and open source
+  * [Eli Bendersky](http://eli.thegreenplace.net/) : everything from Python to LLVM
   * [Joel on Software](http://joelonsoftware.com/)
   * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
   * [Programming in the 21st Century](http://prog21.dadgum.com/)
   * [Clean Coder Blog  ](http://blog.cleancoder.com/) : blog of author of book "Clean Code"
-  * [Programming Blog  ](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
-  * [10K-LOC ](https://10kloc.wordpress.com/)
+  * [Programming Blog](http://www.yegor256.com/) : programming blog of Yegor Bugayenko
+  * [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
   * [http://stevehanov.ca/blog/ ](http://stevehanov.ca/blog/)
   * [Geek Land ](https://avidullu.wordpress.com/)
   * [Late Developer ](https://latedev.wordpress.com/)
@@ -420,7 +432,6 @@ When learning CS there are some useful sites you must know to get always informe
   * [HackerEarth Blog ](http://blog.hackerearth.com/)
   * [Algo-Geeks ](http://algo-geeks.blogspot.in/)
   * [CoderGears Blog Insights from ](http://www.codergears.com/Blog/) : the CoderGears Team
-  * [blog.might.net ](http://matt.might.net/articles/)
   * [Runhe Tian Coding Practice ](https://tianrunhe.wordpress.com/)
   * [Paul Graham Essays ](http://www.paulgraham.com/articles.html)
   * [Dan Dreams of Coding ](http://dandreamsofcoding.com/)
@@ -446,7 +457,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high quality content from all over the world
-  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world 
+  * [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
   * [ColdFusion ](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
   * [SmarterEveryDay ](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
   * [SciShow ](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
