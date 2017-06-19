@@ -115,7 +115,7 @@ When learning CS there are some useful sites you must know to get always informe
    
    
 ## General Tools
- - [regex101](http://regex101.com/) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [regex101](https://regex101.com/) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 
 ## Interview Preparation
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
@@ -312,7 +312,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
 - [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration. 
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics
-- [The Bike Shed](http://bikeshed.fm/) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
+- [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 
 
 ## Building a Simple Compiler/interpreter
