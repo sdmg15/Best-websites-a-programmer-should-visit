@@ -115,7 +115,7 @@ When learning CS there are some useful sites you must know to get always informe
    
    
 ## General Tools
- - [regex101](http://regex101.com/) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+ - [regex101](https://regex101.com/) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 
 ## Interview Preparation
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
