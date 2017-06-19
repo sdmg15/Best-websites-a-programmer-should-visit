@@ -117,7 +117,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## General Tools
 
 
-### Interview Preparation
+## Interview Preparation
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
 - [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
@@ -243,9 +243,9 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Learn AI
-- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/)
-- [Robots that learn](https://blog.openai.com/robots-that-learn/)
-- [grakn.ai](https://grakn.ai)
+- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
+- [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn 
+- [grakn.ai](https://grakn.ai) : The Database for AI 
 
 
 ## Seminar , research writing , talks etc
