@@ -353,7 +353,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
-- [HackerEarth Tutorials](https://www.hackerearth.com) : Good resource for DS and Algos tutorial
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CS 2112/ENGRD 2112 Fall 2015](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
