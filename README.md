@@ -85,7 +85,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## General Coding advice
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.com/m/global-identity?redirectUrl=https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329 ) :  What I’ve learned from teaching others
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
 - [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531)
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -333,7 +333,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git) : for those wanting to learn git with a solid foundation
+- [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [The Bash Guide](http://guide.bash.academy) : very good guide for learning the Bash Shell
@@ -353,7 +353,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
-- [HackerEarth Tutorials](https://learn.hackerearth.com/tutorials/) : Good resource for DS and Algos tutorial
+- [HackerEarth Tutorials](https://www.hackerearth.com) : Good resource for DS and Algos tutorial
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CS 2112/ENGRD 2112 Fall 2015](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
