@@ -48,6 +48,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more. 
 
 
 ## News
