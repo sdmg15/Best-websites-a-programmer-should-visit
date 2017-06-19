@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-[![Build Status](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
+[![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
@@ -45,7 +45,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## When you get stuck
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
-- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world:
+- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 
