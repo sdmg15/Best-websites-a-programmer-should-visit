@@ -403,7 +403,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
-
+- [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 
 ## Video Tutorials
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
