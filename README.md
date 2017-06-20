@@ -425,7 +425,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## Online Compiler and Sharing Code snippets
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
-- [Ideone.com](https://ideone.com)
+- [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages 
 - [Pastebin.com](https://pastebin.com)
 - [Godbolt.org](https://godbolt.org): Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
