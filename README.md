@@ -48,6 +48,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more. 
 
 
 ## News
@@ -117,7 +118,9 @@ When learning CS there are some useful sites you must know to get always informe
 ## General Tools
  - [regex101](https://regex101.com/) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 
+
 ## Interview Preparation
+- [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
 - [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
@@ -142,7 +145,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! •
 - [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
 - [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
-- [Summer Internship: The Ultimate Guide](eulercoder.me/blog/career/Summer-Internship-the-ultimate-guide)
+- [Summer Internship: The Ultimate Guide](http://eulercoder.me/blog/career/Summer-Internship-the-ultimate-guide)
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)
 - [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
@@ -312,7 +315,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
 - [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration. 
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics
-- [The Bike Shed](http://bikeshed.fm/) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
+- [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 
 
 ## Building a Simple Compiler/interpreter
@@ -353,7 +356,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
-- [HackerEarth Tutorials](https://www.hackerearth.com) : Good resource for DS and Algos tutorial
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CS 2112/ENGRD 2112 Fall 2015](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
@@ -403,7 +405,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [Library Genesis](http://gen.lib.rus.ec) : Almost any ebook you can think of, including countless CS texts and manuals.
-
+- [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 
 ## Video Tutorials
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
@@ -424,7 +426,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## Online Compiler and Sharing Code snippets
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
-- [Ideone.com](https://ideone.com)
+- [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages 
 - [Pastebin.com](https://pastebin.com)
 - [Godbolt.org](https://godbolt.org): Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
