@@ -311,7 +311,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Herding Code](http://herdingcode.com)
 - [Code Newbie](http://www.codenewbie.org)
 - [Software Engineering Radio](http://www.se-radio.net)
-- [JavaScript Jabber](https://devchat.tv/js-jabber)
+- [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
 - [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration. 
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics
