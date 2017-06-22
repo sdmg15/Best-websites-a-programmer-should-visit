@@ -252,6 +252,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [grakn.ai](https://grakn.ai) : The Database for AI 
 
 
+## Learn DevOps and Cloud
+- [instruqt](https://instruqt.com) : Gamified learning platform focused on DevOps tooling and Cloud technology
+
+
 ## Seminar , research writing , talks etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
@@ -490,4 +494,4 @@ When learning CS there are some useful sites you must know to get always informe
 
 
   **Maintained with :heart: by sdmg15 & al**
-  
+
