@@ -412,7 +412,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
-- [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA/videos)
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
