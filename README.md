@@ -317,6 +317,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration. 
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
+- [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
 
 
 ## Building a Simple Compiler/interpreter
