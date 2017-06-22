@@ -269,7 +269,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [A programmer friendly language that compiles to Lua.](http://moonscript.org/)
 
 # Building a Simple Compiler/interpreter
- * [Awesome Compilers](http://aalhour.com/awesome-compilers/) - Curated list of awesome resources on Compilers, Interpreters and Runtimes.
+ * [Awesome Compilers](http://aalhour.com/awesome-compilers/) : Curated list of awesome resources on Compilers, Interpreters and Runtimes.
  * [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
  * [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
  * [Writing My First Compiler ](https://dev.to/fcpauldiaz/writing-my-first-compiler)
