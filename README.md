@@ -30,7 +30,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
 <li><a href="#podcasts">Podcasts</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/interpreter</a></li>
+<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
@@ -319,7 +319,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 
 
-## Building a Simple Compiler/interpreter
+## Building a Simple Compiler/Interpreter
+- [Awesome Compilers](http://aalhour.com/awesome-compilers/) : Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler)
@@ -490,4 +491,3 @@ When learning CS there are some useful sites you must know to get always informe
 
 
   **Maintained with :heart: by sdmg15 & al**
-  
