@@ -87,11 +87,11 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## General Coding advice
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) :  What I’ve learned from teaching others
-- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
-- [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531)
-- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) :  The Codist Header Lessons From A Lifetime Of Being A Programmer  
+- [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) : The Principles of Good Programming
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming 
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
-- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
