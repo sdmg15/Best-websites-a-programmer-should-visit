@@ -311,7 +311,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net)
 - [MS Dev Show](http://msdevshow.com)
 - [The Cynical Developer](http://cynicaldeveloper.com)
-- [Herding Code](http://herdingcode.com)
 - [Code Newbie](http://www.codenewbie.org)
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
