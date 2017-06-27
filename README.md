@@ -492,6 +492,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
+- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
 
 
   **Maintained with :heart: by sdmg15 & al**
