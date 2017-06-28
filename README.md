@@ -233,6 +233,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Welcome to JavaWorld.com](http://www.javaworld.com)
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
+- [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com)
