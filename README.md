@@ -212,7 +212,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [edX](https://www.edx.org)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [Udacity](https://www.udacity.com)
-- [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7): Programming courses focused on art and creativity
+- [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Programming courses focused on art and creativity
 - [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [CS50](https://www.youtube.com/user/cs50tv/videos)
@@ -373,7 +373,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com)
-- [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/): Writing a Unix Shell 
+- [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell 
 
 
 ## Watch others code
