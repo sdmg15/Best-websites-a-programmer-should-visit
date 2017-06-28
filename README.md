@@ -378,6 +378,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Watch others code
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, ect.
+- [Twitch.tv](https://www.twitch.tv/communities/programming) : The programming community of twitch.
 
 
 ## What should a programmer know
