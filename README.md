@@ -78,6 +78,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
 
 
 ## For those who want to start a small project but can't find the ideas
