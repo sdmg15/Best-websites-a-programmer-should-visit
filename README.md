@@ -58,7 +58,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [ACM TechNews](http://technews.acm.org) : TechNews 
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-- [TechCrunch](https://techcrunch.com) : another good website for tech news
+- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [GSMArena.com](http://www.gsmarena.com) : news related to latest mobile phones and android.
