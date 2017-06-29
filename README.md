@@ -255,6 +255,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn 
 - [grakn.ai](https://grakn.ai) : The Database for AI 
+- [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 
 
 ## Seminar , research writing , talks etc
