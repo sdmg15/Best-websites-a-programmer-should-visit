@@ -24,6 +24,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Sites related to your preferred programming language (For me Java)</a></li>
+<li><a href="#web-services-web-api">Web Services (Web API)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
 <li><a href="#seminar--research-writing--talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
@@ -65,7 +66,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [DevOpsLinks][http://devopslinks.com/] :  An online community of thousands of developers and IT experts interested in DevOps
+- [DevOpsLinks][http://devopslinks.com] :  An online community of thousands of developers and IT experts interested in DevOps
 
 
 ## Coding practice for beginners
@@ -79,7 +80,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
+- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -250,6 +251,11 @@ When learning CS there are some useful sites you must know to get always informe
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
 
+## Web Services (Web API)
+- [Algorithmia](https://algorithmia.com/algorithms) : Free package is available with 5000 credits every month. Some API calls require more than 1 credit.
+- [REST7](http://rest7.com) : All the APIs here are free to use. No registration needed (or even possible). No paid plans.
+- [Mashape](https://market.mashape.com/explore): Some APIs are free, some are paid. Seems they have more functions than the above 2 together but most of the APIs here are paid.
+
 
 ## Learn AI
  -[What's the difference between AI- DP and ML ?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
@@ -311,7 +317,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
-- [Data structure and Algoritms ](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
+- [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
 
 
 ## Podcasts
