@@ -66,7 +66,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [DevOpsLinks][http://devopslinks.com/] :  An online community of thousands of developers and IT experts interested in DevOps
+- [DevOpsLinks][http://devopslinks.com] :  An online community of thousands of developers and IT experts interested in DevOps
 
 
 ## Coding practice for beginners
@@ -80,7 +80,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
+- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -253,7 +253,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Web Services (Web API)
 - [Algorithmia](https://algorithmia.com/algorithms) : Free package is available with 5000 credits every month. Some API calls require more than 1 credit.
-- [REST7](http://rest7.com/) : All the APIs here are free to use. No registration needed (or even possible). No paid plans.
+- [REST7](http://rest7.com) : All the APIs here are free to use. No registration needed (or even possible). No paid plans.
 - [Mashape](https://market.mashape.com/explore): Some APIs are free, some are paid. Seems they have more functions than the above 2 together but most of the APIs here are paid.
 
 
@@ -317,7 +317,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
-- [Data structure and Algoritms ](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
+- [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
 
 
 ## Podcasts
