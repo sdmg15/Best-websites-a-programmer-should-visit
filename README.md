@@ -24,6 +24,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Sites related to your preferred programming language (For me Java)</a></li>
+<li><a href="#web-services--web-api">## Web Services (Web API)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
 <li><a href="#seminar--research-writing--talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
@@ -249,6 +250,11 @@ When learning CS there are some useful sites you must know to get always informe
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
+
+## Web Services (Web API)
+- [Algorithmia](https://algorithmia.com/algorithms) : Free package is available with 5000 credits every month. Some API calls require more than 1 credit.
+- [REST7](http://rest7.com/) : All the APIs here are free to use. No registration needed (or even possible). No paid plans.
+- [Mashape](https://market.mashape.com/explore): Some APIs are free, some are paid. Seems they have more functions than the above 2 together but most of the APIs here are paid.
 
 
 ## Learn AI
