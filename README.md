@@ -65,7 +65,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [DevOpsLinks][http://devopslinks.com/] :  An online community of thousands of developers and IT experts interested in DevOps
+- [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 
 
 ## Coding practice for beginners
