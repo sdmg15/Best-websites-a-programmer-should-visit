@@ -78,6 +78,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
+- [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
 
@@ -494,6 +495,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
+- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A youtube channel about science, mainly, but not only, the universe and space.
 - [SciShow](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
 - [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
