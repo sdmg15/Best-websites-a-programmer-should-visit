@@ -110,13 +110,13 @@ When learning CS there are some useful sites you must know to get always informe
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
-- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
-- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
-- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
-- [Stuff you need to Code Better!](http://codebetter.com)
-- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
+- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
+- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
+- [Stuff you need to Code Better!](http://codebetter.com) Stuff that will help you
+- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science) : Free online CS courses
+- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
    
    
