@@ -294,7 +294,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
 - [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
-
+- [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every wednesday are new live streams.
 
 ## Good Articles
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
