@@ -122,6 +122,7 @@ When learning CS there are some useful sites you must know to get always informe
    
 ## General Tools
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [Regexr](http://regexr.com) : Another online regex tester, user friendly and contains lots of examples
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 
 
