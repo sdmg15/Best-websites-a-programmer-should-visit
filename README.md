@@ -80,7 +80,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
+- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -312,7 +312,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
-- [Data structure and Algoritms ](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
+- [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
 
 
 ## Podcasts
