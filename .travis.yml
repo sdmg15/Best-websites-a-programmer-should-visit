@@ -13,5 +13,5 @@ before_script:
   - npm install --global awesome-lint
 script:
   - awesome-lint
-  - awesome_bot README.md --white-list www.cubrid.org,medium.freecodecamp.com,learn.hackerearth.com,wildlyinaccurate.com,projecteuler.net,www.coursera.org,www.topcoder.com,www.codechef.com,www.joelonsoftware.com,regex101.com,bikeshed.fm,www.quora.com,codepen.io,reddit.com,stroustrup.com,www.techotopia.com
+  - awesome_bot README.md --white-list www.cubrid.org,medium.freecodecamp.com,learn.hackerearth.com,wildlyinaccurate.com,projecteuler.net,www.coursera.org,www.topcoder.com,www.codechef.com,www.joelonsoftware.com,regex101.com,bikeshed.fm,www.quora.com,codepen.io,reddit.com,stroustrup.com,www.techotopia.com,techiedelight.quora.com
 
