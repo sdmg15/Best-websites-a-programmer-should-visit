@@ -407,7 +407,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com)
 - [Art of Problem Solving](https://artofproblemsolving.com)
-- [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
 - [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codefights](https://codefights.com) : Test your coding skills
