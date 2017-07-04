@@ -188,7 +188,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Documentaries
 - Machine that Changed the World - a very good documentary about history of computers
-  - [Part 1: Giant Brains](https://www.youtube.com/watch?v=rcR74y61xZk)
+  - Part 1 is unavailable for free streaming due to widespread copyright claims.
   - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
   - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
