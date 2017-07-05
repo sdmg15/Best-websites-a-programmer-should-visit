@@ -48,7 +48,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
-- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more. 
+- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 
 
 ## News
@@ -56,7 +56,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
-- [ACM TechNews](http://technews.acm.org) : TechNews 
+- [ACM TechNews](http://technews.acm.org) : TechNews
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
@@ -80,7 +80,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
+- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -94,11 +94,11 @@ When learning CS there are some useful sites you must know to get always informe
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
-- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming 
-- [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well 
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
+- [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/) : Stephen Haunts { Coding in the Trenches }
-- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev! 
+- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
@@ -118,11 +118,11 @@ When learning CS there are some useful sites you must know to get always informe
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science) : Free online CS courses
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
-   
-   
+
+
 ## General Tools
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
+- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 
 
 ## Interview Preparation
@@ -254,9 +254,9 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Learn AI
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
-- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
-- [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn 
-- [grakn.ai](https://grakn.ai) : The Database for AI 
+- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron
+- [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
+- [grakn.ai](https://grakn.ai) : The Database for AI
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 
 
@@ -311,7 +311,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
-- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
+- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue
 - [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
 
 
@@ -322,7 +322,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
-- [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration. 
+- [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration.
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
@@ -343,7 +343,6 @@ When learning CS there are some useful sites you must know to get always informe
 ## Tutorials
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [Tutorialspoint](http://www.tutorialspoint.com)
-- [W3Schools Online Web Tutorials](https://www.w3schools.com)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
 - [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
@@ -380,7 +379,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com)
-- [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell 
+- [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
 
 
 ## Watch others code
@@ -438,7 +437,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## Online Compiler and Sharing Code snippets
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
-- [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages 
+- [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [Pastebin.com](https://pastebin.com)
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
@@ -501,7 +500,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
-- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
+- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity
 
 
   **Maintained with :heart: by sdmg15 & al**
