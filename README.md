@@ -174,7 +174,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Programming Language Concepts: Lecture Notes](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) : OOPs concepts and programming language concepts.
 - [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
 - [Freshers Interviews](http://placementsindia.blogspot.in)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
@@ -408,7 +408,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com)
 - [Art of Problem Solving](https://artofproblemsolving.com)
-- [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
+- [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codefights](https://codefights.com) : Test your coding skills
 
