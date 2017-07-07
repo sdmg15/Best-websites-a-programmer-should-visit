@@ -330,6 +330,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [Syntax](https://syntax.fm) : A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
+- [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 
 
 ## Building a Simple Compiler/Interpreter
@@ -477,6 +478,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Daedtech.com](http://www.daedtech.com) : Stories about software
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
+- [Antirez - Redis Creator's blog](http://antirez.com)
 
 
 ## For improving your English
