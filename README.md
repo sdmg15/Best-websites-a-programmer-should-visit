@@ -478,7 +478,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Daedtech.com](http://www.daedtech.com) : Stories about software
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
-- [Antirez - Redis Creator's blog](http://antirez.com)
+- [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
 
 
 ## For improving your English
