@@ -123,6 +123,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## General Tools
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
+- [Devicons](vorillaz.github.io/devicons) : Cheatsheet
 
 
 ## Interview Preparation
