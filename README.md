@@ -336,6 +336,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [Syntax](https://syntax.fm) : A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
+- [Groovy Podcast](http://groovypodcast.podbean.com): Groovy Podcast
 
 
 ## Building a Simple Compiler/Interpreter
