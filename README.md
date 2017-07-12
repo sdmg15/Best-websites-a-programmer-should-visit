@@ -443,6 +443,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [Pluralsight](https://www.pluralsight.com/) - Learn Software Development, DevOps and Data Science through multiple short courses
+- [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 
 
 ## Online Compiler and Sharing Code snippets
