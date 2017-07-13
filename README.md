@@ -404,21 +404,22 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Competitive programming
-- [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
-- [HackerRank](https://www.hackerrank.com)
-- [Codeforces](http://codeforces.com)
-- [topcoder](https://www.topcoder.com)
-- [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
-- [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
-- [CodeChef](https://www.codechef.com)
-- [PKU ACM ICPC Practice problems](http://poj.org/problemlist)
 - [Archived Problems - Project Euler](https://projecteuler.net/archives)
-- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
-- [Sphere Online Judge (SPOJ)](http://www.spoj.com)
 - [Art of Problem Solving](https://artofproblemsolving.com)
-- [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
-- [Codewars](https://www.codewars.com) : Rank up by completing code kata
+- [CodeChef](https://www.codechef.com)
 - [Codefights](https://codefights.com) : Test your coding skills
+- [Codeforces](http://codeforces.com)
+- [Codewars](https://www.codewars.com) : Rank up by completing code kata
+- [Codility](https://codility.com) : Verify and improve coding skills
+- [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
+- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
+- [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
+- [HackerRank](https://www.hackerrank.com)
+- [PKU ACM ICPC Practice problems](http://poj.org/problemlist)
+- [Sphere Online Judge (SPOJ)](http://www.spoj.com)
+- [Topcoder](https://www.topcoder.com)
+- [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
+- [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 
 
 ## Computer Books
