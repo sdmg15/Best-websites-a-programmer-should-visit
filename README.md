@@ -492,6 +492,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
+- [XDA - Android Developer Forum](https://forum.xda-developers.com/) : Android Open Source Developers Forum
 
 
 ## For improving your English
