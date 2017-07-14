@@ -66,6 +66,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
+- [XDA](https://www.xda-developers.com/) : Android Developers News
 
 
 ## Coding practice for beginners
@@ -226,6 +227,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CS50](https://www.youtube.com/user/cs50tv/videos)
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
+- [NPTEL](http://nptel.ac.in/) : Free online courses by IIT with certificates
 
 
 ## Sites related to your preferred programming language (For me Java)
