@@ -66,7 +66,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
-- [XDA](https://www.xda-developers.com/) : Android Developers News
+- [XDA](https://www.xda-developers.com) : Android Developers News
 
 
 ## Coding practice for beginners
@@ -189,7 +189,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
 - [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
-- [Code Project](https://www.codeproject.com/) : For those who code !
+- [Code Project](https://www.codeproject.com) : For those who code !
 
 
 ## Documentaries
@@ -227,7 +227,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CS50](https://www.youtube.com/user/cs50tv/videos)
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
-- [NPTEL](http://nptel.ac.in/) : Free online courses by IIT with certificates
+- [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 
 
 ## Sites related to your preferred programming language (For me Java)
@@ -494,9 +494,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
-- [XDA - Android Developer Forum](https://forum.xda-developers.com/) : Android Open Source Developers Forum
-
-
+- [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
+		
 ## For improving your English
 - [Quia - English](https://www.quia.com/shared/english/)
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
