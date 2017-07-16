@@ -66,6 +66,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
+- [XDA](https://www.xda-developers.com) : Android Developers News
 
 
 ## Coding practice for beginners
@@ -222,10 +223,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Programming courses focused on art and creativity
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
+- [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [NPTEL Vidoes COMP_SCI_ENGG](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
-- [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
-- [Udacity](https://www.udacity.com)
+
 
 
 ## Sites related to your preferred programming language (For me Java)
@@ -492,7 +493,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [stevehanov.ca](http://stevehanov.ca/blog/)
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
-
+- [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
+		
 
 ## For improving your English
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
