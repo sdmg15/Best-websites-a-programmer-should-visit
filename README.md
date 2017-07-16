@@ -326,9 +326,9 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Podcasts
-- [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net)
-- [MS Dev Show](http://msdevshow.com)
-- [The Cynical Developer](http://cynicaldeveloper.com)
+- [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
+- [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
+- [The Cynical Developer](http://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
@@ -341,7 +341,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [Syntax](https://syntax.fm) : A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
-- [Groovy Podcast](http://groovypodcast.podbean.com): Groovy Podcast
+- [Groovy Podcast](http://groovypodcast.podbean.com) : A podcast dedicated to the Groovy programming language and its ecosystem.
 
 
 ## Building a Simple Compiler/Interpreter
