@@ -111,6 +111,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## Coding Style
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
+- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
@@ -458,7 +459,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages 
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [Pastebin.com](https://pastebin.com)
-
+- [C9.io](https://c9.io/) : Your development environment, in the cloud
 
 ## Blogs of Developers
 - [Algo-Geeks](http://algo-geeks.blogspot.in)
