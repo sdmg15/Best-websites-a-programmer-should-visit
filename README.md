@@ -138,6 +138,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
+- [BeehYve](https://www.beehyve.io/): Student crowdsourced resources for any topic 
 - [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
@@ -506,7 +507,6 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## When you get bored from CS related stuff
-
 - [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
 - [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
