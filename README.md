@@ -475,7 +475,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com)
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
 - [CSE Blog - quant, math, computer science puzzles](http://www.cseblog.com)
-- [Daedtech.com](http://www.daedtech.com) : Stories about software
+- [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com)
