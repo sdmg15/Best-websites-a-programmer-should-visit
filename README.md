@@ -138,14 +138,14 @@ When learning CS there are some useful sites you must know to get always informe
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
-- [BeehYve](https://www.beehyve.io): Student crowdsourced resources for any topic 
+- [BeehYve](https://www.beehyve.io) : Student crowdsourced resources for any topic 
 - [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
-- [Code Project](https://www.codeproject.com) : For those who code !
+- [Code Project](https://www.codeproject.com) : For those who code!
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
@@ -199,7 +199,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Breaking the Code: Biography of Alan Turing](https://www.youtube.com/watch?v=S23yie-779k)
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
 - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
-- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars , dot com bubble and more.
+- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
 - [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
 - [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
@@ -230,7 +230,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
 
-
 ## Sites related to your preferred programming language (For me Java)
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
@@ -245,10 +244,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html)
 - [Java Lecture Notes](http://www.cafeaulait.org/course/)
-- [Java Off Heap](http://www.javaoffheap.com): Java Off the Heap house
+- [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
 - [Java Revisited](http://javarevisited.blogspot.in) : good for learning about Java Language and interview preparation.
-- [Java-source](http://www.java-source.net): Java source
-- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
+- [Java-source](http://www.java-source.net) : Java source
+- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables ect
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com)
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
@@ -380,7 +379,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Linux Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
-- [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
+- [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java and pseudocode.
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com)
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
@@ -394,12 +393,12 @@ When learning CS there are some useful sites you must know to get always informe
 - [Tutorialspoint](http://www.tutorialspoint.com)
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [UNIX Tutorial - Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
-- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : learn VIM from browser itself
+- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
 
 
 ## Watch others code
-- [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, ect.
+- [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
 - [Twitch.tv](https://www.twitch.tv/communities/programming) : The programming community of twitch.
 
 
