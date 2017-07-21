@@ -373,7 +373,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell 
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
-- [Learning the shell.](http://linuxcommand.org/learning_the_shell.php)
+- [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
 - [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [Linux Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
@@ -407,7 +407,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 
-
+learning_the_shell.php
 ## Competitive programming
 - [Archived Problems - Project Euler](https://projecteuler.net/archives)
 - [Art of Problem Solving](https://artofproblemsolving.com)
@@ -433,7 +433,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Computer Science Books Online](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-- [IT eBooks - Free Download - Big Library](http://it-ebooks.info) : website for downloading ebooks without any advertisement and instant downloads.
 
 ## Video Tutorials
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
