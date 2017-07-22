@@ -61,7 +61,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [Hacker Noon](https://hackernoon.com) : AI, JavaScript and technology
+- [Hacker Noon](https://medium.com/m/global-identity?redirectUrl=https://hackernoon.com/) : AI, JavaScript and technology
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
@@ -151,7 +151,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-- [Freshers Interviews](http://placementsindia.blogspot.in)
+- [Freshers Interviews](http://placementsindia.blogspot.com)
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
@@ -164,10 +164,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
 - [How to interview](http://kelukelu.me/interview/index.html)
 - [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
-- [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.in)
+- [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
 - [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Java Interview Questions and Answers](https://adnjavainterview.blogspot.in)
+- [Java Interview Questions and Answers](https://adnjavainterview.blogspot.com)
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
@@ -176,11 +176,9 @@ When learning CS there are some useful sites you must know to get always informe
 - [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
 - [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
 - [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
-- [Programming Language Concepts: Lecture Notes](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) : OOPs concepts and programming language concepts.
 - [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : Logic Puzzles
 - [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
 - [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
-- [Summer Internship: The Ultimate Guide](http://eulercoder.me/blog/career/Summer-Internship-the-ultimate-guide)
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
 - [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
@@ -244,7 +242,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html)
 - [Java Lecture Notes](http://www.cafeaulait.org/course/)
 - [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
-- [Java Revisited](http://javarevisited.blogspot.in) : good for learning about Java Language and interview preparation.
+- [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables ect
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com)
