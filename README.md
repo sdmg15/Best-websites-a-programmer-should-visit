@@ -407,7 +407,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 
-learning_the_shell.php
+
 ## Competitive programming
 - [Archived Problems - Project Euler](https://projecteuler.net/archives)
 - [Art of Problem Solving](https://artofproblemsolving.com)
