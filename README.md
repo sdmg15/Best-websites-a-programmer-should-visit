@@ -61,7 +61,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [Hacker Noon](https://medium.com/m/global-identity?redirectUrl=https://hackernoon.com/) : AI, JavaScript and technology
+- [Hacker Noon](https://hackernoon.com/?gi=3997d3b5a073 ) : AI, JavaScript and technology
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
@@ -163,7 +163,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
 - [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
 - [How to interview](http://kelukelu.me/interview/index.html)
-- [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
+- [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
 - [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
@@ -359,7 +359,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [C programming language Frequently Asked Questions](http://c-faq.com/index.html)
-- [CS 2112/ENGRD 2112 Fall 2015](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) : Good notes on data structures and algorithms.
 - [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
@@ -428,7 +427,6 @@ When learning CS there are some useful sites you must know to get always informe
 ## Computer Books
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
-- [Computer Science Books Online](http://www.sciencebooksonline.info/computer-science.html) : about 150 computer free ebooks
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 
@@ -461,7 +459,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Blogs of Developers
-- [Algo-Geeks](http://algo-geeks.blogspot.in)
+- [Algo-Geeks](http://algo-geeks.blogspot.com)
 - [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com)
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
