@@ -263,6 +263,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn 
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
+- [TensorFlow](https://www.tensorflow.org/) : An open-source software library for Machine Intelligence
 
 
 ## Seminar , research writing , talks etc
