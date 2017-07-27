@@ -263,7 +263,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn 
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
-- [TensorFlow](https://www.tensorflow.org/) : An open-source software library for Machine Intelligence
+- [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 
 
 ## Seminar , research writing , talks etc
@@ -393,7 +393,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
-- [Snap SVG](http://www.snapsvg.io) : The JavaScript SVG library for the modern web
+- [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
 
 
 ## Watch others code
