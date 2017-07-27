@@ -393,6 +393,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
+- [Snap SVG](http://www.snapsvg.io) : The JavaScript SVG library for the modern web
 
 
 ## Watch others code
