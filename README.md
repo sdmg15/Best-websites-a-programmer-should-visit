@@ -474,6 +474,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CSE Blog - quant, math, computer science puzzles](http://www.cseblog.com)
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
+- [Daniel Lemire's Blog](http://lemire.me/blog/)
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com)
 - [HackerEarth Blog](http://blog.hackerearth.com)
