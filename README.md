@@ -82,6 +82,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
+- [Pramp](https://www.pramp.com/) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 
 
 ## For those who want to start a small project but can't find the ideas
