@@ -373,7 +373,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
 - [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
-- [Linux Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java and pseudocode.
@@ -389,7 +388,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Tutorialspoint](http://www.tutorialspoint.com)
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
-- [UNIX Tutorial - Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
