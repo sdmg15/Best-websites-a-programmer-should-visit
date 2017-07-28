@@ -447,6 +447,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 
 
 ## Online Compiler and Sharing Code snippets
