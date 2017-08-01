@@ -431,6 +431,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
+- [GitBook](https://www.gitbook.com/) : GitBook helps your team write, collaborate and publish content online.
 
 
 ## Video Tutorials
