@@ -82,8 +82,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
-- [Pramp](https://www.pramp.com/) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com/) : Guides and challenges to learn programming
+- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
+- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=231a9e8d32a2) : 27 fun app ideas you can build while learning React.
@@ -432,7 +432,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-- [GitBook](https://www.gitbook.com/) : GitBook helps your team write, collaborate and publish content online.
+- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 
 
 ## Video Tutorials
