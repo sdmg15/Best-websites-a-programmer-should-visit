@@ -83,7 +83,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 - [Pramp](https://www.pramp.com/) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-
+- [Paqmind](http://paqmind.com/) : Guides and challenges to learn programming
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=231a9e8d32a2) : 27 fun app ideas you can build while learning React.
