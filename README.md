@@ -84,6 +84,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Hackerrank](https://www.hackerrank.com/): Pratice coding. Compete. Find jobs
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fevery-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d) : 27 fun app ideas you can build while learning React.
@@ -122,6 +123,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
 - [Stuff you need to Code Better!](http://codebetter.com) : Stuff that will help you
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
+- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/): Style Guide for Python Code
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html): Google Python Style Guide
    
    
 ## General Tools
@@ -129,6 +132,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [regexr](http://regexr.com): Another online tool to learn, build & test Regular Expressions
 
 
 ## Interview Preparation
@@ -266,6 +270,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
+- [Scikit-learn](http://scikit-learn.org/): A Python module for machine learning build on top of SciPy 
 
 
 ## Seminar , research writing , talks etc
