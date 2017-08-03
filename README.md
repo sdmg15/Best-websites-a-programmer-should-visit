@@ -197,14 +197,14 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Documentaries
-- [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-- [Breaking the Code: Biography of Alan Turing](https://www.youtube.com/watch?v=S23yie-779k)
-- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-- [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
+- [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) : Gayle Laakmann McDowell (author of Cracking the Coding Interview)
+- [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Biography of Alan Turing
+- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
+- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
 - [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
-- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
+- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Take a look at how a CPU executes programs
+- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
 - Machine that Changed the World - a very good documentary about history of computers
   - Part 1 is unavailable for free streaming due to widespread copyright claims.
   - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
@@ -212,9 +212,9 @@ When learning CS there are some useful sites you must know to get always informe
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
-- [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=a-49a_CjH0M)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com)
-- [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI)
+- [Project Code Rush ](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
+- [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
+- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
 
 
