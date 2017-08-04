@@ -84,7 +84,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [Hackerrank](https://www.hackerrank.com/) : Pratice coding. Compete. Find jobs
+- [Hackerrank](https://www.hackerrank.com) : Pratice coding. Compete. Find jobs
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fevery-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d) : 27 fun app ideas you can build while learning React.
@@ -212,7 +212,7 @@ When learning CS there are some useful sites you must know to get always informe
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
-- [Project Code Rush ](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
+- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
@@ -270,7 +270,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
-- [Scikit-learn](http://scikit-learn.org/) : A Python module for machine learning build on top of SciPy 
+- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy 
 
 
 ## Seminar , research writing , talks etc
