@@ -64,6 +64,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
+- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
@@ -82,10 +83,12 @@ When learning CS there are some useful sites you must know to get always informe
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
-- [Pramp](https://www.pramp.com/) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-
+- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
+- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Hackerrank](https://www.hackerrank.com) : Pratice coding. Compete. Find jobs
 
 ## For those who want to start a small project but can't find the ideas
+- [freeCodeCamp | React project ideas](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fevery-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d) : 27 fun app ideas you can build while learning React.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -121,13 +124,16 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
 - [Stuff you need to Code Better!](http://codebetter.com) : Stuff that will help you
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
-   
-   
+- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
+
+
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [regexr](http://regexr.com) : Another online tool to learn, build & test Regular Expressions
 
 
 ## Interview Preparation
@@ -192,14 +198,14 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Documentaries
-- [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-- [Breaking the Code: Biography of Alan Turing](https://www.youtube.com/watch?v=S23yie-779k)
-- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-- [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
+- [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) : Gayle Laakmann McDowell (author of Cracking the Coding Interview)
+- [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Biography of Alan Turing
+- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
+- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
 - [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
-- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
+- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Take a look at how a CPU executes programs
+- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
 - Machine that Changed the World - a very good documentary about history of computers
   - Part 1 is unavailable for free streaming due to widespread copyright claims.
   - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
@@ -207,9 +213,9 @@ When learning CS there are some useful sites you must know to get always informe
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
-- [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=a-49a_CjH0M)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com)
-- [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI)
+- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
+- [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
+- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
 
 
@@ -265,6 +271,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
+- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy 
 
 
 ## Seminar , research writing , talks etc
@@ -276,6 +283,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Everything in one place
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
+- [Websites a programmer should isit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 
 
 ## YouTube Channels
@@ -310,6 +318,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : Let's code a TCP/IP stack, 5: TCP Retransmission 
+- [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : The language of choice
 - [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
 - [Data Structure Map](https://fkcd.ca/b7d.svg)
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
@@ -430,6 +439,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
+- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 
 
 ## Video Tutorials
@@ -495,7 +505,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
-		
+
 
 ## For improving your English
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
