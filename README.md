@@ -136,7 +136,13 @@ When learning CS there are some useful sites you must know to get always informe
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](http://regexr.com) : Another online tool to learn, build & test Regular Expressions
 
-## Bash and Shell scripting 
+## Bash and Shell scripting  
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
+- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html) : Bash Guide for Beginners Machtelt Garrels
+- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual 
+- [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
+- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
 
 ## Interview Preparation
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful!
