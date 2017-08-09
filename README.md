@@ -424,11 +424,11 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Competitive programming
-- [Archived Problems - Project Euler](https://projecteuler.net/archives)
-- [Art of Problem Solving](https://artofproblemsolving.com)
-- [CodeChef](https://www.codechef.com)
+- [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
+- [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
+- [CodeChef](https://www.codechef.com) : 
 - [Codefights](https://codefights.com) : Test your coding skills
-- [Codeforces](http://codeforces.com)
+- [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
