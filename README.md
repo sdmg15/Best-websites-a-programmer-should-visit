@@ -426,7 +426,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## Competitive programming
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
-- [CodeChef](https://www.codechef.com) : 
+- [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [Codefights](https://codefights.com) : Test your coding skills
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
@@ -434,10 +434,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
-- [HackerRank](https://www.hackerrank.com)
-- [PKU ACM ICPC Practice problems](http://poj.org/problemlist)
-- [Sphere Online Judge (SPOJ)](http://www.spoj.com)
-- [Topcoder](https://www.topcoder.com)
+- [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
+- [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC 
+- [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
+- [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 
