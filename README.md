@@ -479,37 +479,37 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Blogs of Developers
-- [Algo-Geeks](http://algo-geeks.blogspot.com)
-- [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
-- [Antonio081014's Algorithms Codes](http://code.antonio081014.com)
+- [Algo-Geeks](http://algo-geeks.blogspot.com) Programming Puzzles, Math Tricks, Algorithms etc 
+- [Antirez - Redis Creator's blog](http://antirez.com/latest/0) : the blog of Antirez
+- [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
-- [blog.might.net](http://matt.might.net/articles/)
+- [blog.might.net](http://matt.might.net/articles/) the blog of might dot net
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
-- [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com)
+- [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
-- [CSE Blog - quant, math, computer science puzzles](http://www.cseblog.com)
+- [CSE Blog ](http://www.cseblog.com) : quant, math, computer science puzzles
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
-- [Daniel Lemire's Blog](http://lemire.me/blog/)
+- [Daniel Lemire's Blog](http://lemire.me/blog/) : Daniel Lemire's blog
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
-- [Geek Land](https://avidullu.wordpress.com)
-- [HackerEarth Blog](http://blog.hackerearth.com)
-- [IT Enthusiast](http://rodiongork.tumblr.com)
-- [Joel on Software](https://www.joelonsoftware.com)
-- [Late Developer](https://latedev.wordpress.com)
-- [Math ∩ Programming](https://jeremykun.com)
-- [My Tech Interviews](http://www.mytechinterviews.com)
-- [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+- [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
+- [HackerEarth Blog](http://blog.hackerearth.com) : The hackerearth blog 
+- [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
+- [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
+- [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
+- [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
+- [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
+- [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
 - [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
-- [Programming in the 21st Century](http://prog21.dadgum.com)
+- [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
-- [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com)
-- [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
-- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com)
-- [stevehanov.ca](http://stevehanov.ca/blog/)
+- [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon and Microsoft
+- [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
+- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com) : Software Development, Architecture and Technical Leadership for the Enterprise
+- [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
