@@ -478,6 +478,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [Pastebin.com](https://pastebin.com)
 - [C9.io](https://c9.io) : Your development environment, in the cloud
+- [Github Gist](https://gist.github.com/) : Instantly share code, notes, and snippets.
 
 
 ## Blogs of Developers
