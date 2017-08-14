@@ -479,7 +479,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [Pastebin.com](https://pastebin.com)
 - [C9.io](https://c9.io) : Your development environment, in the cloud
-- [Github Gist](https://gist.github.com/) : Instantly share code, notes, and snippets.
+- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 
 
 ## Blogs of Developers
@@ -494,7 +494,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
-- [CSE Blog ](http://www.cseblog.com) : quant, math, computer science puzzles
+- [CSE Blog](http://www.cseblog.com) : quant, math, computer science puzzles
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
 - [Daniel Lemire's Blog](http://lemire.me/blog/) : Daniel Lemire's blog
