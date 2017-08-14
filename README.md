@@ -184,7 +184,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
 - [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Java Interview Questions and Answers](https://adnjavainterview.blogspot.com)
+- [Java Interview Questions and Answers](http://www.adnjavainterview.com) : Java Interview Questions and Answers 
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
