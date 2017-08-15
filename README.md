@@ -284,10 +284,10 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Seminar , research writing , talks etc
-- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
-- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
-- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
-- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
+- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists). 
+- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
+- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/) : Practical Tips for Talking at Usergroups and Conferences 
+- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
 
 
 ## Everything in one place
