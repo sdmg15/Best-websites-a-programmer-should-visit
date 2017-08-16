@@ -373,6 +373,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) : Structure and Interpretation
 of Computer Programs
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) : Write out your first compiler
+- [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) : How to Speak to Computers, Pre-Siri
 
 
 
