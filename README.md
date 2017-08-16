@@ -544,6 +544,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+- [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
 
   **Maintained with :heart: by sdmg15 & al**
