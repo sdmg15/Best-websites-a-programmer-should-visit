@@ -473,6 +473,7 @@ of Computer Programs
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
+- [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 
 
 ## Online Compiler and Sharing Code snippets
