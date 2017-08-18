@@ -417,6 +417,7 @@ of Computer Programs
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
+- [vim.rtorr](https://vim.rtorr.com/) : Vim Cheat Sheet
 
 
 ## Watch others code
@@ -474,6 +475,7 @@ of Computer Programs
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
+- [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 
 
 ## Online Compiler and Sharing Code snippets
