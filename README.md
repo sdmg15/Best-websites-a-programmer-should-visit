@@ -180,7 +180,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
 - [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
-- [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+- [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
 - [Java Interview Questions and Answers](http://www.adnjavainterview.com) : Java Interview Questions and Answers 
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
@@ -505,7 +505,7 @@ of Computer Programs
 - [CSE Blog](http://www.cseblog.com) : quant, math, computer science puzzles
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
-- [Daniel Lemire's Blog](http://lemire.me/blog/) : Daniel Lemire's blog
+- [Daniel Lemire's Blog](https://lemire.me/blog/) : Daniel Lemire's blog
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
 - [HackerEarth Blog](http://blog.hackerearth.com) : The hackerearth blog 
