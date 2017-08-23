@@ -130,7 +130,6 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## General Tools
-- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
