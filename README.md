@@ -554,5 +554,6 @@ of Computer Programs
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
-
-  **Maintained with :heart: by sdmg15 & al**
+### Special Thanks ###
+- Please consider a github star if you find this useful and/or consider making a contribution.
+- A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and strucutre to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
