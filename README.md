@@ -55,7 +55,8 @@ __Note__ : [Chinese Version](https://github.com/tuteng/Best-websites-a-programme
 
 
 ## News
-- [ACM TechNews](http://technews.acm.org) : TechNews 
+- [ACM TechNews](http://technews.acm.org) : TechNews
+- [Stratechery](https://stratechery.com/) : Stratechery by Ben Thompson 
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
