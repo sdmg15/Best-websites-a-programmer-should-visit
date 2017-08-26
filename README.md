@@ -498,6 +498,7 @@ __Note__ : [Chinese Version](https://github.com/tuteng/Best-websites-a-programme
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
 - [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
+- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com/) : the blog of Brendon D. Gregg
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
