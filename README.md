@@ -56,7 +56,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com/) : Stratechery by Ben Thompson 
+- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson 
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -412,7 +412,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-- [Tutorialspoint](https://www.tutorialspoint.com/) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
+- [Tutorialspoint](https://www.tutorialspoint.com) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
@@ -498,7 +498,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
 - [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
-- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com/) : the blog of Brendon D. Gregg
+- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com) : the blog of Brendon D. Gregg
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
