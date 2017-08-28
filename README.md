@@ -76,7 +76,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine
-- [Nautilus](https://nautil.us) : NewYorker for tech.
+- [Nautilus](http://nautil.us) : NewYorker for tech.
 
 
 ## Coding practice for beginners
