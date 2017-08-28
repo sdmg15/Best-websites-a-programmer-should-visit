@@ -17,6 +17,7 @@ When learning CS there are some useful sites you must know to get always informe
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
+<li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
@@ -72,6 +73,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
+
+## Magazines
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine
+- [Nautilus](https://nautil.us) : NewYorker for tech.
 
 
 ## Coding practice for beginners
