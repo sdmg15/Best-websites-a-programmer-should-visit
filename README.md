@@ -288,7 +288,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 - [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
-- [DeepLearning.ai](https://www.deeplearning.ai/) : Deep Learning course by Andrew Ng, Founder of coursera
+- [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of coursera
 
 
 ## Seminar , research writing , talks etc
@@ -427,7 +427,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
 - [vim.rtorr](https://vim.rtorr.com) : Vim Cheat Sheet
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
-- [Algorithm Using Dynamic Programming and A ](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
+- [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
 
 
 ## Watch others code
