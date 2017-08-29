@@ -66,10 +66,12 @@ When learning CS there are some useful sites you must know to get always informe
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
+- [High Scalability](http://highscalability.com/) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
+- [Stack Share](https://stackshare.io) : Technical stack sharing site for various companies
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
