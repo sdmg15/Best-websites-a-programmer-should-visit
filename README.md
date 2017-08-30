@@ -66,7 +66,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [High Scalability](http://highscalability.com/) : Success stories of various companies on their apps, infra scaling.
+- [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
@@ -524,7 +524,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
-- [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com/) : Lucas Vieira Barbosa's lab original math and physics visualization
+- [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
