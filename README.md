@@ -205,7 +205,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
-- [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interview
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet)
 - [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
 - [Visualising Data Structures and Algorithms through Animation](https://visualgo.net/en)
@@ -278,7 +278,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals)
 - [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
-- [Welcome to JavaWorld.com](http://www.javaworld.com)
+- [JavaWorld](https://www.javaworld.com/) : Welcome to Javaworld 
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 
 
@@ -407,7 +407,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning linux
-- [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java and pseudocode.
