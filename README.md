@@ -278,7 +278,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals)
 - [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
-- [JavaWorld](https://www.javaworld.com/) : Welcome to Javaworld 
+- [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld 
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 
 
