@@ -77,8 +77,9 @@ When learning CS there are some useful sites you must know to get always informe
 - [XDA](https://www.xda-developers.com) : Android Developers News
 
 ## Magazines
-- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
+- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
 
 ## Coding practice for beginners
