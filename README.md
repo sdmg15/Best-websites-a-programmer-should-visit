@@ -71,14 +71,16 @@ When learning CS there are some useful sites you must know to get always informe
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
+- [Slashdot](http://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [Stack Share](https://stackshare.io) : Technical stack sharing site for various companies
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
 
 ## Magazines
-- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
+- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
 
 ## Coding practice for beginners
