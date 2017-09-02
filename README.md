@@ -522,5 +522,21 @@ When learning CS there are some useful sites you must know to get always informe
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
 
+## Open Source Websites
+- [Github](https://github.com) : GitHub is a web-based Git or version control repository and Internet hosting service.
+- [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
+- [Source Forge](sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
+- [Google Code](code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
+- [Launch Pad](launchpad.net) : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.
+-[Google Open Source](opensource.google.com) : Google Open Source
+-[Red Hat Developer](developer.redhat.com) : The world's leading provider of open source solutions
+-[Open Source](opensource.com) : Open Source
+-[Google Summer of Code](https://summerofcode.withgoogle.com/) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.
+-[Open Source Web Design](http://www.oswd.org/) : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.
+-[Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS project.
+-[Eclipse Lab](http://www.eclipse.org/org/foundation/eclipselabs/faq.php) : 
+Eclipse Labs is a community of open source projects that build technology based on the Eclipse platform. It provides the infrastructure services typically required by open source projects, such as code repositories, bug tracking, project web sites/wiki. Eclipse Labs is hosted by Google Code Project Hosting, so it will be very familiar to developers already using Google Code Project Hosting. 
+-[Bit Bucket](https://bitbucket.org/) : Like GitHub, BitBucket hosts both public and private projects. On this site, open source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.
+-[Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
 
-  **Maintained with :heart: by sdmg15 & al**
+**Maintained with :heart: by sdmg15 & al**
