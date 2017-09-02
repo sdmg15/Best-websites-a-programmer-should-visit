@@ -45,7 +45,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#blogs-of-developers">Blogs of Developers</a></li>
 <li><a href="#for-improving-your-english">For improving your English</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#Open-Source-Websites">Open Source Websites</a></li>
+<li><a href="#open-source-websites">Open Source Websites</a></li>
 </ul>
 
 ## When you get stuck
