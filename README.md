@@ -559,7 +559,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
 - [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High quality analysis of films and filmmaking
-- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high quality content from all over the world
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
@@ -574,7 +573,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
 ## Open Source Websites
-- [Github](https://github.com) : GitHub is a web-based Git or version control repository and Internet hosting service.
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
