@@ -570,6 +570,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
+- [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+- [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
 ## Open Source Websites
 - [Github](https://github.com) : GitHub is a web-based Git or version control repository and Internet hosting service.
@@ -587,10 +589,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Bit Bucket](https://bitbucket.org/) : Like GitHub, BitBucket hosts both public and private projects. On this site, open source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.
 - [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
 
-**Maintained with :heart: by sdmg15 & al**
-=======
-- [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
-- [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
