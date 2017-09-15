@@ -172,7 +172,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [checkcheckzz/system-design-interview](https://github.com/Twipped/InterviewThis) : An open source list of developer questions to ask prospective employers 
-- [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
+- [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
@@ -273,7 +273,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables ect
-- [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
+- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
@@ -375,7 +375,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Syntax](https://syntax.fm) : A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
-- [The Cynical Developer](http://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
+- [The Cynical Developer](https://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 
 
 ## Building a Simple Compiler/Interpreter
