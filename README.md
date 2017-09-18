@@ -99,6 +99,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [treehouse](https://teamtreehouse.com/) : The fast, easy, and affordable way to build your skills.
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -132,12 +133,13 @@ When learning CS there are some useful sites you must know to get always informe
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
-- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science) : Free online CS courses
+- [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
 - [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
 - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
+- [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
 
@@ -147,7 +149,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [regexr](http://regexr.com) : Another online tool to learn, build & test Regular Expressions
+- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 
 ## Bash and Shell scripting  
@@ -170,8 +172,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-- [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
+- [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
@@ -272,7 +273,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables ect
-- [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
+- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
@@ -374,7 +375,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Syntax](https://syntax.fm) : A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
-- [The Cynical Developer](http://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
+- [The Cynical Developer](https://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 
 
 ## Building a Simple Compiler/Interpreter
@@ -586,6 +587,12 @@ When learning CS there are some useful sites you must know to get always informe
 - [Eclipse Lab](http://www.eclipse.org/org/foundation/eclipselabs/faq.php) : Eclipse Labs is a community of open source projects that build technology based on the Eclipse platform. It provides the infrastructure services typically required by open source projects, such as code repositories, bug tracking, project web sites/wiki. Eclipse Labs is hosted by Google Code Project Hosting, so it will be very familiar to developers already using Google Code Project Hosting. 
 - [Bit Bucket](https://bitbucket.org) : Like GitHub, BitBucket hosts both public and private projects. On this site, open source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.
 - [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
+- [Code Curiosity](https://codecuriosity.org) : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.
+- [Code Triage](https://www.codetriage.com) : Help out your favorite open source projects and become a better developer while doing it.
+- [Issue Hub](http://issuehub.io) : Contribute to Open Source. Search issue labels to find the right project for you
+- [Up for Grabs](http://up-for-grabs.net) : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.
+- [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
+- [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere. 
 
 
 ### Special Thanks
