@@ -99,7 +99,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [treehouse](https://teamtreehouse.com/) : The fast, easy, and affordable way to build your skills.
+- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 
 
 ## For those who want to start a small project but can't find the ideas
