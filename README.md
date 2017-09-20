@@ -198,7 +198,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
-- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)
+- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
@@ -346,7 +346,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : Let's code a TCP/IP stack, 5: TCP Retransmission 
 - [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : The language of choice
 - [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
-- [Data Structure Map](https://fkcd.ca/b7d.svg)
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
