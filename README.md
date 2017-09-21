@@ -354,7 +354,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
-- [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+- [What every programmer should know about memory - PDF ](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
 
 
