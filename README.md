@@ -19,6 +19,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
@@ -100,6 +101,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+
+## CryptoCurrency 
 
 
 ## For those who want to start a small project but can't find the ideas
