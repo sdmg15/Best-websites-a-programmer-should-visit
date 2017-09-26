@@ -76,6 +76,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [Stack Share](https://stackshare.io) : Technical stack sharing site for various companies
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
+- [The DEV Community](https://dev.to/) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
 
