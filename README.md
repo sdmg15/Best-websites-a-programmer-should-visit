@@ -104,7 +104,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 
 ## CryptoCurrency 
-
+- [What Cryotocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
