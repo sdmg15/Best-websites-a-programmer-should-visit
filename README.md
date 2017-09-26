@@ -91,7 +91,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
 - [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
+- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram 
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
@@ -117,6 +117,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well 
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
+- [Learn to Code With Me](https://learntocodewith.me/) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
