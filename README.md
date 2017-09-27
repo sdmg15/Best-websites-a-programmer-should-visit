@@ -9,7 +9,7 @@
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
-When learning CS there are some useful sites you must know to get always informed in order to do your technologies even better and learn new things. Here is a non exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+When learning CS, there are some useful sites you must know to get always informed in order to do your technologies even better and learn new things. Here is a non exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 	
@@ -91,7 +91,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
 - [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram 
+- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
