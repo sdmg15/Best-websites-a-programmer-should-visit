@@ -444,7 +444,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vim.rtorr](https://vim.rtorr.com) : Vim Cheat Sheet
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 - [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
-
+- [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
 
 ## Watch others code
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
