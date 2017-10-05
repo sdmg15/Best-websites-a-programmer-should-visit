@@ -9,7 +9,7 @@
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
-When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit, this list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+When learning CS, there are some useful sites you must know to get always informed in order to do your technologies even better and learn new things. Here is a non exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 	
@@ -19,6 +19,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
@@ -75,6 +76,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [Stack Share](https://stackshare.io) : Technical stack sharing site for various companies
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
+- [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
 
@@ -101,6 +103,9 @@ When learning CS there are some useful sites you must know to get always informe
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 
+## CryptoCurrency 
+- [What Cryotocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You
+- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
@@ -117,6 +122,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well 
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
+- [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
@@ -295,6 +301,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 - [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
 - [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of coursera
+- [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
+- [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA 
 
 
 ## Seminar , research writing , talks etc
@@ -310,6 +318,8 @@ When learning CS there are some useful sites you must know to get always informe
 ## Everything in one place
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should isit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
+- [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
+- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets 
 
 
 ## YouTube Channels
@@ -354,9 +364,11 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
-- [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+- [What every programmer should know about memory - PDF](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
-
+- [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : How I got to 200 productive hours a month
+- [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : Parallel processing with unix tools
+- [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
 
 ## Podcasts
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
@@ -367,6 +379,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Groovy Podcast](http://groovypodcast.podbean.com) : A podcast dedicated to the Groovy programming language and its ecosystem.
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
+- [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
 - [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics.
@@ -433,7 +446,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [vim.rtorr](https://vim.rtorr.com) : Vim Cheat Sheet
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 - [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
-
+- [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
 
 ## Watch others code
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
