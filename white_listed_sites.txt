@@ -1,6 +1,7 @@
 bikeshed.fm
 codepen.io
 haseebq.com
+http://www.codergears.com/Blog/
 https://artofproblemsolving.com
 https://hackernoon.com/
 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
