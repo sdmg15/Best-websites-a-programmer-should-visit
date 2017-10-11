@@ -1,0 +1,562 @@
+[
+  {
+    "loc": 67,
+    "status": 301,
+    "link": "http://www.gsmarena.com",
+    "redirect": "https://www.gsmarena.com/",
+    "error": ""
+  },
+  {
+    "loc": 71,
+    "status": 302,
+    "link": "https://hackernoon.com",
+    "redirect": "https://medium.com/m/global-identity?redirectUrl=https://hackernoon.com/",
+    "error": ""
+  },
+  {
+    "loc": 113,
+    "status": 302,
+    "link": "https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11",
+    "redirect": "https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fevery-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "error": ""
+  },
+  {
+    "loc": 190,
+    "status": -1,
+    "link": "https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 191,
+    "status": 302,
+    "link": "http://placementsindia.blogspot.com",
+    "redirect": "http://placementsindia.blogspot.in/",
+    "error": ""
+  },
+  {
+    "loc": 203,
+    "status": 302,
+    "link": "http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html",
+    "redirect": "http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html",
+    "error": ""
+  },
+  {
+    "loc": 204,
+    "status": 302,
+    "link": "http://placement-iit2013.blogspot.com",
+    "redirect": "http://placement-iit2013.blogspot.in/",
+    "error": ""
+  },
+  {
+    "loc": 232,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=1fqxMuPmGak",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 233,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=S23yie-779k",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 234,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=4NIb9l3imAo",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 235,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=Eg5-tdAwclo",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 236,
+    "status": -1,
+    "link": "https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 237,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=iOq5kSKqeR4",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 238,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=42KTvGYQYnA",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 239,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=Mv2XQgpbTNE",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 242,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=0iPiYxjsYKk",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 243,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=d7DKVfOXr54",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 244,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=enWWlx7-t0k",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 245,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=fLLXiP7diEo",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 246,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=s1i-dnAH9Y4",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 247,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=a-49a_CjH0M",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 249,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=XMm0HsmOTFI",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 250,
+    "status": -1,
+    "link": "https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 255,
+    "status": -1,
+    "link": "https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 257,
+    "status": -1,
+    "link": "https://www.youtube.com/user/cs50tv/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 268,
+    "status": -1,
+    "link": "https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 272,
+    "status": -1,
+    "link": "https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 281,
+    "status": 302,
+    "link": "http://javarevisited.blogspot.com",
+    "redirect": "http://javarevisited.blogspot.in/",
+    "error": ""
+  },
+  {
+    "loc": 303,
+    "status": -1,
+    "link": "https://www.tensorflow.org",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 306,
+    "status": 301,
+    "link": "http://blog.floydhub.com/coding-the-history-of-deep-learning/",
+    "redirect": "https://blog.floydhub.com/coding-the-history-of-deep-learning/",
+    "error": ""
+  },
+  {
+    "loc": 328,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 329,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 330,
+    "status": -1,
+    "link": "https://www.youtube.com/user/codingblocks",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 331,
+    "status": -1,
+    "link": "https://www.youtube.com/user/Computerphile/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 332,
+    "status": -1,
+    "link": "https://www.youtube.com/user/ComputerHistory/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 333,
+    "status": -1,
+    "link": "https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 334,
+    "status": -1,
+    "link": "https://www.youtube.com/user/FacebookDevelopers/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 335,
+    "status": -1,
+    "link": "https://www.youtube.com/c/mpjmevideos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 336,
+    "status": -1,
+    "link": "https://www.youtube.com/user/GoogleDevelopers/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 337,
+    "status": -1,
+    "link": "https://www.youtube.com/user/GoogleTechTalks/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 338,
+    "status": -1,
+    "link": "https://www.youtube.com/user/GynvaelEN",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 339,
+    "status": -1,
+    "link": "https://www.youtube.com/user/HowToBecomeTV/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 340,
+    "status": -1,
+    "link": "https://www.youtube.com/user/java/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 341,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 342,
+    "status": -1,
+    "link": "https://www.youtube.com/user/MeetingCPP/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 343,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 344,
+    "status": -1,
+    "link": "https://www.youtube.com/user/OreillyMedia/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 345,
+    "status": -1,
+    "link": "https://www.youtube.com/user/PlacementGrid/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 347,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 348,
+    "status": -1,
+    "link": "https://www.youtube.com/user/ThinMatrix/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 349,
+    "status": -1,
+    "link": "https://www.youtube.com/user/ThoughtbotVideo/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 350,
+    "status": -1,
+    "link": "https://www.youtube.com/user/technoparkcorp/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 424,
+    "status": 301,
+    "link": "http://www.le.ac.uk/users/rjm1/cotter/index.htm",
+    "redirect": "https://www.le.ac.uk/users/rjm1/cotter/index.htm",
+    "error": ""
+  },
+  {
+    "loc": 473,
+    "status": -1,
+    "link": "https://code.google.com/codejam/past-contests",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 485,
+    "status": 522,
+    "link": "http://gatecse.in/best-books-for-gatecse/",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 493,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 495,
+    "status": -1,
+    "link": "https://www.youtube.com/user/CodingMadeEasy/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 496,
+    "status": -1,
+    "link": "https://www.youtube.com/playlist?list=PL6B940F08B9773B9F",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 497,
+    "status": -1,
+    "link": "https://www.youtube.com/user/derekbanas/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 499,
+    "status": -1,
+    "link": "https://www.youtube.com/user/DevTipsForDesigners/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 500,
+    "status": -1,
+    "link": "https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 501,
+    "status": -1,
+    "link": "https://www.youtube.com/user/mycodeschool/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 503,
+    "status": -1,
+    "link": "https://www.youtube.com/user/thenewboston/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 504,
+    "status": -1,
+    "link": "https://www.youtube.com/user/tusharroy2525/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 508,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=1PhArSujR_A",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 524,
+    "status": 302,
+    "link": "http://algo-geeks.blogspot.com",
+    "redirect": "http://algo-geeks.blogspot.in/",
+    "error": ""
+  },
+  {
+    "loc": 540,
+    "status": 302,
+    "link": "http://eli.thegreenplace.net",
+    "redirect": "https://eli.thegreenplace.net/",
+    "error": ""
+  },
+  {
+    "loc": 571,
+    "status": -1,
+    "link": "https://www.youtube.com/user/barcroftmedia/featured",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 572,
+    "status": -1,
+    "link": "https://www.youtube.com/user/bigthink/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 573,
+    "status": -1,
+    "link": "https://www.youtube.com/user/coldfustion/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 574,
+    "status": -1,
+    "link": "https://www.youtube.com/user/crashcourse/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 575,
+    "status": -1,
+    "link": "https://www.youtube.com/user/everyframeapainting/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 576,
+    "status": -1,
+    "link": "https://www.youtube.com/user/NationalGeographic/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 579,
+    "status": -1,
+    "link": "https://www.youtube.com/user/VineMontanaTV/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 580,
+    "status": -1,
+    "link": "https://www.youtube.com/user/scishow/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 581,
+    "status": -1,
+    "link": "https://www.youtube.com/user/destinws2/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 582,
+    "status": -1,
+    "link": "https://www.youtube.com/user/TEDtalksDirector/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 583,
+    "status": -1,
+    "link": "https://www.youtube.com/user/TestTubeNetwork/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 586,
+    "status": -1,
+    "link": "https://www.youtube.com/user/Vsauce/videos",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  },
+  {
+    "loc": 598,
+    "status": -1,
+    "link": "https://summerofcode.withgoogle.com",
+    "redirect": "",
+    "error": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+  }
+]
