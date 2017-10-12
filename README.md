@@ -321,7 +321,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Websites a programmer should isit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [](http://devdocs.io/) : A one-place well known API Documentation with searchable interface
+- [API Documentation](http://devdocs.io/) : A one-place well known API Documentation with searchable interface
 
 
 ## YouTube Channels
