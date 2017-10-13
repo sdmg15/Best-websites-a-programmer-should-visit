@@ -298,6 +298,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
 - [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) : A goldmine of web development tutorials and general programming talks from Brad Traversy
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every wednesday are new live streams.
 
 ## Good Articles
@@ -353,6 +354,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [Tutorialspoint](http://www.tutorialspoint.com)
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
+- [The Modern JavaScript Tutorial](http://javascript.info) : Excellent read from basics to Advanced Modern JS.
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
 - [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
