@@ -304,6 +304,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of coursera
 - [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA 
+- [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 
 
 ## Seminar , research writing , talks etc
