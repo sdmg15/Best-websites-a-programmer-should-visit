@@ -609,6 +609,50 @@ When learning CS, there are some useful sites you must know to get always inform
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere. 
 
+❄ Websites To Practice Coding Skills
+
+⚡ https://www.hackerrank.com
+
+⚡ https://www.codewars.com
+
+⚡ https://www.hackerearth.com
+
+⚡ https://codecombat.com
+
+⚡ https://projecteuler.net
+
+⚡ https://brainwar.it
+
+⚡ http://www.programmr.com
+
+⚡ https://www.codechef.com
+
+⚡ http://www.codeabbay.com
+
+⚡ https://www.topcoder.com
+
+⚡ https://coderbyte.com
+
+⚡ https://leetcode.com
+
+⚡ http://exercism.io
+
+⚡ https://codefights.com
+
+⚡ http://www.cyber-dojo.org
+
+⚡ http://codingbat.com
+
+⚡ http://www.pythonchallenge.com
+
+⚡ https://codegolf.stackexchange.com
+
+⚡ https://www.codingame.com
+
+⚡ http://www.programmr.com
+
+⚡ https://programmingpraxis.com
+
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
