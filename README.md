@@ -158,6 +158,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
+- [Seymour](https://harc.github.io/seymour-live2017/) : Live Programming for the Classroom
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
