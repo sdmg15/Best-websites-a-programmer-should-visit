@@ -159,6 +159,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [Seymour](https://harc.github.io/seymour-live2017/) : Live Programming for the Classroom
+- [Code share](https://codeshare.io/) : Share code in real-time with other developers
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
