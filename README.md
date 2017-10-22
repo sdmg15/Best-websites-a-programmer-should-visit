@@ -33,7 +33,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
-<li><a href="#Bash-and-shell-scripting">Bash and Shell scripting</a></li>
+<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#podcasts">Podcasts</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
