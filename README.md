@@ -270,7 +270,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
-- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how te GC works
+- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner 
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
@@ -281,7 +281,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
 - [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
-- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables ect
+- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
@@ -360,7 +360,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : Let's code a TCP/IP stack, 5: TCP Retransmission 
 - [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : The language of choice
-- [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
+- [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algorithms and datastructure with their solutions.
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
