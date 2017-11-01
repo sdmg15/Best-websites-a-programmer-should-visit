@@ -324,7 +324,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [API Documentation](http://devdocs.io/) : A one-place well known API Documentation with searchable interface
+- [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
 
 
 ## YouTube Channels
@@ -453,7 +453,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 - [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
 - [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
-- [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
+- [C++17](https://www.viva64.com/en/b/0533) : A guide of C++17
 
 ## Watch others code
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
