@@ -507,6 +507,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+- [FreeCourses](https://freecourses.github.io/) : Free courses about programming
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
