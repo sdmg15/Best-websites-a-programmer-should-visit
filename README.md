@@ -352,6 +352,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using opengl
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
 - [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
+- [GOTO Conference](https://www.youtube.com/user/GotoConferences) : tech talks from the GOTO Conference by Developers for Developers
 
 
 ## Good Articles
