@@ -13,5 +13,5 @@ before_script:
   - npm install --global awesome-lint
 script:
   - awesome-lint
-  - awesome_bot README.md --white-list $(paste -d, -s white_listed_sites.txt)
+  - awesome_bot README.md --white-list $(paste -d, -s white_listed_sites.txt) --allow-ssl --allow-redirect
 
