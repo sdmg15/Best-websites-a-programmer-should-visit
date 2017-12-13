@@ -3,7 +3,10 @@ codepen.io
 haseebq.com
 http://www.codergears.com/Blog/
 https://artofproblemsolving.com
+https://forum.xda-developers.com
+https://forum.xda-developers.com/general/xda-university
 https://hackernoon.com/
+https://regexr.com
 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
 learn.hackerearth.com
 medium.freecodecamp.com
