@@ -160,6 +160,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
+- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
@@ -535,6 +536,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Blogs of Developers
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
+- [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
 - [Antirez - Redis Creator's blog](http://antirez.com/latest/0) : the blog of Antirez
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
