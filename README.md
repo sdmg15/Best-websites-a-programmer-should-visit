@@ -262,7 +262,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
-- [NPTEL Vidoes COMP_SCI_ENGG](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG) : National Programme on Technology Enhanced Learning
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
 
