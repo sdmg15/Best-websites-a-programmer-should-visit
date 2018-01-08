@@ -630,7 +630,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Jobs
 
-- [Paysa](https://www.paysa.com/jobs) : Paysa helps you in finding new and interesting jobs according to your wish.
+- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 
 
 ### Special Thanks
