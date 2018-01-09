@@ -626,11 +626,11 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Internships
 
-- Add Intershps here.
+- [Internshala](https://internshala.com) : You can search internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 
 ## Jobs
 
-- Add Jobs here.
+- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 
 
 ### Special Thanks
