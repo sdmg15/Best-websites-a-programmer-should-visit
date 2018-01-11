@@ -636,7 +636,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Indeed](https://www.indeed.com) : Find internation jobs on Indeed and get a market salary for your dedication and devotion.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
-- [Dice](https://www.dice.com/) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location. 
+- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location. 
 
 
 ### Special Thanks
