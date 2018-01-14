@@ -194,7 +194,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
-- [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 - [Guide to Tech Interviews](https://www.kchodorow.com/blog/2013/02/28/guide-to-tech-interviews/)
@@ -567,7 +566,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
-- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com) : Software Development, Architecture and Technical Leadership for the Enterprise
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
