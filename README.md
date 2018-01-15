@@ -121,7 +121,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Coding advice
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
-- [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/) : Stephen Haunts { Coding in the Trenches }
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
@@ -195,7 +194,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
-- [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 - [Guide to Tech Interviews](https://www.kchodorow.com/blog/2013/02/28/guide-to-tech-interviews/)
@@ -314,7 +312,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Seminar , research writing , talks etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
-- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/) : Practical Tips for Talking at Usergroups and Conferences
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
 - [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
 - [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with ease
@@ -569,7 +566,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
-- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com) : Software Development, Architecture and Technical Leadership for the Enterprise
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
@@ -633,6 +629,12 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Jobs
 
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
+- [Indeed](https://www.indeed.com) : Find internation jobs on Indeed and get a market salary for your dedication and devotion.
+- [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you. Search all the open positions on the web. Get your own personalized salary estimate. 
+- [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
+- [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
+- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location.
+ 
 
 
 ### Special Thanks
