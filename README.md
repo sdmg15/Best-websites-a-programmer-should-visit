@@ -628,6 +628,8 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Jobs
 
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
+- [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
+  yourself to a curated list of top companies. Complete privacy and no spacm.
 - [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering and finding new and attractive jobs according to your needs and
