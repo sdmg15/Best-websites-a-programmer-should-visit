@@ -631,6 +631,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
   yourself to a curated list of top companies. Complete privacy and no spacm.
 - [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+- [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply
+  for a job ever again, talk directly to decision makers and hiring managers.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering and finding new and attractive jobs according to your needs and
   interests.
