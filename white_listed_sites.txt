@@ -1,8 +1,10 @@
 bikeshed.fm
 codepen.io
 haseebq.com
+http://chimera.labs.oreilly.com/books/1234000001805/index.html
 http://www.codergears.com/Blog/
 https://artofproblemsolving.com
+https://codecuriosity.org/
 https://forum.xda-developers.com
 https://forum.xda-developers.com/general/xda-university
 https://hackernoon.com/
