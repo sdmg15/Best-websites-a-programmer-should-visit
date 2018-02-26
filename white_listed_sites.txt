@@ -11,6 +11,7 @@ https://forum.xda-developers.com/general/xda-university
 https://hackernoon.com/
 https://regexr.com
 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
+https://www.subtle.press/course/poor-mans-ci
 learn.hackerearth.com
 medium.freecodecamp.com
 projecteuler.net
