@@ -164,6 +164,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
+- [IDE Onlang](https://ide.onelang.io/) : Write in one language and get the same result in other languages.
+
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
