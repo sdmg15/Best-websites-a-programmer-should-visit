@@ -419,6 +419,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
+- [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
 - [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
