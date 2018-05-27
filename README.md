@@ -518,6 +518,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+- [Goal Kicker](https://goalkicker.com/) : Programming Notes for Professionals books
 
 
 ## Video Tutorials
