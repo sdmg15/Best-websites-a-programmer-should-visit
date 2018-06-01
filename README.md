@@ -109,7 +109,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## CryptoCurrency
 - [What Cryptocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
-- [GitCoin](https://gitcoin.co/) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
+- [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
@@ -300,7 +300,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Learn AI
-* [aima](http://aima.cs.berkeley.edu/) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+-[aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [grakn.ai](https://grakn.ai) : The Database for AI
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
@@ -368,7 +368,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
 - [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) : Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms. We bring simple to understand Text and Video tutorials at zero cost and cover many subjects including IT, Engineering, MBA, MCA, Management, Various Exams Preparation and Academic subjects. If you are really not extravagant and willing to save your money and time then we recommend you to try our tutorials.experience
-- [Udacity ](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university 
+- [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university 
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand software better, including explanations of how software performs some of its most important jobs and tools programmers can use to to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 
@@ -519,7 +519,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
-- [Goal Kicker](https://goalkicker.com/) : Programming Notes for Professionals books
+- [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 
 
 ## Video Tutorials
