@@ -520,6 +520,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
+- [The GraphQL Guide](https://graphql.guide/) : The complete guide to GraphQL, the new REST ✨
 
 
 ## Video Tutorials
