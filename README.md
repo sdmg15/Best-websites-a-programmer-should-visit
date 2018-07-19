@@ -167,7 +167,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
-- [IDE Onlang](https://ide.onelang.io/) : Write in one language and get the same result in other languages.
+- [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
@@ -252,7 +252,7 @@ When learning CS, there are some useful sites you must know to get always inform
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from 1950s explaining how mechanical computers used to work without all the modern day electronics.
 - [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
-- [Revolution OS Linux Documentary ](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open source, and the free software movement.
+- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open source, and the free software movement.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
@@ -522,7 +522,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
-- [The GraphQL Guide](https://graphql.guide/) : The complete guide to GraphQL, the new REST ✨
+- [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 
 
 ## Video Tutorials
