@@ -677,6 +677,50 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location.
  
 
+❄ Websites To Practice Coding Skills
+
+⚡ https://www.hackerrank.com
+
+⚡ https://www.codewars.com
+
+⚡ https://www.hackerearth.com
+
+⚡ https://codecombat.com
+
+⚡ https://projecteuler.net
+
+⚡ https://brainwar.it
+
+⚡ http://www.programmr.com
+
+⚡ https://www.codechef.com
+
+⚡ http://www.codeabbay.com
+
+⚡ https://www.topcoder.com
+
+⚡ https://coderbyte.com
+
+⚡ https://leetcode.com
+
+⚡ http://exercism.io
+
+⚡ https://codefights.com
+
+⚡ http://www.cyber-dojo.org
+
+⚡ http://codingbat.com
+
+⚡ http://www.pythonchallenge.com
+
+⚡ https://codegolf.stackexchange.com
+
+⚡ https://www.codingame.com
+
+⚡ http://www.programmr.com
+
+⚡ https://programmingpraxis.com
+
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
