@@ -82,6 +82,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
+- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
