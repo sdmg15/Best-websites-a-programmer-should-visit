@@ -107,6 +107,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [EnkiApp](https://enki.com/enkiapp/) : Level up your Javascript, Python, CSS, HTML, git, Linux and Java with Enki.
 
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
