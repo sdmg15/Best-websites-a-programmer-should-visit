@@ -96,7 +96,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
 - [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.	
+- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
@@ -369,15 +369,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced c++
 - [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : geeksforgeeks youtube
 - [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) : Hacker earth youtube
-- [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense. 
+- [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
-- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev 
+- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competetive programming
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
 - [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) : Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms. We bring simple to understand Text and Video tutorials at zero cost and cover many subjects including IT, Engineering, MBA, MCA, Management, Various Exams Preparation and Academic subjects. If you are really not extravagant and willing to save your money and time then we recommend you to try our tutorials.experience
-- [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university 
+- [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand software better, including explanations of how software performs some of its most important jobs and tools programmers can use to to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 
@@ -652,35 +652,46 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 
 ## Internships
-
-- [Internshala](https://internshala.com) : You can search internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
-- [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
-- [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern. 
+- [Chegg](http://www.chegg.com) : It is an awesome resource for finding
+	internships, scholarships, tutors, etc.
+- [Internshala](https://internshala.com) : You can search internships here
+	according to your skill sets for your interested location. It also helps you
+	in getting a good PPO offer from the company.
+- [Letsintern](https://www.letsintern.com) : Get a smart and challenging
+	internship for you from the LetsIntern.
+- [PerfectIntern](https://www.perfectintern.com): Get help finding a paid
+	internship, resume prep, interview prep, and more!
 
 ## Jobs
-
-- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
-- [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
-  yourself to a curated list of top companies. Complete privacy and no spacm.
-- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
-- [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply
-  for a job ever again, talk directly to decision makers and hiring managers.
+- [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of
+	the largest job boards, providing job listings, resume posting, and career
+	advice and resources to job seekers.
+- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
+	You can search by company, job title, keyword, employment type, and location.
+- [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
+	Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships
   and jobs.
+- [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get
+	a market salary for your dedication and devotion.
+- [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
+  yourself to a curated list of top companies. Complete privacy and no spam.
+- [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply
+	  for a job ever again, talk directly to decision makers and hiring managers.
+- [The Muse](https://www.themuse.com) : Find everything you need to succeed from
+	dream jobs to career advice. You can do a lot here on The Muse like exploring
+	companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and
+	interesting jobs according to your wish.
+- [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search
+	engine (and mobile app) that takes the hassle out of getting hired and provides
+	you with all the information you need to make a sound career move.
+- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
+  Candidate or Employer. You can get your job easily here.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering and finding new and attractive jobs according to your needs and
   interests.
-- [Indeed](https://www.indeed.com) : Find internation jobs on Indeed and get a market salary for your dedication and devotion.
-- [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you. Search all the open positions on the web. Get your own personalized salary estimate. 
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
-- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
-  Candidate or Employer. You can get your job easily here.
-
-- [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
-- [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
-- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location.
- 
-
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
