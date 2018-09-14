@@ -91,21 +91,22 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Coding practice for beginners
-- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
+- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
+- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
-- [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
-- [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
+- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 
 ## CryptoCurrency
