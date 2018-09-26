@@ -102,7 +102,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
@@ -356,6 +356,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to tech industry.
 - [Java](https://www.youtube.com/user/java/videos) : talks related to java
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
+- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
 - [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of world's best technical writers.
