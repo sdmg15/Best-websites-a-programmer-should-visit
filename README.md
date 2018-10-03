@@ -341,6 +341,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
+- [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 
 
 ## YouTube Channels
