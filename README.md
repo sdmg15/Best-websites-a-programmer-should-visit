@@ -208,6 +208,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
+- [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
