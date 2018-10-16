@@ -671,6 +671,9 @@ When learning CS, there are some useful sites you must know to get always inform
 	internship, resume prep, interview prep, and more!
 
 ## Jobs
+- [AngelList](https://angel.co/) : AngelList is a 
+	website for startups, angel investors, and job-seekers 
+	looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of
 	the largest job boards, providing job listings, resume posting, and career
 	advice and resources to job seekers.
