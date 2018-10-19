@@ -177,6 +177,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
+- [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
+
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
