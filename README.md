@@ -108,6 +108,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [EnkiApp](https://enki.com/enkiapp/) : Level up your Javascript, Python, CSS, HTML, git, Linux and Java with Enki.
 
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
