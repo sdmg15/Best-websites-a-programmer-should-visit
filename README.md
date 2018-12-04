@@ -115,7 +115,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [What Cryptocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
