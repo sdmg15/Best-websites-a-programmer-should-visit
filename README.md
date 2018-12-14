@@ -77,7 +77,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
-- [Stack Share](https://stackshare.io) : Technical stack sharing site for various companies
+- [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
