@@ -587,6 +587,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Blogs of Developers
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
+- [Amit Merchant](https://www.amitmerchant.com) : Tutorials, tips & tricks and rants about programming and design.
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
