@@ -512,8 +512,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 
 ## Watch others code
-- [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
-- [Twitch.tv](https://www.twitch.tv/communities/programming) : The programming community of twitch.
+- [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building application, websites, games, etc.
+- [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 
 ## What should a programmer know
