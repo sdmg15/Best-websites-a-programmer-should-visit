@@ -28,3 +28,13 @@ www.joelonsoftware.com
 www.quora.com
 www.techotopia.com
 www.topcoder.com
+https://code.tutsplus.com
+https://developers.google.com
+https://stackoverflow.com
+https://www.hackerrank.com
+https://bitbucket.org
+https://techcrunch.com
+https://www.bitdegree.org
+https://scotch.io
+https://firstsiteguide.com
+https://slashdot.org
