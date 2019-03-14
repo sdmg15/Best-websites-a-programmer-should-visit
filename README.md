@@ -509,6 +509,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 - [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
+- [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
+
 
 ## Watch others code
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building application, websites, games, etc.
