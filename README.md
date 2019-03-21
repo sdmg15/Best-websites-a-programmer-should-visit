@@ -349,7 +349,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
@@ -592,7 +591,6 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Blogs of Developers
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
-- [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
