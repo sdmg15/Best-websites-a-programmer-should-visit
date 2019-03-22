@@ -171,7 +171,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
-- [CodeSandbox](https://codesandbox.io) : Online code editor with a focus on creating and sharing web application projects.
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
@@ -184,6 +183,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 
 
 ## Bash and Shell scripting  
@@ -275,6 +275,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
+- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
 
 
 ## MOOCs for learning something new
@@ -348,7 +349,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
@@ -395,6 +395,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand software better, including explanations of how software performs some of its most important jobs and tools programmers can use to to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
+- [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 
 
 ## Good Articles
@@ -434,6 +435,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
 - [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
+- [Soft Skills Engineering](https://softskills.audio/) : A weekly advice podcast for software developers about non-technical topics.
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics.
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
 - [Syntax](https://syntax.fm) : A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
@@ -466,7 +468,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
-- [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
 - [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
@@ -508,10 +509,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 - [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
+- [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
+
 
 ## Watch others code
-- [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
-- [Twitch.tv](https://www.twitch.tv/communities/programming) : The programming community of twitch.
+- [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building application, websites, games, etc.
+- [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 
 ## What should a programmer know
@@ -580,9 +583,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
+- [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allow you to share those snippet that will break inside iframe.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set period of time which can be shared instantly.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
+- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as code editor 
 
 
 ## Blogs of Developers
@@ -620,7 +625,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
-- [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 
 
@@ -693,6 +697,7 @@ When learning CS, there are some useful sites you must know to get always inform
 	advice and resources to job seekers.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
 	You can search by company, job title, keyword, employment type, and location.
+- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
 	Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships
