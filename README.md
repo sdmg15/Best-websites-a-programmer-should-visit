@@ -150,22 +150,20 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Coding Style
-- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
-- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
+- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
+- [(Good) C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
+- [C++ Style Guide - Google](https://google.github.io/styleguide/cppguide.html)
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
-- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
-- [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
-- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
+- [JavaScript Style Guide - Airbnb](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
+- [JavaScript Style Guide - Standard JS](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
+- [Python Style Guide - Google](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
+- [Python Style Guide - PEP8](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
+- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
+- [Ruby Style Guide - Airbnb](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
-- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
-- [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
-- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
 
 
 ## General Tools
@@ -283,12 +281,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
 - [Coursera.org](https://www.coursera.org) : Take the world's best courses, online.
 - [CS50](https://www.youtube.com/user/cs50tv/videos) : A set of goods tutorials from cs50
+- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Compiled list containing large amount of CS courses
 - [edX](https://www.edx.org) : Free Online Courses, Advance Your Career, Improve Your Life.
 - [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Programming courses focused on art and creativity
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
-- [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Open Source Society University](https://github.com/ossu/computer-science) : Open Source Society University - "a complete education in computer science using online materials"
 
 
 ## Sites related to your preferred programming language (For me Java)
