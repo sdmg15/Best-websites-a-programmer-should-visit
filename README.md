@@ -150,20 +150,34 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Coding Style
-- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
+- [AngularJS Style Guide - Google](https://google.github.io/styleguide/angularjs-google-style.html) : An AngularJS Style Guide for Closure Users at Google
+- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Papa
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
+- [C/C++ Coding Style for Emacs - Google](https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el) : Emacs settings file for Google's C/C++ style
 - [(Good) C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
 - [C++ Style Guide - Google](https://google.github.io/styleguide/cppguide.html)
-- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
+- [C++ Style Compliance Tool - Google](https://github.com/google/styleguide/tree/gh-pages/cpplint) : This is automated checker to make sure a C++ file follows Google's C++ style guide
+- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : Must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
+- [Google Style Guides](http://google.github.io/styleguide/) : Links to style guides and associated tools for many languages/environments.
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
+- [HTML/CSS Style Guide - Google](https://google.github.io/styleguide/htmlcssguide.html) : Google HTML/CSS Style Guide
+- [Java Style Guide - Google](https://google.github.io/styleguide/javaguide.html) : Google Java Style Guide
+- [Java Style Settings for IntelliJ - Google](https://google.github.io/styleguide/intellij-java-google-style.xml) : Settings file for Java in Jetbrains IntelliJ software
 - [JavaScript Style Guide - Airbnb](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
+- [JavaScript Style Guide - Google](https://google.github.io/styleguide/jsguide.html) : Google JavaScript Style Guide
 - [JavaScript Style Guide - Standard JS](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
+- [Lisp Style Guide - Google](https://google.github.io/styleguide/lispguide.xml) : Google Common Lisp Style Guide
+- [Objective-C Style Guide - Google](http://google.github.io/styleguide/objcguide.html) : Google Objective-C Style Guide
 - [Python Style Guide - Google](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
 - [Python Style Guide - PEP8](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
+- [R Style Guide - Google](https://google.github.io/styleguide/Rguide.xml) : Google's R Style Guide
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
-- [Ruby Style Guide - Airbnb](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
+- [Ruby Style Guide - Airbnb](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
+- [Shell Style Guide - Google](https://google.github.io/styleguide/shell.xml) : Shell Style Guide
+- [Vimscript Style Guide - Google](https://google.github.io/styleguide/vimscriptguide.xml) : Google Vimscript Style Guide
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get started
+- [XML Style Guide](https://google.github.io/styleguide/xmlstyle.html) : Google XML Document Format Style Guide
 
 
 ## General Tools
@@ -297,27 +311,32 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
 - [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
+- [Effective Dart - Google](https://www.dartlang.org/guides/language/effective-dart) : A set of guides that show you how to write the best Dart code possible. There are guides on Dart style, documentation, usage, and design.
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
+- [How to Write Go Code](https://golang.org/doc/code.html) : This document demonstrates the development of a simple Go package and introduces the go tool, the standard way to fetch, build, and install Go packages and commands.
 - [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
 - [Java Lecture Notes](http://www.cafeaulait.org/course/) : Java Student's Resource
 - [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
-- [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
+- [Java Revisited](http://javarevisited.blogspot.com) : Good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
-- [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
+- [Search Open Source Java API](http://www.docjar.com) : View source of Java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
+- [The Go Programming Language - Google](https://golang.org/doc/effective_go.html) : This document gives tips for writing clear, idiomatic Go code. It augments the language specification, the Tour of Go, and How to Write Go Code, all of which you should read first.
+- [The Go Programming Language Specification - Google](https://golang.org/ref/spec) : This is a reference manual for the Go programming language.
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
+- [Tour of Go - Google](https://tour.golang.org/welcome/1) : A tour of the Go programming language
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
-- [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
+- [What is Garbage Collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
-- [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
+- [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : Large collection of Java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 
 
