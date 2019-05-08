@@ -292,7 +292,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
 
-## Sites related to your preferred programming language (For me Java)
+## Sites related to your preferred programming language (For me C++)
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
@@ -512,7 +512,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
-
+- [Speaking io](https://speaking.io/) : Tips for public speaking
 
 ## Watch others code
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building application, websites, games, etc.
