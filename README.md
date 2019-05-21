@@ -200,7 +200,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful!
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
-- [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
+- [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
 - [BeehYve](https://www.beehyve.io) : Student crowdsourced resources for any topic
