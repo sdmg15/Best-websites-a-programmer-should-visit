@@ -719,6 +719,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search
 	engine (and mobile app) that takes the hassle out of getting hired and provides
 	you with all the information you need to make a sound career move.
+- [SwissDev Jobs](https://swissdevjobs.ch/) : a swiss IT job board for software developers
+	of all experience levels & blog with tips about moving to Switzerland.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
@@ -726,6 +728,7 @@ When learning CS, there are some useful sites you must know to get always inform
   interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
+
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
