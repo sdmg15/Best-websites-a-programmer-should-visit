@@ -45,7 +45,7 @@ When studying CS, these are some useful websites you should visit in order to ge
 <li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
 <li><a href="#blogs-of-developers">Blogs of Developers</a></li>
 <li><a href="#for-improving-your-english">Learn English</a></li>
-<li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
+<li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored with Programming</a></li>
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
