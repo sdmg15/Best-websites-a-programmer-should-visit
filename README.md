@@ -256,7 +256,6 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Documentaries
-- [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) : Gayle Laakmann McDowell (author of Cracking the Coding Interview)
 - [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
