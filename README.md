@@ -561,6 +561,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Video Tutorials
+- [AlgoExpert](https://www.algoexpert.io/product) : Ace the Coding Interviews with 77 video explanations of popular interview questions.
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
