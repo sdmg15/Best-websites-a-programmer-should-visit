@@ -7,6 +7,7 @@
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
 # Best-websites-a-programmer-should-visit
+
 Some useful websites for programmers.
 
 When learning CS, there are some useful sites you must know to get always informed in order to do your technologies even better and learn new things. Here is a non exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
@@ -52,14 +53,15 @@ When learning CS, there are some useful sites you must know to get always inform
 </ul>
 
 ## When you get stuck
+
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 
-
 ## News
+
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
@@ -81,17 +83,18 @@ When learning CS, there are some useful sites you must know to get always inform
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
-- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software and everything else in the Tech World. 
+- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software and everything else in the Tech World.
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 
 ## Magazines
+
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
-
 ## Coding practice for beginners
+
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
@@ -112,8 +115,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 
-
 ## CryptoCurrency
+
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
@@ -121,8 +124,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 
-
 ## For those who want to start a small project but can't find the ideas
+
+- [App Ideas](https://github.com/florinpop17/app-ideas) : A collection of app ideas for your next project. Sorted by beginner, intermediate, and advanced.
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
@@ -131,8 +135,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 
-
 ## General Coding advice
+
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
@@ -141,16 +145,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
 - [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
-- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : What I’ve learned from teaching others
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
 
-
 ## Coding Style
+
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
@@ -170,6 +174,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
 
 ## General Tools
+
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
@@ -186,17 +191,18 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 
+## Bash and Shell scripting
 
-## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
 - [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
 - [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
-- [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
+- [Airbon OS](https://www.airbornos.com) : Private Google Docs Alternative
 
 ## Interview Preparation
+
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful!
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
@@ -217,7 +223,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
-- [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
+- [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
@@ -254,8 +260,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 
-
 ## Documentaries
+
 - [Breaking the Code](https://www.youtube.com/watch?v=S23yie-779k) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
@@ -277,8 +283,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
 
-
 ## MOOCs for learning something new
+
 - [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
 - [Classpert](https://classpert.com) : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
@@ -291,8 +297,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
-
 ## Sites related to your preferred programming language (For me C++)
+
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
@@ -322,10 +328,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 
-
 ## Learn AI
+
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
-- [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
+- [fast.ai](http://course.fast.ai) : Free practical _deep learning_ course for coders without grad-level maths!
 - [grakn.ai](https://grakn.ai) : The Database for AI
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron
@@ -337,8 +343,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 
-
 ## Seminar , research writing , talks etc
+
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
@@ -346,16 +352,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with ease
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
-
 ## Everything in one place
+
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 
-
 ## YouTube Channels
+
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
@@ -391,7 +397,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competetive programming
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.
-- [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
+- [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
 - [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) : Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms. We bring simple to understand Text and Video tutorials at zero cost and cover many subjects including IT, Engineering, MBA, MCA, Management, Various Exams Preparation and Academic subjects. If you are really not extravagant and willing to save your money and time then we recommend you to try our tutorials.experience
@@ -400,8 +406,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 
-
 ## Good Articles
+
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
@@ -428,6 +434,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 
 ## Podcasts
+
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
@@ -448,11 +455,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Cynical Developer](https://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 - [Blockchain Insider by 11:FS](blockchain.global/blockchain-innovation) : Podcast to learn about the Blockchain Technology
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
-- [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
+- [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
 
-
 ## Building a Simple Compiler/Interpreter
+
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler) : This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 - [Awesome Compilers](http://aalhour.com/awesome-compilers/) : Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) : Learn how to grow a compiler
@@ -464,9 +471,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Write your own compiler](http://staff.polito.it/silvano.rivoira/HowToWriteYourOwnCompiler.htm) : How to write your own compiler
 - [Crafting Interpreters](http://craftinginterpreters.com/) A handbook for writing interpreters, first implementing a tree walking interpreter and later a bytecode virtual machine
 
-
-
 ## Tutorials
+
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
@@ -506,8 +512,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
 - [vim.rtorr](https://vim.rtorr.com) : Vim Cheat Sheet
-- [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
-- [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
+- [Open Vim](http://www.openvim.com/tutorial.html) : Interactive Vim tutorials
+- [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A\*
 - [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
 - [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
 - [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
@@ -517,17 +523,18 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 
 ## Watch others code
+
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building application, websites, games, etc.
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
-
 ## What should a programmer know
+
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively)
 - [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 
-
 ## Competitive programming
+
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
@@ -548,8 +555,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 
-
 ## Computer Books
+
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
@@ -559,8 +566,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 
-
 ## Video Tutorials
+
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
@@ -580,8 +587,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 
-
 ## Online Compiler and Sharing Code snippets
+
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share and reuse React projects with others.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
@@ -591,14 +598,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set period of time which can be shared instantly.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as code editor 
-
+- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as code editor
 
 ## Blogs of Developers
+
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
 - [Amit Merchant](https://www.amitmerchant.com) : Tutorials, tips & tricks and rants about programming and design.
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
-- [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
+- [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
 - [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
@@ -617,7 +624,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [HackerEarth Blog](http://blog.hackerearth.com) : The hackerearth blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
-- [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
+- [Late Developer](https://latedev.wordpress.com) : Random thoughts of an old C++ guy
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
@@ -631,16 +638,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 
-
 ## For improving your English
+
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 - [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
 
-
 ## When you get bored from CS related stuff
+
 - [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
 - [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
@@ -661,6 +668,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
 ## Open Source Websites
+
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
@@ -682,44 +690,46 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 
 ## Internships
+
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding
-	internships, scholarships, tutors, etc.
+  internships, scholarships, tutors, etc.
 - [Internshala](https://internshala.com) : You can search internships here
-	according to your skill sets for your interested location. It also helps you
-	in getting a good PPO offer from the company.
+  according to your skill sets for your interested location. It also helps you
+  in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging
-	internship for you from the LetsIntern.
+  internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid
-	internship, resume prep, interview prep, and more!
+  internship, resume prep, interview prep, and more!
 
 ## Jobs
-- [AngelList](https://angel.co/) : AngelList is a 
-	website for startups, angel investors, and job-seekers 
-	looking to work at startups. 
+
+- [AngelList](https://angel.co/) : AngelList is a
+  website for startups, angel investors, and job-seekers
+  looking to work at startups.
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of
-	the largest job boards, providing job listings, resume posting, and career
-	advice and resources to job seekers.
+  the largest job boards, providing job listings, resume posting, and career
+  advice and resources to job seekers.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
-	You can search by company, job title, keyword, employment type, and location.
-- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
+  You can search by company, job title, keyword, employment type, and location.
+- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs.
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
-	Search all the open positions on the web. Get your own personalized salary estimate.
+  Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships
   and jobs.
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get
-	a market salary for your dedication and devotion.
+  a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is now here. Showcase
   yourself to a curated list of top companies. Complete privacy and no spam.
 - [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply
-	  for a job ever again, talk directly to decision makers and hiring managers.
+  for a job ever again, talk directly to decision makers and hiring managers.
 - [The Muse](https://www.themuse.com) : Find everything you need to succeed from
-	dream jobs to career advice. You can do a lot here on The Muse like exploring
-	companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+  dream jobs to career advice. You can do a lot here on The Muse like exploring
+  companies, browsing jobs, career advice, discover careers, career coaching. Try it.
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and
-	interesting jobs according to your wish.
+  interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search
-	engine (and mobile app) that takes the hassle out of getting hired and provides
-	you with all the information you need to make a sound career move.
+  engine (and mobile app) that takes the hassle out of getting hired and provides
+  you with all the information you need to make a sound career move.
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
@@ -730,5 +740,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 
 ### Special Thanks
+
 - Please consider a github star if you find this useful and/or consider making a contribution.
 - A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
