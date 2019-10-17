@@ -353,6 +353,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+- [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 
 
 ## YouTube Channels
