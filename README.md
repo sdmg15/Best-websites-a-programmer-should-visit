@@ -400,6 +400,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand software better, including explanations of how software performs some of its most important jobs and tools programmers can use to to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 
 
 ## Good Articles
@@ -631,7 +632,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
-
+- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
 ## For improving your English
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
