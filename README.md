@@ -376,9 +376,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of world's best technical writers.
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
+- [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ/videos) : Attempting to communicate the deep ideas of academic subjects. This probably isn't going to help you on tests, but if you're curious about a subject, I hope you'll find this channel valuable.
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
-- [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ/videos) : Attempting to communicate the deep ideas of academic subjects. This probably isn't going to help you on tests, but if you're curious about a subject, I hope you'll find this channel valuable.
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using opengl
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
