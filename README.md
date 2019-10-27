@@ -707,7 +707,7 @@ When learning CS, there are some useful sites you must know to get always inform
   interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
-- [Linkedin jobs] (https://www.linkedin.com/jobs) : Very nice research tool for programming jobs
+- [Linkedin jobs](https://www.linkedin.com/jobs) : Very nice research tool for programming jobs
 
 ### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
