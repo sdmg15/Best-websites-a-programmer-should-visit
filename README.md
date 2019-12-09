@@ -379,6 +379,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
+- [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
+- [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
+- [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) : A goldmine of web development tutorials and general programming talks from Brad Traversy
+- [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every wednesday are new live streams.
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using opengl
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
@@ -402,7 +407,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
-
 
 ## Good Articles
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
@@ -470,6 +474,15 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Tutorials
+- [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
+- [Tutorialspoint](http://www.tutorialspoint.com)
+- [W3Schools Online Web Tutorials](https://www.w3schools.com)
+- [The Modern JavaScript Tutorial](http://javascript.info) : Excellent read from basics to Advanced Modern JS.
+- [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
+- [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
+- [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
+- [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
+- [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
