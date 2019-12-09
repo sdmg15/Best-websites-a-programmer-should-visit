@@ -20,16 +20,16 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
+<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas.</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
 <li><a href="#general-tools">General Tools</a></li>
 <li><a href="#interview-preparation">Interview Preparation</a></li>
 <li><a href="#documentaries">Documentaries</a></li>
-<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Sites related to your preferred programming language (For me Java)</a></li>
+<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new.</a></li>
+<li><a href="#sites-related-to-your-preferred-programming-language-for-me-java">Sites related to your preferred programming language (For me Java).</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
-<li><a href="#seminar--research-writing--talks-etc">Seminar , research writing , talks etc</a></li>
+<li><a href="#seminar-research-writing-talks-etc">Seminar, research writing, talks etc.</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
@@ -38,13 +38,13 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
-<li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
+<li><a href="#what-a-programmer-should-know">What a programmer should know</a></li>
 <li><a href="#competitive-programming">Competitive programming</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
 <li><a href="#video-tutorials">Video Tutorials</a></li>
 <li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#for-improving-your-english">For improving your English</a></li>
+<li><a href="#developer-blogs">Developer blogs</a></li>
+<li><a href="#english-language-skills">English language skills</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
@@ -69,7 +69,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GSMArena.com](http://www.gsmarena.com) : news related to latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
+- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly.
 - [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -83,11 +83,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
-- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers.
 
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
-- [Nautilus](http://nautil.us) : NewYorker for tech.
+- [Nautilus](http://nautil.us) : [The New Yorker](https://www.newyorker.com) for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
 
@@ -339,7 +339,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 
 
-## Seminar , research writing , talks etc
+## Seminar, research writing, talks etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
@@ -524,7 +524,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 
-## What should a programmer know
+## What a programmer should know
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively)
 - [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
@@ -598,7 +598,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as code editor 
 
 
-## Blogs of Developers
+## Developer Blogs
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
 - [Amit Merchant](https://www.amitmerchant.com) : Tutorials, tips & tricks and rants about programming and design.
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
@@ -636,7 +636,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
-## For improving your English
+## English Language Skills
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 - [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their english language skills
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
