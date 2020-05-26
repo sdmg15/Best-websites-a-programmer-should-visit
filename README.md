@@ -170,6 +170,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
 
 ## General Tools
+- [Adaface PairPro](https://www.adaface.com/pair-pro) : Shared code editor with compiler and video conferencing to quickly conduct remote interviews
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
@@ -226,6 +227,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
 - [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
 - [How to interview](http://kelukelu.me/interview/index.html)
+- [How to interview - 2 (a guide from interviewing 400 engineers)](https://www.adaface.com/blog/how-to-interview-software-engineers/)
 - [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
 - [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
@@ -585,6 +587,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Online Compiler and Sharing Code snippets
+- [Adaface PairPro](https://www.adaface.com/pair-pro) : Code editor with compiler and video conferencing
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share and reuse React projects with others.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
