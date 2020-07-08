@@ -407,6 +407,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Good Articles
+- [14 Things I Wish I’d Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB/)
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [A programmer-friendly language that compiles to Lua.](http://moonscript.org)
@@ -416,6 +417,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algorithms and data structures with their solutions.
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
+- [Getting Started with MongoDB – An Introduction] (https://studio3t.com/knowledge-base/articles/mongodb-getting-started/)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 - [Step by Step Guide to Database Normalization](https://www.databasestar.com/normalization-in-dbms/): A guide to database normalization.
