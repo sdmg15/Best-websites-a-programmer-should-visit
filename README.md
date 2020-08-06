@@ -581,12 +581,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia) : Traversy Media features the best online web development and programming tutorials
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia) : Traversy Media features the best online web development and programming tutorials
 
 ## Online Compiler and Sharing Code snippets
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
