@@ -89,6 +89,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [Lainzine](https://lainzine.org/) : Cyberpunk magazine for geeks
 
 
 ## Coding practice for beginners
@@ -169,6 +170,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
 - [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
 - [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
+- [Modern PHP reference](https://phptherightway.com): Modern PHP reference
 
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
