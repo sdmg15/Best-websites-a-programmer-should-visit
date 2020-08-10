@@ -214,6 +214,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Studio 3T](https://studio3t.com/): The professional IDE, client and GUI for MongoDB
+- [Robo 3T](https://robomongo.org/): A modern, robust and community-driven MongoDB management tool
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -332,6 +334,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Academy 3T](https://studio3t.com/academy/): The fastest way to learn MongoDB
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -459,6 +462,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
+- [Studio 3T](https://www.youtube.com/studio3t): MongoDB tutorials using Studio 3T
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -589,6 +593,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
+- [MongoDB Tutorials](https://studio3t.com/knowledge-base/categories/mongodb-tutorials/): Find MongoDB tutorials on how to build queries, use aggregation, create indexes,etc.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
