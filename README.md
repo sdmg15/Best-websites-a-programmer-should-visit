@@ -214,6 +214,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+  [kaitai struct](https://kaitai.io/): Open source declarative language used to describe various binary data structures
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -385,6 +386,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
+- [towardsdatascience](https://towardsdatascience.com/) : Data science, ML, and programming tutorials with code (mainly python).
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
