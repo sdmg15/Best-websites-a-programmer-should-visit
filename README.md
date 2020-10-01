@@ -410,12 +410,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [API documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
+- [w3schools](https://w3schools.com) : A place with all the programming languages are dedicated.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## YouTube Channels
+- [Code with Mosh](https://www.youtube.com/codewithmosh) : Many dedicated tutorials of programming language
+- [thenewboston](https://www.youtube.com/thenewboston) : FUll dedicated tutorials playlist of programming languages and many more.
+- [Dev Ed](https://www.youtube.com/deved) : Web Development and other porgramming tutorials.
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
@@ -830,7 +834,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
-
+- [UpWork](https://www.upwork.com) : UpWork is the leading site for job seekers.
+    You can search by jobs in many related fieds.
+- [Fiver](https://www.fiver.com) : Fiver is the also leading site for job seekers.
+    You can search by company, job title, keyword.
+- [Freelancer](https://www.freelancer.com) : Freelancer is the leading site for tech job seekers.
+    Many of the employment opportunity are provided. 
+  
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
