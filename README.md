@@ -628,7 +628,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
-- [Leetcode](https://leetcode.com/): Practice writing most optimal solutions.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
