@@ -192,6 +192,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
 - [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
+- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -653,6 +654,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Video Tutorials
+- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
