@@ -49,6 +49,8 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+<li><a href="#learnxiny">learn x in y</a></li>
+<li><a href="#khanacademy">khanacademy</a></li>    
 </ul>
 
 ## When you get stuck
