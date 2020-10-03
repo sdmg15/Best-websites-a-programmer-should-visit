@@ -103,7 +103,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Coding practice for beginners
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-- [CodeWithHarry][https://www.codewithharry.com/] : Learn to code python and C++ for in a very efficient and better way.
+- [CodeWithHarry] (https://www.codewithharry.com/) : Learn to code python and C++ for in a very efficient and better way.
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
