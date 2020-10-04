@@ -27,7 +27,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#interview-preparation">Interview Preparation</a></li>
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c++">Sites related to your preferred programming language (For me C++)</a></li>
+<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
 <li><a href="#seminar--research-writing--talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
