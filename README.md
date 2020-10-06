@@ -9,7 +9,7 @@
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
-When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+When learning CS, there are some useful sites you must know to get always informed to make your  technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know  using :wink:
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
@@ -18,9 +18,9 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
-<li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#coding-practice-for-beginners">Coding practice for beginners who are new to this feild</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
+<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas on on interesting topic</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
 <li><a href="#general-tools">General Tools</a></li>
