@@ -9,7 +9,7 @@
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
-When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+When learning CS, there are some useful sites you must know to always get informed to improve your technological skills & learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
@@ -20,7 +20,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
+<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but couldn't find some ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
 <li><a href="#general-tools">General Tools</a></li>
@@ -56,7 +56,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -831,7 +831,7 @@ When learning CS, there are some useful sites you must know to get always inform
   filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
-- [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
+- [Linkedin jobs](https://www.linkedin.com/jobs) : A very useful research tool for programming jobs
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
