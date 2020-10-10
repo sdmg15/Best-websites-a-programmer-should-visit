@@ -509,6 +509,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Groovy Podcast](http://groovypodcast.podbean.com) : A podcast dedicated to the Groovy programming language and its ecosystem.
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
+- [Laravel news](https://laravel-news.com/category/podcast) : A podcast to learn about Laravel and PHP.
 - [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
 - [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
@@ -560,6 +561,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+- [Laravel tutorials](https://laravel-news.com/category/laravel-tutorials) : Good for learning Laravel.
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
@@ -730,6 +732,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
+- [styde](https://styde.net/category/laravel/) : Tutorials aboud Laravel and PHP.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
