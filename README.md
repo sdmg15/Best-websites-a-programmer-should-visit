@@ -121,6 +121,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [CodeChef](https://codechef.com) : Practice competitive programming and master data structures and algorithms.
+- [Codeforces](https://codeforces.com) : Practice logical and mathematical problems along with advanced data structures and algorithms through contests.
+- [HackerRank](https://hackerrank.com) : Practice problems arranged topicwise ranging from easy to advanced.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
