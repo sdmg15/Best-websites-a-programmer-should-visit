@@ -733,6 +733,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+- [Zach Holman](https://zachholman.com/): Zach Holman's blog
+- [Random Thoughts of a Happy Programmer](https://www.rdegges.com/): The blog of Randall Degge
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
