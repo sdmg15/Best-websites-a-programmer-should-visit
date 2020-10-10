@@ -1,0 +1,19 @@
+1. [javatpoint | Javatpoint provides with awesome tuturials](https://www.javatpoint.com/): Javatpoint is a website that should be visited by everyone who wants to learn new programming languages. They provide a basic to advanced level programming tutorials.
+
+2. [tutorialspoint | TutoriaslPoint provides tutorials for everything](https://www.tutorialspoint.com/): Tutorials point provides tutorials in every domain, whether it be programming languages, any specific software, artificial intelligence, machine learning, IoT, etc.
+
+3. [stackoverflow | Stackoverflow provides with the best solution for anykind of problem](https://stackoverflow.com/): Stack Overflow is a question and answer site for professional and enthusiast programmers. It is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.
+
+4. [Hacker News | Reddit for Developers](https://news.ycombinator.com/): It’s like Reddit but for developers! Hacker News is the go-to site for developer news related to all the things that might be weighing on your mind at any given time. Case in point: hundreds of developers hopped on to discuss the massive AWS S3 outage on February 28, 2017. Few can appreciate the epic disaster caused by such an outage than your fellow developers.
+
+5. [Slash Dot | Blog for Developers](https://slashdot.org/): SlashDot is a huge interactive source about all the latest blog posts and news stories related to technology and coding.  It was created in 1997 by Rob “CmdrTaco” Malda but today is owned by BIZX, LLC. With a real community vibe, SlashDot is run by a small group of editors and coders, with the help of the site’s robust community of readers.
+
+6. [DZone | Programming News for Devs](https://dzone.com/): Over a million developers belong to DZone, making it a prominent programming news hub for today’s programming professionals and developers. The site covers everything from agile to the cloud, devops, big data, integration, performance, and more. DZone is a valuable source for the latest insights from every corner of the industry.
+
+7. [tuts+ | Tutorials for Coding](http://net.tutsplus.com/): tuts+ features tutorials on just about anything related to coding, making it a great site to visit if you’re stuck on a coding project and need a step-by-step guide to working through a problem, installing a particular plugin, or even getting a quick run-through of the fundamentals of a language you’re not already intimately familiar with.
+
+8. [Google Developers | Tips and Tricks from Google](https://developers.google.com/): The internet’s leading entity seeks to inspire coders with tutorials and tips. You’ll also find an abundance of other tools and resources ranging from Google’s many consoles for developers (the Google API Console, Google Play Store Developer Console, and others), training, games, videos, and much more.
+
+9. [Smashing Magazine | Coding Tips and Tricks](http://coding.smashingmagazine.com/): Get coding tips, tricks, and ideas from an assortment of today’s leading professionals at Smashing Magazine, a magazine founded in 2006 that caters to web designers and developers. For the latest techniques and trends in web development, Smashing Magazine is a must-bookmark site.
+
+10. [Scoth | Courses, tutorials, forums](https://scotch.io/):Courses, tutorials, forums, and more combine at Scotch.io to provide a top-notch learning community for anyone interested in mastering web development or acquiring new skills. Founded by Chris Sevilleja and Nick Cerminara, Scotch.io offers an impressive array of tutorials encompassing everything from getting started-style guides to in-depth tutorials for complex, specific development functions  
