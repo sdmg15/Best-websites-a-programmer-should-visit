@@ -15,6 +15,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
+<li><a href="Gethacktoberfest-shirt">Accept pull req please</a></li>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
