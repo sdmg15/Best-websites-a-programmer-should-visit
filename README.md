@@ -129,10 +129,10 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
-- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
+- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 
@@ -142,12 +142,12 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
+- [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
-- [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -175,10 +175,10 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Coding Style
-- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
-- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
-- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
+- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript.
+- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb.
+- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide.
+- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa.
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
@@ -420,11 +420,13 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## YouTube Channels
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
-- [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
+- [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2) : Learn Data Structures, Algorithms, big O and time complexity, searching, sorting, travelingwith python, js and java 
+[code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+-[CS DOJO](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) :Hey guys, I'm YK, and I usually make videos about programming and computer science here. Have a programming-related .
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
@@ -456,6 +458,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
 - [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
+-[Telesuko](https://www.youtube.com/user/javaboynavin) : Java Tutorial. Java tutorial for beginners and absolute beginners.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
 - [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) : Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms. We bring simple to understand Text and Video tutorials at zero cost and cover many subjects including IT, Engineering, MBA, MCA, Management, Various Exams Preparation, and Academic subjects. If you are not extravagant and willing to save your money and time then we recommend you to try our tutorials.experience
 - [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university
@@ -758,6 +761,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High-quality analysis of films and filmmaking
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high-quality content from all over the world
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
+- [Jays Tech Vault|Top 10 Organs To Sell To Buy A Gaming PC](https://www.youtube.com/watch?v=RwBXa3_T9vU&t=274s) : Do you want to know the quickest ways to get money for a gaming PC? In this video I go over the top 10 BEST organs to sell to get money for a really nice gaming PC.
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A youtube channel about science, mainly, but not only, the universe and space.
 - [Regex Crossword](https://regexcrossword.com) : A simple crossword game where clues are regex that must be matched.
