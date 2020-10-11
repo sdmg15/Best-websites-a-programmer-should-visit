@@ -102,26 +102,26 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
-- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
+- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
+- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
+- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
+- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
-- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
-- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
-- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
+- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [SoloLearn](https://sololearn.com) : Learn Playing, Play Learning
+- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -130,11 +130,11 @@ When learning CS, there are some useful sites you must know to get always inform
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
-- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -145,10 +145,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [JavaScript 30 projects](https://javascript30.com) : 30 things to build in 30 days from vanilla js
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
-- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
+- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
