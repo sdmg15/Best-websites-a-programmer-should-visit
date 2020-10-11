@@ -1,0 +1,39 @@
+name: Actions Status
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - master
+env:
+  CI: true
+
+jobs:
+  run:
+    name: Node ${{ matrix.node }} on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        node: [10, 12, 14]
+        os: [ubuntu-latest]
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Set Node.js version
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm run test
+
+      - name: Run Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"

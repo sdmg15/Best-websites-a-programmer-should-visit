@@ -1,0 +1,104 @@
+<script src="gh.js"></script>
+
+<html>
+  <head>
+    <title></title>
+
+    <style media="screen">
+      body {
+        padding: 20px;
+        font-family: "helvetica-neue", helvetica, arial;
+      }
+
+      section {
+        margin: 0 auto;
+        max-width: 600px;
+        position: relative;
+      }
+
+      input {
+        min-width: 100%;
+        font-size: 18px;
+        padding: 5px;
+        font-family: "helvetica-neue", helvetica, arial;
+      }
+      code {
+        font-size: 18px;
+      }
+
+      ul {
+        margin: 0;
+        list-style: none;
+        padding: 0;
+      }
+
+      li {
+        padding: 6px 0;
+        line-height: 1
+      }
+
+      p {
+        line-height: 1.4;
+      }
+
+    </style>
+
+  </head>
+  <body>
+    <section>
+
+      <h1>GitHub URL to Object</h1>
+
+      <p>
+      A module for node.js and browsers that extracts useful properties like `user`,
+      `repo`, and `branch` from various flavors of GitHub URLs. Source at <a href="https://github.com/zeke/github-url-to-object">github.com/zeke/github-url-to-object</a>
+      </p>
+
+      <h2>Examples</h2>
+
+      <ul class="examples">
+        <li><a href="#">https://github.com/monkey/business</a></li>
+        <li><a href="#">https://github.com/monkey/business/tree/experiment</a></li>
+        <li><a href="#">https://github.com/monkey/business/tree/my-feature/nested/file.js</a></li>
+        <li><a href="#">https://github.com/monkey/business/blob/another-branch</a></li>
+        <li><a href="#">https://github.com/monkey/business.git</a></li>
+        <li><a href="#">http://github.com/monkey/business</a></li>
+        <li><a href="#">git://github.com/monkey/business.git</a></li>
+        <li><a href="#">github:monkey/business</a></li>
+        <li><a href="#">github:monkey/business#new-feature</a></li>
+      </ul>
+
+      <h2>Try it out</h2>
+
+      <input type="text" name="repo" id="repo" placeholder="Enter a GitHub Repository URL">
+
+  <h2>Result</h2>
+  <pre><code id="result"></code></pre>
+
+      <script charset="utf-8">
+
+        function update() {
+          var obj = gh(document.querySelector("#repo").value)
+          if (!obj) obj = {error: "Invalid GitHub URL"}
+          document.querySelector("#result").innerHTML = JSON.stringify(obj, null, 2)
+        }
+
+        document.addEventListener('DOMContentLoaded', function(){
+          document.querySelector("#repo").addEventListener('keyup', update)
+          document.querySelector("#repo").addEventListener('change', update)
+
+          var links = document.querySelectorAll("ul.examples a")
+          Array.prototype.forEach.call(links, function(link, i){
+            link.addEventListener('click', function(event){
+              document.querySelector("#repo").value = event.target.innerHTML
+              update()
+              event.preventDefault()
+            })
+          })
+        })
+
+      </script>
+    </section>
+  </body>
+</html>
+<body>

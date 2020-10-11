@@ -1,0 +1,4 @@
+{
+  "reporter": ["lcov", "text"],
+  "extension": [".js", ".vue"]
+}

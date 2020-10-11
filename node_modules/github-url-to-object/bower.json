@@ -1,0 +1,19 @@
+{
+  "name": "github-url-to-object",
+  "description": "Extract user, repo, and other interesting properties from GitHub URLs",
+  "version": "1.4.2",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "url",
+    "repo"
+  ],
+  "main": "dist/gh.js",
+  "ignore": [
+    ".travis.yml",
+    "node_modules",
+    "test",
+    "package.json",
+    "index.js"
+  ]
+}
