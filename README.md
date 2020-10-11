@@ -57,7 +57,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
-- [Dev](https://dev.to/): Get Blogs on every tech domain topics
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -135,6 +134,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Block Training Alliance](https://blockchaintrainingalliance.com/): Blockchain Training & Certification
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
