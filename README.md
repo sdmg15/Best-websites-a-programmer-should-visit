@@ -376,18 +376,18 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Learn AI
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+- [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
+- [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of Coursera.
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
+- [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [grakn.ai](https://grakn.ai) : The Database for AI
+- [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
+- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
+- [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
+- [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
-- [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
-- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
-- [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of Coursera
-- [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
-- [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
-- [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
-- [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -395,23 +395,24 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Seminar, research writing, talks, etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
-- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
-- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
-- [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
-- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
+- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease.
+- [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference.
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
+- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views.
+- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Everything in one place
-- [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
-- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [API documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
-- [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+- [API documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface.
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
+- [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards.
+- [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
+- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
+- [tldr](https://tldr.sh/) : collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages.
+- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
