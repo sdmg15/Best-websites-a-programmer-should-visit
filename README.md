@@ -839,7 +839,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Resources and Devolopers Community in Africa
+## Resources and Developers Community in Africa
 - [Google Developer Group (GDG)](https://developers.google.com/community/gdg) : Meet other local developers and those interested in developer technologies. All are welcome, including those with diverse backgrounds and those from a variety of companies and industries.. 
 - [She Code Africa](https://www.shecodeafrica.org/) :  A non-profit organization
 focused on celebrating and
