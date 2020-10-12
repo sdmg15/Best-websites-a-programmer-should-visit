@@ -218,6 +218,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [SAMLTool](https://www.samltool.com/online_tools.php): SAML Tools for encoding/decoding SAML messages and pretty printing XML
+- [Mockaroo](https://mockaroo.com/): Mockaroo lets you generat large amounts of realistic test data
+- [Beeceptor](https://beeceptor.com/) Rest API mocking and intercepting
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
