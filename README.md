@@ -617,6 +617,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Competitive programming
+- [Atcoder](https://projecteuler.net/archives) : Regular Programming Contests!
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
@@ -647,10 +648,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
+- [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) : The BOOK that every programmer must be aware of.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
-
+  
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
