@@ -187,7 +187,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
 - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
-- [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) : General coding conventions at Spotify for Objective-C and Objective-C++
 - [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
@@ -211,7 +210,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
-- [Stackblitz](https://stackblitz.com/) : The online code editor for web apps. Powered by Visual Studio Code.
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
