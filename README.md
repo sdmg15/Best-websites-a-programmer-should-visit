@@ -49,6 +49,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+<li><a href="#discord">Discord Server</a></li>
 </ul>
 
 ## When you get stuck
@@ -839,6 +840,13 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## Discord Server
+- [TrustedSec](https://discord.com/invite/trustedsec) : Official TrustedSec discord server, coding, cyber security, live and more.
+- [Ataxya's Lab](https://discord.com/invite/CxQzHek) : Ataxya discord server, for french, various content about Information Technology.
+- [The Programmer's Hangout](https://discord.me/coding) : Discord server for programmer's.
+- [DevCord](https://discord.me/devcord) : Discord server for web dev.
+- [Python](https://discord.com/invite/python) : Discord sever for python dev.
 
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
