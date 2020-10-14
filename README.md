@@ -820,6 +820,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
+    [](https://jobbatical.com/) : Jobbatical is the new site for tech job seekers. You can do a lot here on jobbatical like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
