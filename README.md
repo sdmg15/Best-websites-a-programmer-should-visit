@@ -421,6 +421,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## YouTube Channels
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
+- [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) : Python tutorials and much more
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
