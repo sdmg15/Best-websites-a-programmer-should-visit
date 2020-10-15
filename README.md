@@ -434,7 +434,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java](https://www.youtube.com/user/java/videos) : talks related to java
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
 - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
-- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) : Tutorials on doing CTF chals and exploiting binaries.
 - [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
