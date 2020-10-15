@@ -103,6 +103,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Coding practice for beginners
+- [AlgoExpert | A website to train you for faang coding interviews](https://www.algoexpert.io/product): The ultimate resource to prepare for coding interviews. Everything you   need, in one streamlined platform.
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
