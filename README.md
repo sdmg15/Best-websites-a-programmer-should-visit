@@ -651,6 +651,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
+- [Software Testing](https://fall14se.files.wordpress.com/2017/12/software-testing-yogesh-singh.pdf) : The complete book for starting and guidance in software testing
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -746,6 +747,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
+- [British Council Learn English Kids](https://www.youtube.com/user/BritishCouncilLEKids)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -836,6 +838,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+- [Job Finder](https://jobfinder.com/) : Browse the best jobs, learn about employers and get advice on applying
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
