@@ -548,53 +548,55 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Tutorials
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
+- [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
+- [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
 - [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
 - [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
+- [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+- [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
+- [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
+- [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
+- [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
+- [Real Python Tutorials](https://realpython.com) : A very good python tutorial website with so many blogs to start in python web development from beginner to intermediate to advance.
+- [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
+- [Speaking io](https://speaking.io/) : Tips for public speaking
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-- [The Bash Guide](http://guide.bash.academy) : a very good guide for learning the Bash Shell
+- [The Bash Guide](http://guide.bash.academy) : a very good guide for learning the Bash Shell.
+- [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 - [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Tutorialspoint](https://www.tutorialspoint.com) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
-- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
-- [W3Schools Online Web Tutorials](https://www.w3schools.com)
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
-- [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
+- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [vim.rtorr](https://vim.rtorr.com) : Vim Cheat Sheet
-- [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
-- [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
-- [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
-- [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
-- [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
-- [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
-- [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
-- [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
-- [Speaking io](https://speaking.io/) : Tips for public speaking
+- [Vogella](https://www.vogella.com/tutorials) : Learn tutorials for android, web development, java and many more along with code snippets.
+- [W3Schools Online Web Tutorials](https://www.w3schools.com)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -815,6 +817,7 @@ When learning CS, there are some useful sites you must know to get always inform
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
+- [Cutshort](https://cutshort.io) : Cutshort is a robust job portal which uses its own AI algorithm to find a perfect job listings for you.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
 - [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
