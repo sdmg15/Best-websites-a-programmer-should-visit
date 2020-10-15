@@ -621,12 +621,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
+- [AtCoder](https://atcoder.jp/): AtCoder is a new but phenomenal contest platform created by a team of highly-rated Japanese competitive programmers.
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [Codefights](https://codefights.com) : Test your coding skills
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
+- [CS Academy](https://csacademy.com) : New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks.
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
@@ -637,6 +639,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
+- [CS Academy](https://csacademy.com) : New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
