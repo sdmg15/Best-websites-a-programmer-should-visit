@@ -325,7 +325,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## MOOCs for learning something new
+## MOOCs for learning something ne
 - [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
 - [Classpert](https://classpert.com) : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
@@ -465,6 +465,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [TechLead](https://www.youtube.com/c/TechLead/) : Advice on path to become a TechLead at FAANG companies
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
