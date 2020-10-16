@@ -148,6 +148,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [kdnuggets | ML projects](https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html) : Collection of Machine Learning project ideas along with datasets.
+- [ProjectHub | Arduino projects](https://create.arduino.cc/projecthub) : Collection of Arduino Project ideas and tutorials.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -219,6 +221,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [MailCheck](https://www.mailcheck.co/): Validate your mailing list for only real emails addresses, get rid of bots and inactive users.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -293,6 +296,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
+- [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 
 
 <div align="right">
@@ -320,6 +324,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [AlphaGo: The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&feature=youtu.be) : A documentary on DeepMind's AI AlphaGo player.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -390,6 +395,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
+- [Google Developers Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course): A self-study guide with video lectures, real-world case studies, and hands-on practice exercises.
+- [edX | Harvard CS50 Course](https://cs50.harvard.edu/ai/2020/notes/0/): CS50’s Introduction to Artificial Intelligence with Python
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
