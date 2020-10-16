@@ -638,6 +638,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
+- [Cracking The Coding Interview] Cracking the coding interview
+- [Compiled list of question] For data science interview prepartion on stats , Ml
+- [interviewqs.com ]; tri weekly mailing list emails you questions focusing on DS.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
