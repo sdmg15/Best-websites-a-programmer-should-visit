@@ -122,6 +122,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [CodeForces](https://https://codeforces.com/) : Competitive coding platform.
+- [HackerEarth](https://https://hackerearth.com/) : Competitive coding and learning platform.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -390,6 +393,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
+- [Neural Networks and Deep Learning Book](https://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) : Book for learning Deep Learning
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
