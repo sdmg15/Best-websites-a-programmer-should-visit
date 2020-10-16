@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
 </h1>
 
@@ -27,7 +27,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#interview-preparation">Interview Preparation</a></li>
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c++">Sites related to your preferred programming language (For me C++)</a></li>
+<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
 <li><a href="#seminar--research-writing--talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
@@ -68,6 +68,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
+- [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
@@ -108,7 +109,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-- [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
+- [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
 - [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
@@ -133,6 +134,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+- [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -201,6 +203,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
@@ -549,6 +552,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
+- [CryptoHack](https://cryptohack.org/) : Learn cryptography through challenges and tutorials. Has a leaderboard and new challenges are added every few months. 
 - [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
@@ -833,6 +837,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
+- [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
