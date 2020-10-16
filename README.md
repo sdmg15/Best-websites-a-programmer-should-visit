@@ -652,7 +652,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
-
+- [Python Data Structures](http://www.rgonzo.us/shiny/books/Python%20Data%20Structures%20and%20Algorithms.pdf) :Absolutely helpful for all level python programmers. 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
