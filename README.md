@@ -694,6 +694,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor 
+- [30 Seconds of Code](https://www.30secondsofcode.org/) : A Website with useful snippets of JS, CSS, React, Python. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
