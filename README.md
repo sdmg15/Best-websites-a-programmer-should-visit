@@ -49,6 +49,10 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+ <li><a href="#codechef">codechef</a></li>
+ <li><a href="MongoDB: The most popular database for modern apps">MongoDB: The most popular database for modern apps</a></li>
+<li><a href="#udacity">udacity</a></li>
+ <li><a href="#concept of the day">concept of the day</a></li>
 </ul>
 
 ## When you get stuck
