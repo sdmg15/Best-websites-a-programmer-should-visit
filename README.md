@@ -23,7 +23,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
-<li><a href="#general-tools">General Tools</a></li>
+<li><a href="#general-tools">General Tools</a></li>comcom
 <li><a href="#interview-preparation">Interview Preparation</a></li>
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
@@ -628,6 +628,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
+- [Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/) : Topcoder tutorials to begin the best out of you.
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
@@ -638,6 +639,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
