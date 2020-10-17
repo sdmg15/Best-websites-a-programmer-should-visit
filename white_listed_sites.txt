@@ -12,6 +12,7 @@ https://hackernoon.com/
 https://regexr.com
 https://sourceforge.net
 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
+https://www.codeforces.com/
 https://www.subtle.press/course/poor-mans-ci
 learn.hackerearth.com
 medium.freecodecamp.com
