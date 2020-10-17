@@ -832,6 +832,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
+  - [Upwork](https://www.upwork.com/) : Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
