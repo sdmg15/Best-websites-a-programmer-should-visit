@@ -121,7 +121,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.- -       -  [Skillcrush](https://skillcrush.com/) : Learn to code Explore, Study for placements for free, Do competitive coding, No Credit Card Required.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
