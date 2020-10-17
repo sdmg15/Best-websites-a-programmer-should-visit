@@ -9,7 +9,7 @@
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
-When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+When learning CS, there are some useful sites you must know to always be informed and be updated about day to day technologies even better and learn new things. Here is a non-exhaustive list of some sites you ought to visit. This list will get updated as soon as I can get other links, but you can also contribute by adding those you know :wink:
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
