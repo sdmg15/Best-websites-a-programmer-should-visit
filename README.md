@@ -819,7 +819,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
-- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
+- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs.
+- [Fiverr](https://www.fiverr.com/) : Fiverr connects businesses with freelancers offering digital services in 300+ categories.
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
