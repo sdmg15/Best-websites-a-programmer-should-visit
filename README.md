@@ -647,6 +647,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Computer Books
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
+- [Computer Programming](https://en.wikibooks.org/wiki/Subject:Computer_programming) : Wikibooks about computer programming.
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
