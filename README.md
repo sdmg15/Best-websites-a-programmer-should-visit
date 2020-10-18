@@ -50,6 +50,8 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+<li><a href="#Hacktoberfest2020">Hacktoberfest2020</a></li>
+<li><a href="#pytroops.xyz">Pytroops</a></li>
 </ul>
 
 ## When you get stuck
