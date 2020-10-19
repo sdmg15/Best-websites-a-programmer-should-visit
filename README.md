@@ -378,7 +378,6 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Learn AI
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
-- [Dialogflow](https://cloud.google.com/dialogflow/docs) : Dialogflow is a natural language understanding platform that makes it easy to design and integrate a conversational user interface into your application.
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [grakn.ai](https://grakn.ai) : The Database for AI
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
