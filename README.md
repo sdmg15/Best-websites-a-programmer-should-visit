@@ -195,6 +195,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
+- [R Coding style](https://style.tidyverse.org/): R and Tidyverse coding style guides
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
