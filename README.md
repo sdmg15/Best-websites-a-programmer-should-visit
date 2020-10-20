@@ -468,6 +468,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ): Best courses for Python and Web development.
+- [Edurika](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ): Best courses for all languages.
+- [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg) Simple short Learning videos
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
