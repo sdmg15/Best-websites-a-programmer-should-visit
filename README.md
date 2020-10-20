@@ -526,6 +526,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [Ladybug podcast](https://www.ladybug.dev/) An all lady-hosted tech podcast for all developers by Emma Bostian, Ali Spittel & Kelly Vaughn. Talking code & career.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
