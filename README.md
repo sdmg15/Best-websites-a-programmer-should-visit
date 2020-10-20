@@ -284,6 +284,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
 - [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
+- [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) : Prepare for interview in the most comprehensive way possible
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
 - [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interview
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
