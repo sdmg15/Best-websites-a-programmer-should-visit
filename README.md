@@ -759,10 +759,10 @@ When learning CS, there are some useful sites you must know to get always inform
 ## When you get bored from CS related stuff
 - [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
 - [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
+- [Code Breaker Creativity Game](http://codebreaker.creativitygames.net/mastermind_manage.php) : Fun and challenging game to improve problem solving abilities
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
 - [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High-quality analysis of films and filmmaking
-- [Code Breaker Creativity Game](http://codebreaker.creativitygames.net/mastermind_manage.php) : Fun and challenging game to improve problem solving abilities
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high-quality content from all over the world
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
