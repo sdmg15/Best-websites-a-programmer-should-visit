@@ -360,6 +360,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
 - [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
+- [Javatpoint](https://www.javatpoint.com ) : Along with Java , provides learning resources for other languages also.
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
