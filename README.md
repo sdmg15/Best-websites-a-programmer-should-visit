@@ -148,6 +148,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -221,6 +222,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [paiza.io](https://paiza.io/en) : Another online REPL and sharing editor.
+- [tio](https://tio.run/) : Read–eval–print loop - editor with support for over 600 languages
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
