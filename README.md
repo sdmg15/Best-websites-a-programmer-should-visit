@@ -315,6 +315,7 @@ When learning CS, there are some useful sites you must know to get always inform
   - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
+- [Machine Learning: Living in the Age of AI](https://www.youtube.com/watch?v=ZJixNvx9BAc&list=PLNOMYmBPhx3i0vUCyurqB8SD4SoSTM1Y9&index=6) : Examines the extraordinary ways in which people are interacting with AI today. 
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
 - [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
 - [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open-source, and the free software movement.
@@ -393,6 +394,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
+- [Towards Data Science](http://towardsdatascience.com) : A good blog to learn about Data Science.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
