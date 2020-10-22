@@ -57,6 +57,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+- [The Coding Den](http://discord.gg/code) : A friendly Discord commuinty with many people ready to help you with any problem you can think of
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
