@@ -30,3 +30,4 @@ www.techotopia.com
 www.topcoder.com
 www.hackerrank.com
 www.geeksforgeeks.org
+www.javatpoint.com
