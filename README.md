@@ -643,7 +643,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
-- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
+- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems
+- [AtCoder](https://atcoder.jp) : AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online. 
+- [DP Tutorial and Problem List](https://codeforces.com/blog/entry/67679) : A codeforces blog contains resources about Dynamic Programming
+- [CP-Algorithms](https://cp-algorithms.com) : This site is to learn many algorithms and data structures especially popular in field of competitive programming
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
