@@ -70,6 +70,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
+- [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
