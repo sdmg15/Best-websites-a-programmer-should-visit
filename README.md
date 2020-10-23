@@ -163,7 +163,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) - The Codist Header Lessons From A Lifetime Of Being A Programmer.
 - [Programming Principles](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles & Patterns.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - The entire collection of Design Patterns.
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) - What I’ve learned from teaching others.
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) - What I've learned from teaching others.
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) - The Principles of Good Programming.
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) - Henrik Warne's blog.
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) - OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
@@ -189,7 +189,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Standard JS Style Guide](https://standardjs.com) - JavaScript style guide, with linter & automatic code fixer.
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide.
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) - An Aurelia style guide by Behzad Abbasi(Behzad888).
-- [Source Making ](https://sourcemaking.com/) - Design Patterns & Refactoring.
+- [Source Making](https://sourcemaking.com/) - Design Patterns & Refactoring.
 - [Refactoring Guru](https://refactoring.guru/) - Refactoring And Design Patterns.
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide.
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs) - Rust code formatting RFCs and coding style guides.
@@ -254,12 +254,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
-- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) - Really good stackoverflow question that covers basics of calculating runtime complexity.
+- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) - Really good Stack Overflow question that covers basics of calculating runtime complexity.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
 - [Gainlo](http://www.gainlo.co/#!/) - Mock interview from professionals .
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) - Also subscribe to their feeds to get links to their new articles.
-- [github.com/odino/interviews](https://github.com/odino/interviews) - List of important questions for interview.
+- [GitHub.com/odino/interviews](https://github.com/odino/interviews) - List of important questions for interview.
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 - [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
@@ -274,7 +274,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
-- [kimberli/interviews](https://github.com/kimberli/interviews) - Study sheet for Interview.
+- [kimberli/interviews](https://github.com/kimberli/interviews) - Study sheet for Interviews.
 - [LeetCode](https://leetcode.com/) - A new way to learn.here you can prepare for your interview.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) - A large collection of coding interview problems.
 - [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) - Practice coding interviews with real peers.
@@ -448,12 +448,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
 - [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences) - Tech talks from the GOTO Conference by Developers for Developers.
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - Freecodecamp youtube channel.
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - Freecodecamp YouTube channel.
 - [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) - Learn advanced C++.
-- [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) - Geeksforgeeks youtube.
-- [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) - Hacker earth youtube.
+- [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) - Geeksforgeeks YouTube channel.
+- [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) - Hacker earth YouTube channel.
 - [Hak5](https://www.youtube.com/user/Hak5Darren) - Put together by a band of IT ninjas, security professionals, and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
-- [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) - Khan Academy youtube.
+- [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) - Khan Academy YouTube.
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) - 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev.
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) - Competitive programming.
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) - Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
@@ -473,11 +473,11 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Good Articles
-- [14 Things I Wish I’d Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB/)
-- [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+- [14 Things I Wish I'd Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB/)
+- [40 Keys Computer Science Concepts Explained In Layman's Terms](http://carlcheo.com/compsci)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [A programmer-friendly language that compiles to Lua.](http://moonscript.org)
-- [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) - Some good books and links in there.
+- [A Software Developer's Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) - Some good books and links in there.
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) - Let's code a TCP/IP stack, 5: TCP Retransmission.
 - [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) - The language of choice.
 - [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) - List of some algorithms and data structures with their solutions.
@@ -523,8 +523,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Bike Shed](http://bikeshed.fm) - Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 - [The Changelog](https://changelog.com/podcast) - A weekly conversation that gets to the heart of open source technologies and the people who create them.
 - [The Cynical Developer](https://cynicaldeveloper.com) - A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web, and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
-- [Blockchain Insider by 11:FS](blockchain.global/blockchain-innovation) - Podcast to learn about the Blockchain Technology.
-- [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
+- [Blockchain Insider by 11:FS](https://blockchain.global/blockchain-innovation) - Podcast to learn about the Blockchain Technology.
+- [Unchained](https://unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
 
@@ -536,7 +536,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler) - This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 - [Awesome Compilers](http://aalhour.com/awesome-compilers/) - Curated list of awesome resources on Compilers, Interpreters, and Runtimes.
 - [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) - Learn how to grow a compiler.
-- [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) - Try to demystify compilers by building one.
+- [Let's Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) - Try to demystify compilers by building one.
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/) - Resources for Amateur Compiler Writers.
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Structure and Interpretation of Computer Programs.
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) - Write out your first compiler.
@@ -651,7 +651,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) - Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
-- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - More than 500 free ebooks on almost any language you can think of.
+- [GitHub.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - More than 500 free ebooks on almost any language you can think of.
 - [GitBook](https://www.gitbook.com) - GitBook helps your team write, collaborate, and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook.
 - [Goal Kicker](https://goalkicker.com) - Programming Notes for Professionals books.
@@ -696,7 +696,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Judge0 IDE](https://ide.judge0.com) - Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) - Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [C9.io](https://c9.io) - Your development environment, in the cloud.
-- [Github Gist](https://gist.github.com) - Instantly share code, notes, and snippets.
+- [GitHub Gist](https://gist.github.com) - Instantly share code, notes, and snippets.
 - [Coder](https://coder.com) - A Web-based development environment using Visual Studio Code as a code editor .
 
 <div align="right">
@@ -725,7 +725,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Geek Land](https://avidullu.wordpress.com) - My precious collectibles.
 - [HackerEarth Blog](http://blog.hackerearth.com) - The HackerEarth blog.
 - [IT Enthusiast](http://rodiongork.tumblr.com) - IT Enthusiast.
-- [Joel on Software](https://www.joelonsoftware.com) - The blog of the CEO of StackOverflow.
+- [Joel on Software](https://www.joelonsoftware.com) - The blog of the CEO of Stack Overflow.
 - [Late Developer](https://latedev.wordpress.com) -  Random thoughts of an old C++ guy.
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) - Lucas Vieira Barbosa's lab original math and physics visualization.
 - [Math ∩ Programming](https://jeremykun.com) - Math ∩ Programming.
@@ -765,14 +765,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) - High volume of high-quality content from all over the world.
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Subreddit dedicated to exactly what it sounds like.
 - [Reddit the front page of the internet](https://www.reddit.com) - Where free time goes to die.
-- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) - A youtube channel about science, mainly, but not only, the universe and space.
+- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) - A YouTube channel about science, mainly, but not only, the universe and space.
 - [Regex Crossword](https://regexcrossword.com) - A simple crossword game where clues are regex that must be matched.
 - [SciShow](https://www.youtube.com/user/scishow/videos) - Answers to interesting questions that you've always wondered about.
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) - Lots of amazing scientific information about the world around us, usually captured with a high-speed camera.
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) - Great talks about technology, entertainment, and design.
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) - Interesting information about news from around the world.
 - [How to live for a long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) - The secret of longevity.
-- [Vsauce](https://www.youtube.com/user/Vsauce/videos) - The best youtube channel.
+- [Vsauce](https://www.youtube.com/user/Vsauce/videos) - An informative YouTube channel.
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) - How to live a happy life.
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) - Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California.
 
@@ -798,7 +798,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code Triage](https://www.codetriage.com) - Help out your favorite open-source projects and become a better developer while doing it.
 - [Issue Hub](http://issuehub.io) - Contribute to Open Source. Search issue labels to find the right project for you.
 - [Up for Grabs](http://up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.
-- [First Timers Only](http://www.firsttimersonly.com) - Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
+- [First Timers Only](http://www.firsttimersonly.com) - Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a Code Newbie or maybe you've been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Your First PR](http://yourfirstpr.github.io) - Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 
 <div align="right">
