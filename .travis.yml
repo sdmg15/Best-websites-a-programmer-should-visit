@@ -14,3 +14,5 @@ before_script:
 script:
   - awesome-lint
   - awesome_bot README.md --white-list $(paste -d, -s white_listed_sites.txt) --allow-ssl --allow-redirect
+git:
+  depth: false
