@@ -322,6 +322,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [AlphaGo: The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&feature=youtu.be) : A documentary on DeepMind's AI AlphaGo player.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
