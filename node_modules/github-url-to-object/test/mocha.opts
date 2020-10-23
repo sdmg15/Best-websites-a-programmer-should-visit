@@ -1,0 +1,4 @@
+--reporter spec
+--ui tdd
+--timeout 5000
+--bail

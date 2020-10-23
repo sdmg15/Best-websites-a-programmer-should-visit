@@ -1,0 +1,28 @@
+name: Cron
+on:
+  push: {}
+  schedule:
+    - cron:  '0 0 * * 0'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: npm ci
+      - run: npm run update-plugins
+      - run: npm test
+      - run: npm version patch --no-git-tag-version
+      - name: Publish
+        uses: mikeal/merge-release@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v2.1.0
+        with:
+          commit_message: Update package list
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
