@@ -572,6 +572,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Linux Filesystem Hierarchy](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html) : a complete guide to the linux filesystem
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
