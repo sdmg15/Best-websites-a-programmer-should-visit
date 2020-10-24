@@ -62,6 +62,12 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Hone your Skills
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [CodeTriage](https://www.codetriage.com/)
+- [CodeKata](http://codekata.com/)
+- [Awesome Katas](https://github.com/gamontal/awesome-katas)
+
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
@@ -500,6 +506,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
+- [HTML, CSS and JS in an ADD, OCD, Bi-Polar, Dyslexic and Autistic World](https://css-tricks.com/hmtl-css-and-js-in-an-add-ocd-bi-polar-dyslexic-and-autistic-world/)
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 
 <div align="right">
