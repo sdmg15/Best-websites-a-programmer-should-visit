@@ -644,6 +644,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
+- [DevPost Hackathons](https://devpost.com/) : Various hackathons for learning and prizes
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -657,7 +658,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
+- [Automate the Boring stuff with Python](https://automatetheboringstuff.com/) : Free online book, or for purchase online.
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
+- [Humble Bundle](https://www.humblebundle.com/books/aws-azure-google-and-cloud-security-books) : often has programming book packs.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
