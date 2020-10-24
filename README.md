@@ -202,7 +202,6 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
-- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
@@ -690,6 +689,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Online Compiler and Sharing Code snippets
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
+- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
