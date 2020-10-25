@@ -469,6 +469,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [The Come Up](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ) : Tips for people interestend in entering tech by a Software Engineer living in NYC!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
