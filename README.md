@@ -295,7 +295,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
-
+- [Data Structures and Algorithm](https://www.pepcoding.com/) : from beginner to pro
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
