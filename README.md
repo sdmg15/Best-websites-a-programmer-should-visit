@@ -414,6 +414,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
+- [DevURLs](https://devurls.com/) : Developer news aggregator
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
