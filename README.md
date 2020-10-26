@@ -683,7 +683,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
-
+-[Tech Dose](https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g) : A good youtube channel for understanding the concepts of Algorithms and Data structures.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
