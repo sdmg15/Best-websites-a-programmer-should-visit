@@ -122,6 +122,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+-[CodeChef](https://www.codechef.com/problems/school) : Help programmers make it big in the world of algorithms, computer programming, and programming contests.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -373,6 +374,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
+- [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm) : Easy and basic Python programming tutorial
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -469,6 +471,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [Python Django Tutorial](https://youtu.be/UmljXZIypDc) : Tutorial for Django from basic.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
