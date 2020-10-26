@@ -683,7 +683,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
-
+- [Harvard CS50 course on Web Programming](https://cs50.harvard.edu/web/2020/) : Harvard lectures by Brian Yu,David J. Milan
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
