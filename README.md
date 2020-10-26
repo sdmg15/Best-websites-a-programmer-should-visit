@@ -411,13 +411,13 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Everything in one place
-- [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
-- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [API documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
-- [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+- [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
+- [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
+- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
