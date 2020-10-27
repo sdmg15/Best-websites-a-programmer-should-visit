@@ -374,6 +374,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
+- [Pypi.org](https://pypi.org/project/pip/) : Python packages (Similar to Node Packages on Yard/NPM)
+- [Regular Expressions 101](https://regex101.com/) : Site to help you formulate Regular Expressions
+- [Markdown Editor](https://stackedit.io/app#) : MarkDown GUI
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -502,6 +505,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
+- [Learn Git (with Bitbucket)] (https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) : Learn how to use Git with Bitbucket
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
