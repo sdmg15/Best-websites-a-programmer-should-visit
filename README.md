@@ -121,6 +121,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Scrimba](https://scrimba.com) : Learn coding fast using an interactive screencast that enables you to interact with the code directly.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
