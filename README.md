@@ -68,6 +68,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
+- [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
