@@ -122,6 +122,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [Edabit](https://edabit.com/challenges) : Coding challenges in many different languages such as python, Java, Javascript and many more
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -471,6 +472,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [Techwithtim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) : Tutorials on different python frameworks as well as other languages such as golang
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
