@@ -503,6 +503,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
+- [TED | The era of blind faith in big data must end | Cathy O'Neil](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?language=en) : talk about the potential side of effects of big data on society.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -660,6 +661,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
+- [Learning JavaScript Design Patterns - A book by Addy Osmani ](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : A great resource in learning numerous JavaScript design patterns
+- [Rework](https://basecamp.com/books/rework) : easy read business book that can help to give guidance to the other parts of running software business
+- [REMOTE: Office Not Required](https://basecamp.com/books/remote) : book that outlines benefits of working in the remote world (great for people looking to be fully remote)
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -677,6 +682,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
+* [Mastery Games - Overwatch Hero Picker with CSS](https://mastery.games/build/overwatch-hero-picker/) : Tutorial to learn CSS-grid through building a Overwatch Hero Picker with CSS
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
