@@ -710,6 +710,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
 - [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets. 
+- [Sublime Text](https://www.sublimetext.com/) : Text editor for code, markup and prose. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
