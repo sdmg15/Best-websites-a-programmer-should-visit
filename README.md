@@ -509,6 +509,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
+- [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -581,6 +582,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Missing Semester](https://missing.csail.mit.edu/) : The missing semester of your computer science education
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
@@ -624,8 +626,9 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## What should a programmer know
+- [Can I use](https://caniuse.com/) : A website that provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git to use it effectively)
-- [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com)
+- [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 
 <div align="right">
@@ -709,7 +712,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
-- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets. 
+- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
+- [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 - [Sublime Text](https://www.sublimetext.com/) : Text editor for code, markup and prose. 
 
 <div align="right">
