@@ -124,6 +124,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
+- [30 Days of Code HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code) : Practice Java with 30 days of code challenges and video tutorials by Kathryn Hodge 
 
 
 <div align="right">
@@ -477,6 +478,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -694,6 +696,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
+-[Crash Course - Computer Science](https://thecrashcourse.com/courses/computerscience) : A series of fast paced videos about computer science by Carrie Anne Philbin.  
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
