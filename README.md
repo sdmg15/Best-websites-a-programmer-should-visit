@@ -733,6 +733,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
 - [CSE Blog](http://www.cseblog.com) : quant, math, computer science puzzles
+- [CSS Tricks](https://css-tricks.com/) : about building websites and all that entails, mostly from a front-end perspective
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
 - [Daniel Lemire's Blog](https://lemire.me/blog/) : Daniel Lemire's blog
