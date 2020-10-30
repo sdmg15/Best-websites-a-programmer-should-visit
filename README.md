@@ -685,18 +685,18 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Online Compiler and Sharing Code snippets
-- [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
-- [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
-- [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
-- [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
-- [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
-- [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
-- [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
-- [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
-- [C9.io](https://c9.io) : Your development environment, in the cloud
-- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
-- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets. 
+- [CodePad](https://codepad.remoteinterview.io) - Code editor to try, test and run 25+ languages.
+- [Codesandbox.io](https://codesandbox.io) - CodeSandbox makes it easier to create, share, and reuse React projects with others.
+- [Godbolt.org](https://godbolt.org) - Excellent tool for exploring the assembly output of different compilers with and without optimization.
+- [Ideone.com](https://ideone.com) - Online compiler and debugging tool for more than 60 programming languages.
+- [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript with online code editor.
+- [JSBin](https://jsbin.com/) - Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
+- [Judge0 IDE](https://ide.judge0.com) - Online compiler with 40+ interpreters and compilers.
+- [Pastebin.com](https://pastebin.com) - Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
+- [C9.io](https://c9.io) - Your development environment, in the cloud.
+- [GitHub Gist](https://gist.github.com) - Instantly share code, notes, and snippets.
+- [Coder](https://coder.com) - A Web-based development environment using Visual Studio Code as a code editor .
+- [Carbon](https://carbon.now.sh/) - Create pretty looking images of your code snippets. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
