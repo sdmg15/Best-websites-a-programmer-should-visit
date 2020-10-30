@@ -466,6 +466,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -497,6 +498,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
+- [Cloud Computing and its features](https://medium.com/nerd-for-tech/cloud-computing-and-its-features-8d55b4bbfd9) : A useful article about cloud technology 
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
