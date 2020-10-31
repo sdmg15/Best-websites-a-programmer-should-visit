@@ -611,7 +611,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
-- [Rust programming](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) : An in depth introduction to the Rust programming language.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -695,6 +694,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
+- [Rust programming](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) : An in depth introduction to the Rust programming language.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
