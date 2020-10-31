@@ -379,6 +379,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
+- [CSS Tricks](https://css-tricks.com) : Useful CSS knowledge
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
