@@ -344,6 +344,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
+- [Python 4 Everybody](https://www.py4e.com/) : Full University Python Course. Suitable for beginners.
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
 <div align="right">
@@ -438,6 +439,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) : Short videos about almost all modern tech like GraphQL, Fauna, React etc.
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
