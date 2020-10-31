@@ -664,10 +664,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
-- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
+- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost   any language you can think of
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
+- [Introduction to Computing](https://computingbook.org/) : This book introduces the most important ideas in computing using the Scheme and Python programming languages
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 
 <div align="right">
