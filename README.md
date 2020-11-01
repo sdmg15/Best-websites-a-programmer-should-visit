@@ -380,6 +380,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
