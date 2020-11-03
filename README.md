@@ -698,6 +698,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
+- [Platzi](https://platzi.com) : More than 600+ courses in spanish, portuguese and english about software, marketing, graphic design, etc.
+- [Crehana](https://crehana.com) : Courses of design, marketing and a lot of careers.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
