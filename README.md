@@ -508,7 +508,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 - [What every programmer should know about memory - PDF](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
-- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue
 - [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : How I got to 200 productive hours a month
 - [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : Parallel processing with Unix tools
 - [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
@@ -816,7 +815,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Summer of Code](https://summerofcode.withgoogle.com) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.
 - [Open Source Web Design](http://www.oswd.org) : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.
 - [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.
-- [Eclipse Lab](http://www.eclipse.org/org/foundation/eclipselabs/faq.php) : Eclipse Labs is a community of open source projects that build technology based on the Eclipse platform. It provides the infrastructure services typically required by open source projects, such as code repositories, bug tracking, project web sites/wiki. Eclipse Labs is hosted by Google Code Project Hosting, so it will be very familiar to developers already using Google Code Project Hosting.
 - [Bit Bucket](https://bitbucket.org) : Like GitHub, BitBucket hosts both public and private projects. On this site, open-source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.
 - [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
 - [Code Curiosity](https://codecuriosity.org) : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.
