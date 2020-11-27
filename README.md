@@ -53,8 +53,13 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
+- [CodeProject](https://www.codeproject.com/) : discussion forum includes topics such as ASP.NET, Javascript, Java, C/C++, Database, Web Development and a lot more
+- [CodeRanch](https://coderanch.com/) : One of the great resource for beginners as well as experienced programmers
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [FindNerd](http://findnerd.com/) : The site offers you to post questions and answer queries, create projects, find projects and allows you to collaborate with other programmers
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
+- [Programmers Heaven](https://programmersheaven.com/) : They also have included multiple categories such as programming languages, game languages, applications, software development, operating systems and platforms, mobile & wireless, web development and a lot more
+- [Reddit](https://www.reddit.com/) : Reddit has several communities for discussion on various topics that also include programming, technology, tools or other computer science fundamentals
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 
@@ -71,6 +76,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
+- [Digital Trends](https://www.digitaltrends.com/) : This is one of the largest repositories of technology, computer gaming devices, and lifestyle guides, packed with all sorts of information
+- [Futurism](https://futurism.com/) : They have a range of topics starting with the future of humanity, to AI, virtual reality, and renewable energy
+- [Gizmodo](https://gizmodo.com/) : It is one of the best online portals for gadget freaks
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
@@ -85,6 +93,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
+- [The Information](https://www.theinformation.com/) : When you want The Information and want it deep, look no further, as this is the place to be.
+- [The Next Web](https://thenextweb.com/) : A hub for all sorts of technology news, events, conferences, deals, and even a market intelligence platform.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
