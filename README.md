@@ -433,6 +433,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) : Explains the most critical security risks to web applications.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
