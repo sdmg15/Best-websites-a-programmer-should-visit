@@ -139,6 +139,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Blockdegree](https://www.blockdegree.org): Great free courses to start with blockchain basics & then move to advanced & professional level.
+- [Consensys Academy](https://learn.consensys.net/index): Standard Quality Paid courses to master blockchain with in-depth knowledge & practical projects skills.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
