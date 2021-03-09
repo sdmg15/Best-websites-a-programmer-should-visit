@@ -843,6 +843,13 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Tools for Developers & Entrepreuneur
+- [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨👇🏻
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## Jobs
 - [AngelList](https://angel.co/) : AngelList is a 
     website for startups, angel investors, and job-seekers 
