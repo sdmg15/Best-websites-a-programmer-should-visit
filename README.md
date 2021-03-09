@@ -435,6 +435,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
+- [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -838,13 +839,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Tools for Developers & Entrepreuneur
-- [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨👇🏻
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
