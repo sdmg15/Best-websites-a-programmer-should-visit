@@ -436,6 +436,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
 - [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨
+- [Coolors](https://coolors.co/) : Create the perfect palette or get inspired by thousands of beautiful color schemes.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
