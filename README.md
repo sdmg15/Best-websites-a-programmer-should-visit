@@ -438,6 +438,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨
 - [Coolors](https://coolors.co/) : Create the perfect palette or get inspired by thousands of beautiful color schemes.
 - [Tailwind CSS Page Builder](https://devdojo.com/tails/app) :  The perfect Tailwind CSS Page Builder
+- [LottieFiles](https://lottiefiles.com/) : The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
