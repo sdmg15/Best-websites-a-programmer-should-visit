@@ -230,6 +230,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [Ray.So](https://ray.so/): Create beautiful images of your code.
+- [Dev Resources](https://devresourc.es/): One place. All you need. Collaborative list of resources for developers, presented in curated categories. From dev to dev.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
