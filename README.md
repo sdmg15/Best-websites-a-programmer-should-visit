@@ -565,7 +565,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
-- [Time out w/ Tim](https://https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84OTk1Njk0L3BvZGNhc3QvcnNz): Podcast to broaden your perspective and explore the future of tech and of our world
+- [Time out w/ Tim](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84OTk1Njk0L3BvZGNhc3QvcnNz): Podcast to broaden your perspective and explore the future of tech and of our world
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
