@@ -498,7 +498,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
-
+- [How to apply to jobs](https://www.youtube.com/watch?v=P5hDbMfLu0M&list=PLhURsu87NO8uSD_eojv8sGqoWG2T1KzC3&ab_channel=JoshuaFluke): Great advice channel on applying for jobs in the industry and what to look for.
+- [Code Course](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g):General webdevelopment tutorials focused around PHP.
+  
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
