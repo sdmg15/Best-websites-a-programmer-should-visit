@@ -155,7 +155,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
-- [Tech with Tim](https://youtube.com/techwithtim): Various project ideas(mainly python) of different skill levels, with programming and design tutorials as well.
+- [Tech with Tim](https://youtube.com/techwithtim): Various project ideas(mainly python) for different skill-levels, including programming and design tutorials.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -359,7 +359,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
-- [Intro to programming](https://www.coursera.org/learn/intro-programming): Course for very beginners and non-tech heavy people
+- [Intro to programming](https://www.coursera.org/learn/intro-programming): Fundamentals of programming by Univeristy of Edinburgh.
 
  
 
@@ -567,7 +567,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
-- [Time out w/ Tim](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84OTk1Njk0L3BvZGNhc3QvcnNz): Podcast to broaden your perspective and explore the future of tech and of our world
+- [Time out w/ Tim](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84OTk1Njk0L3BvZGNhc3QvcnNz): Podcast to learn about future of technology and STEM.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -686,7 +686,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems
-- [Codechef](https://www.codechef.com): Programming practices specially designed for competitive programming and computational olympiads.
+- [Codechef](https://www.codechef.com): Programming practices designed for competitive programming and computational olympiads.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
