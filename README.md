@@ -498,6 +498,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): He is an Ex Google Engineer Who Efficiently Teaches Coding Concepts from Beginner to Advanced Levels.
+- [William Fiset](https://www.youtube.com/user/purpongie): He believes that animation is the key to Understand Tough Concepts. He Abides By That in his Videos for Sure.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
