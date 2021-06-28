@@ -253,7 +253,6 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Interview Preparation
-- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you all will find it useful!
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
