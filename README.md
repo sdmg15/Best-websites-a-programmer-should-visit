@@ -233,6 +233,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [Flourish](https://flourish.studio/) : Platform for building embeddable interactive charts.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
