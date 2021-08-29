@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
     <br>
     <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
@@ -122,6 +122,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Codewars](https://www.codewars.com) : Achieve mastery through challenge
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
