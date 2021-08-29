@@ -355,6 +355,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Learkn/free-courses](https://learkn.com) : Free CS courses among others. Contains courses and tutorials on developement and basic CS concepts.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -559,6 +560,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) Original Podcast from RedHat delivering short tales and interviews about the world of open-source and computing in general.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
