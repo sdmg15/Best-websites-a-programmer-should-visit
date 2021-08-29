@@ -122,6 +122,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Scrimba](https://scrimba.com) : Learn coding fast using an interactive screencast that enables you to interact with the code directly.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
@@ -350,6 +351,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coursera.org](https://www.coursera.org) : Take the world's best courses, online.
 - [CS50](https://www.youtube.com/user/cs50tv/videos) : A set of goods tutorials from cs50
 - [edX](https://www.edx.org) : Free Online Courses, Advance Your Career, Improve Your Life.
+- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs/blob/master/README.md) : List containing CS courses that satisfy the same requirements as an undergraduate CS degree
 - [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Programming courses focused on art and creativity
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
