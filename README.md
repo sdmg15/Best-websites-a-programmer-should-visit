@@ -691,6 +691,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
+- [You Don't Know JS Book series](https://www.amazon.com/gp/bookseries/B01N9EBP9V) : Book series about all kinds of Javascript topics from Kyle Simpson
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
