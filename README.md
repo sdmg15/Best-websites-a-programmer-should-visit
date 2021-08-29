@@ -233,6 +233,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [jsonviewer](http://jsonviewer.stack.hu/): Nice JSON parser for easy viewing.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -736,6 +737,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
 - [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
+- [Sublime Text](https://www.sublimetext.com/) : Text editor for code, markup and prose. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
