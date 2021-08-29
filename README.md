@@ -676,7 +676,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
-- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
+- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems
+- [Advent of Code](https://adventofcode.com/2019) : Advent calendar of small programming puzzles
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
