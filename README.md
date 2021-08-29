@@ -355,6 +355,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Udemy](https://www.udemy.com/) : Online Platform for free courses
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -498,6 +499,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [The Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) : Excellent tutorials and tips regarding general programming along with cloning sessions.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
