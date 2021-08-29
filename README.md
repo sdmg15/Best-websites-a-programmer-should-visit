@@ -97,6 +97,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Magazines
+- [Communications of the ACM](https://cacm.acm.org/) : Association for Computing Machinery (ACM) monthly journal.
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
@@ -670,6 +671,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
+- [IEEEXtreme](https://ieeextreme.org/) : Global challenge in which teams of students compete in a 24-hour time span against each other to solve a set of programming problems.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
