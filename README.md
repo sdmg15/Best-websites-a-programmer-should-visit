@@ -311,6 +311,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
+-[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
 
 
 <div align="right">
