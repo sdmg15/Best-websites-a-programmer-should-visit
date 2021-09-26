@@ -247,6 +247,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
 - [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many ocasions
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
