@@ -313,7 +313,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 -[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
-
+- [BackToBackSWE](https://www.youtube.com/c/BackToBackSWE/) : Exercises and Explainers focusing on Interview Preparation.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -496,7 +496,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
-
+- [Tech With Tim](https://www.youtube.com/c/TechWithTim/) : Beginner-friendly Programming and Machine Learning Tutorials
+- [CodingNepal](https://www.youtube.com/c/CodingNepal/) : Lots of creative tutorials using HTML, CSS and JavaScript, mainly focusing on Aesthetic Visual Effects and Animations.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
