@@ -496,6 +496,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Aditya Verma (Dynammic Programming Playlist)](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go): Dynammic Programming playlist with class DP concepts well explained.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
