@@ -409,6 +409,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
+- [Towards Data Science](https://towardsdatascience.com/) : A Medium publication sharing AI related concepts, ideas and codes.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
