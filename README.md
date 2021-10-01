@@ -53,11 +53,13 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
-- [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [devRant](https://www.devrant.io) : Community where you can rant and release your stress.
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
-- [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
-- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+- [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything.
+- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world.
+- [Stack Overflow](https://stackoverflow.com) : Subscribe to their weekly newsletter and any other topic which you find interesting.
+- [Geeks for Geeks](https://www.geeksforgeeks.org/) : A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles.
+- [W3 Schools](https://www.w3schools.com/) : It is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -117,16 +119,20 @@ When learning CS, there are some useful sites you must know to get always inform
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing.
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
-- [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
-- [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way.
+- [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations.
+- [Hackerrank](https://www.hackerrank.com/) : It is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere!
+- [CodeChef](https://www.codechef.com/) : It was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests.
+- [LeetCode](https://leetcode.com/) : It is one of the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+- [HackerEarth](https://www.hackerearth.com/) : It lets you engage or source top developers with hackathons, while also enabling you to assess, interview and upskill them with ease.
 
 
 <div align="right">
@@ -143,6 +149,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Zerodha](https://zerodha.com/) : Largest stock broker in India.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -449,36 +456,37 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## YouTube Channels
-- [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
-- [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
-- [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
-- [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
+- [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference.
+- [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center.
+- [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) : Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took me ages to learn by Harry.
+- [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks.
+- [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student.
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
-- [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+- [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference.
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
 - [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to the tech industry.
-- [Java](https://www.youtube.com/user/java/videos) : talks related to java
-- [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
-- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
-- [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
-- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
+- [Java](https://www.youtube.com/user/java/videos) : talks related to java.
+- [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference.
+- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials.
+- [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++.
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering.
 - [Murtaza's OpenCV Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/): OpenCV, Self Driving, Robotics and AI tutorials.
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of the world's best technical writers.
-- [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
+- [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience.
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
-- [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
-- [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos.
+- [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL.
+- [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics.
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming.
 - [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
-- [GOTO Conference](https://www.youtube.com/user/GotoConferences) : tech talks from the GOTO Conference by Developers for Developers
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) : freecodecamp youtube channel
-- [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced c++
-- [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : geeksforgeeks youtube
+- [GOTO Conference](https://www.youtube.com/user/GotoConferences) : tech talks from the GOTO Conference by Developers for Developers.
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) : freecodecamp youtube channel.
+- [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced c++.
+- [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : geeksforgeeks youtube.
 - [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) : Hacker earth youtube
 - [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals, and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
@@ -878,7 +886,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
-- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
+- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets.
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
