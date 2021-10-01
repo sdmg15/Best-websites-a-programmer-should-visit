@@ -426,7 +426,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Everything in one place
-- [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
+- [DevDocs API Documentation](http://devdocs.io) : A one-stop-shop customizable API Documentation tool with a searchable interface and ability to save documentation for offline use
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
