@@ -70,6 +70,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
+- [Cnet](https://www.cnet.com/) : CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events.
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
@@ -100,6 +101,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [ComputerWorld](https://www.computerworld.com/) : Computerworld covers a range of technology topics, with a focus on these core areas of IT.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -127,7 +129,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
-
+- [W3schools](https://www.w3schools.com/) : W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
