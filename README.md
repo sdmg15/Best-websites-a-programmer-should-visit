@@ -56,6 +56,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
+- [Oh Shit, Git!?!](https://ohshitgit.com/) : A very helpful website that will help you solve almost any GIT issue you may encounter.
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 
