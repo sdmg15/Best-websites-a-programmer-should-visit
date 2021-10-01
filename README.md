@@ -17,6 +17,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
+<li><a href="#Datastructres-and-Algorithms">Data Structures and Algorithms</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
@@ -92,6 +93,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Datastructres and Algorithms
+- [Hackerrank](https://www.hackerrank.com/dashboard) : Best to start with
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) : They have everything, core subjects like DBMS, OS Networking to articles and concepts in almost every language.
+- [CODEFORCES](https://codeforces.com/) : A Competitive Programming Site by Telegram
+- [LEETCODE](https://leetcode.com/) : It contains problems set from interview test of various companies
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
