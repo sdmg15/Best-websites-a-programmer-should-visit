@@ -127,7 +127,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
-
+- [LeetCode](https://leetcode.com/) : LeetCode is a platform to help enhance the skills and prepare for technical interviews.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
