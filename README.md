@@ -233,6 +233,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [unDraw](https://undraw.co/illustrations): For anyone looking for vector images with similar color.
+- [blush](https://blush.design/collections/humaaans/humaaans): For anyone looking for Humans as vector images .
+- [pixabay](https://pixabay.com/): For images in vector, illustration, png etc .
+- [freeicons.io](https://freeicons.io/): For anyone looking for icons in png and svg format.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -496,6 +500,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g): To get knowledge about freelancing and people who are confused about choosing a field to study should look into it.
+- [Denis Ivy](https://www.youtube.com/c/DennisIvy):Tutorials based on Django, Javascript ,React .Best on the platform for anyone who is just getting started in Django.
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg):codes live on youtube .Known for his series on python machine learning.
+- [Kenny Gunderman](https://www.youtube.com/channel/UCkCJ0zLrSg7VudR97g-FNVQ):Gives amazing adive for self taught programmer
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -880,6 +888,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+
+
+
+
+
+
+
+
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
