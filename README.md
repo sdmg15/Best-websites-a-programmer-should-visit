@@ -352,6 +352,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Pluralsight](https://www.pluralsight.com) : An online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
