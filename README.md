@@ -156,6 +156,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [Clever Programmer-Projects with source code](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/ ) : 100+ amazing Python projects with source code solved and explained for free.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
