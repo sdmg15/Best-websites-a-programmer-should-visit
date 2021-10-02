@@ -348,10 +348,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CS50](https://www.youtube.com/user/cs50tv/videos) : A set of goods tutorials from cs50
 - [edX](https://www.edx.org) : Free Online Courses, Advance Your Career, Improve Your Life.
 - [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : Programming courses focused on art and creativity
+- [Khan Academy](https://www.khanacademy.org/) : Provide a free, world-class education .
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Udacity](https://www.udacity.com/) : An online education provider that offers online courses 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
