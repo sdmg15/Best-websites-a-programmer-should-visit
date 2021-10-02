@@ -20,6 +20,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
+<li><a href="#ComputerNetworks"></a>Learn Computer Networks</li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
@@ -147,6 +148,21 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## ComputerNetworks
+- [Intro to networks](https://beginnersbook.com/2019/03/introduction-to-computer-network/) : A beginner's guide to Computer Networks
+- [Networks commands for mac-terminal](https://gree2.github.io/mac/2015/07/18/mac-network-commands-cheat-sheet) : An alternative to cmd commands
+- [Networks commands for windows cmd](https://lizardsystems.com/articles/network-command-line-utilities/) : A guide to cmd commands for network diagnosis
+- [Understanding Network diagnosis commands](https://whirlpool.net.au/wiki/windows_nw_diag_cmds) : Understanding what command plays what role in network diagnosis
+- [Network Diagnosis tools](https://www.comparitech.com/net-admin/network-troubleshooting-tools/) : About network diagnosis tools 
+- [Network scanning tool](https://nmap.org/) : Understanding port scanning and network scanning using Nmap
+- [Network protocol analyzer](https://www.wireshark.org/): Get to learn about the most widely used network analysing tool
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer): Understanding about how networks really work using a network simulation tool 
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
