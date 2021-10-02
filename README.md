@@ -140,7 +140,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
-- [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Learn Me A Bitcoin](https://learnmeabitcoin.com/) : Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Mysterium](https://mysterium.network/) : Mysterium is building a decentralised P2P VPN and other tools that allow you to browse the internet freely, earn by sharing your connection, and build censorship-resistant applications.
+- [CryptoCompare](https://www.cryptocompare.com/) : A free and open source API for cryptocurrency data.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -154,6 +156,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [reddit.com/r/ProgrammingIdeas](https://www.reddit.com/r/ProgrammingIdeas/) : A place to discuss ideas for programming.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -197,10 +200,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
-- [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
-- [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
-- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
-- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
+- [Source Making ](https://sourcemaking.com/) : Design Patterns & Refactoring
+- [Refactoring Guru](https://refactoring.guru/) : Refactoring And Design Patterns
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) : Google Java Style Guide
+- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs) : Rust code formatting RFCs and coding style guides.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -225,8 +228,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
-- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
-- [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [EmailDrop](https://www.emaildrop.io/) : Emaildrop is a free disposable email provider.
+- [Repl.it](https://repl.it) : Accessible prototyping tool for various needs.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -327,7 +330,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
-- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -355,6 +358,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
+- [C++ Programming - A Beginner's Guide](http://www.cplusplus.com/doc/tutorial/) : A Beginner's Guide to C++ Programming
 - [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
@@ -372,7 +376,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
-- [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
+- [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/) : The Java Memory Model
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
 - [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
@@ -473,8 +477,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand the software better, including explanations of how the software performs some of its most important jobs and tools programmers can use to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
-- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) : Web development tutorials
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) : Tutorials based on Web development from basic to advanced.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -494,7 +498,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Getting Started with MongoDB – An Introduction](https://studio3t.com/knowledge-base/articles/mongodb-getting-started/)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
-- [Step by Step Guide to Database Normalization](https://www.databasestar.com/normalization-in-dbms/): A guide to database normalization.
+- [Step by Step Guide to Database Normalization](https://www.databasestar.com/normalization-in-dbms/) : A guide to database normalization.
 - [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 - [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
@@ -606,7 +610,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 - [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
-- [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
+- [Explain Shell](https://explainshell.com/) : Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 
 <div align="right">
@@ -671,7 +675,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Video Tutorials
-- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
+- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) : Algorithm tutorials playlists by an Indian youtuber Aditya verma.
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
@@ -748,7 +752,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
-- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+- [The Net Ninja](https://www.thenetninja.co.uk/) : Web development tutorials
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -818,7 +822,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
-- [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
+- [PerfectIntern](https://www.perfectintern.com) : Get help finding a paid internship, resume prep, interview prep, and more!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
