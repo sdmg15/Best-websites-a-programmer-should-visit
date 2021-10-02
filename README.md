@@ -157,6 +157,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 
+- [DEV Community](https://dev.to/) : a website containing ideas and advice from all programmers in the world
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -212,6 +214,8 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [JsFiddle](https://jsfiddle.net/) : Front End Developer Playground & Code Editor in the Browser
+- [OnlineDgb](https://www.onlinegdb.com/): a useful web for compiling coding such as pascal, c++ and c#
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
