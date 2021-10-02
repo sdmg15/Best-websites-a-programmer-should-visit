@@ -213,6 +213,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
+- [CSS Gradient](https://cssgradient.io/) : CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
