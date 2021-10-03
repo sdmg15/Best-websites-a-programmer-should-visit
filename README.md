@@ -352,6 +352,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
+- [Udacity](https://www.udacity.com/) : a website that has the latest digital skills, within reach. Some course are free others are paid. A person can apply for Scholarships and be granted.
+- [LearnPub](https://leanpub.com/) : a website that combines between Mooc, Courses, Books, and many things.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
