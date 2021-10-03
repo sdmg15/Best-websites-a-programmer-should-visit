@@ -38,6 +38,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
+<li><a href="#ui-inspirtation">UI Inspiration Websites</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
 <li><a href="#competitive-programming">Competitive programming</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
@@ -631,6 +632,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## UI Inspiration Websites
+- [Dribbble](https://dribbble.com/): Discover the world’s top designers & creatives
+- [Awwards](https://www.awwwards.com/): The awards for design, creativity and innovation on the Internet.
+- [CSS Design Awards](https://www.cssdesignawards.com/): A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
+- [Httpster](https://httpster.net/): Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
