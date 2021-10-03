@@ -861,6 +861,7 @@ When learning CS, there are some useful sites you must know to get always inform
     You can search by company, job title, keyword, employment type, and location.
 - [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
 - [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers 
+- [Fiverr](https://www.fiverr.com/) : Fiverr is a platform for freelancers to offer services to customers worldwide.
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
