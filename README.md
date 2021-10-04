@@ -827,6 +827,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Open Source](https://opensource.google.com) : Google Open Source
 - [Red Hat Developer](https://developers.redhat.com) : The world's leading provider of open source solutions
 - [Open Source](https://opensource.com) : Open Source
+- [GirlScript Summer of Code](https://gssoc.girlscript.tech/) : GirlScript Summer of Code is the 3 month long Open Source program during summers. Additionally, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
 - [Google Summer of Code](https://summerofcode.withgoogle.com) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.
 - [Open Source Web Design](http://www.oswd.org) : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.
 - [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.
