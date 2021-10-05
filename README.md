@@ -463,6 +463,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
 - [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to the tech industry.
+- [IppSec](https://www.youtube.com/c/ippsec) : IppSec is a YouTuber and HackTheBox player that make detailed walkthrougt of HTB machines every week. 
 - [Java](https://www.youtube.com/user/java/videos) : talks related to java
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
 - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
