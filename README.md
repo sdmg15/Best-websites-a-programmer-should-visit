@@ -246,8 +246,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
 - [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
 - [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
-- [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
-- [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many ocasions
+- [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
+- [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 
 <div align="right">
@@ -284,7 +284,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to interview](http://kelukelu.me/interview/index.html)
 - [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
-- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
+- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregate of links related to internships.
 - [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
 - [Interview Cake](https://www.interviewcake.com/) : Free and Paid course options offering high quality technical interview practice. 
@@ -498,7 +498,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
-- [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -546,7 +546,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
-- [LispCast](https://lispcast.com/category/podcast/) : A podcast by Eric Normand, a functinal programming expert talking about FP concepts.
+- [LispCast](https://lispcast.com/category/podcast/) : A podcast by Eric Normand, a functional programming expert talking about FP concepts.
 - [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
 - [Soft Skills Engineering](https://softskills.audio/) : A weekly advice podcast for software developers about non-technical topics.
