@@ -58,6 +58,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+- [Stack Exchange](https://stackexchange.com/) : Stack Excahnge a place where different communities are theret solve the issue raised by you.
+- [Code Project](https://www.codeproject.com/) : Post any question, any article, raise querry,start discussion in add on to monthly articles contest.
+- [Chegg](https://www.chegg.com/) : Place where yo'll get any question answered along with the option of getting book's pdf relevant to that respective question.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -91,6 +95,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+- [DZone](https://dzone.com/) : Research, Webniars, News on any Zone of technology.
+- [Mit Open Courseware](https://ocw.mit.edu/) : News on MIT Courses, Podcast, Lectures and many more
+- [XDA](https://www.xda-developers.com) : Android Developers News
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -100,6 +107,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx) : Weekly new topics, tutorials, information about C#, asp.net, azure, typecsript, xamarian etc.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -127,7 +135,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
-
+- [Hebeon Technologies](https://www.hebeon.com/) : C, C++, Java, Database, Cloud, Python all platforms competative coding options are avaliable for beginners.
+ 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -634,6 +643,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [C# Asp.Net](https://www.c-sharpcorner.com/) : Learn C# programming language and also understand it's implementaion in ASP.NET
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
