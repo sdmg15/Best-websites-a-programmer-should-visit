@@ -121,10 +121,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
+- [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
+- [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 
 
 <div align="right">
@@ -141,6 +143,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Help:FAQ): Help:FAQ - Bitcoin Wiki.
+- [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -173,6 +176,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
+- [TeachYourselfCS](https://teachyourselfcs.com/) : If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
@@ -183,7 +187,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Coding Style
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
-- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
+- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
@@ -192,8 +196,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
 - [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't know how? Check out this post
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get started
 - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
 - [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
@@ -217,6 +221,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
+- [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
@@ -246,13 +251,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
 - [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many ocasions
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Interview Preparation
-- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful!
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
@@ -291,6 +296,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
+- [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
 - [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
 - [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
@@ -310,6 +316,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
+-[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
 
 
 <div align="right">
@@ -320,9 +327,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
-- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
 - [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
-- [How does CPU execute a program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Take a look at how a CPU executes programs
 - [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
 - Machine that Changed the World - a very good documentary about the history of computers
   - Part 1 is unavailable for free streaming due to widespread copyright claims.
@@ -331,11 +336,8 @@ When learning CS, there are some useful sites you must know to get always inform
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
-- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
-- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open-source, and the free software movement.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
-- [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
 
 <div align="right">
@@ -390,6 +392,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -433,6 +436,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
+- [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
@@ -445,6 +449,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more. 
 - [unDraw](https://undraw.co/illustrations) : Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.
+- [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -497,6 +502,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
+- [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -861,6 +867,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
 - [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
+- [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers 
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
