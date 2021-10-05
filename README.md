@@ -535,6 +535,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
+- [Serverless Architectures](https://martinfowler.com/articles/serverless.html) : This article provides an in-depth look at serverless architecture and as a result is a long read.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
