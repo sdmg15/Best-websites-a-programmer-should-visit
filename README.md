@@ -156,7 +156,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
-
+- [https://github.com/florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): A github repository for app ideas, with beginner, intermediate, and advanced categories.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -600,6 +600,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
+- [learnxinyminutes.com](https://learnxinyminutes.com) : Learn any programming language or theory in a short time.
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
@@ -608,7 +609,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
-- [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
+- [dzone.com](https://dzone.com) : Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
