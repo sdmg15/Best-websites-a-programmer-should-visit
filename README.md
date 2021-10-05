@@ -29,6 +29,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
+<li><a href="#learn-cybersec">Learn Cyber Security</a></li>
 <li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
@@ -410,6 +411,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Learn CyberSecurity
+
+- [HackTheBox](https://www.hackthebox.eu/) : Learn Hacking with HackTheBox, a plateform where you can pratice you'r Offensive Security skills against machines and more.
+- [Root Me](https://www.root-me.org/) : Learn Hacking with Root Me, a plateform where youc an pratice on a lot of challenge like Steganography, Cryptography, Web and more.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
