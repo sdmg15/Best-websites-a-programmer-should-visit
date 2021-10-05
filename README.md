@@ -296,6 +296,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
 - [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
+- [Prepare for 10 most common Interview Questions](https://www.workindia.in/interview-questions-and-tips/) : Prepare for the most generic interview questions
 - [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
 - [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
 - [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : Logic Puzzles
