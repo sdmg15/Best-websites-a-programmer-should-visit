@@ -499,6 +499,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Code With Harry](https://www.youtube.com/c/CodeWithHarry): Tutorials on Almost Every languages available on this channel. Along with One Video (Complete Any language in single video) and some cheatsheets.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -642,6 +643,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Watch others code
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building applications, websites, games, etc.
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
+- [Codewithharry.com](https://www.codewithharry.com) : Coding Articles on almost every language and Video Tutorials.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
