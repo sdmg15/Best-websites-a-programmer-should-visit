@@ -450,6 +450,8 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+##A website for all YouTube channels
+-[OG-TECH-TUTORS](https://syedaasim033.github.io/techies/) :A-Z Youtube tutorials in an very impressive UI
 
 ## YouTube Channels
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
