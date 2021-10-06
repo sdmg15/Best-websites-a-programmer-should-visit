@@ -28,3 +28,7 @@ www.joelonsoftware.com
 www.quora.com
 www.techotopia.com
 www.topcoder.com
+https://www.edx.org/
+https://www.educative.io/
+https://www.hackerrank.com/
+https://stackoverflow.com/
