@@ -500,6 +500,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Code With Harry](https://www.youtube.com/c/CodeWithHarry): Tutorials on Everything Related to programming.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -678,7 +679,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
-- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
+- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems
+- [Leetcode](https://leetcode.com) : Topic wise proper arranged problems and contests with interview related problems.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
