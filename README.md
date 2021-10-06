@@ -499,6 +499,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Stack Developers](https://www.youtube.com/c/StackDevelopers) : Laravel Tutorials and E-Commerce Projects
+- [Atif Naseem](https://www.youtube.com/watch?v=a60GYitJsMs&list=PLYVcyg3AF-zv3yDoABRpUjdhugo0zOte3) : Laravel Become a Master
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) : Learn Algorithms, Data Structures and Java Programming
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
