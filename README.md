@@ -113,6 +113,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
+- [Full stack open](https://fullstackopen.com/en) : Learn modern web development from scratch to production, for free.
 - [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
