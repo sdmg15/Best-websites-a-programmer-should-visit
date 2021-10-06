@@ -446,6 +446,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
+- [Dzone](https://dzone.com/) : DZone has over a million web developers, making it a sanctuary for programming and development professionals. It covers all sorts of things like cloud, big data, integration, performance and more. DZone is a reference source when it comes to knowing the latest perspectives from all corners of the field.
+
+
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
