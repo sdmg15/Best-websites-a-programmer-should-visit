@@ -586,6 +586,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
+- [Code Tidbits](https://www.samanthaming.com/tidbits/) : Useful pieces of JavaScript, HTML, and CSS code
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CryptoHack](https://cryptohack.org/) : Learn cryptography through challenges and tutorials. Has a leaderboard and new challenges are added every few months. 
 - [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
