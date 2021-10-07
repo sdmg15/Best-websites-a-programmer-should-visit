@@ -127,6 +127,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [W3Schools](https://www.w3schools.com/) : Exercises and Quizzes for HTML, CSS, JavaScript, SQL, PHP, Python, jQuery, Bootstrap and more.
+- [W3Docs](https://www.w3docs.com/) : Exercises for HTML, CSS, JavaScript, PHP and Git. Quizzes for HTML, CSS, JavaScript, PHP, SQL, Git, React, Vue and more.
+- [W3Resource](https://www.w3resource.com/) : Exercises for HTML, CSS, JavaScript, SQL, PHP, Python, jQuery and many more. Quizzes for Python.
 
 
 <div align="right">
@@ -681,6 +684,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
+- [CheckIO](https://checkio.org/) : Coding Challenges in form of a game (currently only supports Python & TypeScript).
+- [UI Coach](https://uicoach.io/) : Frontend Coding Challenges (HTML, CSS).
+- [Daily UI](https://www.dailyui.co/) : Frontend Coding Challenges (HTML, CSS).
+- [CSS Battle](https://cssbattle.dev/) : Frontend Coding Challenges (HTML, CSS).
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
