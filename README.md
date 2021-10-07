@@ -378,6 +378,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
+- [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
