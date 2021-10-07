@@ -245,7 +245,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
 - [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
-- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
+- [Conquering the Command Line](https://www.freecodecamp.org/news/conquering-the-command-line-f85f5e46c07c/) : Unix and Linux Commands for Developers
 - [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many ocasions
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
@@ -525,7 +525,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
-- [What every programmer should know about memory - PDF](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- [What every programmer should know about memory - PDF](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : How I got to 200 productive hours a month
 - [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : Parallel processing with Unix tools
 - [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
