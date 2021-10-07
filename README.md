@@ -179,6 +179,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
+- [Dhruv Bird](http://dhruvbird.com/61.html) : A 4 year plan for learning programming!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
