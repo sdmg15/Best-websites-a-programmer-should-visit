@@ -499,6 +499,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Algorithms Made Easy](https://www.youtube.com/c/AlgorithmsMadeEasy): Solutions of Daily Leetcode Problems and complex coding problems with Detailed explanations and visual graphics.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
