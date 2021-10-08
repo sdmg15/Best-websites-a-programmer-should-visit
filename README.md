@@ -266,6 +266,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
+- [CoderPad](https://coderpad.io/) : Leave the whiteboard behind with CoderPad’s intuitive programming environment for interviews.
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
@@ -664,6 +665,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
+- [Binarysearch](https://binarysearch.com/) : Solve coding problems together.
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
