@@ -15,6 +15,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
+<li><a href="#programming-languages">Programming languages</a></li>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
@@ -50,6 +51,26 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
 </ul>
+
+## Programming languages
+- [Clojure](https://clojure.org/)
+- [C++](http://www.cplusplus.com/)
+- [Golang](https://golang.org/)
+- [Haskell](https://www.haskell.org/)
+- [Lua](https://www.lua.org/)
+- [Java](https://www.java.com/)
+- [Javascript](https://www.javascript.com/)
+- [Julia](https://julialang.org/)
+- [Kotlin](https://kotlinlang.org/)
+- [Lisp](https://common-lisp.net/)
+- [Perl](https://www.perl.org/)
+- [Python](https://www.python.org/)
+- [R](https://www.r-project.org/)
+- [Racket](https://racket-lang.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rust](https://www.rust-lang.org/)
+- [Scala](https://scala-lang.org/)
+- [Scheme](https://www.scheme.com/tspl4/)
 
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
@@ -127,6 +148,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [BinarySearch](https://binarysearch.com/) : Practice programming with multiple types of programming modes. Comes with active discussion forums to discuss approaches.
 
 
 <div align="right">
