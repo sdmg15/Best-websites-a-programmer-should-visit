@@ -501,6 +501,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ): Youtube channel for people who want to learn Django.
+- [Denis Ivy](https://www.youtube.com/c/DennisIvy): For people who want to learn Django with case study.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
