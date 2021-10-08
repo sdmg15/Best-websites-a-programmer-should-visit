@@ -501,6 +501,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structres and Algorithms in Java and C++.
+- [Dapp University](https://www.youtube.com/c/DappUniversity): Tutorials on Blockchain.
+- [Moralis Web3](https://www.youtube.com/c/MoralisWeb3): Tutorials on Web3.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
