@@ -121,7 +121,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
@@ -175,6 +175,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
+- [TeachYourselfCS](https://teachyourselfcs.com/) : If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
@@ -377,6 +378,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
+- [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
@@ -388,6 +390,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -409,6 +412,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
 - [Google AI](https://ai.google.com/education/) : A collection of various resources by Google (like videos, tutorials, articles and more) to learn AI
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -432,6 +436,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
+- [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
@@ -548,6 +553,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LispCast](https://lispcast.com/category/podcast/) : A podcast by Eric Normand, a functinal programming expert talking about FP concepts.
 - [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
+- [ShopTalk Show](https://shoptalkshow.com/) : A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
 - [Soft Skills Engineering](https://softskills.audio/) : A weekly advice podcast for software developers about non-technical topics.
 - [Software Engineering Daily](https://softwareengineeringdaily.com) : A daily technical interview about software topics.
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
