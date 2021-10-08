@@ -665,7 +665,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
-- [Binarysearch](https://binarysearch.com/) : Solve coding problems together.
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
