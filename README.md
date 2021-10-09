@@ -433,22 +433,23 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com/) : It covers the space and time Big-O complexities of common data structures and algorithms
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
+- [Coolors](https://coolors.co/) : Create the perfect palette or get inspired by thousands of beautiful color schemes.
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
-- [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
-- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
-- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
 - [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨
-- [Coolors](https://coolors.co/) : Create the perfect palette or get inspired by thousands of beautiful color schemes.
-- [Tailwind CSS Page Builder](https://devdojo.com/tails/app) :  The perfect Tailwind CSS Page Builder
-- [LottieFiles](https://lottiefiles.com/) : The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
-- [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
+- [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
+- [LottieFiles](https://lottiefiles.com/) : The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+- [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
+- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
+- [Tailwind CSS Page Builder](https://devdojo.com/tails/app) :  The perfect Tailwind CSS Page Builder
+- [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
+- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -863,9 +864,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Jobs
-- [AngelList](https://angel.co/) : AngelList is a 
-    website for startups, angel investors, and job-seekers 
-    looking to work at startups. 
+- [AngelList](https://angel.co/) : AngelList is a website for startups, angel investors, and job-seekers looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
 - [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers
 - [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs.
