@@ -106,28 +106,29 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
-- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
-- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-- [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
-- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
-- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
-- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
+- [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
+- [FreeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
+- [HackerRank](https://www.hackerrank.com/) : Learn coding through tutorials and practice a variety of skills like DBMS, Shell scripting, SQL and Programming. It also includes skill certifications and interview preparation track.
+- [InterviewBit - Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
+- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
+- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. When done, click on the swap roles button on the left.
+- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics.
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
+- [Treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -728,18 +729,19 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Online Compiler and Sharing Code snippets
+- [C9.io](https://c9.io) : Your development environment, in the cloud
+- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
+- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
+- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
+- [Online GDB](https://www.onlinegdb.com) : Online compiler and debugger tool for 25+ languages like C, C++, Python, Java, Ruby, C#, HTML, CSS and JS.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
-- [C9.io](https://c9.io) : Your development environment, in the cloud
-- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
-- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 
 <div align="right">
@@ -865,29 +867,29 @@ When learning CS, there are some useful sites you must know to get always inform
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
+- [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers
+- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
-- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
-- [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers 
+- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
+- [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs.
 - [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.
 - [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
+- [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
+- [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
-- [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
-- [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
-- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
-- [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
