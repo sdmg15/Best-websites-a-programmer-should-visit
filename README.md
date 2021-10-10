@@ -161,7 +161,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
 - [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
-- [JavaScript.info](https://javascript.info/) : From the basics to advanced topics with simple, but detailed explanations.
 - [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
@@ -461,8 +460,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competitive programming
-- [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg) : Short HTML, CSS and JS tutorials for building cool effects or explaining simple concepts. 
-- [Stefan Mischook](https://www.youtube.com/channel/UCyUBW72KU30dfAYWLVNZO8Q) : Advices and Q&A from someone who has been coding a lot of years. 
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
 - [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
@@ -725,7 +722,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
-- [Coding Horror](https://blog.codinghorror.com) : one of the best coding blog
+- [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
 - [CSE Blog](http://www.cseblog.com) : quant, math, computer science puzzles
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
@@ -751,7 +748,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
-- [Zell](https://zellwk.com/blog/): Blog mostly about JavaScript and its ecosystem.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -853,7 +849,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
-- [VanHack | Get your dream job, abroad and remote](https://vanhack.com/candidates) : Find a job in the EU and Canada easier. Full remote positions too.
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
