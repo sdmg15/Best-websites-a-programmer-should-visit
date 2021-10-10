@@ -433,6 +433,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
+- [Fireship | build and ship your app faster](https://www.youtube.com/c/Fireship) : Code tutorials to help you build & ship your app faster. The original home of #100SecondsOfCode and #CodeThisNotThat.
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
@@ -511,6 +512,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Podcasts
+- [CodePen Radio | made by de CodePen team](https://blog.codepen.io/radio/) : A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
@@ -733,10 +735,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [HackerEarth Blog](http://blog.hackerearth.com) : The HackerEarth blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
+- [Kent C. Dodds | Learn development with great articles](https://kentcdodds.com/blog) : 183 articles on JavaScript, TypeScript, React, Testing, Career, and more.
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
+- [Overreacted | Dan Abramov's blog](https://overreacted.io/) : Blog of Dan Abramov, software engineer at Facebook and co-creator of Redux.
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
 - [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
 - [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
