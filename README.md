@@ -72,6 +72,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
+- [Entrackr](https://entrackr.com) : Entrackr is an independent voice on Indian Internet economy. We offer latest technology news as well as business news.
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
@@ -91,6 +92,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+- [Yourstory](https://yourstory.com) : YourStory.com is India's biggest and definitive platform for startups and entrepreneurs related stories, resources, research reports and analysis.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -127,6 +129,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [CryptoZombies](https://cryptozombies.io) : CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
 
 
 <div align="right">
