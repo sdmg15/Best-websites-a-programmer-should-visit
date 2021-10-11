@@ -480,6 +480,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
+- [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured) : Video reviews on state-of-the-art ML/AI Research papers.
 - [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences) : tech talks from the GOTO Conference by Developers for Developers
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) : freecodecamp youtube channel
