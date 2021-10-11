@@ -136,6 +136,8 @@ When learning CS, there are some useful sites you must know to get always inform
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
+- [Coin Market Cap](https://coinmarketcap.com) : Reports on the trading activities of thousands of markets but does not directly sell any cryptocurrency
+- [Coin Gecko](https://coingecko.com) : is the world's largest independent cryptocurrency data aggregator with over 6,000 different cryptoassets tracked across more than 400 exchanges
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
