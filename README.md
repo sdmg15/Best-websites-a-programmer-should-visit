@@ -79,6 +79,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
 - [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
+- [InfoQ](https://www.infoq.com/) : Software Development news site for professionals with a wide array of topics.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
