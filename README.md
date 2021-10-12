@@ -233,6 +233,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [Figma](https://www.figma.com/): Figma connects everyone in the design process so teams can deliver better products, faster. You can build an iterative design flow with live    collaboration that keeps you in the loop whether you’re working in the office or remotely.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
