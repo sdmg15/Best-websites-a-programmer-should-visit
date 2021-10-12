@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
 </h1>
 
@@ -68,6 +68,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
+- [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
@@ -108,7 +109,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-- [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
+- [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
 - [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
@@ -202,7 +203,9 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
+- [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
@@ -217,6 +220,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -291,6 +295,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
+- [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 
 
 <div align="right">
@@ -388,6 +393,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
+- [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -412,6 +418,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [API documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
+- [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -550,10 +557,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
+- [CryptoHack](https://cryptohack.org/) : Learn cryptography through challenges and tutorials. Has a leaderboard and new challenges are added every few months. 
 - [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
 - [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
+- [Flexbox Froggy](https://flexboxfroggy.com) : a game that teaches you how to use CSS flexbox properties
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
@@ -620,7 +629,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
-- [Codefights](https://codefights.com) : Test your coding skills
+- [CodeSignal](https://app.codesignal.com) : Test your coding skills
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
@@ -635,6 +644,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
+- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -690,7 +700,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor 
+- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
+- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -833,6 +844,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
+- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
+- [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
