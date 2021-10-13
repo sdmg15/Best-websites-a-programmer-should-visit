@@ -220,6 +220,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
+- [RegExLib](https://regexlib.com) : The Internet's first Regular Expression Library.
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
