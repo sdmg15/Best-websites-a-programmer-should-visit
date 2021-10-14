@@ -100,7 +100,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [LWN](https://lwn.net) : Weekly news coverage of open source technologies, programming, etc. ( Originally Linux Weekly News).
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -226,14 +226,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Apollo launchepad for testing GraphQl queries
+- [LaunchPad](https://launchpad.graphql.com) : Apollo launchpad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
-- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
-- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
+- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. Code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
-- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [EmailDrop](https://www.emaildrop.io/): EmailDrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [Svgator](https://www.svgator.com/): Animate SVG graphically. It's like a video editor but for SVG. 
 
@@ -622,7 +622,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
 - [The Bash Guide](http://guide.bash.academy) : A very good guide for learning the Bash Shell
-- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like Java or Python.
+- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : For those moving to C from some higher programming language like Java or Python.
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
@@ -672,12 +672,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
-- [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
+- [Codeforces](http://codeforces.com) : Programming Competition, Programming Contest, Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
-- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
+- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : Past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
@@ -714,7 +714,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an interactive learning destination for aspiring and experienced developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : A very good introductory CS course
-- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
+- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : Good quality tutorials
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : Web dev tutorials
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
@@ -746,7 +746,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
+- [Coder](https://coder.com) : A web-based development environment using Visual Studio Code as a code editor
 - [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 
@@ -767,7 +767,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% tested on humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
-- [Coding Horror](https://blog.codinghorror.com) : Pne the best coding blogs
+- [Coding Horror](https://blog.codinghorror.com) : The best coding blogs
 - [CSE Blog](http://www.cseblog.com) : Quant, math, computer science puzzles
 - [CSS Tricks](https://css-tricks.com/) : About building websites and all that entails, mostly from a front-end perspective
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
@@ -789,7 +789,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
-- [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
+- [Takipi Blog](http://blog.takipi.com) : Mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
@@ -819,7 +819,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A YouTube channel about science, mainly, but not only, the universe and space.
-- [Regex Crossword](https://regexcrossword.com) : A simple crossword game where clues are Regex that must be matched.
+- [Regex Crossword](https://regexcrossword.com) : A simple crossword game where clues are regex that must be matched.
 - [SciShow](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
@@ -883,14 +883,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
 - [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.
-- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers, career coaching. Try it.
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
-- [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
-- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
-  Candidate or Employer. You can get your job easily here.
-- [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
-  filtering, and finding new and attractive jobs according to your needs and interests.
+- [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for software engineers that want to work in Switzerland.
+- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become a recruiter, candidate or employer. You can get your job easily here.
+- [Who is Hiring](https://whoishiring.io) : An awesome resource for searching, filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
