@@ -804,7 +804,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
-- [Vocabulary.com for everyone who needs to improve vocabulary](https://www.vocabulary.com/): Interesting approach to learn English from beginner level to advanced
+- [Vocabulary.com](https://www.vocabulary.com/): For everyone who needs to improve vocabulary 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
