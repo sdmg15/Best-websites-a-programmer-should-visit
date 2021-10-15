@@ -235,7 +235,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
-- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg.
+- [Mocky](https://designer.mocky.io/design) : A tool for develop your frontend app or website, and mock all the backend response, so you don't have to wait the backend to be publish, or when the backend is down for any reason.
+- [NSubstitute](https://nsubstitute.github.io/): A great tool for unit test in dotnet. It's super helpful when you need to mock any kind of dependency
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -507,6 +509,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg): Gret tutorial and examples for C# and .Net.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
