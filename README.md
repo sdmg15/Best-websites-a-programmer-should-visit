@@ -66,6 +66,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
+- [Medium](https://medium.com/): Find best writeups and latest bug report submissions and tech news
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
