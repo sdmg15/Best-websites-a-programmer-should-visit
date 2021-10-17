@@ -23,6 +23,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
+<li><a href="#bugbounty">Pentest for money</a></li>
 <li><a href="#general-tools">General Tools</a></li>
 <li><a href="#interview-preparation">Interview Preparation</a></li>
 <li><a href="#documentaries">Documentaries</a></li>
@@ -211,6 +212,12 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## bug bounty
+
+- [Bugcrowd](https://www.bugcrowd.com):bug bounty platform for professionals and beginners.
+- [Hackerone](https://www.hackerone.com):bug bounty platform for beginnerr.
+
 
 ## General Tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
