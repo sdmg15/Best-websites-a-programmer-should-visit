@@ -212,7 +212,6 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
-- [AwesomeDevTools](https://awesomedevtools.com/) : General collection of commonly used web dev tools
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
