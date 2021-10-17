@@ -508,6 +508,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [William Lin](https://www.youtube.com/c/WilliamLin168): Google coding intervies and competitive programming tips and experiences.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
