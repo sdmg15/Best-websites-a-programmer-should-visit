@@ -484,6 +484,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
+- [thenewboston](https://www.youtube.com/results?search_query=thenewboston) : Channel for Everything at one place. All popular language guidance available
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
@@ -579,6 +580,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Building a Simple Compiler/Interpreter
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler) : This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 - [Awesome Compilers](http://aalhour.com/awesome-compilers/) : Curated list of awesome resources on Compilers, Interpreters, and Runtimes.
+- [Building a Compiler](https://youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y) : Immo Landwerth's step-by-step to making a compiler
 - [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) : Learn how to grow a compiler
 - [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) : Try to demystify compilers by building one
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/) : Resources for Amateur Compiler Writers
@@ -682,6 +684,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
+- [LeetCode](https://leetcode.com/) : Really amazing problems. Really good for an oral interview approach
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
