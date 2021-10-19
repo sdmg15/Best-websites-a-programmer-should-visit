@@ -474,7 +474,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
-- [Tech With Tim](https://www.youtube.com/TechWithTim) : Python & Java Programming Tutorials
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
@@ -643,6 +642,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Watch others code
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building applications, websites, games, etc.
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
+- [Tech With Tim](https://www.youtube.com/TechWithTim) : 10+ hour continuous coding livestream videos
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
