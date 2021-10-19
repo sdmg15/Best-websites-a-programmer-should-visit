@@ -35,6 +35,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#good-articles">Good Articles</a></li>
 <li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#podcasts">Podcasts</a></li>
+<li><a href="#electronics">Electronics</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
@@ -576,6 +577,13 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Electronics
+- [CircuitBread](https://www.youtube.com/c/CircuitBread): Introduction to all things electronics.
+- [Altium Academy](https://www.youtube.com/c/AltiumAcademy/featured): For PCB design and electrical engineering.
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## Building a Simple Compiler/Interpreter
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler) : This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 - [Awesome Compilers](http://aalhour.com/awesome-compilers/) : Curated list of awesome resources on Compilers, Interpreters, and Runtimes.
@@ -865,6 +873,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
