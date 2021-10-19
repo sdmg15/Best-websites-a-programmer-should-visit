@@ -29,7 +29,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
-<li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
+<li><a href="#seminar-research-writing-talks-etc">Seminar, research writing, talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
@@ -57,7 +57,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+- [Stack Overflow](https://stackoverflow.com) : Subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 
 <div align="right">
@@ -68,16 +68,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
-- [Ars Technica](https://arstechnica.com) : posts unique quality articles
+- [Ars Technica](https://arstechnica.com) : Posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
-- [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
+- [Daily.Dev](https://daily.dev/) : A great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
-- [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
-- [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
-- [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
-- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
+- [Frontend Focus Newsletter](https://frontendfoc.us) : Once-weekly roundup of the frontend news, articles and tutorials
+- [GSMArena.com](http://www.gsmarena.com) : News related to the latest mobile phones and android.
+- [Hacker News Digest](https://hndigest.com) : Curated automatically, delivered as frequently as you want
+- [Hacker News](https://news.ycombinator.com) : News aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+- [Hacker Newsletter](http://www.hackernewsletter.com) : Curated by hand, delivered weekly
 - [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -86,10 +86,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
-- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
+- [TechCrunch](https://techcrunch.com) : Dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
-- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
+- [WCCF Tech](https://wccftech.com) : Curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 
@@ -100,7 +100,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [LWN](https://lwn.net) : Weekly news coverage of open source technologies, programming, etc. ( Originally Linux Weekly News).
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -110,16 +110,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : Interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
+- [Programming by Doing](http://programmingbydoing.com) : Very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-- [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
+- [Exercism.io](http://exercism.io) : Download and solve practice problems in over 50 different languages, and share your solution with others.
 - [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
-- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : Large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
@@ -151,8 +151,8 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## For those who want to start a small project but can't find the ideas
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
-- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
-- [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
+- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : Contains about 125 project ideas from beginner to intermediate level.
+- [karan/Projects](https://github.com/karan/Projects) : A large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
@@ -174,7 +174,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
 - [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
-- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
+- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of design patterns.
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
 - [TeachYourselfCS](https://teachyourselfcs.com/) : If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
@@ -190,7 +190,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
-- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
+- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : Must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
 - [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
@@ -226,16 +226,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
+- [LaunchPad](https://launchpad.graphql.com) : Apollo launchpad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
-- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
-- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
+- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. Code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
-- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [EmailDrop](https://www.emaildrop.io/): EmailDrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
-- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Svgator](https://www.svgator.com/): Animate SVG graphically. It's like a video editor but for SVG. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -243,12 +243,12 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
-- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
+- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners - Machtelt Garrels
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
 - [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
 - [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
-- [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
+- [Airborn OS](https://www.airbornos.com) :  Private Google Docs alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 
@@ -272,12 +272,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
-- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
+- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : Really good Stack Overflow question that covers basics of calculating runtime complexity.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
 - [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
-- [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
-- [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
+- [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : Also subscribe to their feeds to get links to their new articles.
+- [github.com/odino/interviews](https://github.com/odino/interviews) : List of important questions for interviews
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 - [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
@@ -289,33 +289,33 @@ When learning CS, there are some useful sites you must know to get always inform
 - [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregate of links related to internships.
 - [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Interview Cake](https://www.interviewcake.com/) : Free and Paid course options offering high quality technical interview practice. 
+- [Interview Cake](https://www.interviewcake.com/) : Free and paid course options offering high quality technical interview practice. 
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
-- [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
-- [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
+- [kimberli/interviews](https://github.com/kimberli/interviews) : Study sheet for interviews
+- [LeetCode](https://leetcode.com/) : A new way to learn. Here you can prepare for your interview.
 - [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
 - [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
 - [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
 - [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
 - [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : Logic Puzzles
-- [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
+- [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : Great SQL test
 - [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
 - [Techie Delight](https://www.techiedelight.com) : Leading platform for technical interview preparation.
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
-- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interview
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interviews
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
 - [Visualising Data Structures and Algorithms through Animation](https://visualgo.net/en)
-- [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
+- [We Help Coders Get Hired](https://www.hiredintech.com/app) : Website offering courses on system design, interview strategies, soft skills etc
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
-- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
+- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : Logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
--[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
+-[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on cracking tech interviews
 
 
 <div align="right">
@@ -328,13 +328,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
 - [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
 - [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
-- Machine that Changed the World - a very good documentary about the history of computers
+- Machine that Changed the World -  A very good documentary about the history of computers
   - Part 1 is unavailable for free streaming due to widespread copyright claims.
   - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
   - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
-- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
+- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : A very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
@@ -344,8 +344,8 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## MOOCs for learning something new
-- [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
-- [Classpert](https://classpert.com) : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
+- [Class Central](https://www.class-central.com) : A directory of 100,000+ student reviews of thousands of MOOCs.
+- [Classpert](https://classpert.com) : A website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
 - [Coursera.org](https://www.coursera.org) : Take the world's best courses, online.
 - [CS50](https://www.youtube.com/user/cs50tv/videos) : A set of goods tutorials from cs50
@@ -375,26 +375,26 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
 - [Java Lecture Notes](http://www.cafeaulait.org/course/) : Java Student's Resource
 - [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
-- [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
+- [Java Revisited](http://javarevisited.blogspot.com) : Good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
-- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
+- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : Helps visualize references, values of variables, etc
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
-- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
+- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : A free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
-- [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
+- [Search Open Source Java API](http://www.docjar.com) : View the source of the Java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
 - [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
-- [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
+- [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : Large collection of Java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
 
--[Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
+-[Getting start with python](https://riptutorial.com/ebook/python) : A-Z Python programming concepts and methods.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
@@ -404,14 +404,14 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Learn AI
-- [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+- [aima](http://aima.cs.berkeley.edu) : The leading textbook in artificial intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [grakn.ai](https://grakn.ai) : The Database for AI
-- [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
+- [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that learn
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron
-- [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
+- [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference between  artificial intelligence, machine-learning, and deep-learning AI
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
-- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
+- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning built on top of SciPy
 - [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of Coursera
 - [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
@@ -427,10 +427,10 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Seminar, research writing, talks, etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
-- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
+- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : Articles and views
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
 - [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
-- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
+- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief intro to LaTeX for beginners that helps you use LaTeX with the ease
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
 <div align="right">
@@ -440,22 +440,22 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
-- [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
-- [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
+- [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — The only cheat sheet you need — instant answers on programming questions with `curl`
+- [Developer Roadmaps](https://roadmap.sh/) : Step-by-step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
 - [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
+- [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : A multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
+- [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating systems, IDE, and programming languages
 - [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨
 - [Coolors](https://coolors.co/) : Create the perfect palette or get inspired by thousands of beautiful color schemes.
 - [Tailwind CSS Page Builder](https://devdojo.com/tails/app) :  The perfect Tailwind CSS Page Builder
 - [LottieFiles](https://lottiefiles.com/) : The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
-- [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
-- [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
-- [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
+- [UI Design Daily](https://www.uidesigndaily.com/) : Weekly FREE UI resources straight to your inbox
+- [Iconscout](https://iconscout.com/) : Over 2.2 Million+ design assets, curated SVGs, vector icons, illustrations, 3D graphics, and Lottie animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
+- [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, queues, servers, webhooks, bin, tools, podcasts etc. Everything you need to build super apps that our world needs.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -464,42 +464,42 @@ When learning CS, there are some useful sites you must know to get always inform
 ## YouTube Channels
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
-- [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
+- [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how-tos, tips and tricks
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
-- [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
+- [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : For those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
-- [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
-- [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to the tech industry.
-- [Java](https://www.youtube.com/user/java/videos) : talks related to java
+- [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking (CTF) videocasts. Every Wednesday is new live streams.
+- [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : Contains good interviews of developers and people related to the tech industry.
+- [Java](https://www.youtube.com/user/java/videos) : Talks related to Java
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
 - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
 - [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
 - [Murtaza's OpenCV Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/): OpenCV, Self Driving, Robotics and AI tutorials.
-- [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
-- [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of the world's best technical writers.
+- [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : Great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
+- [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : Interviews and talks of the world's best technical writers.
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
-- [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
-- [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
+- [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : Blogs and tutorials from a developer making a 3D game in Java using OpenGL
+- [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : Talks on various topics
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) : Web development and programming
 - [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
-- [GOTO Conference](https://www.youtube.com/user/GotoConferences) : tech talks from the GOTO Conference by Developers for Developers
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) : freecodecamp youtube channel
-- [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced c++
-- [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : geeksforgeeks youtube
+- [GOTO Conference](https://www.youtube.com/user/GotoConferences) : Tech talks from the GOTO Conference by Developers for Developers
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) : freeCodeCamp YouTube channel
+- [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced C++
+- [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : GeeksForGeeks youtube
 - [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) : Hacker earth youtube
 - [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals, and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
-- [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
-- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
-- [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competitive programming
-- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
-- [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
-- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
+- [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy YouTube
+- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web development tutorials, website design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, and Dev
+- [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : Competitive programming
+- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
+- [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design and development, with a good dose of mobile development thrown in just for fun. 
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : YouTube channel that publishes "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
 - [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) : Tutorials Point originated from the idea that there exists a class of readers who respond better to online content and prefer to learn new skills at their own pace from the comforts of their drawing rooms. We bring simple to understand Text and Video tutorials at zero cost and cover many subjects including IT, Engineering, MBA, MCA, Management, Various Exams Preparation, and Academic subjects. If you are not extravagant and willing to save your money and time then we recommend you to try our tutorials.experience
 - [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university
@@ -539,7 +539,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
-- [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
+- [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : A comprehensive guide on webhooks
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
 
 <div align="right">
@@ -555,7 +555,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Groovy Podcast](http://groovypodcast.podbean.com) : A podcast dedicated to the Groovy programming language and its ecosystem.
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
-- [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
+- [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A season by season tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
 - [LispCast](https://lispcast.com/category/podcast/) : A podcast by Eric Normand, a functional programming expert talking about FP concepts.
 - [MS Dev Show](http://msdevshow.com) : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 - [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
@@ -593,17 +593,17 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Tutorials
-- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
+- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : For those wanting to learn git with a solid foundation
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
-- [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
+- [Collecting all the cheat sheets](http://overapi.com) : Cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CryptoHack](https://cryptohack.org/) : Learn cryptography through challenges and tutorials. Has a leaderboard and new challenges are added every few months. 
-- [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
-- [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
+- [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : Resources recommended by developers
+- [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : Very good presentation on C language
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
-- [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
-- [Flexbox Froggy](https://flexboxfroggy.com) : a game that teaches you how to use CSS flexbox properties
+- [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : A very good resource if want to learn how to solve DP problems.
+- [Flexbox Froggy](https://flexboxfroggy.com) : A game that teaches you how to use CSS flexbox properties
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
@@ -612,25 +612,25 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [Learning the shell.](http://linuxcommand.org)
-- [Linux Journey](https://linuxjourney.com) : good site for learning Linux
-- [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Linux Journey](https://linuxjourney.com) : Good site for learning Linux
+- [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : Good resource for learning Linux
 - [Missing Semester](https://missing.csail.mit.edu/) : The missing semester of your computer science education
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
-- [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
+- [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : A very good SQL cheat sheet
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-- [The Bash Guide](http://guide.bash.academy) : a very good guide for learning the Bash Shell
-- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
+- [The Bash Guide](http://guide.bash.academy) : A very good guide for learning the Bash Shell
+- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : For those moving to C from some higher programming language like Java or Python.
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Tutorialspoint](https://www.tutorialspoint.com) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
-- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
+- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn Vim from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
@@ -644,14 +644,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
-- [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Javascript.info](https://javascript.info/) : The modern JavaScript tutorial
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Watch others code
-- [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building applications, websites, games, etc.
+- [Education Ecosystem](https://www.education-ecosystem.com) : Screencast of people building applications, websites, games, etc.
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 <div align="right">
@@ -662,7 +662,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Can I use](https://caniuse.com/) : A website that provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git to use it effectively)
 - [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
-- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : Article for knowing what our level as a programmer is.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -674,20 +674,20 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
-- [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
+- [Codeforces](http://codeforces.com) : Programming Competition, Programming Contest, Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
-- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
+- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : Past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
-- [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
+- [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master. Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
-- [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
-- [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
+- [UVa Online Judge](https://uva.onlinejudge.org) : Hundreds of problems supporting multiple languages.
+- [WakaTime](https://wakatime.com) : Leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
 
@@ -711,14 +711,14 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Video Tutorials
-- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
-- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
-- [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
+- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya Verma.
+- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : Front-end web dev tutorials
+- [Code School](https://www.codeschool.com) : A PluralSight Company and an interactive learning destination for aspiring and experienced developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
-- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
-- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
+- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : A very good introductory CS course
+- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : Good quality tutorials
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-- [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : Web dev tutorials
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics) : An amazing guide to Git and GitHub for beginners
@@ -726,12 +726,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
-- [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
+- [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : Good video tutorial for learning Vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
-- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : Learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
-- [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
-- [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
+- [Video about vims](https://vimeo.com/album/2838732) : A series of tutorials about Vim
+- [Mastering Next.js](https://masteringnextjs.com/) : A free series of videos to learn Next.js
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -741,14 +741,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
-- [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
+- [Ideone.com](https://ideone.com) : Online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
+- [Coder](https://coder.com) : A web-based development environment using Visual Studio Code as a code editor
 - [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 
@@ -763,19 +763,19 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR-related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
-- [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
-- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com) : the blog of Brendon D. Gregg
-- [Clean Coder Blog](http://blog.cleancoder.com) : a blog of the author of the book "Clean Code"
-- [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
+- [blog.might.net](http://matt.might.net/articles/) : Personal blog from Matthew Might
+- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com) : The blog of Brendon D. Gregg
+- [Clean Coder Blog](http://blog.cleancoder.com) : The blog of the author of the book "Clean Code"
+- [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% tested on humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
-- [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
-- [CSE Blog](http://www.cseblog.com) : quant, math, computer science puzzles
-- [CSS Tricks](https://css-tricks.com/) : about building websites and all that entails, mostly from a front-end perspective
+- [Coding Horror](https://blog.codinghorror.com) : The best coding blogs
+- [CSE Blog](http://www.cseblog.com) : Quant, math, computer science puzzles
+- [CSS Tricks](https://css-tricks.com/) : About building websites and all that entails, mostly from a front-end perspective
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
 - [Daniel Lemire's Blog](https://lemire.me/blog/) : Daniel Lemire's blog
-- [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
+- [Eli Bendersky](http://eli.thegreenplace.net) : Everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
 - [HackerEarth Blog](http://blog.hackerearth.com) : The HackerEarth blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
@@ -784,14 +784,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
-- [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
-- [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
-- [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
-- [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
+- [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Graha, Essays
+- [Programming Blog](http://www.yegor256.com) : Programming blog of Yegor Bugayenko
+- [Programming in the 21st Century](http://prog21.dadgum.com) : Programming in the twenty-first century
+- [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
-- [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
+- [Takipi Blog](http://blog.takipi.com) : Mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
@@ -801,7 +801,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## For improving your English
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
-- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills
+- [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : For those who want to improve their English language skills
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
@@ -815,19 +815,19 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
 - [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
-- [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
+- [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : Small courses on various subjects
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High-quality analysis of films and filmmaking
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high-quality content from all over the world
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
-- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A youtube channel about science, mainly, but not only, the universe and space.
+- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A YouTube channel about science, mainly, but not only, the universe and space.
 - [Regex Crossword](https://regexcrossword.com) : A simple crossword game where clues are regex that must be matched.
 - [SciShow](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [How to live for a long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity
-- [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+- [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best YouTube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
@@ -885,14 +885,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
 - [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.
-- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers, career coaching. Try it.
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
-- [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
-- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
-  Candidate or Employer. You can get your job easily here.
-- [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
-  filtering, and finding new and attractive jobs according to your needs and interests.
+- [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for software engineers that want to work in Switzerland.
+- [Undercover Recruiter](https://theundercoverrecruiter.com) : Become a recruiter, candidate or employer. You can get your job easily here.
+- [Who is Hiring](https://whoishiring.io) : An awesome resource for searching, filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
