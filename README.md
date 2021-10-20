@@ -509,6 +509,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Fireship](https://www.youtube.com/c/Fireship): Mostly about web development tutorials and few videos about app development
+- [Dani Krossing](https://www.youtube.com/c/TheCharmefis/about): Talks about web development and video editing skill
+- [Corey Schafer](https://www.youtube.com/c/Coreyms):
+Focused on creating tutorials about Python, Git, Development Environments, Terminal Commands, SQL, etc. and walkthrough about software development, programmers, and tech engineers.
+- [365 Data Science](youtube.com/c/365DataScience): All about data science
+- [edureka!](https://www.youtube.com/c/edurekaIN): Edureka youtube channel
+- [Automation Step by Step](https://www.youtube.com/c/AutomationStepByStep): All about Automation, Testing, DevOps, and CI tutorials
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
