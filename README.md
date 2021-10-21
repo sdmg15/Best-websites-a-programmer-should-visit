@@ -516,6 +516,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Good Articles
 - [14 Things I Wish I’d Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB/)
+- [Introduction To Computer Sciences and Programming](https://hackersreboot.tech/articles/Talks/Intro%20To%20Computer%20Science)
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [A programmer-friendly language that compiles to Lua.](http://moonscript.org)
