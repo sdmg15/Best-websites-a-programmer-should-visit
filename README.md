@@ -237,6 +237,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Visual Studio Code Online](https://vscode.dev): The lightweight version of Visual Studio Code running fully in the browser 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
