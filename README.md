@@ -7,6 +7,7 @@
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
 # Best-websites-a-programmer-should-visit
+
 Some useful websites for programmers.
 
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
@@ -14,6 +15,7 @@ When learning CS, there are some useful sites you must know to get always inform
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
 ## Index
+
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
@@ -52,6 +54,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </ul>
 
 ## When you get stuck
+
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
@@ -65,109 +68,113 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## News
+
 - [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
+- [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
-- [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+- [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
 - [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
+- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-- [product hunt](https://www.producthunt.com) : Discover your next favorite thing
+- [Product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
+- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
-- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
+- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World.
 - [XDA](https://www.xda-developers.com) : Android Developers News
-- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Magazines
+
+- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
-- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
+- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
+- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
+- [FreeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [InterviewBit/Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
-- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
-- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
-- [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
+- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
+- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
+- [Treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## CryptoCurrency
+- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
-- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
-- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
-- [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
+- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## For those who want to start a small project but can't find the ideas
+
 - [freeCodeCamp/React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
-- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
-- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
+- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
+- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## General Coding advice
-- [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 - [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
+- [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
 - [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
@@ -175,11 +182,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
 - [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
 - [TeachYourselfCS](https://teachyourselfcs.com/) : If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
-- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -188,61 +195,63 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Coding Style
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
-- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
+- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
 - [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
 - [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't know how? Check out this post
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get started
-- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
-- [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
-- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
-- [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
-- [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
-- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
-- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
 - [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html): Google C# Style Guide
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't know how? Check out this post
+- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
+- [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
+- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
+- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
+- [Source Making](https://sourcemaking.com/) : Design Patterns & Refactoring
+- [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get started
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## General Tools
+
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
+- [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
+- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
-- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
-- [Wit AI](https://wit.ai) : Natural Language for Developers
-- [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
-- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
-- [Code share](https://codeshare.io) : Share code in real-time with other developers
-- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
-- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
-- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
+- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
+- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
-- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
-- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
-- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
+- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
+- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
+- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg.
+- [Wit AI](https://wit.ai) : Natural Language for Developers
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Bash and Shell scripting  
+
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
