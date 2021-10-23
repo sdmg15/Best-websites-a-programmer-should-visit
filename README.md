@@ -52,6 +52,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </ul>
 
 ## When you get stuck
+- [Grepper](https://www.codegrepper.com/) : The Query & Answer System for the Ambitious Developer Develop faster, master your code, understand more, grow in your career.
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
