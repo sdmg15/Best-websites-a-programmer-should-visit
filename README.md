@@ -129,7 +129,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
-
+- [HackerEarth](https://www.hackerearth.com/) : HackerEarth is used by organizations for technical skill assessment and remote video interviewing.This platform can be used for learning new languages and technologies through challenges.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
