@@ -396,6 +396,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
+- [Real Python](https://realpython.com/) : Tutorials on almost every Python 3 function.
 
 -[Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
