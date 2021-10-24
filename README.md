@@ -666,6 +666,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git to use it effectively)
 - [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
+- [Git](https://git-scm.com/docs) : Quick way to update changes on a project to GitHub or GitLab using terminal via commands
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
