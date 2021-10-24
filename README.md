@@ -72,16 +72,16 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
-- [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
+- [FAUN](https://www.faun.dev) : An online community of thousands of developers and IT experts interested in DevOps
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
+- [Hacker Newsletter](http://hackernewsletter.com) : curated by hand, delivered weekly
 - [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-- [product hunt](https://www.producthunt.com) : Discover your next favorite thing
+- [Product Hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
@@ -121,7 +121,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming (Russian)
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
@@ -173,7 +173,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
 - [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
-- [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
 - [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
