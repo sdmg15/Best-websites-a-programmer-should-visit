@@ -523,6 +523,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [A programmer-friendly language that compiles to Lua.](http://moonscript.org)
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
+- [BEM Naming Convention](https://en.bem.info/methodology/naming-convention/) : Naming convention (CSS, JavaScript, and HTML)
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : Let's code a TCP/IP stack, 5: TCP Retransmission
 - [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : The language of choice
 - [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algorithms and data structures with their solutions.
