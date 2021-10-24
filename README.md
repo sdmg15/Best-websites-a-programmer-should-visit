@@ -130,6 +130,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
+- [Code Gym](https://codegym.cc/) : Learn Java by doing, Start coding from scratch. CodeGym is an online Java programming course with 1200 tasks. This is the best place for your practice in Java coding.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -145,6 +146,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Coin Market Cap.](https://coinmarketcap.com/) : CoinMarketCap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
