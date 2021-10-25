@@ -635,6 +635,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Tutorialspoint](https://www.tutorialspoint.com) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
+- [Tutorialzine](https://tutorialzine.com) : Articles and resources
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
