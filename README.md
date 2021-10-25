@@ -98,9 +98,11 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Magazines
+- [CoDe](https://www.codemag.com/magazine/allissues) : focuses on providing information about Computer programming in using today's development topics including .NET Framework, Visual Studio, Microsoft SQL Server and Microsoft SharePoint.
+- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
