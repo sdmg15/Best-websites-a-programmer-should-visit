@@ -651,6 +651,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Tutorials Point](https://www.tutorialspoint.com/) : Tutorials Library for various technologies
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
