@@ -165,6 +165,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Coding advice
+- [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 - [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
