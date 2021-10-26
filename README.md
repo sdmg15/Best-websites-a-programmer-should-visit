@@ -470,6 +470,8 @@ When learning CS, there are some useful sites you must know to get always inform
 ## YouTube Channels
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) : A great way to discover essential CS topics!
 - [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w) : Various videos about programming and related topics.
+- [Augmented Startups](https://www.youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew) : Helps you to innovate with tutorials in Computer Vision, Augmented Reality, IoT, and AI.
+- [bdougie](https://www.youtube.com/user/ilikerobot) :  Focuses on JavaScript development with interesting projects
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
