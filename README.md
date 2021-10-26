@@ -553,7 +553,9 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Podcasts
+- [CodeNewbie](https://www.codenewbie.org/podcast) : A podcast covering a wide variety of topics, people, experience levels, jobs and different stories of the people in the field of tech.
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
+- [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) : A podcast covering the history of people, technology, and ideas in the world of tech and sharing the story of how people are revolutionizing technology.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
 - [Front End Happy Hour](http://frontendhappyhour.com) : A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
