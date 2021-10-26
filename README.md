@@ -131,6 +131,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
+- [SoloLearn](https://www.sololearn.com) : SoloLearn is a free coding app available on the iOS App Store, the Google Play Store, and desktop via a browser. This app is designed to teach many different programming languages and has courses for HTML, CSS, JavaScript, Java, C++, Python, SQL, and many more.
+- [GreatLearning](https://www.greatlearning.in/) : Online Courses, Professional Certificates, Degree & PG Programs. Free Courses also provided.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -814,6 +816,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
+- [Duolingo](https://www.duolingo.com) : Learn a new language with the world's most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
