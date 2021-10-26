@@ -628,6 +628,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Stanford Programming Course](https://see.stanford.edu/Course/CS106A) : Full, free CS course created by Stanford
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle/Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
+- [Test Automation University](https://testautomationu.applitools.com/) : A good place to learn test automation
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
 - [The Bash Guide](http://guide.bash.academy) : a very good guide for learning the Bash Shell
 - [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : for those moving to C from some higher programming language like java or python.
