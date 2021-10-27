@@ -553,7 +553,10 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Podcasts
+- [Blockchain Insider by 11:FS](blockchain.global/blockchain-innovation) : Podcast to learn about the Blockchain Technology.
+- [CodeNewbie](https://www.codenewbie.org/podcast) : A podcast covering a wide variety of topics, people, experience levels, jobs and different stories of the people in the field of tech.
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
+- [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) : A podcast covering the history of people, technology, and ideas in the world of tech and sharing the story of how people are revolutionizing technology.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
 - [Front End Happy Hour](http://frontendhappyhour.com) : A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
@@ -573,10 +576,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
 - [The Cynical Developer](https://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web, and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
-- [Blockchain Insider by 11:FS](blockchain.global/blockchain-innovation) : Podcast to learn about the Blockchain Technology
-- [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
-- [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
-- [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [Unchained](unchainedpodcast.co) : Podcast to learn about the Blockchain Technology.
+- [Talk Python to Me](https://talkpython.fm/) : Podcast to learn about Python through interviews and discussions.
+- [Programming By Stealth](https://pbs.bartificer.net/) : A step by step podcast on how to create a website and a webserver and useful skills needed along the way. 
+- [Python Bytes](https://pythonbytes.fm) : Podcast to learn about the latest happenings and trends in Python.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
