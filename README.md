@@ -131,6 +131,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
+- [Stepik](https://stepik.org/) : Cloud-based Digital Learning Environment for Computer Science. Automated grading of code and data assignments. Made for instructors by instructors.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -873,6 +874,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
+- [RippleMatch](https://ripplematch.com/) : Early career hiring made right. Get matched with your dream job. Start interviewing for jobs and internships with top companies.
+- [Flexit](https://flexitinternational.com/) : Hire anywhere. We'll build your team in no time.
+- [InternFromHome](https://www.internfromhome.com/) : We connect students with companies for remote internships. Our focus is helping startups, SMB’s, and small agencies find interns.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -906,6 +910,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+- [RippleMatch](https://ripplematch.com/) : Early career hiring made right. Get matched with your dream job. Start interviewing for jobs and internships with top companies.
+- [Remotive](https://remotive.io/) : Remote jobs with remote companies.
+- [WeWorkRemotely](https://weworkremotely.com/) : We Work Remotely is the largest remote work community in the world. With over 3M visitors, WWR is the number one destination to find and list incredible remote jobs.
+- [Honeypot](https://www.honeypot.io/) : Choose a Job You Love. Honeypot is Europe’s developer-focused job platform. Create a profile and let companies apply to you.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
