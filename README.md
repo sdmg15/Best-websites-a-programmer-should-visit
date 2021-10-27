@@ -577,9 +577,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
 - [The Cynical Developer](https://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web, and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 - [Unchained](unchainedpodcast.co) : Podcast to learn about the Blockchain Technology.
-- [Talk Python to Me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions.
+- [Talk Python to Me](https://talkpython.fm/) : Podcast to learn about Python through interviews and discussions.
 - [Programming By Stealth](https://pbs.bartificer.net/) : A step by step podcast on how to create a website and a webserver and useful skills needed along the way. 
-- [Python Bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python.
+- [Python Bytes](https://pythonbytes.fm) : Podcast to learn about the latest happenings and trends in Python.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
