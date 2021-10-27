@@ -828,6 +828,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High-quality analysis of films and filmmaking
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high-quality content from all over the world
+- [Neal.fun](https://neal.fun/) : Weird addictive fun created by Neal Agarwal
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A youtube channel about science, mainly, but not only, the universe and space.
