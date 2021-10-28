@@ -128,6 +128,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
+- [Codementor](https://www.codementor.io/) : Online platform providing instant one-on-one help for software developers by utilizing screen sharing, video and text chat, in order to replicate for users the experience of having a mentor for code reviewing, debugging, and online programming
 
 
 <div align="right">
