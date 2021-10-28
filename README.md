@@ -741,6 +741,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
+- [Learn vim six part series](https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) : A six part video from thePrimeagen on learning vim
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
