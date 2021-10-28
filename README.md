@@ -333,6 +333,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
 - [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
+- [In the Age of AI (full film) | FRONTLINE (video)](https://www.youtube.com/watch?v=5dZ_lvDgevk) : Exploring how artificial intelligence is changing life as we know it.
 - [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
 - Machine that Changed the World - a very good documentary about the history of computers
   - Part 1 is unavailable for free streaming due to widespread copyright claims.
