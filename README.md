@@ -125,6 +125,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [InterviewBit/Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
+- [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) : Learn Vim Script from begining to expert.
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
@@ -134,6 +135,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 
 <div align="right">
@@ -173,6 +175,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/) : Game Programming Patterns is a collection of patterns Robert Nystrom found in games that make code cleaner, easier to understand, and faster
 - [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
 - [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
@@ -213,6 +216,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
 - [Source Making](https://sourcemaking.com/) : Design Patterns & Refactoring
 - [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style/) : Best Practices for Python Development
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get started
 
 <div align="right">
@@ -244,6 +248,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg.
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 
 <div align="right">
@@ -648,6 +653,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 - [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) : resources recommended by developers
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
+- [Stanford Programming Course](https://see.stanford.edu/Course/CS106A) : Full, free CS course created by Stanford
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
 - [Speaking io](https://speaking.io/) : Tips for public speaking
@@ -705,6 +711,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
+- [LightOJ](https://lightoj.com) : Practicing at lightoj is so good for beginners as it is categorized and have also chat room and forum which helps to communicate with others about any problem.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
@@ -777,6 +784,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
+- [Codeframe](https://codeframe.co/) : Online pastebin-like playground for building websites using HTML, CSS, and JavaScript 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
