@@ -595,6 +595,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) : How to Speak to Computers, Pre-Siri
 - [Write your own compiler](http://staff.polito.it/silvano.rivoira/HowToWriteYourOwnCompiler.htm) : How to write your compiler
 - [Crafting Interpreters](http://craftinginterpreters.com/) A handbook for writing interpreters, first implementing a tree walking interpreter and later a bytecode virtual machine
+- [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) : The first post in a series by Nora Sandler on writing your own C compiler
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
