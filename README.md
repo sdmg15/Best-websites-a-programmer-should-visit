@@ -92,6 +92,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+- [towardsdatascience](https://towardsdatascience.com/) : You will get her data science related news and data science tutorials and suggestions for your data science journey.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
