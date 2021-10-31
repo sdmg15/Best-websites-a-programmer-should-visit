@@ -195,6 +195,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
+- [HTML and CSS Code Guide](http://codeguide.co) : HTML and CSS code guide by Mark Otto
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
 - [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
