@@ -824,12 +824,14 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## When you get bored from CS related stuff
+- [Aperture](https://www.youtube.com/c/ApertureScience/videos) : Amazing videos about philosophy and science
 - [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : Daily short documentaries about the incredible variety of people that make up the world
 - [Big Think](https://www.youtube.com/user/bigthink/videos) : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye
 - [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : Past, present, and future of technology
 - [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : High-quality analysis of films and filmmaking
 - [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : High volume of high-quality content from all over the world
+- [Mark Rober](https://www.youtube.com/c/MarkRober/videos) : Interesting engineering and science videos to enjoy
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : Subreddit dedicated to exactly what it sounds like
 - [Reddit the front page of the internet](https://www.reddit.com) : Where free time goes to die
 - [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A youtube channel about science, mainly, but not only, the universe and space.
@@ -840,6 +842,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [How to live for a long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+- [Veritasium](https://www.youtube.com/c/veritasium/videos) : Answers to weird and interesting questions
+
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
