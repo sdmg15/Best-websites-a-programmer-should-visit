@@ -463,6 +463,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
+- [Crontab](https://crontab.guru/) : The quick and simple editor for cron schedule expressions by Cronitor.
+- [Typing Practice for Programmers](https://typing.io/) : Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
