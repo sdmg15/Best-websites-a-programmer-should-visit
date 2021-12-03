@@ -136,6 +136,11 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Hackathons
+- [Dare2Compete](https://dare2compete.com/) : Hackathons, Competitions, Quizzes, Events, Internships, Hiring, Jobs, Workshop, Courses, Scholarships, etc
+- [Devpost](https://devpost.com/) : Hackathons, Host a Hackathon
+- [Devfolio](https://devfolio.co/) : Hackathons, Organize a Hackathon
+
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
