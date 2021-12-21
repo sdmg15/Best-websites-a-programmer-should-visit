@@ -717,6 +717,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) : This is a series of books by Kyle Simpson diving deep into the core mechanisms of the JavaScript language.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
