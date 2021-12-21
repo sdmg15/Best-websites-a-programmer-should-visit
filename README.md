@@ -243,7 +243,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
-
+- [lambdacalc](https://lambdacalc.io/): For fast and easy typing of lambda terms
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -400,7 +400,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
-
+- [Hoogle](https://hoogle.haskell.org/) : Found all your haskell fuctions searching by name or signature.
 -[Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
