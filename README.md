@@ -400,10 +400,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
-
--[Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
-
+- [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
+- [Getting Started With Go](https://golang.org/doc/) : Complete Go Documentation for learning Golang.
 
 
 <div align="right">
@@ -517,6 +516,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry): Quality programming videos along with the tutorials on coding techniques and resources related to the programming concepts.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
