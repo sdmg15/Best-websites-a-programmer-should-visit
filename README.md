@@ -688,6 +688,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
+- [Coding Mystery](https://codingmystery.com) : Challenge yourself and learn through escape-room-inspired programming puzzles
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
