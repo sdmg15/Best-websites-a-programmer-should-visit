@@ -656,6 +656,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Learn Python Programming](https://www.scaler.com/topics/python/) : The website is for beginner and advanced level geeks who wants to learn or sharpen their skills in Python.
+- [Learn Java](https://www.scaler.com/topics/java/) : Free resources to start with Java by Scaler Academy (InterviewBit)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
