@@ -131,6 +131,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
+- [W3Schools](https://www.w3schools.com/) : freemium educational website for learning coding online
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -139,14 +140,16 @@ When learning CS, there are some useful sites you must know to get always inform
 ## CryptoCurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
-- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
+- [Blockgeeks](https://blockgeeks.com/) : Features more than 60 courses and also offers some of them for free in addition to hundreds of open access guides
+- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
-- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
-- [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/) : Introduction to Bitcoin and tutorials to operate a full node
+- [99Bitcoins](https://99bitcoins.com/) : One of the largest websites dedicated to educating its readers about blockchain and cryptocurrency
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
