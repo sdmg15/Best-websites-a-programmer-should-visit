@@ -241,8 +241,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Zeplin.io] (https://zeplin.io/) : Improving the collaboration between designers and engineers
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
