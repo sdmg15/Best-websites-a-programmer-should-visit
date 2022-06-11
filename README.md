@@ -286,6 +286,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GeeksforGeeks/A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
+- [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) : Google Interview Warmup is an AI-based tool that helps individuals practise for their interviews.
 - [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [How to Answer "Tell Me a Little About Yourself"/The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
 - [How to Answer the Toughest 40 Job Interview Questions/ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
