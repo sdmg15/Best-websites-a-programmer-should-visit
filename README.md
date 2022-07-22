@@ -407,6 +407,8 @@ When learning CS, there are some useful sites you must know to get always inform
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
+- [Java Programming Langauge](https://www.scaler.com/topics/java/) : Learn Java through Interactive java tutorials.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
