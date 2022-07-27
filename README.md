@@ -666,6 +666,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Watch others code
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building applications, websites, games, etc.
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
+- [Tech With Tim](https://www.youtube.com/TechWithTim) : 10+ hour continuous coding livestream videos
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
