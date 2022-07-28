@@ -325,6 +325,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
+- [Technical Interview](https://www.interviewbit.com/technical-interview-questions/): The Ultimate Guide to Acing Your Technical Interview.
 -[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
 
 
@@ -768,6 +769,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 - [Codeframe](https://codeframe.co/) : Online pastebin-like playground for building websites using HTML, CSS, and JavaScript 
+- [InterviewBit]( ide.new): Online Compiler that supports C,C++,Java,Python,JavsScript.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -810,7 +812,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
-- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials.
+- [InterviewBit](https://interviewbit.com/blog/): Best Resource for Tech Interview Preparation.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
