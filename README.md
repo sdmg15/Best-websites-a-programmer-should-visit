@@ -246,7 +246,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Whirl](https://whirl.netlify.app/): It's a curated CSS loading animation that you can use in your project and play around with it.
-- - [kaboom](https://kaboomjs.com/): It's a JavaScript library that helps to make games fun and faster. This has a tutorial section that explains how you can design your game.
+- [kaboom](https://kaboomjs.com/): It's a JavaScript library that helps to make games fun and faster. This has a tutorial section that explains how you can design your game.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
