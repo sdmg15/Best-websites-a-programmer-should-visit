@@ -326,6 +326,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 -[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
+- [Top Interview Questions and Answers (2022)](https://www.interviewbit.com/practice/)
 
 
 <div align="right">
@@ -721,6 +722,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
+- [Best Coding Books for Beginners](https://www.interviewbit.com/blog/coding-books/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -795,6 +797,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
 - [HackerEarth Blog](http://blog.hackerearth.com) : The HackerEarth blog
+- [InterviewBit Blog](https://www.interviewbit.com/blog/) : IntrviewBit Blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
@@ -872,7 +875,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
-
+- [Technical interview Questions ](https://www.interviewbit.com/technical-interview-questions/#popular-guides) : The Ultimate Guide to Acing Your Technical Interview 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
