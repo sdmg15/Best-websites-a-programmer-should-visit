@@ -658,6 +658,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
+- [HTML Tutorial](https://www.scaler.com/topics/html) : Learn HTML in detail.
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
 
 <div align="right">
