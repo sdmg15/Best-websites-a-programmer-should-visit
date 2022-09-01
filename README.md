@@ -619,6 +619,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Flexbox Froggy](https://flexboxfroggy.com) : a game that teaches you how to use CSS flexbox properties
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- [HTML Tutorial](https://www.scaler.com/topics/html) : Learn HTML in detail.
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
