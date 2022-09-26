@@ -59,6 +59,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
+- [Reddit](https://www.reddit.com/) : Reddit has some great coding communities where you can get help with any kind of problem you are facing.
+- [The DEV Community](https://dev.to/) : A community of developers where they help each other and share their knowledge.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -132,6 +134,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
+- [HackerRank](https://www.hackerrank.com/) : A great place for beginner coders to practice coding and hone their problem solving skills. This also helps them prepare for job interviews.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
