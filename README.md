@@ -133,7 +133,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
-- [Tower Of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html) : Fun and interactive site to visualize Tower Of Hanoi concept.
+- [Tower Of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html) : Fun and interactive site to visualize the concept of Tower Of Hanoi.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
