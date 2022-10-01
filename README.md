@@ -326,7 +326,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
+-[Leetcode Premium Solved Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions): Leetcode Premium Questions with Solutions
 -[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
+-[Coding Interview Questions Sheet](https://docs.google.com/spreadsheets/d/1ClmoHFMqQKOHinRhrId42sbofQ0T0IyaFzZcEcVvXbU/edit#gid=593476609): Cracking Coding Interviews sheet
 
 
 <div align="right">
@@ -521,6 +523,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Gate Smashers](https://www.youtube.com/c/GateSmashers): Tutorials on Computer Science fundamentals and various important subjects required for coding interviews and for competetive exams like GATE, UGC NET, CTET, etc.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -687,6 +690,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
+- [CSES](https://cses.fi/problemset/) : The famous CSES problem set that contains various algorithmic practice problems.
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
