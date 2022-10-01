@@ -40,6 +40,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#tutorials">Tutorials</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
 <li><a href="#competitive-programming">Competitive programming</a></li>
+<li><a href="#Hacking, Cyber security and Bug bounties">Hacking, Cyber security and Bug bounties</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
 <li><a href="#video-tutorials">Video Tutorials</a></li>
 <li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
@@ -683,6 +684,17 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Hacking, Cyber security and Bug bounties
+- [TryHackMe](https://www.tryhackme.com/) : A free online platform for learning cyber security, using hands-on exercises and labs.
+- [Hack the Box](https://hackthebox.com) : Join a dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience.
+- [PentesterLab](https://pentesterlab.com) : Resource for learning about web application security and ways how it can be subverted.
+- [Cyber Security - Networking certifications ](https://www.youtube.com/c/professormesser) : article for knowing what our level as a programmer is.
+- [Bugcrowd](https://www.bugcrowd.com) : Crowdsourced security platform to find bug from real companies and get compensated.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## Competitive programming
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
@@ -706,6 +718,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
