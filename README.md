@@ -523,6 +523,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured): Videos reviewing state-of-the-art ML/AI Research Papers.
 - [Gate Smashers](https://www.youtube.com/c/GateSmashers): Tutorials on Computer Science fundamentals and various important subjects required for coding interviews and for competetive exams like GATE, UGC NET, CTET, etc.
 
 <div align="right">
