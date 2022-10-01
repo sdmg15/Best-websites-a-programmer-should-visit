@@ -29,6 +29,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
+<li><a href="#learn-ai">Learn Cloud Computing</a></li>
 <li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
@@ -431,6 +432,19 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
 - [Machine Learning Mastery](https://machinelearningmastery.com/) : An comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Learn Cloud Computing
+- [Microsoft Learn](https://learn.microsoft.com/en-us/) : A great website for learning and advancing your career for free in Micrsoft Azure Cloud. And if you want to give certification exam then attend Virtual Training Days organised by Microsoft and get exam Voucher for Fundamental exam or participate in Cloud Skills Challenge to get Exam Vouchers for Associate and Professional Level Exams.
+- [AWS SkillBuilder](https://explore.skillbuilder.aws/learn) : A great website for learning and advancing your Career in AWS Cloud. It features both free as well as paid content for learning AWS Cloud. You can prepare for AWS Certification exams from here also for free.
+- [IBM Training](https://www.ibm.com/training/?query=) : If you want to Learn IBM Cloud and prepare for certification exam then this is the best website for you.
+- [Oracle University](https://education.oracle.com/) : You can Learn Oracle Cloud from here it consists both free as well as paid courses.
+- [Learn Cantrill](https://learn.cantrill.io/) : If you want to prepare for AWS Certification exam then you can also find this website very useful. All the courses you find here is paid and it updates everytime when the AWS changes the syllabus of their Certification Exams.
+- [Udemy](https://www.udemy.com/) : You can find various paid courses here by different instructors which will help you to prepare for the Certification exams related to the Cloud.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
