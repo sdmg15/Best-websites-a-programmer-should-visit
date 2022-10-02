@@ -49,6 +49,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+<li><a href="#outsystems">outsystems</a></li>
 </ul>
 
 ## When you get stuck
@@ -916,6 +917,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Outsystems
+- [Outsystems](https://www.outsystems.com/) : OutSystems is a low-code platform which provides tools for companies to develop, deploy and manage omnichannel enterprise applications. OutSystems was founded in 2001 in Lisbon, Portugal. In June 2018 OutSystems secured a $360M round of funding from KKR and Goldman Sachs and reached the status of Unicorn.
+- [Outsystems Developer Journey](https://www.outsystems.com/Journey/Home?flow=&team=) : One can even participate in the Outsystems Developer journey. Complete all the four stages and get a chance to get hired by this company.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
