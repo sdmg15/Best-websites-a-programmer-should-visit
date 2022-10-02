@@ -29,6 +29,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
+<li><a href="#learn-DataScience">Learn DataScience</a></li>
 <li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
@@ -435,6 +436,20 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+
+## Learn DataScience
+- [NumPy](https://numpy.org/doc/stable/user/quickstart.html) : NumPy (Numerical Python) is a perfect tool for scientific computing and performing basic and advanced array operations.
+- [Pandas](https://www.dataquest.io/blog/tag/tutorial+pandas/) : Pandas is mainly used for data analysis and associated manipulation of tabular data in DataFrames. Pandas allows importing data from various file formats such as comma-separated values, JSON, Parquet, SQL database tables or queries, and Microsoft Excel.
+- [SciPy](https://www.tutorialspoint.com/scipy/index.htm) : This useful library includes modules for linear algebra, integration, optimization, and statistics.
+- [Keras](https://keras.io/) : Keras is a great library for building neural networks and modeling.
+- [SciKit-Learn](https://scikit-learn.org/stable/tutorial/index.html) : Scikit-learn provides a uniform set of high-level APIs for building ML pipelines or workflows. 
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
 
 ## Seminar, research writing, talks, etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
