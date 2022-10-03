@@ -368,6 +368,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Pluralsight](https://www.pluralsight.com) : An online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
+## Suggested Certifications
+- [Software Development Fundamentals](https://www.edx.org/professional-certificate/pennx-computer-science-essentials-for-software-development) : Free course with paid certificate by University of Pennsylvania offered via edX
+- [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes) : Course offered by University of Minnesota via Coursera with free certificaion
+- [Diploma in Software Testing](https://alison.com/course/diploma-in-software-testing-revised) : One of the best free courses out there for Software testing by Alison
+- [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods) : A very good course on Open Source Contribution via The Linux Foundation with paid certification and scholarship
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
