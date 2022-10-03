@@ -769,6 +769,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 - [Codeframe](https://codeframe.co/) : Online pastebin-like playground for building websites using HTML, CSS, and JavaScript 
+- [Jdoodle](https://www.jdoodle.com/) : Online compiler and editor for more than 70 languages like Java and C++
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -824,6 +825,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
+- [EngVid](https://www.engvid.com/): English video lessons
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -848,6 +850,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
+- [CGP Grey](https://www.youtube.com/greymatter): Short videos on all sorts of topics
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
