@@ -880,6 +880,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Internships
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
+- [Indeed](https://in.indeed.com/) : With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more.
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
