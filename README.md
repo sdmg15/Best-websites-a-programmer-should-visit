@@ -168,6 +168,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Coding advice
+- [Developing for Web Accessibility](https://www.w3.org/WAI/tips/developing/) : Helps you get started developing web content that is more accessible to people with disabilities
 - [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
