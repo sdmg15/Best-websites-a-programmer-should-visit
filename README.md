@@ -223,6 +223,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
+- [Deque's axe - Browser Extension to check accessibility])(https://www.deque.com/axe/browser-extensions/): Another free extension to check for accessibility issues on a website or web app.
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
@@ -246,6 +247,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [WAVE Browser Extensions to check acessibility](https://wave.webaim.org/extension/): Helping tool to find some accessibility issues on a website or web app.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
