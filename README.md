@@ -59,6 +59,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
+- [Medium](https://medium.com) : A website where you can read/listen to the articles about may topics including programming. If you are stuck in programming you can find articles there also if you are expert in programming or any field you can start writing articles for which you will be paid.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -916,6 +917,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+- [Upwork](https://www.upwork.com) : On of the worlds largest freelancing site.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
