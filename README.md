@@ -747,8 +747,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
-- [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
-- [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
+- [Video about vims](https://vimeo.com/album/2838732) : A series of tutorials about Vim
+- [Mastering Next.js](https://masteringnextjs.com/) : A free series of videos to learn Next.js
+- [Fireship](https://www.youtube.com/c/Fireship): High-intensity code tutorials to help you build & ship your app faster
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -812,6 +814,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/): Blog to help other students who are learning programming. It is specially for beginners
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -848,6 +851,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
+- [Neal.fun](https://neal.fun/): a tiny website on the internet
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
