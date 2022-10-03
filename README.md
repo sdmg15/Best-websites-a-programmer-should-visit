@@ -133,6 +133,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
+- [HackerRank](https://www.hackerrank.com/) : HackerRank is the market-leading technical assessment and remote interview solution for hiring developers.
+- [LeetCode](https://leetcode.com/problemset/all/) : LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews and level up your self and compete woth this world to be a next Gen Developer.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
