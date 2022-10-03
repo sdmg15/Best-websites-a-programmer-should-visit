@@ -346,9 +346,11 @@ When learning CS, there are some useful sites you must know to get always inform
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
 - [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
+- [Nerds 2.0.1](https://www.youtube.com/watch?v=283q5sJt1JU): A brief history of the development of the Internet from WWII to 1998
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [Triumph of the Nerds](https://www.youtube.com/watch?v=c1yzXkH5Pfo): The story of the development of the personal computer in the United States from WWII to 1995
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
