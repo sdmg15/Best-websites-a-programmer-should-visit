@@ -439,11 +439,58 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Learn DataScience
-- [NumPy](https://numpy.org/doc/stable/user/quickstart.html) : NumPy (Numerical Python) is a perfect tool for scientific computing and performing basic and advanced array operations.
-- [Pandas](https://www.dataquest.io/blog/tag/tutorial+pandas/) : Pandas is mainly used for data analysis and associated manipulation of tabular data in DataFrames. Pandas allows importing data from various file formats such as comma-separated values, JSON, Parquet, SQL database tables or queries, and Microsoft Excel.
-- [SciPy](https://www.tutorialspoint.com/scipy/index.htm) : This useful library includes modules for linear algebra, integration, optimization, and statistics.
-- [Keras](https://keras.io/) : Keras is a great library for building neural networks and modeling.
-- [SciKit-Learn](https://scikit-learn.org/stable/tutorial/index.html) : Scikit-learn provides a uniform set of high-level APIs for building ML pipelines or workflows. 
+
+- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
+- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
+- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
+
+**Resources for Learning Data Science**
+
+
+- [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
+- [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
+- [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/data-mining)
+- [Machine Learning – 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/machine-learning)
+- [CS 109 Data Science](https://cs109.github.io/2015/)
+- [OpenIntro](https://www.openintro.org/)
+- [CS 171 Visualization](https://www.cs171.org/#!index.md)
+- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
+- [Oxford Deep Learning](https://www.cs.ox.ac.uk/projects/DeepLearn/)
+- [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+- [Oxford Machine Learning](https://www.cs.ox.ac.uk/research/ai_ml/index.html)
+- [UBC Machine Learning - video](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+- [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
+- [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
+- [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
+- [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
+- [Udacity - Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion)
+- [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+- [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
+- [CS 231 - Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+- [Coursera Tensorflow in practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [365 Data Science Course](https://365datascience.com/)
+- [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+- [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+- [Codecademy's Data Science](https://www.codecademy.com/learn/paths/data-science)
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
+- [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+- [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
+- [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
+- [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -732,7 +779,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [cses.fi/book.html](https://cses.fi/book.html)
 - [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
-- [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
+- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
