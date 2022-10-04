@@ -82,6 +82,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
+- [NTBTS](https://www.getrevue.co/profile/hacksultan) : Not a regular boring tech newsletter, but you get tech updates and free giveaways before they get to the public.
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
@@ -108,6 +109,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Coding practice for beginners
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [frontendMasters](https://frontendmasters.com/courses/web-development-v3/) : Advance Your Skills with In-Depth, Modern Front-End Engineering Courses
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
