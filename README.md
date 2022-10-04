@@ -337,6 +337,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
+- [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8) : The story of three former Facebook employees who were obsessed with solving an internal API problem
 - [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
 - [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
 - Machine that Changed the World - a very good documentary about the history of computers
@@ -349,6 +350,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) : The story of Vue.js from the perspective of some of the most prominent names in the community
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
