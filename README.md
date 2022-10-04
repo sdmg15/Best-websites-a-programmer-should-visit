@@ -52,13 +52,18 @@ When learning CS, there are some useful sites you must know to get always inform
 </ul>
 
 ## When you get stuck
+- [Chegg](https://www.chegg.com) : An educational website that helps students and programmers all over the world.
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
+- [Codeproject](https://www.codeproject.com) : A mentorship community to learn from fellow developers across the world.
+- [Coderanch](https://coderanch.com) : A great resource for beginners as well as experienced programmers.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [FindNerd](https://findnerd.com) : A friendly website and social network for developers where you can get help related to programming.
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
+- [Programmers Heaven](https://programmersheaven.com) : An underrated community for programmers.
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
-- [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
+- [Stack Exchange](https://stackexchange.com) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
