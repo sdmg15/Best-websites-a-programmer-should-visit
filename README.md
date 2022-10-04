@@ -49,7 +49,6 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
-<li><a href="#outsystems">outsystems</a></li>
 </ul>
 
 ## When you get stuck
@@ -247,7 +246,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
-
+- [Outsystems](https://www.outsystems.com/): Is a low code platform that makes easier for us to make apps and websites.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -922,13 +921,6 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Outsystems
-- [Outsystems](https://www.outsystems.com/) : OutSystems is a low-code platform which provides tools for companies to develop, deploy and manage omnichannel enterprise applications. OutSystems was founded in 2001 in Lisbon, Portugal. In June 2018 OutSystems secured a $360M round of funding from KKR and Goldman Sachs and reached the status of Unicorn.
-- [Outsystems Developer Journey](https://www.outsystems.com/Journey/Home?flow=&team=) : One can even participate in the Outsystems Developer journey. Complete all the four stages and get a chance to get hired by this company.
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
 
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
