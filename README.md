@@ -584,6 +584,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [.NET Rocks!](https://www.dotnetrocks.com/) A weekly podcast talk show for anyone interested in programming on the Microsoft .NET platform 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
