@@ -18,6 +18,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
+<li><a href="#system-design">System Design</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
@@ -101,6 +102,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## System Design
+- [Systems Analysis and Design, 5th Edition](https://www.saigontech.edu.vn/faculty/huynq/SAD/Systems_Analysis_Design_UML_5th%20ed.pdf) :Dennis, Wixon & Roth
+- [Gaurav Sen - Youtube](https://www.youtube.com/c/GauravSensei) : A comprehensive and easy to understand resource for system design preparation.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
