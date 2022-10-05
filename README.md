@@ -841,7 +841,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : A youtube channel about science, mainly, but not only, the universe and space.
 - [Regex Crossword](https://regexcrossword.com) : A simple crossword game where clues are regex that must be matched.
 - [SciShow](https://www.youtube.com/user/scishow/videos) : Answers to interesting questions that you've always wondered about
-- [Sebastian Lague](https://www.youtube.com/c/SebastianLague/s) : Full of fun and pretty coding adventures with a "because why not?" attitude
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
