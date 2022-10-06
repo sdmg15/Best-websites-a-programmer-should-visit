@@ -409,7 +409,8 @@ When learning CS, there are some useful sites you must know to get always inform
 
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries.
+- [Real Python](https://realpython.com/start-here) : Learn everything about Python from ground up basics to webdev, web scraping, APIs and beyond. 
 
 
 <div align="right">
@@ -523,6 +524,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [PowerCert Aninmated Videos](https://www.youtube.com/c/PowerCertAnimatedVideos): Well animated videos on Networking, Information Technology.
+- [LiveOverFlow](https://www.youtube.com/c/LiveOverflow): Productive videos on programming, hacking, bug bounty and security education with good handwritten animations.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
