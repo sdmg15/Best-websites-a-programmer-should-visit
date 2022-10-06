@@ -53,13 +53,15 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
+- [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
-- [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
+- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -67,7 +69,6 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -80,6 +81,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
 - [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
+- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
@@ -87,12 +89,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
+- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
-- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -243,6 +246,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [Quillbot](https://quillbot.com/) : Paraphrasing tool that rewrites and enhances any sentence, paragraph, or article using AI.
+- [ScribHow](https://t.co/nkamSc0MoD) : Turn any process into a step-by-step guide, instantly.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
