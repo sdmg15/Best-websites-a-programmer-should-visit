@@ -691,6 +691,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
+- [CodeEval](https://www.codeeval.dev/) : Notepad for notes and code snippets, stored locally in the browser
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
