@@ -246,6 +246,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
