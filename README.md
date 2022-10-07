@@ -248,6 +248,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
+- [Devfolio.co](https://devfolio.co/): Your digital Portfolio,a Portal to Hackathons.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -523,6 +524,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn. Quality programming videos in Hindi.
+- [CodeHelp - by Babbar](https://www.youtube.com/c/CodeHelpbyBabbar): This Channel aims to provide with Curated Education to Students who want to grow, improve, learn and do something Big in their life. So, Learn the Curated Stuff and also show your friends and Juniors the Right Path.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
