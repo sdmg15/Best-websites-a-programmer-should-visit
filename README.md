@@ -556,6 +556,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
+- [Women-in-Technology](https://shikha-16.github.io/Women-in-Technology/) A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -587,7 +589,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
-
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
