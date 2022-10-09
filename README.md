@@ -163,6 +163,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [Crio.do Projects Hub](https://www.crio.do/projects/) : A great collection of projects from all domains of computer science and available with guided instructions for those who want to build them. Select any project idea and start building. Stuck up ? Proceed as instructed or raise your query on highly responsive Crio Forum.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
