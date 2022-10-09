@@ -375,6 +375,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Sites related to your preferred programming language (For me C++)
+- [Go Programming Blog on Ardan Labs](https://www.ardanlabs.com/blog/) : Great website that publishes articles that can teach you more beyond the basic and make you dive deeper into Go programming language.
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
