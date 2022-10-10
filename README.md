@@ -102,6 +102,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [Quanta Manzine](https://www.quantamagazine.org/computer-science/) : uanta Magazine is an editorially independent online publication launched by the Simons      Foundation in 2012 to enhance public understanding of science and Technology.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
