@@ -445,6 +445,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
 - [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
+- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/) : Security, education, and training for the whitehat hacker community
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
