@@ -59,6 +59,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
+- [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -246,7 +247,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
-- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg.
+- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -874,6 +876,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
+- [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
