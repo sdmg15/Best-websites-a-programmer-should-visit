@@ -1,9 +1,11 @@
-## Description
+## Summary of your changes
+
+### Description
 
 <!--- Please include a summary of the changes and the related issue. -->
 <!--- If your changes closes an issue ticket, please refer it as: Fixes #<number> -->
 
-## Checklist
+### Checklist
 
 <!--- Please mark all options that apply to your case. -->
 
