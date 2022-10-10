@@ -55,14 +55,14 @@ When learning CS, there are some useful sites you must know to get always inform
 </ul>
 
 ## When you get stuck
-
--   [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
--   [devRant](https://www.devrant.io) : Community where you can rant and release your stress
--   [Google](https://www.google.com) : A search engine for anything you get stuck with.
--   [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
--   [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
--   [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
--   [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
+- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
+- [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [Google](https://www.google.com) : A search engine for anything you get stuck with.
+- [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
+- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
+- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+- [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
+- [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -231,49 +231,48 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
-
--   [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
--   [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
--   [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
--   [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
--   [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
--   [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
--   [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
--   [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
--   [Wit AI](https://wit.ai) : Natural Language for Developers
--   [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
--   [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
--   [Code share](https://codeshare.io) : Share code in real-time with other developers
--   [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
--   [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
--   [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
--   [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
--   [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
--   [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
--   [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
--   [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
--   [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.
--   [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
--   [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
--   [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
--   [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
--   [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg.
+- [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
+- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
+- [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
+- [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
+- [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
+- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
+- [Wit AI](https://wit.ai) : Natural Language for Developers
+- [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
+- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
+- [Code share](https://codeshare.io) : Share code in real-time with other developers
+- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
+- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
+- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
+- [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
+- [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
+- [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
+- [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
+- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
+- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
+- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
+- [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Bash and Shell scripting
-
--   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
--   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
--   [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
--   [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
--   [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
--   [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
--   [Airborn OS](https://www.airbornos.com) : Private Google Docs Alternative
--   [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
--   [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
+## Bash and Shell scripting  
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
+- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
+- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
+- [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
+- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
+- [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
+- [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -890,26 +889,26 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Open Source Websites
-
--   [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
--   [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
--   [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
--   [Launch Pad](https://launchpad.net) : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.
--   [Google Open Source](https://opensource.google.com) : Google Open Source
--   [Red Hat Developer](https://developers.redhat.com) : The world's leading provider of open source solutions
--   [Open Source](https://opensource.com) : Open Source
--   [Google Summer of Code](https://summerofcode.withgoogle.com) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.
--   [Open Source Web Design](http://www.oswd.org) : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.
--   [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.
--   [Bit Bucket](https://bitbucket.org) : Like GitHub, BitBucket hosts both public and private projects. On this site, open-source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.
--   [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
--   [Code Curiosity](https://codecuriosity.org) : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.
--   [Code Triage](https://www.codetriage.com) : Help out your favorite open-source projects and become a better developer while doing it.
--   [Issue Hub](http://issuehub.io) : Contribute to Open Source. Search issue labels to find the right project for you
--   [Up for Grabs](http://up-for-grabs.net) : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.
--   [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
--   [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
--   [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
+- [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
+- [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
+- [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
+- [Launch Pad](https://launchpad.net) : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.
+- [Google Open Source](https://opensource.google.com) : Google Open Source
+- [Red Hat Developer](https://developers.redhat.com) : The world's leading provider of open source solutions
+- [Open Source](https://opensource.com) : Open Source
+- [Google Summer of Code](https://summerofcode.withgoogle.com) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.
+- [Open Source Web Design](http://www.oswd.org) : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.
+- [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.
+- [Bit Bucket](https://bitbucket.org) : Like GitHub, BitBucket hosts both public and private projects. On this site, open-source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.
+- [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
+- [Code Curiosity](https://codecuriosity.org) : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.
+- [Code Triage](https://www.codetriage.com) : Help out your favorite open-source projects and become a better developer while doing it.
+- [Issue Hub](http://issuehub.io) : Contribute to Open Source. Search issue labels to find the right project for you
+- [Up for Grabs](http://up-for-grabs.net) : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.
+- [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
+- [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
+- [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
+- [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
