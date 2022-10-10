@@ -134,6 +134,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
+- [How HTTPS Works](https://howhttps.works/) : Everything you need to know about the HTTP based system. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -248,7 +249,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
-
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
