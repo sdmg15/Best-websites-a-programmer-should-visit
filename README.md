@@ -612,6 +612,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
+- [Cryptography Complete Tutorial](https://www.simplilearn.com/tutorials/cryptography-tutorial/what-is-cryptography) : learn everything about cryptography, what it is, symmetric encryption, asymmetric encryption and so much more.
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
 - [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [CryptoHack](https://cryptohack.org/) : Learn cryptography through challenges and tutorials. Has a leaderboard and new challenges are added every few months. 
