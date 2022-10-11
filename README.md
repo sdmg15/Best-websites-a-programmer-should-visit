@@ -150,7 +150,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
-
+- [Cryptozombies.io](https://cryptozombies.io/): learn to write smart contact
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
