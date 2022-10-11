@@ -110,6 +110,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Coding practice for beginners
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
+- [Beecrowd](https://www.beecrowd.com.br/judge/pt/login?origem=1) : Train algorithms and programming challenges and become the expert you always dreamed to be.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
@@ -134,7 +135,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
-- [Beecrowd](https://www.beecrowd.com.br/judge/pt/login?origem=1) : Train algorithms and programming challenges and become the expert you always dreamed to be.
 
 
 <div align="right">
