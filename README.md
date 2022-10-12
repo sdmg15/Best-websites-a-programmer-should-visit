@@ -609,6 +609,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Tutorials
+- [100 Days of Python](https://replit.com/learn/100-days-of-python?from=hub) : In this course, you will build games, apps, and websites by mastering Python programming. Start the course to build 100 projects in 100 days.
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
