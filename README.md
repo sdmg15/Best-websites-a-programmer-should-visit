@@ -279,6 +279,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
+- [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep) : If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
 - [Code Project](https://www.codeproject.com) : For those who code!
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
