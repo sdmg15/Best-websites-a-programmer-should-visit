@@ -731,26 +731,33 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Video Tutorials
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
-- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
-- [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
-- [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
-- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
-- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
+- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials.
+- [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers.
+- [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials.
+- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course.
+- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials.
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-- [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
-- [FreeCourses](https://freecourses.github.io) : Free courses about programming
-- [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
-- [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics) : An amazing guide to Git and GitHub for beginners
-- [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
-- [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
-- [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials.
+- [FreeCourses](https://freecourses.github.io) : Free courses about programming.
+- [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners.
+- [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics) : An amazing guide to Git and GitHub for beginners.
+- [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials.
+- [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses.
+- [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content.
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
-- [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
+- [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim.
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
-- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
-- [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
-- [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free.
+- [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013).
+- [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim.
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
+- [Telusko](https://www.youtube.com/c/Telusko) : Free programming tutorials from beginner to advanced level.
+- [take U forward](https://www.youtube.com/c/takeUforward) : Data structutes and algorithm in-depth tutorials.
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) : Learn computer science, with a simple and detailed explanation. 
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) - Web languages and web technologies tutorial.
+- [TechTerms](https://www.youtube.com/channel/UCY_dQTuD3MjtuQwYuy6xdag) : Learn Computer Networks, and Network Security using whiteboard animations.
+
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -876,6 +883,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
+- [Hactoberfest Beginner](https://github.com/MrAnonymous09/Hactoberfest-Beginner) : Get Started with your 1st Pull Request From here. All the Valid Pull Requests will be Merged with the Repo.
+- [Gitlab CLI tool](https://github.com/profclems/glab) : GLab is an open source GitLab CLI tool bringing GitLab to your terminal next to where you are already working with git and your code without switching between windows and browser tabs.
+- [Ansible collection](https://github.com/IBM-Blockchain/ansible-collection) : Ansible collection for building Hyperledger Fabric networks using the IBM Blockchain Platform
+- [Beginner guide for open source](https://github.com/arpit456jain/Getting-Started-with-open-source) : step by step guide for beginners for getting started with open source.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
