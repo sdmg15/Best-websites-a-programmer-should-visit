@@ -126,7 +126,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
--[Educative](https://www.educative.io/) : Interactive courses for software learning
+- [Educative](https://www.educative.io/) : Interactive courses for software learning
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
@@ -151,7 +151,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
--[Crypto Zombies](https://cryptozombies.io/) : Gamified platform to learn solidity from scratch
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
