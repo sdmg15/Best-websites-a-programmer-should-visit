@@ -60,6 +60,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
+- [regexer](https://regexr.com/) : Tool to visualize your regex expresions 
+- [regexper](https://regexper.com/) : Tool to visualize your regex expresions
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -263,6 +265,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
+- [linux die](https://linux.die.net/) : a collection of all linux man pages
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
