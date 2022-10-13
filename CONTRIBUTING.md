@@ -1,13 +1,21 @@
-Welcome!
+# Contributing Guidelines
 
-For contributions to be approved they should respect this form :
+For contributions to be approved they should come in through Pull Requests (PR) that correspond to changes in the `README.md` file.
 
-`* [Site name OR A simple description](url) : a simple description of the site or slogan of the site. `
-`* The link should be added in the right section`
-`* Only one or two links per Pull Requests`
+Each PR MUST respect the following guidelines:
 
-__NOTE__: The main file to edit is the __README.md__ file.
+- **Only one link** per PR is allowed.
+- Verify that the link is not already in the list.
+- The link can't correspond to a _YouTube channel or playlist_. These can vary over time and become difficult to review.
+- You should add the link in the `README.md` file using this pattern:
 
-__NEW :You should also consider sorting your submission alphabetically whenever possible.__
+  ```text
+  [Site name OR A simple description](url) : a simple description of the site or slogan of the site.
+  ```
 
-And adhere to the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md)
+- You should add the link to the right section. No new sections are allowed at the moment.
+- You should also consider sorting your submission alphabetically whenever possible.
+
+If your contribution corresponds to something different (not a new link to add) from a new link, please create an [issue](./issues) before to support the case.
+
+Any Pull Request MUST adhere to the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md).
