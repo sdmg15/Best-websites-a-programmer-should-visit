@@ -383,6 +383,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
+- [hoogle](https://hoogle.haskell.org/?hoogle) : A site to search your favorite haskell functions
 - [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
