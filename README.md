@@ -238,6 +238,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
+- [i Hate Regex](https://ihateregex.io/) : The Regex Cheat Sheet
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
