@@ -35,7 +35,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#good-articles">Good Articles</a></li>
 <li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#podcasts">Podcasts</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></lif>
+<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
 <li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
