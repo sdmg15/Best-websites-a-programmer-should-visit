@@ -143,6 +143,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
+- [Crypto Zombies](https://cryptozombies.io/): Learn to Code Blockchain DApps by Building Simple Games
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
@@ -150,7 +151,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
-- [Crypto Zombies](https://cryptozombies.io/): Learn to Code Blockchain DApps by Building Simple Games
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
