@@ -156,6 +156,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## For those who want to start a small project but can't find the ideas
+- [Awwwards](https://www.awwwards.com/) : The awards for design, creativity & innovation on the internet.
 - [freeCodeCamp/React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
