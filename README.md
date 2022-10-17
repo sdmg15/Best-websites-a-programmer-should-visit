@@ -876,6 +876,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [GirlScript Community](https://girlscript.tech) : GirlScript Foundation is a non-profit organisation in India that helps beginners in technology and promotes the role of Diversity and Inclusion in Tech Industry. Check "Our Programs" tab on the website to know about their open-source events and competitions.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
