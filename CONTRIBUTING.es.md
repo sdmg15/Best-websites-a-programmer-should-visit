@@ -16,6 +16,6 @@ Cada PR DEBE seguir las siguientes pautas:
 -	Debe agregar el enlace a la sección derecha. No se permiten nuevas secciones en este momento.
 -	También debe considerar ordenar su envío alfabéticamente siempre que sea posible.
 
-Si su contribución corresponde a algo diferente (no un nuevo enlace para agregar) de un nuevo enlace, cree [un problema](./issues) antes para respaldar el caso.
+Si su contribución corresponde a algo diferente (no un nuevo enlace para agregar) de un nuevo enlace, cree una [propuesta](./issues) antes para respaldar el caso.
 
 Cualquier Solicitud de Extracción (PR) DEBE adherirse al [Código de Conducta de Contributor Covenant](./CODE_OF_CONDUCT.md).
