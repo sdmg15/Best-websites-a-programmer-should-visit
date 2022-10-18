@@ -239,6 +239,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
+- [Algorithms Visualizer](https://algorithm-visualizer.org/) : Understand Algorithms visually
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
@@ -271,6 +272,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Interview Preparation
+- [The Algorithms](https://the-algorithms.com/) : GitHub's largest open-source algorithm library
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
