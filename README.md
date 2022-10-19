@@ -496,6 +496,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
 - [Murtaza's OpenCV Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/): OpenCV, Self Driving, Robotics and AI tutorials.
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
+- [Network Chuck](https://www.youtube.com/c/NetworkChuck/videos) : Videos on hacking and other CS things. Mostly on python.
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of the world's best technical writers.
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
@@ -703,6 +704,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
 - [LightOJ](https://lightoj.com) : Practicing at lightoj is so good for beginners as it is categorized and have also chat room and forum which helps to communicate with others about any problem.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
+- [picoCTF](picoctf.org) : picoCTF is a free computer security education program with original content built on a capture-the-flag framework
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
@@ -716,6 +718,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Computer Books
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/2e) : Basic Python Introduction to beginners where you learn to automate things.
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
@@ -850,6 +853,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [How to live for a long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+- [Vsauce2](https://www.youtube.com/user/Vsauce2/videos) : The best youtube channel again
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
