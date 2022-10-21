@@ -172,7 +172,8 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Coding advice
-- [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
+- [In every field this youtuber had contributed something](https://www.codewithharry.com/)
+- [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-pinrogramming/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
@@ -479,6 +480,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## YouTube Channels
+
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
@@ -526,6 +528,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+-[For web devolopment (frontend and backend),coading languages and many more](https://www.youtube.com/c/CodeWithHarry/playlists): in almost every domains u will find a video here mainy for devolopment this guy is awesome .
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
