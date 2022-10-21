@@ -801,6 +801,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Daniel Lemire's Blog](https://lemire.me/blog/) : Daniel Lemire's blog
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
+- [Gynvael Coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en) : Blog about programming and security research
 - [HackerEarth Blog](http://blog.hackerearth.com) : The HackerEarth blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
