@@ -485,6 +485,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+- [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode): Tutorials based on Front-end and Back-end development with MERN stack
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
@@ -526,7 +527,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
-- [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode): Tutorials based on Front-end and Back-end development with MERN stack
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
