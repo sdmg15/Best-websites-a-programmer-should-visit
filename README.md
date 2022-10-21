@@ -89,6 +89,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
+- [TechGig](https://www.techgig.com) :  tech community for programmers to read the latest tech news, learn, upskill & compete with fellow techies in hackathons
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
