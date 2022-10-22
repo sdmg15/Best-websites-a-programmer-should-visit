@@ -436,6 +436,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
 - [Machine Learning Mastery](https://machinelearningmastery.com/) : An comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
+- [Online Model Tranning](https://cohere.ai/) :NLP model tranning playground 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
