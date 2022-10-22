@@ -726,6 +726,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
+- [The C Language complete Guide](http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) : A complete guide to C Language which is also recommended for Programming Beginners.
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
 
 <div align="right">
