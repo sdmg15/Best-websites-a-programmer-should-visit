@@ -461,6 +461,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [DevURLs](https://devurls.com/) : Developer news aggregator
 - [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+- [Namae](https://namae.dev/) : Check the availability of your new app name ideas across all major registries at once.
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
