@@ -11,7 +11,7 @@ Some useful websites for programmers.
 
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
-**Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+**Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-sRStudiohould-visit-zh)
 
 ## Index
 <ul>
@@ -463,6 +463,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) : A collection of cheatsheets about R, Python, Rmarkdown, API and many more.
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
