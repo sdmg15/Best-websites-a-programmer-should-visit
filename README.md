@@ -132,6 +132,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
+- [Learn Javascript](https://learnjavascript.online/) : Learn Javascript basics with new ES6 standarts & practice your skills to solve problems
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
