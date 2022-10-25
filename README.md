@@ -527,6 +527,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [developedbyed](https://www.youtube.com/c/DevEd): Tutorials on Web Development, Web Design, UI/UX, Game Development, Tech-related News, 3D modelling, and more.
+- [Florin Pop](https://www.youtube.com/c/FlorinPop): Tutorials on Web Development (HTML, CSS, JavaScript, ReactJS, NodeJS, Animations, Components, APIs and more).
+- [DarkCode](https://www.youtube.com/c/DarkCodeOnline): Tutorials on Web Development and Web Design.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
