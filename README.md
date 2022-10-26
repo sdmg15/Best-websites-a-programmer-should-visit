@@ -735,6 +735,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Video Tutorials
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
+- [Blender Guru](https://www.youtube.com/c/BlenderGuruOfficial/videos) : tutorials about Blender (open source 3D software)
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
