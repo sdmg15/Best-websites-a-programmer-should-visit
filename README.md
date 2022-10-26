@@ -249,6 +249,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
+- [ShellCheck](https://www.shellcheck.net/): Static analysis tool that automatically finds bugs in your shell scripts and displays warnings and suggestions for best practices.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 
