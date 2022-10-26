@@ -224,6 +224,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
+- [Algorithm Visualiser](https://algorithm-visualizer.org/) : It is a web app written in React.It contains visualizations of algorithms shown on the side menu of the website.
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
