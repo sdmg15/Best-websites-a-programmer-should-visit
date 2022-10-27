@@ -286,6 +286,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
+- [CSS interview Questions](https://www.simplilearn.com/tutorials/css-tutorial/css-interview-questions)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
