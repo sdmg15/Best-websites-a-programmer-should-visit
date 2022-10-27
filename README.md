@@ -635,6 +635,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Markdown Cheatsheet](https://www.markdown-cheatsheet.com/) : a simple markdown guide based on examples
 - [Missing Semester](https://missing.csail.mit.edu/) : The missing semester of your computer science education
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
@@ -916,6 +917,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
+- [Techpays.eu](https://techpays.eu/) : List of compensation data for mainly Europian IT market. Usefull to check before applying for a new job.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
