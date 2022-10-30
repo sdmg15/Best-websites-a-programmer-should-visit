@@ -667,6 +667,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Building a Cybersecurity Toolkit](https://www.edx.org/course/building-a-cybersecurity-toolkit) : Develop a set of skills and characteristics that expand beyond technical proficiency to become a successful cybersecurity professional
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
