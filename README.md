@@ -898,6 +898,10 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+
+## ICONS and OTher Resourcs
+- [Flaticon](https://www.flaticon.com/) : It is an awesome resource for finding icons, background, etc
+
 ## Jobs
 - [AngelList](https://angel.co/) : AngelList is a 
     website for startups, angel investors, and job-seekers 
