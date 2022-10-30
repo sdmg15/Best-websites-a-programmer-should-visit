@@ -415,6 +415,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
+- 
+- [Swift Documentaion](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) : A-Z swift programming concepts and methods.
 
 
 <div align="right">
