@@ -668,6 +668,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [W3Schools](https://www.w3schools.com/) : W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
