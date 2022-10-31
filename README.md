@@ -201,6 +201,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
+- [Code Guide](https://codeguide.co/) : Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
@@ -489,6 +490,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
+- [Fireship](https://www.youtube.com/c/Fireship) : High-intensity code tutorials to help you build & ship your app faster. Covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
@@ -516,6 +518,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals, and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
+- [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts) : 2000+ free video tutorials created, recorded, edited, published and maintained by Scott Tolinski.
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competitive programming
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
 - [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
