@@ -417,6 +417,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
+- 
+- [Swift Documentaion](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) : A-Z swift programming concepts and methods.
 
 
 <div align="right">
@@ -901,6 +903,10 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+
+## ICONS and OTher Resourcs
+- [Flaticon](https://www.flaticon.com/) : It is an awesome resource for finding icons, background, etc
 
 ## Jobs
 - [AngelList](https://angel.co/) : AngelList is a 
