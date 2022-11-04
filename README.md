@@ -129,7 +129,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn about ethical hacking and computer vulnerabilities with practical.
+- [Hacksplaining]([url](https://www.hacksplaining.com/lessons)) : a simple description of the site or slogan of the site.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
