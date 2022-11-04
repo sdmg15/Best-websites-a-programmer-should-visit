@@ -19,7 +19,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#cryptocurrency">Cryptocurrency</a></li>
+<li><a href="#blockchain">Blockchain</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
@@ -142,7 +142,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## CryptoCurrency
+## Blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
