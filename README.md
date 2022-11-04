@@ -66,6 +66,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## News
+- [The Verge](https://www.theverge.com) : Publishing news, feature stories, guidebooks, product reviews, consumer electronics news, and podcasts
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
