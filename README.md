@@ -24,20 +24,20 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
 <li><a href="#general-tools">General Tools</a></li>
+<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#interview-preparation">Interview Preparation</a></li>
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
 <li><a href="#learn-ai">Learn AI</a></li>
-<li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
+<li><a href="#seminar-research-writing-talks-etc">Seminar, research writing, talks, etc.</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
 <li><a href="#good-articles">Good Articles</a></li>
-<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#podcasts">Podcasts</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
+<li><a href="#watch-others-code">Watch others code</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
 <li><a href="#competitive-programming">Competitive programming</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
@@ -142,7 +142,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## CryptoCurrency
+## Cryptocurrency
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
@@ -259,7 +259,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Bash and Shell scripting  
+## Bash and Shell scripting
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
@@ -446,7 +446,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Seminar, research writing, talks, etc
+## Seminar, research writing, talks, etc.
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
