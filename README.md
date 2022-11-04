@@ -154,6 +154,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learn Web3 DAO](https://learnweb3.io/): Learn to become a Web3 Developer for free. 
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Smart contract for NFT](https://github.com/HashLips/solidity_smart_contracts): Smart contract for NFT
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -556,6 +558,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 - [What every programmer should know about memory - PDF](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- [What new in each version of Modern Javascript - ECMAScript(ES) from ES6 - ES11](https://sambat-tech.netlify.app/modern-javascript-what-new/) : Article summarize all the history of modern Javascript.
 - [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : How I got to 200 productive hours a month
 - [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : Parallel processing with Unix tools
 - [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
@@ -563,6 +566,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
