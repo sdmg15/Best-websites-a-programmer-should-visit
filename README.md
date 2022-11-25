@@ -278,6 +278,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Interview Preparation
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
+- [A Developer's Guide to Working with Recruiters](https://andreidobrinski.com/blog/a-developers-guide-to-working-with-recruiters/)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
