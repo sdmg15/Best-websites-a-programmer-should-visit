@@ -72,6 +72,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
 - [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
+- [CNET](https://www.cnet.com/news/) : Your guide to a better future! An excellent source of up-to-date tech news.
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
@@ -94,6 +95,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 - [Rekt](https://rekt.news/) : A journalism related to Defi, Web3, Blockchain and security on them.
+- [Hackaday](https://hackaday.com) : Hacking is an art form that uses something in a way in which it was not originally intended.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -135,6 +137,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -149,8 +152,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+- [Learn Web3 DAO](https://learnweb3.io/): Learn to become a Web3 Developer for free. 
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Learn About Bitcoin and Lightning Protocol](https://chaincode.gitbook.io/seminars/): Complete 4 weeks seminar ciricullum for learning about Bitcoin.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -164,6 +169,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -244,6 +250,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [Sourcegraph](https://sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
@@ -272,6 +279,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Interview Preparation
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
+- [A Developer's Guide to Working with Recruiters](https://andreidobrinski.com/blog/a-developers-guide-to-working-with-recruiters/)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
@@ -311,6 +319,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
 - [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
+- [NeetCode](https://neetcode.io): Prepare topic wise coding questions which are most frequently asked in MAANG companies. 
 - [Pramp/A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
 - [Problems/LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
 - [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
@@ -432,8 +441,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
-- [Machine Learning Mastery](https://machinelearningmastery.com/) : An comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
+- [Machine Learning Mastery](https://machinelearningmastery.com/) : A comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
+- [Machine Learning Tutorial: A Step-by-Step Guide for Beginners](https://www.simplilearn.com/tutorials/machine-learning-tutorial) : A one-stop playlist for all the basics of Machine Learning simplified, from Logistic Regression to Reinforcement Learning.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -454,6 +464,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
+- [Branition Colors](https://branition.com/colors) : Collection of hand-curated color palettes best fitted for branding.
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
@@ -611,6 +622,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Tutorials
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
+- [A Byte of Python](https://python.swaroopch.com) : a free beginner introduction to python
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
@@ -692,6 +704,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
+- [CodeEval](https://www.codeeval.dev/) : Notepad for notes and code snippets, stored locally in the browser
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
@@ -766,6 +779,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
+- [PlayCode](https://playcode.io/) : Online Javascript playground with a built-in console and support for npm packages.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
@@ -802,6 +816,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
+- [Linux Forums](https://www.linux.org/forums) : A Friendly Linux Forum
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
@@ -857,6 +872,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Open Source Websites
+- [N-O-D-E](https://n-o-d-e.net/) : Everything open-source and hacker culture - news, zines, and projects
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
