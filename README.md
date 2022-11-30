@@ -919,6 +919,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers 
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
+- [Hired.com](https://hired.com) : Hiring platform where companies apply to the candidates (formerly Vettery).
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
