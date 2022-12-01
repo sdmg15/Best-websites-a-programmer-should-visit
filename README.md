@@ -914,29 +914,29 @@ When learning CS, there are some useful sites you must know to get always inform
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
+- [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers 
+- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
-- [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
-- [DevITjobs UK](https://devitjobs.uk/) : Transparent job board for UK based developers 
+- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.
 - [IAESTE](http://iaesteunitedstates.org) : Find more and amazing international internships and jobs.
+- [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [Indeed](https://www.indeed.com) : Find international jobs on Indeed and get a market salary for your dedication and devotion.
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
 - [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.
-- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
+- [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
+- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
+- [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
-- [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
-- [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
-- [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
-- [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
