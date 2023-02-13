@@ -40,6 +40,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#tutorials">Tutorials</a></li>
 <li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
 <li><a href="#competitive-programming">Competitive programming</a></li>
+<li><a href="#Ethical-Hacking">Ethical Hacking</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
 <li><a href="#video-tutorials">Video Tutorials</a></li>
 <li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
@@ -724,6 +725,17 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Ethical Hacking
+- [TryHackMe](https://tryhackme.com/) : A website to start with hacking.
+- [Ice](https://tryhackme.com/room/ice) : A good room to start with.
+- [Books](http://index-of.es/Hack/) : Useful books to get into the hacking world.
+- [HackerOne](https://www.hackerone.com/for-hackers/how-to-start-hacking) : A large community to learn hacking
+- [Zaratec](https://zaratec.github.io/ctf-practice/) : Training to CTF
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
