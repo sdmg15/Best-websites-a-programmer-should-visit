@@ -712,12 +712,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
-- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
+- [Google Code Jam Practice](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
 - [LightOJ](https://lightoj.com) : Practicing at lightoj is so good for beginners as it is categorized and have also chat room and forum which helps to communicate with others about any problem.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
+- [StopStalk](https://www.stopstalk.com) : Track progress on multiple competitive programming platforms, how you stand against your friends, unified to-do list and problem search, upcoming contest reminders.
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
