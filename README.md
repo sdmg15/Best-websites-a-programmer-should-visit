@@ -49,6 +49,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+<li><a href="#must-see-portfolio-websites">Must-See Portfolio Websites</a></li>
 </ul>
 
 ## When you get stuck
@@ -938,6 +939,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Must-See Portfolio Websites
+- [Prateek Narang, Founder, Coding Minutes](http://www.prateeknarang.com) : An interactive portfolio website with information highlighted in the form of a simple game.
+- [Vaibhav Sisinty, Founder, Growth School](https://sisinty.com) : A simple yet elegant portfolio with brilliant design and strategy.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
