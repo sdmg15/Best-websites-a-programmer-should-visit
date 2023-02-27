@@ -233,6 +233,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
+- [Excalidraw](https://excalidraw.com/) : Hand-drawn look & feel
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
 - [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
