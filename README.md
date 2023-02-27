@@ -822,6 +822,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
+- [OpenAI](https://openai.com/blog/) : It’s a valuable resource for anyone interested in the future of AI.
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
 - [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
 - [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
