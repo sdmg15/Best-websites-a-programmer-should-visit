@@ -767,7 +767,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
-
+- [Video about Python](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg) : A serie of tutorials to learn Python for beginners
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -905,6 +905,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
+- [HelloIntern](https://www.hellointern.com/): Get help finding a paid internship and more!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
