@@ -901,6 +901,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Internships
+- [AngelList] (https://angel.co/) : AngelList is a U.S. website for startups, angel investors, and job-seekers looking to work at startups.
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
