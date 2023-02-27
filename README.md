@@ -362,6 +362,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) : What began as a side project of a Google developer
+now shares the JS leaderboard with React and Angular.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
