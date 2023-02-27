@@ -676,6 +676,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Alwaysngoding.com](https://alwaysngoding.com/) : Always Ngoding is a place or place to learn free Indonesian programming
+- [bisa.ai](https://bisa.ai/) : https://bisa.ai/ : Belajar kecerdesan artifisial melalui course academy, Profesional Certificate dan Pendidikan Profesional
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
