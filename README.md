@@ -230,6 +230,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Tools
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) : Colab notebook (similar to Jupyter notebbok) to write and execute Python in your browser.
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
@@ -503,6 +504,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java](https://www.youtube.com/user/java/videos) : talks related to java
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
 - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
+- [Le Wagon](https://www.youtube.com/c/LeWagon) : Le Wagon cooding bootcamp youtube channel: demo days and tutorials.  
 - [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
 - [Murtaza's OpenCV Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/): OpenCV, Self Driving, Robotics and AI tutorials.
@@ -733,10 +735,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
-- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
 - [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
+- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
 - [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
+- [Invent with Python](https://inventwithpython.com) : Free Python Programming Books by Al Sweigart
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
