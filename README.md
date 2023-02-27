@@ -249,7 +249,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
-- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
+- [Python Tutor](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [Sourcegraph](https://sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
