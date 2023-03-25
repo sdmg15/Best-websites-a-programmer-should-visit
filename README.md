@@ -124,6 +124,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) : Learn Vim Script from begining to expert.
+- [Microverse](https://www.microverse.org/) : Learn software engineering from beginning to expert and land a job upon completion
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
@@ -431,6 +432,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Learn AI
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+- [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/) : A free 16-weeks self-paced data science hand-on lab from WorldQuant University
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
 - [Robots that learn](https://blog.openai.com/robots-that-learn/) : Robots that Learn
