@@ -321,6 +321,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
 - [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
+- [Meetapro](https://meetapro.com/?utm_source=bwapsvgithub): An Airbnb-style mock interview platform with experienced FAANG engineers with low cost.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
 - [NeetCode](https://neetcode.io): Prepare topic wise coding questions which are most frequently asked in MAANG companies. 
 - [Pramp/A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
