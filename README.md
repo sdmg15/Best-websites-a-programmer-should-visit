@@ -67,6 +67,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
+- [Daily Tech News Show](https://dailytechnewsshow.com) : Daily Tech News Show aka DTNS is dedicated to giving you tech news that’s easy to understand.
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
