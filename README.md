@@ -54,11 +54,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
-- [Google](https://www.google.com) : A search engine for anything you get stuck with.
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
-- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
-- [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
 <div align="right">
@@ -85,7 +81,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
@@ -127,7 +122,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
