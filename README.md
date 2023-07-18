@@ -228,6 +228,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
+- [Browser.lol](https://browser.lol) : Use this virtual browser within your existing one to test website reachability from outside of your network.
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
