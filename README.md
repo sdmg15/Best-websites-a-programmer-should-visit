@@ -117,7 +117,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
-- [Full Stack open](https://fullstackopen.com/en/) : Full stack course
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
@@ -127,7 +126,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) : Learn Vim Script from begining to expert.
-- [LinkedIn Learning](https://learning.linkedin.com/cx/get-started?src=go-pa&trk=sem-ga_campid.1401314829_asid.52754777942_crid.481281616534_kw.linkedin%20learning_d.c_tid.kwd-310582843911_n.g_mt.e_geo.9121871&mcid=6841855808129646763&cid=&gclid=CjwKCAjwyNSoBhA9EiwA5aYlb_INPx5ooa2KcDfgGrnJqWLDrboQK40SSBpuwuoyyJ6MgoRlF0Ei9RoCumsQAvD_BwE&gclsrc=aw.ds) : A place you can learn and share in your LinkedIn profile
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
