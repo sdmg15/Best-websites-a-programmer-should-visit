@@ -113,36 +113,35 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Coding practice for beginners
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
+- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
+- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
+- [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
+- [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
+- [Full Stack open](https://fullstackopen.com/en/) : Full stack course
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
 - [InterviewBit/Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
-- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
+- [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) : Learn Vim Script from begining to expert.
+- [LinkedIn Learning](https://learning.linkedin.com/cx/get-started?src=go-pa&trk=sem-ga_campid.1401314829_asid.52754777942_crid.481281616534_kw.linkedin%20learning_d.c_tid.kwd-310582843911_n.g_mt.e_geo.9121871&mcid=6841855808129646763&cid=&gclid=CjwKCAjwyNSoBhA9EiwA5aYlb_INPx5ooa2KcDfgGrnJqWLDrboQK40SSBpuwuoyyJ6MgoRlF0Ei9RoCumsQAvD_BwE&gclsrc=aw.ds) : A place you can learn and share in your LinkedIn profile
+- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
+- [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
+- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
-- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
-- [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
-- [Learn Git Branching](https://learngitbranching.js.org) : Learn and practice git commands in an interactive way
-- [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
-- [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
-- [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 - [Scrimba](https://scrimba.com/dashboard#overview) : Free Wed developing bootcamp
-- [Full Stack open] (https://fullstackopen.com/en/) : Full stack course
-- [LinkedIn Learning](https://learning.linkedin.com/cx/get-started?src=go-pa&trk=sem-ga_campid.1401314829_asid.52754777942_crid.481281616534_kw.linkedin%20learning_d.c_tid.kwd-310582843911_n.g_mt.e_geo.9121871&mcid=6841855808129646763&cid=&gclid=CjwKCAjwyNSoBhA9EiwA5aYlb_INPx5ooa2KcDfgGrnJqWLDrboQK40SSBpuwuoyyJ6MgoRlF0Ei9RoCumsQAvD_BwE&gclsrc=aw.ds) : A place you can learn and share in your LinkedIn profile
+- [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
+- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+- [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
+- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 
-  
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
