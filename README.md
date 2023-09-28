@@ -138,7 +138,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
+- [Scrimba](https://scrimba.com/dashboard#overview) : Free Wed developing bootcamp
+- [Full Stack open] (https://fullstackopen.com/en/) : Full stack course
+- [LinkedIn Learning](https://learning.linkedin.com/cx/get-started?src=go-pa&trk=sem-ga_campid.1401314829_asid.52754777942_crid.481281616534_kw.linkedin%20learning_d.c_tid.kwd-310582843911_n.g_mt.e_geo.9121871&mcid=6841855808129646763&cid=&gclid=CjwKCAjwyNSoBhA9EiwA5aYlb_INPx5ooa2KcDfgGrnJqWLDrboQK40SSBpuwuoyyJ6MgoRlF0Ei9RoCumsQAvD_BwE&gclsrc=aw.ds) : A place you can learn and share in your LinkedIn profile
 
+  
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
