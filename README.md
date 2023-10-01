@@ -714,6 +714,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
+- [CSES](https://cses.fi/problemset/) :  CSES Problem Set is a collection of algorithmic programming problems
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
@@ -727,7 +728,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
-- [CSES](https://cses.fi/problemset/) :  CSES Problem Set is a collection of algorithmic programming problems
+  
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
