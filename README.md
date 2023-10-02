@@ -127,6 +127,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
+- [PythonLearn.org](https://www.py4e.com/) : Python for everybody is a platform for learning Python programming and related concepts.
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
@@ -138,7 +139,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
-- [PythonLearn.org](https://www.py4e.com/) : Python for everybody is a platform for learning Python programming and related concepts.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
