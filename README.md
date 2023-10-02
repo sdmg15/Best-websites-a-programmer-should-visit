@@ -750,9 +750,11 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Video Tutorials
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
+- [Apna College](https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) : Full Stack Web Development by Apna College
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
+- [Code With Harry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) : An amazing and detailed guide to Full Stack Web Development by Code with Harry
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
@@ -770,8 +772,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
-- [Code With Harry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) : An amazing and detailed guide to Full Stack Web Development by Code with Harry
-- [Apna College](https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) : Full Stack Web Development by Apna College
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
