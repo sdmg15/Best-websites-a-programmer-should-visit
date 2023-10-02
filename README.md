@@ -282,6 +282,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Interview Preparation
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+- [70 OOPs Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/oops-interview-questions/)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 - [A Developer's Guide to Working with Recruiters](https://andreidobrinski.com/blog/a-developers-guide-to-working-with-recruiters/)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
