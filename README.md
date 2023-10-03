@@ -831,11 +831,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
+- [Smashing Magazine](https://www.smashingmagazine.com/): Web design and development articles
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
-- [Smashing Magazine](https://www.smashingmagazine.com/): Web design and development articles
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
