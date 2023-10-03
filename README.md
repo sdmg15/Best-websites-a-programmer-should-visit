@@ -243,6 +243,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
+- [Laragon](https://laragon.org/) : Portable, isolated, fast, and powerful universal development environment for building and managing various web applications based on PHP, Node. js, Python, Go, and Ruby.
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
