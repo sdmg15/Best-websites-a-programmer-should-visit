@@ -215,6 +215,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
 - [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style/) : Best Practices for Python Development
+- [Go Style Guide](https://google.github.io/styleguide/go/guide) : Go Style Guide
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
 - [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
 - [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
