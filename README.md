@@ -424,7 +424,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
-
+- [Get started with Kotlin](https://kotlinlang.org/docs/getting-started.html) : Learn statically typed, modern programming language Kotlin for mobile app(Android) , multiplatform-platform(KMM) and backend development.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
