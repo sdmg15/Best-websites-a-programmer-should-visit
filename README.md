@@ -466,6 +466,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Everything in one place
+- [AI Tools](https://aicollective.tools) : Explore a curated selection of AI tools and resources
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
 - [Branition Colors](https://branition.com/colors) : Collection of hand-curated color palettes best fitted for branding.
@@ -486,7 +487,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
-- [AI Tools](https://aicollective.tools) : Explore a curated selection of AI tools and resources
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
