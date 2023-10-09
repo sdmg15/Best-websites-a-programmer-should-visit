@@ -602,6 +602,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [PodRocket](https://podrocket.logrocket.com/) : A web development podcast from LogRocket, covering everything you need to know about frontend web development.
+- [The Vanilla JavaScript Podcast](https://vanillajspodcast.com/) : A web development podcast from LogRocket, covering everything you need to know about frontend web development.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
