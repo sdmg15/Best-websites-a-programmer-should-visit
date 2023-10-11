@@ -505,6 +505,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to the tech industry.
 - [Java](https://www.youtube.com/user/java/videos) : talks related to java
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
+- [Kevin Powel](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) : Talks deeply on CSS and vanilla technologies
+- [Firebase](https://www.youtube.com/@Fireship) : Up-to-date code tutorial and tech news
 - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
 - [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
