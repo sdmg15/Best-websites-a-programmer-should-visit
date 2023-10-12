@@ -919,6 +919,7 @@ When learning CS, there are some useful sites you must know to get always inform
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
+- [Cuvette](https://cuvette.tech/) : Help Students to connect with Startups for all kinds of Jobs & Internships (Tech, Management, Media, etc)
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
 - [Devsnap](https://devsnap.io) : Devsnap is a job aggregator for developer jobs. 
