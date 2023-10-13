@@ -139,6 +139,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
+- [W3Schools](https://www.w3schools.com/) :W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
