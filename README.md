@@ -19,6 +19,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#Online-Development-Environment-Platforms">Online Development Environment Platforms</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
@@ -139,6 +140,20 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Online Development Environment Platforms
+
+- [Replit](https://replit.com) : A cloud based Development Environment , it support almost every language nowdays. They provide you a basic virtual machine where you can develop your project from scratch and Host it on internet on the go.
+
+- [GitHub Codespaces](https://github.com/codespaces) : GitHub Codespaces can be a upcoming revolutionary thing in IT industry , as it's a complete Cloud based Virtual Machine exactly same as VS Code + Integrated with some Advance AI tools to ease your development process.
+
+- [CodePen](https://codepen.io/) : Its a beginner friendly online development environment , It's simply used for quick development of Website components using core language like HTML5 , CSS , JS etc.
+
+- [CodeSandbox](https://codesandbox.io/) : It is similar to CodePe , also it's equipped with many web applications framework support like React , Vue etc. having more pleasant GUI and Easy to use.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
