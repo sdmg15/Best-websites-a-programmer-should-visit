@@ -231,37 +231,37 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
+- [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
+- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
-- [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
-- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
-- [Wit AI](https://wit.ai) : Natural Language for Developers
-- [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
-- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
-- [Code share](https://codeshare.io) : Share code in real-time with other developers
-- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
-- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
-- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
+- [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
+- [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
+- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
+- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
-- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
+- [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
+- [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
+- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
+- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [Sourcegraph](https://sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
-- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
-- [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
-- [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
-- [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
+- [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
+- [Wit AI](https://wit.ai) : Natural Language for Developers
 
 
 <div align="right">
@@ -270,13 +270,13 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
+- [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
 - [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
-- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
-- [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
+- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 
 <div align="right">
