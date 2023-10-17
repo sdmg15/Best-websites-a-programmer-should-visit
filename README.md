@@ -271,7 +271,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
-- [Jonas' Resources](https://codingheroes.io/resources/) : Resources for han crafting beautiful and performant websites
+- [Jonas' Resources](https://codingheroes.io/resources/) : Resources for hand crafting beautiful and performant websites
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
