@@ -481,6 +481,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming Subreddits](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
+- [hackr.io](https://hackr.io/) : Explore the world's top curated courses & tutorials in one simple place.
 - [Hidden Tools](https://hiddentools.dev/) : Discover a wide collection of tools made by the community - for you. ✨
 - [Coolors](https://coolors.co/) : Create the perfect palette or get inspired by thousands of beautiful color schemes.
 - [Tailwind CSS Page Builder](https://devdojo.com/tails/app) :  The perfect Tailwind CSS Page Builder
