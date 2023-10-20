@@ -171,6 +171,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
+- [https://github.com/codecrafters-io/build-your-own-x]: A Collection of application ideas to build something for own
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
