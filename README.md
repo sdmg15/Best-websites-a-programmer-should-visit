@@ -151,6 +151,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 - [Learn About Bitcoin and Lightning Protocol](https://chaincode.gitbook.io/seminars/): Complete 4 weeks seminar ciricullum for learning about Bitcoin.
+- [Learn About Blockchain](https://blockgeeks.com/) : Learn about Blockchain technology and it's fundamentals through articles
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Learn Web3 DAO](https://learnweb3.io/): Learn to become a Web3 Developer for free. 
 - [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
