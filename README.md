@@ -212,6 +212,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't know how? Check out this post
+- [HTMHell](https://www.htmhell.dev/): A collection of bad practices in HTML, copied from real websites, with tips on how to fix them
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get started
 - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
 - [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
@@ -657,6 +658,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
 - [Stanford Programming Course](https://see.stanford.edu/Course/CS106A) : Full, free CS course created by Stanford
+- [SQL Police Department](https://sqlpd.com/): Learn SQL by solving fake police cases
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle/Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
