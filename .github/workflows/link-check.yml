@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
-    with:
-      use-quiet-mode: 'yes'
-      use-verbose-mode: 'yes'
-      check-modified-only: 'yes'
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        check-modified-only: 'yes'
