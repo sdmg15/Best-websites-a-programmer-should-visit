@@ -628,6 +628,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Tutorials
+- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) : for beginners wanting to learn how to develop Android Apps in Kotlin
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [A Byte of Python](https://python.swaroopch.com) : a free beginner introduction to python
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
