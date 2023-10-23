@@ -450,6 +450,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Machine Learning Mastery](https://machinelearningmastery.com/) : A comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
 - [Machine Learning Tutorial: A Step-by-Step Guide for Beginners](https://www.simplilearn.com/tutorials/machine-learning-tutorial) : A one-stop playlist for all the basics of Machine Learning simplified, from Logistic Regression to Reinforcement Learning.
+- [ML For Beginners](https://github.com/microsoft/ML-For-Beginners/tree/main/1-Introduction): A 12-week, 26-lesson curriculum all about Machine Learning by Azure Cloud Advocates at Microsoft.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
