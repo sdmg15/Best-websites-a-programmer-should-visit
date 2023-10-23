@@ -507,6 +507,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every Wednesday is new live streams.
 - [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : contains good interviews of developers and people related to the tech industry.
 - [Java](https://www.youtube.com/user/java/videos) : talks related to java
+- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) : Projects related to javascript, react, next, mern, ui/ux and many more... 
 - [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java Conference
 - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos) : Game and graphics tutorials
 - [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : Talks on C++
