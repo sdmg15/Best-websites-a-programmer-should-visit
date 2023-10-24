@@ -495,6 +495,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## YouTube Channels
+- [Abdul Bari](https://www.youtube.com/@abdul_bari): Video lectures on Algorithms and Java Programming concepts.
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
@@ -542,7 +543,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
-- [Abdul Bari](https://www.youtube.com/@abdul_bari): Video lectures on Algorithms and Java Programming concepts.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
