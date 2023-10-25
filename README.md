@@ -945,6 +945,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
   filtering, and finding new and attractive jobs according to your needs and interests.
 - [ZipRecruiter](https://www.ziprecruiter.com) : The Smartest Way to Get Hired.
+- [Remote.Co](https://remote.co/) : A remote work job board for online job seekers.
 - [RemoteML](https://remoteml.com/) : Remote Machine Learning jobs.
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
