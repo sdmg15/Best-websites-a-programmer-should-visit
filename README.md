@@ -256,6 +256,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
+- [Rosetta Code](https://rosettacode.org/): It's a programming chrestomathy site. It presents the same algorithms across different programming languages, allowing you to compare and learn how the same task can be accomplished in various languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
@@ -792,6 +793,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
+- [Online GDB](https://www.onlinegdb.com/) : is an online integrated development environment (IDE) that allows you to write, compile, run code, and easily share it with others directly from your web browser.
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [PlayCode](https://playcode.io/) : Online Javascript playground with a built-in console and support for npm packages.
