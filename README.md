@@ -468,6 +468,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Everything in one place
+- [AI Tools](https://aicollective.tools) : Explore a curated selection of AI tools and resources
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
 - [BtechBasics](https://btechbasics.in/) : Fundamental concepts of Computer Science Engineering using hands-on exercises
@@ -795,6 +796,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [PlayCode](https://playcode.io/) : Online Javascript playground with a built-in console and support for npm packages.
+- [StackBlitz](https://stackblitz.com/) : Instant Dev environments with support of nodejs and npm packages.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 
 <div align="right">
@@ -838,6 +840,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
@@ -902,6 +905,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
