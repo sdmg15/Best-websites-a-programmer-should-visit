@@ -949,6 +949,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+- [Y Combinator](https://www.ycombinator.com/) : A website where you can put up your start-up ideas and you will be funded if your idea is unique, exceptional to the core and really useful to the community.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
