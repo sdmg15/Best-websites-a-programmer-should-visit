@@ -123,6 +123,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
+- [Codeply](https://www.codeply.com/) : Learn responsive frontend, with frameworks.
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) : Learn Vim Script from begining to expert.
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
