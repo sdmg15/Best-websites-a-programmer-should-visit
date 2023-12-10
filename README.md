@@ -28,7 +28,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#documentaries">Documentaries</a></li>
 <li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#learn-ai">Learn AI</a></li>
+<li><a href="#learn-ai">Artificial Intelligence And Machine Learning</a></li>
 <li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#everything-in-one-place">Everything in one place</a></li>
 <li><a href="#youtube-channels">YouTube Channels</a></li>
@@ -111,6 +111,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Coding practice for beginners
+- [Codedex - start your coding adventure](https://www.codedex.io) : Gamify your learning experience and have fun learning how to code!
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
@@ -254,7 +255,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Sourcegraph](https://sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
-- [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
+- [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
@@ -298,6 +300,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
+- [FAANGPath Resume template](https://faangpath.com/template/) : Maximize your chances to get your resume in the hands on HR/HM.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
 - [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
@@ -466,8 +469,10 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Everything in one place
+- [AI Tools](https://aicollective.tools) : Explore a curated selection of AI tools and resources
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
+- [BtechBasics](https://btechbasics.in/) : Fundamental concepts of Computer Science Engineering using hands-on exercises
 - [Branition Colors](https://branition.com/colors) : Collection of hand-curated color palettes best fitted for branding.
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
@@ -554,7 +559,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : Let's code a TCP/IP stack, 5: TCP Retransmission
 - [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : The language of choice
-- [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algorithms and data structures with their solutions.
+- [Learn Data structure and Algorithms](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/) : List of some algorithms and data structures and learning resources.
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
 - [Getting Started with MongoDB – An Introduction](https://studio3t.com/knowledge-base/articles/mongodb-getting-started/)
@@ -709,6 +714,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Advent of Code](https://adventofcode.com) : An Advent calendar of small programming puzzles
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
+- [AtCoder](https://atcoder.jp/) : One of the best places to build competitive programming skills for beginners to experts.
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
 - [CodeEval](https://www.codeeval.dev/) : Notepad for notes and code snippets, stored locally in the browser
@@ -792,6 +798,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [PlayCode](https://playcode.io/) : Online Javascript playground with a built-in console and support for npm packages.
+- [StackBlitz](https://stackblitz.com/) : Instant Dev environments with support of nodejs and npm packages.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 
 <div align="right">
@@ -835,6 +842,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
@@ -900,6 +908,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
