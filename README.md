@@ -223,6 +223,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
 - [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html): Google C# Style Guide
+- [RegExLib](https://regexlib.com) : The Internet's first Regular Expression Library.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
