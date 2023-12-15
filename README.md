@@ -145,6 +145,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## CryptoCurrency
+- [Binance Academy](https://academy.binance.com/en) : Every information related to blockchain & cryptocurrencies can be found here.
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
