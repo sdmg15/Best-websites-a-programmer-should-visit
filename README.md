@@ -249,6 +249,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
+- [JSON Crack](https://jsoncrack.com/) : An online open-source tool designed for visualizing data in various languages such as JSON, YAML, CSV, and more.
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
