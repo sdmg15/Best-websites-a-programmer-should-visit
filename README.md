@@ -479,6 +479,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
+- [FutureTools](https://www.futuretools.io/) : An organised collection of all the best AI Tools
 - [Kaggle](https://www.kaggle.com/) : All-in-one Machine Learning and Data Science Community – access free GPUs and a huge repository of community published data & code.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
@@ -905,7 +906,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Issue Hub](http://issuehub.io) : Contribute to Open Source. Search issue labels to find the right project for you
 - [Up for Grabs](http://up-for-grabs.net) : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
-- [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
