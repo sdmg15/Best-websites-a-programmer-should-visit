@@ -703,7 +703,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Can I use](https://caniuse.com/) : A website that provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git to use it effectively)
 - [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
-- [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
+- [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
