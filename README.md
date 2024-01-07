@@ -297,7 +297,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
-- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
