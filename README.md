@@ -321,7 +321,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
 - [Interview Cake](https://www.interviewcake.com/) : Free and Paid course options offering high quality technical interview practice. 
 - [Job Interview: How to Ace a Job Interview/The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
-- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
+- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/search?s=job%20interviews/)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
