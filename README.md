@@ -953,6 +953,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
 
+## Cheatsheets
+- [DevHints](https://devhints.io/) : Cheatsheets for programming Languages
+- [Debuggex](https://www.debuggex.com/cheatsheet/regex/javascript) : JavaScript Regex Cheatsheet
+- [OverAPI.com](https://overapi.com/) : Cheatsheets for programming Languages
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
