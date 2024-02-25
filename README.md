@@ -239,6 +239,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
+- [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
