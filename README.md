@@ -502,6 +502,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
+- [Coding with Mosh](https://www.youtube.com/@programmingwithmosh) : Tutorials, how to's, and all things coding
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
