@@ -15,6 +15,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
+<li><a href="#HOW TO START">HOW TO START YOUR SOFTWARE JOURNEY</a></li>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
@@ -51,6 +52,16 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#jobs">Jobs</a></li>
 </ul>
 
+## HOW TO START
+-Select A programming Language (C++,JAVA,Python)
+- [learn](https://www.youtube.com/results?search_query=apna+c):YT resource
+-Start solving questions:
+- [Leat code](https://leetcode.com/)
+- [codeforces](https://codeforces.com/)
+- [dsa](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/):take you forward
+- [open_source contribution](https://youtu.be/o6xikISiz2w?si=sfIDXf2t4D00iCtC):YT source
+- [prepare for programes like gsoc](https://youtu.be/QXGierzS76Y?si=CcMgdX_3b5_KDk7l):inspiration
+- [start early and be consisiten](https://youtu.be/uHFOtfmctXM?si=WxyXKYCc_p1vpbg7)
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
