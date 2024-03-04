@@ -953,6 +953,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
+- [remoet.dev](https://remoet.dev) : Large directory of remote tech companies and job boards. You can Star interesting companies and create your own shareable page, like a LinkTree for developers.  
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
