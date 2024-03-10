@@ -18,6 +18,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
+<li><a href="#Hackathons">Hackathons</a></li>    
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
@@ -143,6 +144,11 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## Hackathons
+- [Dare2Compete](https://dare2compete.com/) : Hackathons, Competitions, Quizzes, Events, Internships, Hiring, Jobs, Workshop, Courses, Scholarships, etc
+- [Devpost](https://devpost.com/) : Hackathons, Host a Hackathon
+- [Devfolio](https://devfolio.co/) : Hackathons, Organize a Hackathon
 
 ## CryptoCurrency
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
