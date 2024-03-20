@@ -953,7 +953,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Linkedin jobs](https://www.linkedin.com/jobs) : A very nice research tool for programming jobs
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
+- [Noukri](https://https://noukri.com/) : Noukri is mostly used site ( also has app ) in recent days for tech jobs in India.
+- [Big IT jobs](https://bigitjobs.com/) : The good site to refer for the jobs.
+- [Foundit](https://www.foundit.in/) : The bunch of varieties of jobs including banking, and sales.
 - [OkJob](https://okjob.io/) : 4 day week job board.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
