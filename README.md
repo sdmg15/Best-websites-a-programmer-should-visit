@@ -929,7 +929,8 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Jobs
 - [AngelList](https://angel.co/) : AngelList is a 
     website for startups, angel investors, and job-seekers 
-    looking to work at startups. 
+    looking to work at startups.
+- [Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us) : A gig service platform that connects Bing Search users to providers who want higher profit for their services.
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
