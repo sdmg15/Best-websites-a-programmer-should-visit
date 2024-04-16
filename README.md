@@ -420,7 +420,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
-- [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
+- [what-is-garbage-collection](https://downloads.plumbr.io/Plumbr%20Handbook%20Java%20Garbage%20Collection.pdf) : Demystify the garbage collection
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
