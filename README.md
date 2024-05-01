@@ -440,7 +440,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
 - [Robots that learn](https://openai.com/research/robots-that-learn) : Robots that Learn
-- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron
+- [Unsupervised Sentiment Neuron](https://openai.com/research/unsupervised-sentiment-neuron) : Unsupervised Sentiment Neuron
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 - [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
