@@ -522,6 +522,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
 - [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : talks on various topics
+- [TechWithTim](https://youtube.com/@techwithtim?si=efvK4Qwk5g9ZJXvA) : best tutorials for developer learning python from zero to advance. 
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) :Web development and programming
 - [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences) : tech talks from the GOTO Conference by Developers for Developers
