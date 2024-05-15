@@ -583,6 +583,8 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Podcasts
+- [Base CS](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
+- [CodeNewbie](https://www.codenewbie.org/podcast): Stories and interviews from people on their coding journey.
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
