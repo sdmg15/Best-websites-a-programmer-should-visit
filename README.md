@@ -229,6 +229,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
+- [Beautifier](https://beautifier.tuyen.blog/): Online tool for beautify your HTML, Javascript and CSS code.
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
