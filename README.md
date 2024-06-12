@@ -114,6 +114,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codedex - start your coding adventure](https://www.codedex.io) : Gamify your learning experience and have fun learning how to code!
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
+- [Coding Escape](https://escape.codingame.com/) : Free collaborative escape rooms that you solve with code
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
@@ -231,6 +232,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Tools
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [CodinGame For Work](https://codingame.com/work) : Get a detailed report on your candidate's coding skills at the beginning of the interview process
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
