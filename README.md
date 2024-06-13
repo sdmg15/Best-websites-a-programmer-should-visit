@@ -505,6 +505,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+- [Edureka](https://www.youtube.com/c/edurekaIN) : The e-learning platform for most popular technologies like big data, DevOps, Data Science, Hadoop, Apache Spark, Python, Selenium, Blockchain, Tableau, Artificial Intelligence (AI), AWS, and digital marketing. 
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
@@ -546,6 +547,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
