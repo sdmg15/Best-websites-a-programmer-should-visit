@@ -853,6 +853,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## For improving your English
+- [Amigos Ingleses](http://www.amigosingleses.com/)
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 - [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
