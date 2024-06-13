@@ -535,6 +535,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competitive programming
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
+- [StatQuest with JoshStarmer](https://www.youtube.com/c/joshstarmer/videos) : Short animated machine learning concept videos.
 - [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 - [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g) : Videos on technology, storytelling, and being happie.
