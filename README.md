@@ -102,6 +102,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Magazines
+- [CodeMag](https://codemag.com/Magazine) : CODEMAG - Coder's Magazine, all issues listed [here.](https://www.codemag.com/magazine/allissues)
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
