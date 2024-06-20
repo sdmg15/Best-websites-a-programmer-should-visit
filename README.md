@@ -49,6 +49,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#open-source-websites">Open Source Websites</a></li>
 <li><a href="#internships">Internships</a></li>
 <li><a href="#jobs">Jobs</a></li>
+<li><a href="#algorithms-and-data-structures">Algorithms and Data Structures</a></li>
 </ul>
 
 ## When you get stuck
@@ -955,6 +956,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## algorithms-and-data-structures
+- [TheAlgorithms](https://github.com/TheAlgorithms) : Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
