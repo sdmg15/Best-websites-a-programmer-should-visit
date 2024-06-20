@@ -960,6 +960,18 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Resources and Developers Community in Africa
+- [Google Developer Group (GDG)](https://developers.google.com/community/gdg) : Meet other local developers and those interested in developer technologies. All are welcome, including those with diverse backgrounds and those from a variety of companies and industries.. 
+- [She Code Africa](https://www.shecodeafrica.org/) :  A non-profit organization
+focused on celebrating and
+empowering young Girls and Women
+in Technology across Africa.
+- [OSCAfrica](https://www.oscafrica.org/) :  A diverse community of open source lovers, collaborating on different projects to make a difference across Africa.
+- [forloop](https://twitter.com/forloopafrica?lang=en) : Community of software developers and enthusiasts, building Africa's Tech ecosystem. 
+- [DevCareer](https://devcareer.io/) : DevCareer is a Non-Profit organization that's focused on supporting upcoming developers with resources to excel into World Class.
+Underdeveloped African countries are lacking when it comes to adequate resources to dive into Tech. DevCareer is focused on supporting these group of people.
+
+
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
 - A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
