@@ -499,6 +499,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## YouTube Channels
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/videos) : python and react.js tutorials
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
@@ -519,6 +520,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of the world's best technical writers.
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/videos) : python javascript csharp programming
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : blogs and tutorials developer making a 3d game in Java using OpenGL
