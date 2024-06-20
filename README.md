@@ -853,12 +853,13 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## For improving your English
+- [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
+- [DuoLingo](https://www.duolingo.com) : The best app to learn any language for beginners, and perfect for improving writing and reading for intermediate learners.
 - [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 - [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) : for those who want to improve their English language skills
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
-- [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
