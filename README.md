@@ -395,6 +395,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Sites related to your preferred programming language (For me C++)
+
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
@@ -402,6 +403,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
+- [Google Codelabs](https://codelabs.developers.google.com) : Hand-crafted android tutorials by Google
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
 - [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
