@@ -52,6 +52,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </ul>
 
 ## When you get stuck
+- [30 Seconds of Code](https://www.30secondsofcode.org/) : This website provides short code snippets for all your development needs. You can search by name, tag, language or using a snippet's description.
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
