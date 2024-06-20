@@ -722,6 +722,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
+- [DevPost Hackathons](https://devpost.com/) : Various hackathon challenges for learning and prizes
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
 - [Google Coding Competitions Archive](https://zibada.guru/gcj/) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
@@ -741,6 +742,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Computer Books
+- [Automate the Boring stuff with Python](https://automatetheboringstuff.com/) : Free online book, or for purchase online.
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
