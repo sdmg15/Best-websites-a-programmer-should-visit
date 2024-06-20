@@ -281,6 +281,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Airborn OS](https://www.airborn.io) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
+- [Sed One Liners](https://edoras.sdsu.edu/doc/sed-oneliners.html) : A Collection of handy one liners for sed
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
