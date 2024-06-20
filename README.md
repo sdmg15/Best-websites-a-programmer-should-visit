@@ -57,6 +57,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
+- [Reddit](https://www.redditinc.com) : Dive Into Anything.
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
@@ -76,6 +77,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
+- [Gizmodo](https://gizmodo.com) : Tech. Science. Culture.
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
@@ -105,6 +107,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+- [WeAreDevelopers](https://www.wearedevelopers.com/magazine) : Stay up-to-date. Expand your knowledge about all things code and career with our blog.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -229,6 +232,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
+- [Code Avengers](https://www.codeavengers.com) : Learn. Teach. Upskill. A better way to build websites, apps, games and more.
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
