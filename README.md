@@ -505,6 +505,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
+- [CS Dojo](https://www.youtube.com/c/CSDojo) : Tutorials and playlist on DSA concepts, Python for beginners, Coding interview questions and many other topics covered.
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 - [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : videos on trending topics and cool stuff happening in the tech industry.
@@ -960,6 +961,16 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Contributing
+
+Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for information about how to get involved. We welcome issues, questions, and pull requests. 
+
+## All Thanks To Our Contributors
+<a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sdmg15/Best-websites-a-programmer-should-visit" />
+</a>
+
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
 - A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
+
