@@ -389,6 +389,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Pluralsight](https://www.pluralsight.com) : An online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
+- [Boot.dev](https://www.boot.dev/) : Interactive online course to learn modern backend programming in Python, Javascript, Go, and more.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
