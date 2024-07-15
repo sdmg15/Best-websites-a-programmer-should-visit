@@ -15,7 +15,7 @@ Bilgisayar bilimi öğrenirken, teknolojilerinizi daha iyi yapmak ve yeni şeyle
 
 ## İçindekiler
 <ul>
-<li><a href="#when-you-get-stuck">Sıkıştığınızda</a></li>
+<li><a href="#when-you-get-stuck">İşin İçinden Çıkamadığınızda</a></li>
 <li><a href="#news">Haberler</a></li>
 <li><a href="#magazines">Dergiler</a></li>
 <li><a href="#coding-practice-for-beginners">Başlangıç için Kodlama Pratiği</a></li>
@@ -36,22 +36,22 @@ Bilgisayar bilimi öğrenirken, teknolojilerinizi daha iyi yapmak ve yeni şeyle
 <li><a href="#bash-and-shell-scripting">Bash ve Kabuk Betikleri</a></li>
 <li><a href="#podcasts">Podcastler</a></li>
 <li><a href="#building-a-simple-compilerinterpreter">Basit Bir Derleyici/Yorumlayıcı Oluşturma</a></li>
-<li><a href="#watch-others-code">Başkalarının Kodlarını İzleme</a></li>
+<li><a href="#watch-others-code">Başkalarının Kodlarını Görüntüleme</a></li>
 <li><a href="#tutorials">Öğreticiler</a></li>
 <li><a href="#what-should-a-programmer-know">Bir Programcının Bilmesi Gerekenler</a></li>
-<li><a href="#competitive-programming">Rekabetçi Programlama</a></li>
-<li><a href="#computer-books">Bilgisayar Kitapları</a></li>
+<li><a href="#competitive-programming">Programlama Yarışmaları</a></li>
+<li><a href="#computer-books">Bilgisayar Bilimi Kitapları</a></li>
 <li><a href="#video-tutorials">Video Öğreticiler</a></li>
 <li><a href="#online-compiler-and-sharing-code-snippets">Çevrimiçi Derleyici ve Kod Paylaşımı</a></li>
 <li><a href="#blogs-of-developers">Geliştiricilerin Blogları</a></li>
-<li><a href="#for-improving-your-english">İngilizcenizi İyileştirmek İçin</a></li>
+<li><a href="#for-improving-your-english">İngilizcenizi Geliştirmek İçin</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">Bilgisayar bilimi ile ilgili şeylerden sıkıldığınızda</a></li>
 <li><a href="#open-source-websites">Açık Kaynak Web Siteleri</a></li>
 <li><a href="#internships">Stajlar</a></li>
 <li><a href="#jobs">İş İlanları</a></li>
 </ul>
 
-## Sıkıştığınızda
+## İşin İçinden Çıkamadığınızda
 - [Codementor](https://www.codementor.io) : Canlı 1:1 yardım ve daha fazlası aracılığıyla diğer geliştiricilerden öğrenme topluluğu.
 - [devRant](https://www.devrant.io) : Topluluk, stres atabileceğiniz ve serbest bırakabileceğiniz bir yer.
 - [Google](https://www.google.com) : Herhangi bir konuda arama motoru.
