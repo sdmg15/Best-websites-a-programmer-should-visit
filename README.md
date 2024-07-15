@@ -571,7 +571,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
-- [What every programmer should know about memory - PDF](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- [What every programmer should know about memory - PDF](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : How I got to 200 productive hours a month
 - [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : Parallel processing with Unix tools
 - [Learning Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : What I Wish I Knew
