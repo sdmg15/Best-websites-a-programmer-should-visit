@@ -11,8 +11,6 @@ Programcılar için bazı faydalı web siteleri.
 
 Bilgisayar bilimi öğrenirken, teknolojilerinizi daha iyi yapmak ve yeni şeyler öğrenmek için sürekli bilgilenmeniz gereken bazı siteler vardır. İşte ziyaret etmeniz gereken bazı sitelerin kapsamlı olmayan bir listesi. Bu liste, başka bir bağlantı ekleyebildiğim zaman güncellenecek, ancak siz de bildiğiniz siteleri ekleyerek katkıda bulunabilirsiniz :wink:
 
-**Not** : [Çince Versiyonu](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-
 ## İçindekiler
 <ul>
 <li><a href="#when-you-get-stuck">İşin İçinden Çıkamadığınızda</a></li>
