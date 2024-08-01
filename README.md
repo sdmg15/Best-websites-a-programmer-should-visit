@@ -569,7 +569,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : Some good books and links in there.
 - [Code a TCP/IP stack](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : Let's code a TCP/IP stack, 5: TCP Retransmission
 - [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : The language of choice
-- [CRUD operations using Node.js and Express.js](https://medium.com/@jenilgajjar/crud-operation-using-node-js-and-express-js-a0d63a2216aa) : In this article, you will learn how to setup a project and the CRUD operations.
+- [CRUD operations using Node.js and Express.js](https://medium.com/@jenilgajjar/crud-operation-using-node-js-and-express-js-a0d63a2216aa): In this article, you will learn how to setup a project and the CRUD operations.
 - [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algorithms and data structures with their solutions.
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
