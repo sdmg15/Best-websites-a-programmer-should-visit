@@ -663,6 +663,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
+- [Prompt engineering](https://www.promptingguide.ai/) : Prompting Guide AI is an online resource that helps users learn and craft effective prompts for AI models to generate better and more relevant outputs.
 - [Stanford Programming Course](https://see.stanford.edu/Course/CS106A) : Full, free CS course created by Stanford
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle/Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
