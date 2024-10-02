@@ -966,6 +966,8 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Cyber Security & CFT(Capture The Flag Challenges) Websites
+- [HackTheBOX](https://www.hackthebox.com/)
+- [picoCTF](https://picoctf.org/) : Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, etc. The challenges are all set up with the intent of being hacked, making it an excellent, legal way to get hands-on experience.
 - [pwn.college](https://pwn.college/) : pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 
 <div align="right">
