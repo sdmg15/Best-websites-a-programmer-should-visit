@@ -965,12 +965,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Cyber Security & CFT(Capture The Flag Challanges) Websites
-- [pwn.college](https://pwn.college/) : pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
 
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
