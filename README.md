@@ -323,6 +323,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregate of links related to internships.
 - [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
+- [Interview Bit](https://www.interviewbit.com/practice/) : Interview Preparation,Guides,Mock tests,Community support and much more. 
 - [Interview Cake](https://www.interviewcake.com/) : Free and Paid course options offering high quality technical interview practice. 
 - [Job Interview: How to Ace a Job Interview/The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/search?s=job%20interviews/)
