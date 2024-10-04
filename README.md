@@ -405,6 +405,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
 - [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
+
+- [C Programming For Beginners - Master the C Language](https://www.udemy.com/share/101Wn23@Qb6lOqwfCk8JrEHNSIDqb12DccBzKkeaX4r05wR5r9vee1eHvBHj8jsQSEHQa7bunQ==/) : Learning C. Pointers explained
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
