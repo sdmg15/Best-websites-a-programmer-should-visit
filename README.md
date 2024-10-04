@@ -302,6 +302,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
+- [Coderbytes](https://coderbyte.com/) : A platform for coding challenges and interview prep.
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [Core Java Interview Questions](https://www.javatpoint.com/corejava-interview-questions)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
@@ -329,7 +330,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/search?s=job%20interviews/)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
-- [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
+- [LeetCode](https://leetcode.com/) : A new way to learn. Here you can prepare for your interview.
 - [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
 - [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
 - [NeetCode](https://neetcode.io): Prepare topic wise coding questions which are most frequently asked in MAANG companies. 
