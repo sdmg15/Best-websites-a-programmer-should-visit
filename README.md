@@ -815,6 +815,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Blogs of Developers
+- [Dan Abramov](https://overreacted.io/) : React internals + Javascript mental models with in depth explanations.
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms, etc
 - [Amit Merchant](https://www.amitmerchant.com) : Tutorials, tips & tricks, and rants about programming and design.
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
