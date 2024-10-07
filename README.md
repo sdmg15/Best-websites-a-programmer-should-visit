@@ -934,7 +934,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Jobs
-- [AngelList](https://angel.co/) : AngelList is a 
+- [Wellfound](https://wellfound.com/) : Wellfound (formerly known as Angellist) is a 
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
