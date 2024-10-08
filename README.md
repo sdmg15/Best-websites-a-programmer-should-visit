@@ -799,6 +799,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Github Codespaces](https://github.com/codespaces) : Integrated cloud-based IDE directly to your browser.
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
+- [Go Playground](https://go.dev/play/): Online Go Playground.
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allows you to share those snippets that will break inside an iframe.
@@ -809,7 +810,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [StackBlitz](https://stackblitz.com/) : Instant Dev environments with support of nodejs and npm packages.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 - [PHPize.online](https://phpize.online/): Online PHP compiler with SQL support.
-- [Go Playground](https://go.dev/play/): Online Go Playground.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
