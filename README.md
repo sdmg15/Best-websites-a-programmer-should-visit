@@ -892,6 +892,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
+## Front-end & UI Design useful resources
+- [UI-Patterns.com](http://ui-patterns.com/) : A collection of UI patterns
+- [Material Design](https://material.io/guidelines/) : Material Design Guidelines
+- [The Ultimate Collection of Google Font Pairings)](https://www.reliablepsd.com/ultimate-google-font-pairings/) : A collection of best Google Fonts
+- [BrandColors - official brand color hex codes](https://brandcolors.net/) : Official brand color hex codes
+- [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/) : A tool to check the contrast between two colors
+- [Color Safe - accessible web color combinations](http://colorsafe.co/): A tool to find accessible web color combinations 
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
