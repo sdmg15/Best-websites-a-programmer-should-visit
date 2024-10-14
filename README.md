@@ -21,31 +21,31 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#-coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#-cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#-for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#-general-coding-advice">General Coding advice</a></li>
+<li><a href="#%EF%B8%8F-general-coding-advice">General Coding advice</a></li>
 <li><a href="#-coding-style">Coding Style</a></li>
-<li><a href="#-general-tools">General Tools</a></li>
+<li><a href="#%EF%B8%8F-general-tools">General Tools</a></li>
+<li><a href="#-bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#-interview-preparation">Interview Preparation</a></li>
 <li><a href="#-documentaries">Documentaries</a></li>
 <li><a href="#-moocs-for-learning-something-new">MOOCs for learning something new</a></li>
 <li><a href="#-sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#-learn-ai">Artificial Intelligence And Machine Learning</a></li>
+<li><a href="#-artificial-intelligence-and-machine-learning">Artificial Intelligence And Machine Learning</a></li>
 <li><a href="#-seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
 <li><a href="#-everything-in-one-place">Everything in one place</a></li>
 <li><a href="#-youtube-channels">YouTube Channels</a></li>
-<li><a href="#-good-articles">Good Articles</a></li>
-<li><a href="#-bash-and-shell-scripting">Bash and Shell scripting</a></li>
+<li><a href="#%EF%B8%8F-good-articles">Good Articles</a></li>
 <li><a href="#-podcasts">Podcasts</a></li>
 <li><a href="#-building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#-watch-others-code">Watch others code</a></li>
 <li><a href="#-tutorials">Tutorials</a></li>
+<li><a href="#-watch-others-code">Watch others code</a></li>
 <li><a href="#-what-should-a-programmer-know">What should a programmer know</a></li>
-<li><a href="#-competitive-programming">Competitive programming</a></li>
+<li><a href="#%EF%B8%8F-competitive-programming">Competitive programming</a></li>
 <li><a href="#-computer-books">Computer Books</a></li>
 <li><a href="#-video-tutorials">Video Tutorials</a></li>
 <li><a href="#-online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
 <li><a href="#-blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#-for-improving-your-english">For improving your English</a></li>
-<li><a href="#-when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
+<li><a href="#%EF%B8%8F-for-improving-your-english">For improving your English</a></li>
+<li><a href="#%EF%B8%8F-when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
 <li><a href="#-open-source-websites">Open Source Websites</a></li>
 <li><a href="#-internships">Internships</a></li>
 <li><a href="#-jobs">Jobs</a></li>
@@ -440,7 +440,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
-## 🤖 Learn AI
+## 🤖 Artificial Intelligence And Machine Learning
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
@@ -716,7 +716,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
-## ⚔️  Competitive programming
+## ⚔️ Competitive programming
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Advent of Code](https://adventofcode.com) : An Advent calendar of small programming puzzles
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
