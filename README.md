@@ -466,11 +466,12 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 📢 Seminar, research writing, talks, etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
+- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
+- [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
+- [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
+- [Papers with Code](https://paperswithcode.com) : A resource for finding research papers in machine learning, along with the code implementations.
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
-- [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
-- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
-- [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
