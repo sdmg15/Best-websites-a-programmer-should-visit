@@ -293,6 +293,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 🎤 Interview Preparation
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+- [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 - [A Developer's Guide to Working with Recruiters](https://andreidobrinski.com/blog/a-developers-guide-to-working-with-recruiters/)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
