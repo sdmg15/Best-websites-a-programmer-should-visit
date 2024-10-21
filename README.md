@@ -269,6 +269,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
+- [Uiverse](https://uiverse.io/) : For UI/UX ideas
 
 
 <div align="right">
@@ -507,6 +508,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 📺 YouTube Channels
+- [Abdul Bari](https://www.youtube.com/@abdul_bari) :For students to learn basic concepts
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
