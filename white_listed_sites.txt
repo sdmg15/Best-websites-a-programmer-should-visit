@@ -29,4 +29,3 @@ www.quora.com
 www.techotopia.com
 www.topcoder.com
 https://uiverse.io/ : For UI/UX
-https://stackoverflow.com/ : Almost like quora to clear doubts.
