@@ -525,6 +525,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/) : MIT OpenCourseWare for learning in-depth algorithms, data structures, and computer engineering
 - [Murtaza's OpenCV Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/): OpenCV, Self Driving, Robotics and AI tutorials.
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
+- [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ) : Concepts of Network Fundamentals and Ethical Hacking simplified.
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : interviews and talks of the world's best technical writers.
 - [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : Interview and campus placement experience
 - [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
