@@ -240,6 +240,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Imgur](https://imgur.com/) : Online image sharing and image hosting service.
 - [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
 - [Pyrexp](https://pythonium.net/regex) : Online regex tester and visualizer for Python.
+- [readme.so](https://readme.so) : An online editor that helps developers create and customize README files for their projects.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
