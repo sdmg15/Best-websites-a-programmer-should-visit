@@ -361,7 +361,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-#hackathons
+
 
 # Popular Hackathons and Coding Competitions
 
