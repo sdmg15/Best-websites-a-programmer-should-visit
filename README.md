@@ -361,6 +361,39 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+#hackathons
+
+# Popular Hackathons and Coding Competitions
+
+1. **HackMIT**: [hackmit.org](https://hackmit.org)
+2. **NASA Space Apps Challenge**: [spaceappschallenge.org](https://www.spaceappschallenge.org)
+3. **Google CodeJam**: [codingcompetitions.withgoogle.com/codejam](https://codingcompetitions.withgoogle.com/codejam)
+4. **Facebook Hackathon (Meta)**: [meta.com/careers](https://www.meta.com/careers) (specific events may vary)
+5. **TechCrunch Disrupt Hackathon**: [techcrunch.com/events/disrupt](https://techcrunch.com/events/disrupt)
+6. **Microsoft Imagine Cup**: [imaginecup.microsoft.com](https://imaginecup.microsoft.com)
+7. **Junction**: [junction.io](https://junction.io)
+8. **ETHDenver**: [ethdenver.com](https://ethdenver.com)
+9. **TreeHacks (Stanford)**: [treehacks.org](https://treehacks.org)
+10. **HackZurich**: [hackzurich.com](https://hackzurich.com)
+11. **Major League Hacking (MLH)**: [mlh.io](https://mlh.io)
+12. **Hack the North**: [hackthenorth.com](https://hackthenorth.com)
+13. **NYC BigApps**: [bigapps.nyc](https://bigapps.nyc)
+14. **Hello World Open**: [helloworldopen.com](http://helloworldopen.com) (check for updates as this may vary)
+15. **TechGig Code Gladiators**: [techgig.com/codegladiators](https://www.techgig.com/codegladiators)
+16. **BattleHack (PayPal)**: [paypal.com/battlehack](https://www.paypal.com/battlehack) (specific events may vary)
+17. **AngelHack**: [angelhack.com](https://angelhack.com)
+18. **TAMUHack (Texas A&M)**: [tamuhack.com](https://tamuhack.com)
+19. **Kickstart (by Google)**: [codingcompetitions.withgoogle.com/kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+20. **Codeforces Global Rounds**: [codeforces.com](https://codeforces.com)
+21. **ICPC (International Collegiate Programming Contest)**: [icpc.global](https://icpc.global)
+22. **TopCoder Open (TCO)**: [topcoder.com/community/competitive-programming/tco](https://www.topcoder.com/community/competitive-programming/tco)
+23. **LeetCode Weekly Contest**: [leetcode.com/contest](https://leetcode.com/contest)
+24. **Reply Code Challenge**: [replycodechallenge.com](http://replycodechallenge.com) (check for updates as this may vary)
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## 🎬 Documentaries
 - [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
