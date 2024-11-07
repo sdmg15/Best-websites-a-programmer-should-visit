@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>咨询服务网站</title>
+    <style>
+        /* 基础样式 */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333333;
+        }
+
+        /* 页面标题 */
+        header {
+            background-color: #333333;
+            color: #ffffff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        /* 导航样式 */
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            background-color: #222222;
+            padding: 0.5em;
+        }
+
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 0.5em 1em;
+        }
+
+        nav a:hover {
+            background-color: #444444;
+            border-radius: 5px;
+        }
+
+        /* 主体样式 */
+        .content {
+            max-width: 800px;
+            margin: auto;
+            padding: 2em;
+            display: none;
+        }
+
+        /* 当前页显示 */
+        .content.active {
+            display: block;
+        }
+
+        /* 按钮样式 */
+        .btn {
+            background-color: #333333;
+            color: #ffffff;
+            padding: 0.5em 1em;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .btn:hover {
+            background-color: #555555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>咨询服务网站</h1>
+</header>
+
+<nav>
+    <a href="#" onclick="showPage('home')">首页</a>
+    <a href="#" onclick="showPage('about')">关于我们</a>
+    <a href="#" onclick="showPage('services')">服务项目</a>
+    <a href="#" onclick="showPage('contact')">联系我们</a>
+</nav>
+
+<div id="home" class="content active">
+    <h2>欢迎来到我们的咨询服务网站</h2>
+    <p>我们提供专业的咨询服务，帮助您解决各类问题。</p>
+    <button class="btn" onclick="alert('感谢您的访问！')">点击获取更多信息</button>
+</div>
+
+<div id="about" class="content">
+    <h2>关于我们</h2>
+    <p>我们是一支由经验丰富的咨询师组成的团队，致力于为客户提供优质的服务。</p>
+</div>
+
+<div id="services" class="content">
+    <h2>服务项目</h2>
+    <ul>
+        <li>个人咨询</li>
+        <li>企业咨询</li>
+        <li>财务咨询</li>
+        <li>法律咨询</li>
+    </ul>
+</div>
+
+<div id="contact" class="content">
+    <h2>联系我们</h2>
+    <form onsubmit="submitForm(event)">
+        <label for="name">姓名：</label>
+        <input type="text" id="name" required><br><br>
+        <label for="message">留言：</label>
+        <textarea id="message" required></textarea><br><br>
+        <button type="submit" class="btn">发送</button>
+    </form>
+</div>
+
+<script>
+    // 页面切换函数
+    function showPage(pageId) {
+        const pages = document.querySelectorAll('.content');
+        pages.forEach(page => {
+            page.classList.remove('active');
+            if (page.id === pageId) {
+                page.classList.add('active');
+            }
+        });
+    }
+
+    // 表单提交函数
+    function submitForm(event) {
+        event.preventDefault();
+        const name = document.getElementById('name').value;
+        const message = document.getElementById('message').value;
+        alert(`感谢您的留言，${name}！\n我们会尽快回复您：\n${message}`);
+    }
+</script>
+
+</body>
+</html>
