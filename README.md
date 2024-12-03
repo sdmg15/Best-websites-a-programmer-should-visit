@@ -230,6 +230,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🛠️ General Tools
+- [Cobalt](https://cobalt.tools) : A tool for downloading video from virtually any social media service without ads and tracking 
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
@@ -237,7 +238,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
 - [Hotkey Cheatsheet](https://hotkeycheatsheet.com) : A comprehensive hotkey cheatsheet for popular software and applications
-- [Cobalt](https://cobalt.tools) : A tool for downloading video from virtually any social media service without ads and tracking 
 - [Imgur](https://imgur.com/) : Online image sharing and image hosting service.
 - [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
 - [Pyrexp](https://pythonium.net/regex) : Online regex tester and visualizer for Python.
