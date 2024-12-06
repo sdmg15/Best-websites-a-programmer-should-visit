@@ -230,6 +230,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🛠️ General Tools
+- [Cobalt](https://cobalt.tools) : A tool for downloading video from virtually any social media service without ads and tracking 
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
