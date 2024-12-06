@@ -269,6 +269,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
+- [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
 
 
 <div align="right">
