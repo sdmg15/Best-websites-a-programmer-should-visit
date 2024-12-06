@@ -4,7 +4,7 @@
     <br>
 </h1>
 
-[![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
+[![Build Status](https://cdn.travis-ci.com/images/favicon-076a22660830dc325cc8ed70e7146a59.png)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
