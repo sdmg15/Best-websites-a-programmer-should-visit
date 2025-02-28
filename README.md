@@ -363,22 +363,30 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## 🎬 Documentaries
-- [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
-- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
-- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
-- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
-- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
-- Machine that Changed the World - a very good documentary about the history of computers
-  - Part 1 is unavailable for free streaming due to widespread copyright claims.
-  - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
-  - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
-  - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
-  - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
-- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
-- [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
-- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
-- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+## 🎬 **Documentaries**
+
+📌 **[Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/)** – Biography of **Alan Turing** 🏆💡  
+📌 **[Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)** – Guide to mastering **coding interviews** 🖥️💼  
+📌 **[Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo)** – Fullstack **Speaker Series** 🎤📚  
+📌 **[Harvard CS50 - Asymptotic Notation](https://www.youtube.com/watch?v=iOq5kSKqeR4)** – Explained by **Harvard University** 🎓📈  
+📌 **[Machine Code Instructions](https://www.youtube.com/watch?v=Mv2XQgpbTNE)** – Understanding **code instructions** ⚙️💾  
+
+### 🏛️ **The Machine that Changed the World**
+A fascinating documentary on **the history of computers** 🖥️📖  
+🔹 **Part 1** – *Unavailable due to copyright claims* ❌  
+🔹 **[Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)** 🌍🚀  
+🔹 **[Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)** 📖💡  
+🔹 **[Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)** 🧠🤖  
+🔹 **[Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)** 🌎🖱️  
+
+📌 **[Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4)** – A **1950s documentary** on how **mechanical computers** worked ⚙️⏳  
+📌 **[Teach Yourself Computer Science](https://teachyourselfcs.com)** – **Self-paced** guide to **learning CS fundamentals** 🏫📖  
+📌 **[The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI)** – The story of **Linux** and **open-source software** 🐧💻  
+📌 **[The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ)** – The inspiring story of **Aaron Swartz** 🌐💡  
+
+🎥 **Enjoy watching and learning from these amazing documentaries!** 🎬✨
+
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -403,41 +411,44 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## 🧑‍💻 Sites related to your preferred programming language (For me C++)
-- [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
-- [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
-- [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
-- [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
-- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
-- [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
-- [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
-- [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
-- [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
-- [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
-- [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
-- [Java Lecture Notes](http://www.cafeaulait.org/course/) : Java Student's Resource
-- [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
-- [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
-- [Java-source](http://www.java-source.net) : Java source
-- [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
-- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
-- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
-- [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
-- [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
-- [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
-- [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
-- [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
-- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
-- [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
-- [what-is-garbage-collection](https://downloads.plumbr.io/Plumbr%20Handbook%20Java%20Garbage%20Collection.pdf) : Demystify the garbage collection
-- [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
-- [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
-- [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
+## 🧑‍💻 **Sites Related to Your Preferred Programming Language (For Me C++)**
 
-- [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
+📖 **[Best Books for Learning Java Must Read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html)** – Get the **basics of Java** 📚☕  
+💡 **[Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html)** – The **C++ FAQ** 🔍🎯  
+📜 **[Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)** – Everything about **C++** from the creator himself! 👨‍💻  
+🔢 **[C++11 - The New ISO C++ Standard](http://www.stroustrup.com/C++11FAQ.html)** – A complete **C++11 FAQ** 📑✨  
+🎥 **[Compilers (Video Series)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)** – Learn how **compilers** work 🛠️🔍  
+♻️ **[Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits)** – Why **Garbage Collection** is good! ♻️🖥️  
+📚 **[Free Online Chapters of Inside the Java Virtual Machine](http://www.artima.com/insidejvm/ed2/index.html)** – Learn **JVM internals** 🔥  
+🧠 **[How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/)** – Understand **Java memory management** 🏗️  
+📂 **[Implementation of Algorithms & Data Structures (GitHub)](https://github.com/sherxon/AlgoDS)** – Essential **DSA & Interview Prep** 💻📈  
+⚡ **[IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html)** – Boost your **productivity in IntelliJ** ⌨️🚀  
+☕ **[Java Corner at Artima.com](http://www.artima.com/java/index.html)** – The best place for **Java enthusiasts** 🔍🎯  
+📝 **[Java Lecture Notes](http://www.cafeaulait.org/course/)** – A **student’s guide** to Java 📖  
+💾 **[Java Off Heap](http://www.javaoffheap.com)** – Exploring **off-heap memory in Java** 🖥️  
+🔍 **[Java Revisited](http://javarevisited.blogspot.com)** – Best for **Java interview preparation** 🏆  
+🛠️ **[Java Source](http://www.java-source.net)** – Java **code and libraries** 🔗  
+🖥️ **[Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/)** – Helps visualize **references & variables** 🔍  
+📰 **[JournalDev](https://www.journaldev.com)** – Tutorials on **Java, Java EE, Android, Web Dev** 📚  
+📖 **[Learning Java (Free Online Book)](http://chimera.labs.oreilly.com/books/1234000001805/index.html)** – Learn Java **from scratch** 💡  
+⌨️ **[NetBeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)** – Work **faster with NetBeans** ⚡  
+📑 **[Official Qt Documentation](https://doc.qt.io/)** – Learn about **Qt frameworks & tools** 📜  
+🔎 **[Search Open Source Java API](http://www.docjar.com)** – View **Java library source code** 🧐  
+📖 **[The C++ Programming Language](http://www.stroustrup.com/C++.html)** – Learn **C++ from the master** 👨‍🏫  
+🧠 **[The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)** – Understanding **Java concurrency** 🏗️  
+📘 **[The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)** – Best **official Java tutorials** 🏆  
+🔬 **[Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals)** – Deep dive into **JVM architecture** 🛠️  
+📖 **[What is Garbage Collection?](https://downloads.plumbr.io/Plumbr%20Handbook%20Java%20Garbage%20Collection.pdf)** – Learn **Java GC in-depth** ♻️  
+🌍 **[JavaWorld](https://www.javaworld.com)** – Stay updated with **Java news & trends** 📰  
+📚 **[JavatPoint](https://www.javatpoint.com/java-tutorial)** – The best place to **start learning Java** 🚀  
+🐍 **[Getting Started with Python](https://riptutorial.com/ebook/python)** – A-Z **Python programming guide** 📜  
+🦀 **[The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html)** – Learn **Rust from scratch** 🦀🔍  
+📘 **[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust)** – Overview of **Rust’s ecosystem** 📜  
+🛠️ **[Rust by Example](https://doc.rust-lang.org/rust-by-example/)** – Hands-on **Rust learning experience** 🔥  
 
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
+🎯 **Explore, Learn, and Code like a Pro!** 🚀💻
+
+
 
 
 <div align="right">
