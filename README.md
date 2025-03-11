@@ -130,6 +130,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [Codecademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [Codegym](https://codegym.cc/) : It contains a Java tutorial with 1200 Java practise tasks.
+- [Code Eval](https://www.codeeval.dev/) : Fast programmer's notepad,a better way to manage and edit gists,a coding playground.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
 - [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
