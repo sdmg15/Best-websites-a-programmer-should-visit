@@ -230,6 +230,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🛠️ General Tools
+- [Cobalt](https://cobalt.tools) : A tool for downloading video from virtually any social media service without ads and tracking 
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [CORS-Tester](https://cors-error.dev/cors-tester/) : A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps
