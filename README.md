@@ -556,6 +556,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS): A special channel that discusses internet technology and web development.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -588,6 +589,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
+- [Laravel Debugbar Vulnerabilities Scan and Exploit Tutorial](https://www.nakanosec.com/2022/09/tutorial-scan-dan-exploit-kerentanan.html)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
