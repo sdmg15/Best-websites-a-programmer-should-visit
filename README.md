@@ -74,6 +74,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CNET](https://www.cnet.com/news/) : Your guide to a better future! An excellent source of up-to-date tech news.
 - [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
 - [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
+- [Frontend Dogma](https://frontenddogma.com/) : news, tools, and books for frontend developers
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
