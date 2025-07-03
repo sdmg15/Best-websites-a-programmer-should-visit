@@ -233,6 +233,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [CORS-Tester](https://cors-error.dev/cors-tester/) : A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps
+- [Claude](https://claude.ai) : AI assistant by Anthropic for conversations, analysis, and coding help
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
