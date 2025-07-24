@@ -447,6 +447,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🤖 Learn AI
+- [AI For Developers](https://aifordevelopers.org) : A curated list of AI agents, SDKs, coding copilots, and dev-first tools.
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
