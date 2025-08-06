@@ -943,6 +943,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Wellfound](https://wellfound.com/) : Wellfound (formerly known as Angellist) is a 
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
+- [Arc](https://arc.dev/) : Radically different remote job search where companies apply to you.
 - [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
 - [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.
