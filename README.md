@@ -784,6 +784,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
+- [Udemy](https://www.udemy.com/) : A huge collection of video courses of all types of content.
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
