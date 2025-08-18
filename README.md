@@ -515,6 +515,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : for those who like to know how we reached where we are.
+- [CodeBeauty](https://www.youtube.com/@CodeBeauty/about) : Guided by Saldina Nurak, software engineer with 10+ years of experience, this amazing YouTube channel covers various spaces of computer science and programming.
 - [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ Conference
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
