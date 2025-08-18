@@ -456,6 +456,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 - [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
 - [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of Coursera
+- [DataCamp](https://www.datacamp.com/) : Perfect place for beginners to start with R, Python and Data Science
 - [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
