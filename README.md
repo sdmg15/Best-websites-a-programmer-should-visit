@@ -267,6 +267,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [Online Compilers](https://www.interviewbit.com/online-c-compiler/): Practice and execute programs with this online compiler.
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
@@ -359,6 +360,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 -[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
+-[Complete Technical Interview Guide](https://www.interviewbit.com/technical-interview-questions/): The Ultimate Guide to Acing Your Technical Interview.
 
 
 <div align="right">
@@ -697,7 +699,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
-- [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial.
+- [Data Structures and Algorithms](https://www.interviewbit.com/courses/programming/): Complete Guide to Learning DSA with practice problems.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -859,7 +862,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
-- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials.
+- [InterviewBit-Computer Science Guide](https://www.interviewbit.com/blog/): A good resource for Tech Interview Preparation.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
