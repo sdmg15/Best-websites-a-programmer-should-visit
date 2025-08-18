@@ -777,6 +777,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+- [Fireship](https://www.youtube.com/c/Fireship): High-intensity ⚡ code tutorials to help you build & ship your app faster
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics) : An amazing guide to Git and GitHub for beginners
