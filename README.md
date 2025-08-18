@@ -185,6 +185,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
 - [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
+- [Learn by Doing: The 8 Best Interactive Coding Websites](https://medium.com/coderbyte/learn-by-doing-the-8-best-interactive-coding-websites-4c902915287c) : learn by solving challenges or building projects online.
 - [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [MITRE - Top 25 Most Dangerous Software Weaknesses (2022)](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html) : The currently most common and impactful software weaknesses.
