@@ -557,6 +557,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [CodeBullet](https://www.youtube.com/c/CodeBullet) : Not the most serious youtuber, but sill intersting to understand AI, shows the process of learning
+- [Computerphile](https://www.youtube.com/user/Computerphile) : Computer related stuff, lots of subjects
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
