@@ -359,6 +359,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 -[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) : A complete computer science study plan to become a software engineer.
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) : A long list of (advanced) JavaScript questions, and their explanations.
+- [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) : A curated list of interview questions for all programming languages and tech stacks.
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) : Curated coding interview preparation materials for busy software engineers.
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) : Front end interview preparation materials - trivias, coding, algorithms, front end system design and more.
 
 
 <div align="right">
@@ -620,6 +625,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [PodRocket](https://podrocket.logrocket.com/) : A web development podcast from LogRocket, covering everything you need to know about frontend web development.
+- [The Vanilla JavaScript Podcast](https://vanillajspodcast.com/) : A web development podcast from LogRocket, covering everything you need to know about frontend web development.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
