@@ -855,6 +855,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
+- [Stack Diary](https://stackdiary.com/) : Web dev blogs with a focus on front-end
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
