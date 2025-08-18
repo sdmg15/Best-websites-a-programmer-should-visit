@@ -381,6 +381,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
 - [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [AlphaGo: The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&feature=youtu.be) : A documentary on DeepMind's AI AlphaGo player.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
