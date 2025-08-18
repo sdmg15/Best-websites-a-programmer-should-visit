@@ -663,6 +663,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [Learning the shell.](http://linuxcommand.org)
+- [Learn C#](https://codeasy.net/)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [Missing Semester](https://missing.csail.mit.edu/) : The missing semester of your computer science education
