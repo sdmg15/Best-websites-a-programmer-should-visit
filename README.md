@@ -502,6 +502,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LottieFiles](https://lottiefiles.com/) : The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
 - [UI Design Daily](https://www.uidesigndaily.com/) :Weekly FREE UI resources straight to your inbox
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
+- [StreamLineHQ](https://www.streamlinehq.com/) : 100,000 icons, illustrations and emoji for all your projects.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
 
