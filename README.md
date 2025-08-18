@@ -778,6 +778,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
+- [Frontend Masters](https://frontendmasters.com/teachers/kyle-simpson/) : Series of courses on Javascript from renowed developer Kyle Simpson
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics) : An amazing guide to Git and GitHub for beginners
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
