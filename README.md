@@ -955,6 +955,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Instahyre](https://www.instahyre.com) : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.
 - [JobsCollider](https://jobscollider.com/remote-jobs) : Tens of thousands of remote jobs from over 10,000 companies and startups worldwide.
 - [Mentat](https://thementat.com) : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.
+- [Monster](https://www.monsterindia.com) : Monster is a global online employment solution for people seeking jobs and the employers who need great people. It provides relevant profiles to employers and relevant jobs to jobseekers across industry verticals, experience levels and geographies.
 - [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
