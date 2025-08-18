@@ -448,6 +448,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 🤖 Learn AI
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) : The most highly cited paper of the last five years. The paper aims to improve the accuracy of image recognition models.
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
 - [Robots that learn](https://openai.com/research/robots-that-learn) : Robots that Learn
