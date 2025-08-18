@@ -698,6 +698,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [ZetCode](https://zetcode.com/) : ZetCode provides accessible tutorials for C#, Python, Java, JavaScript, and Go programming languages.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
