@@ -665,6 +665,13 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Learn Python Programming](https://www.scaler.com/topics/python/) : Basic to advanced Python Tutorial for programmers.
+- [Learn Java Programming](https://www.scaler.com/topics/java/) : Learn Java programming with step-by-step guide along with applications and example programs.
+- [Learn Data Structures and Algorithms](https://www.scaler.com/topics/data-structures/) : Learn data structures and algorithms easily from beginner to advanced level.
+- [Learn DBMS](https://www.scaler.com/topics/dbms/) : Basic to advanced DBMS tutorial for programmers.
+- [Learn SQL](https://www.scaler.com/topics/sql/) :  Learn SQL with step-by-step guide along with applications and example programs.
+- [Learn Data Science](https://www.scaler.com/topics/data-science/) : Learn basic to advanced concepts of Data Science.
+- [Learn Machine Learning](https://www.scaler.com/topics/machine-learning/) : Understand how Machine Learning focuses on using data and algorithms to simulate how humans learn, gradually increasing the accuracy of the system.
 - [Missing Semester](https://missing.csail.mit.edu/) : The missing semester of your computer science education
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
