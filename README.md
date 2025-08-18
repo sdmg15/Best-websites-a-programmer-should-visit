@@ -307,6 +307,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
+- [Coding Interview](https://codinginterview.com) : Prepare for interviews.
 - [Code Project](https://www.codeproject.com) : For those who code!
 - [Coderbytes](https://coderbyte.com/) : A platform for coding challenges and interview prep.
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
@@ -831,6 +832,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com) : the blog of Brendon D. Gregg
 - [Clean Coder Blog](http://blog.cleancoder.com) : a blog of the author of the book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
+- [Codeamy](https://codeamy.in) : A programming and development blog.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
