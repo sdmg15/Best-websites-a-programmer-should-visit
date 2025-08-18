@@ -258,6 +258,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JSON Crack](https://jsoncrack.com/) : An online open-source tool designed for visualizing data in various languages such as JSON, YAML, CSV, and more.
 - [JSONing](https://jsoning.com/) : Collection of JSON tools, including a formatter, validator, comparator, testers, generators, and a mock API for testing and prototyping.
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
+- [Perplexity.ai](https://www.perplexity.ai) : Your own AI research assistant.
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
