@@ -602,6 +602,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration.
 - [Groovy Podcast](http://groovypodcast.podbean.com) : A podcast dedicated to the Groovy programming language and its ecosystem.
 - [IPhreaks](https://devchat.tv/iphreaks) : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
+- [Hackable] (https://www.mcafee.com/en-us/consumer-support/podcast.html) : A discontinued (but still super awesome and valuable) Podcast by McAfee. Hosts Geoff and Bruce go through common hacking scenarios and how to best protect yourself.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business
 - [LispCast](https://lispcast.com/category/podcast/) : A podcast by Eric Normand, a functional programming expert talking about FP concepts.
