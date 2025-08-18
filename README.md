@@ -589,6 +589,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : the online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
+- [A Software Developer’s Guide to Writing](https://theankurtyagi.com/a-software-developers-guide-to-writing/) : The Importance of Writing for a Developer
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -860,6 +861,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+- [The Ankur Tyagi](https://theankurtyagi.com/blog/) : Writing. Technical Tutorials. Engineering.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
