@@ -121,6 +121,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Exercism.io](http://exercism.io) : Download and solve practice problems in over 50 different languages, and share your solution with others.
 - [InterviewBit/Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
+- [Katacoda - Interactive Learning Platform for Software Engineers](https://www.katacoda.com) : Interactive Learning Platform for Software Engineers
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
