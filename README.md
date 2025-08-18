@@ -934,6 +934,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
+- [WayUp](https://www.wayup.com): A website for diverse candidates, it focuses on cutting-edge startup internship opportunities, lots of packages and deals too!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
