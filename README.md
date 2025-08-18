@@ -234,6 +234,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [CORS-Tester](https://cors-error.dev/cors-tester/) : A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
+- [Deque's axe - Browser Extension to check accessibility])(https://www.deque.com/axe/browser-extensions/): Another free extension to check for accessibility issues on a website or web app.
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
@@ -267,6 +268,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
+- [WAVE Browser Extensions to check acessibility](https://wave.webaim.org/extension/): Helping tool to find some accessibility issues on a website or web app.
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
