@@ -264,6 +264,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Sourcegraph](https://sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
+- [Zeplin.io] (https://zeplin.io/) : Improving the collaboration between designers and engineers
 - [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
 - [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
@@ -273,6 +274,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
 - [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
+
 
 
 <div align="right">
