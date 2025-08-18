@@ -422,6 +422,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
+- [JavaScript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) : A comprehensive guide for learning JavaScript
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
