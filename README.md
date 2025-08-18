@@ -390,6 +390,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Boot.dev](https://www.boot.dev/) : Interactive online course to learn modern backend programming in Python, Javascript, Go, and more.
 - [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
 - [Classpert](https://classpert.com) : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
+- [College Compendium](https://collegecompendium.org/) : A nonprofit project aiming to improve access to high-quality educational college computer science resources.
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
 - [Coursera.org](https://www.coursera.org) : Take the world's best courses, online.
 - [CS50](https://www.youtube.com/user/cs50tv/videos) : A set of goods tutorials from cs50
