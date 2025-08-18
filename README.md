@@ -254,6 +254,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
+- [i Hate Regex](https://ihateregex.io/) : The Regex Cheat Sheet
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [JSON Crack](https://jsoncrack.com/) : An online open-source tool designed for visualizing data in various languages such as JSON, YAML, CSV, and more.
 - [JSONing](https://jsoning.com/) : Collection of JSON tools, including a formatter, validator, comparator, testers, generators, and a mock API for testing and prototyping.
