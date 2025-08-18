@@ -77,12 +77,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
 - [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
-- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
+- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
+- [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
@@ -845,6 +845,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
+ - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
+- [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
+- [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
+- [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
+- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 - [Linux Forums](https://www.linux.org/forums) : A Friendly Linux Forum
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
@@ -854,12 +860,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
-- [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
-- [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
-- [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
-- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) : Software. People. Problems. Ideas. Engineering.
-- [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
-- [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
