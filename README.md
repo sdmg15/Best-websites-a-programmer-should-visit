@@ -168,6 +168,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
+- [Paul Bourke Website](http://www.paulbourke.net/) : Contains information on fractals, computational geometry, and other ideas to implement.
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
