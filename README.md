@@ -734,6 +734,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
+- [CP-Algorithms](https://cp-algorithms.com/) :Learn all kinds of algorithm required to get better in competitive programming. 
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/) : Facebook's Programming Contest, past problems solutions and FAQ
 - [Google Coding Competitions Archive](https://zibada.guru/gcj/) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
