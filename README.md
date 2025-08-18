@@ -84,7 +84,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
+- [reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
+- [reddit.com/r/devops](https://www.reddit.com/r/devops) : A subreddit for news and content related to DevOps
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
