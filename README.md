@@ -306,6 +306,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
 - [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
 - [Bitwise tricks](https://gist.github.com/dideler/2365607)
+-[Brainstellar gives step-wise approach to interview puzzles and written tests for analytics and Quant jobs](https://brainstellar.com/)
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
 - [Coderbytes](https://coderbyte.com/) : A platform for coding challenges and interview prep.
