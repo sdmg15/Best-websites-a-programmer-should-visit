@@ -116,6 +116,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
+- [Programiz PRO - Build strong programming foundation](https://programiz.pro/) : Learn to code in the right way with an interactive coding platform with curated courses.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : Download and solve practice problems in over 50 different languages, and share your solution with others.
