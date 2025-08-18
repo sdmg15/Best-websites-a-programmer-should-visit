@@ -322,6 +322,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](https://motorsh.wordpress.com/2009/01/13/give-your-resume-a-face-lift-from-lifeclever/)
 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) : Google Interview Warmup is an AI-based tool that helps individuals practise for their interviews.
+- [Grind 75](https://www.techinterviewhandbook.org/grind75) : A LeetCode practice tool from [Tech Interview Handbook](techinterviewhandbook.org) that allows you to indicate your preferences for scheduling, difficulty, and topics and recommends the best LeetCode questions for you to practice.
 - [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [How to Answer "Tell Me a Little About Yourself"/The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
 - [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
