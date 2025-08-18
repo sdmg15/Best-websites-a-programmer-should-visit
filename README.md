@@ -441,6 +441,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/) : Tool designed to help developers understand and visualize how their JavaScript code executes.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
