@@ -763,7 +763,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
-
+- [Guide To CP](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf) : Best book to built command in competitive programming
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
