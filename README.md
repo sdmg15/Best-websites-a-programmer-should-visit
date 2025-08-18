@@ -661,6 +661,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
 - [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+- [Katacoda](https://www.katacoda.com/) : Interactive learning and training platform
+- [Learn C#](https://codeasy.net/)
+- [Learn everything for free](https://bento.io/)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
