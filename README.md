@@ -504,6 +504,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
+- [Web3 Learning Resources](https://thedailyape.notion.site/Web3-d577f781fdf945d3a198e96c55869f7d) : Everything about web3 i.e.from basic to advance level.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
