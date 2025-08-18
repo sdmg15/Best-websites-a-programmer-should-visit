@@ -203,6 +203,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## 🎨 Coding Style
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
+- [Ballerina best practices guide](https://learn-ballerina.github.io/): Ballerina Swan Lake Best Practices Guide
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
