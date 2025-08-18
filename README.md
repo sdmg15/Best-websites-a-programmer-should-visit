@@ -705,6 +705,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 👀 Watch others code
 - [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building applications, websites, games, etc.
+- [Let's Practice Together](https://www.youtube.com/c/LetsPracticeForallcompetitiveexams/featured) : Playlists for practicing competitive coding
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 <div align="right">
@@ -775,21 +776,22 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
-- [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+- [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) : CS161 Stanford open courses
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+- [DesignCourse](https://www.youtube.com/c/DesignCourse) : A great series for WebDevs
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
+- [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics) : An amazing guide to Git and GitHub for beginners
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
+- [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
-- [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
-- [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
-- [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
-- [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
+- [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
