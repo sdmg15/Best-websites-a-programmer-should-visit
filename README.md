@@ -504,6 +504,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
+- [Color Hunt](https://www.colorhunt.co/): Color Palettes for Designers and Artists
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -871,6 +872,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
+- [English for developers](https://www.freecodecamp.org/learn/a2-english-for-developers/): English for developers by Freecodecamp.
+- [Busuu](https://www.busuu.com/en-us): For Improve english grammer.
+- [BaBaDum](https://babadum.com/): Vocabulary games.
+- [Lingolia](https://english.lingolia.com/en/): For explanation on specific grammar topics and vocabulary lists.
+- [Drops](https://languagedrops.com/) :Vocabulary flashcards
+- [Memrise](https://www.memrise.com/): For learning expressions and pronunciation.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
