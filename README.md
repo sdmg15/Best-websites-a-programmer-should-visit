@@ -248,6 +248,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
+- [Staying](https://staying.fun) : Visualize your code through animation, now supporting Python, JavaScript, and C++. Ideal for new programmers, algorithm learners, and educators.
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
