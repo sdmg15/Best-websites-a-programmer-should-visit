@@ -251,7 +251,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
+- [LaunchPad](https://studio.apollographql.com/)) : Apollo launchpad for testing GraphQl queries
 - [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
@@ -333,7 +333,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
 - [Interview Cake](https://www.interviewcake.com/) : Free and Paid course options offering high quality technical interview practice. 
 - [Job Interview: How to Ace a Job Interview/The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
-- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/search?s=job%20interviews/)
+- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/search?s=job%20interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [LeetCode](https://leetcode.com/) : A new way to learn. Here you can prepare for your interview.
@@ -424,7 +424,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
-- [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
+- [Netbeans Keyboard Shortcuts](https://www.jrebel.com/blog/netbeans-shortcuts) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
@@ -616,8 +616,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
 - [The Cynical Developer](https://cynicaldeveloper.com) : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web, and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/) : A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
-- [Blockchain Insider by 11:FS](blockchain.global/blockchain-innovation) : Podcast to learn about the Blockchain Technology
-- [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
+- [Blockchain Insider by 11:FS](https://content.11fs.com/podcasts/blockchain-insider) : Podcast to learn about the Blockchain Technology
+- [Unchained](https://unchainedcrypto.com) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
 
